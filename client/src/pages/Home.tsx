@@ -36,6 +36,11 @@ export default function Home() {
   const [content, setContent] = useState<AggregatorContent | null>(null);
   const [displayTime, setDisplayTime] = useState(new Date().toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true }));
 
+  // Set page title for SEO
+  useEffect(() => {
+    document.title = 'FLESHBOOGIE - Music & Culture News Aggregator';
+  }, []);
+
   // Fetch content from JSON file
   useEffect(() => {
     fetch('/data/content.json')
