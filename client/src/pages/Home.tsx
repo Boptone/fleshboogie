@@ -9,8 +9,28 @@
  * - High-contrast hierarchy through size and weight
  */
 
-import { useEffect, useState } from "react";
+import { useEffect, useState } from 'react';
+import { useTheme } from '@/contexts/ThemeContext';
+import { Button } from '@/components/ui/button';
 import { NewsletterSignup } from "@/components/NewsletterSignup";
+
+// Theme toggle component
+function ThemeToggle() {
+  const { theme, toggleTheme } = useTheme();
+  
+  if (!toggleTheme) return null;
+  
+  return (
+    <Button
+      variant="ghost"
+      size="sm"
+      onClick={toggleTheme}
+      className="text-xs uppercase tracking-wide font-bold hover:bg-foreground hover:text-background transition-none px-2 py-1"
+    >
+      {theme === 'light' ? 'Dark' : 'Light'}
+    </Button>
+  );
+}
 
 interface LinkItem {
   title: string;
@@ -152,9 +172,12 @@ export default function Home() {
             <p className="text-sm uppercase tracking-wide">
               Music • Culture • News
             </p>
-            <p className="text-sm uppercase tracking-wide">
-              Updated {displayTime}
-            </p>
+            <div className="flex items-center gap-4">
+              <ThemeToggle />
+              <p className="text-sm uppercase tracking-wide">
+                Updated {displayTime}
+              </p>
+            </div>
           </div>
         </div>
       </header>

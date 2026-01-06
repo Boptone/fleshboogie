@@ -182,3 +182,13 @@
 - [x] Match website masthead typography exactly (white Helvetica on black background)
 - [x] Test updated image
 - [x] Deploy updated Open Graph image
+
+## Dark/Light Mode Toggle
+
+- [x] Update CSS variables for light theme colors (light = newsprint white bg, dark = black bg with white text)
+- [x] Create theme toggle button component (ThemeToggle with Dark/Light button)
+- [x] Add toggle button to header (next to updated time)
+- [x] Implement localStorage persistence for theme preference (handled by ThemeContext)
+- [x] Test theme switching functionality (verified - switches instantly between light/dark)
+- [x] Verify readability in both themes (excellent contrast and hierarchy in both modes)
+- [x] Deploy theme toggle feature
