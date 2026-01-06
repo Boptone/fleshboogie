@@ -22,3 +22,11 @@
 - [x] Add filtering to exclude Top 40/mainstream pop and celebrity gossip
 
 - [x] Add niche underground RSS sources (Tiny Mix Tapes, Gorilla vs. Bear, etc.)
+
+## Admin Panel
+
+- [x] Create /admin route and layout
+- [x] Build content management forms (splash, main column, three columns)
+- [x] Create backend API for saving content
+- [x] Add authentication check (owner-only access)
+- [x] Test admin panel functionality
