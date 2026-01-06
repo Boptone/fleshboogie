@@ -1,0 +1,203 @@
+{
+  "splash": {
+    "headline": "DAFT PUNK RUMORED TO REUNITE FOR SURPRISE COACHELLA SET",
+    "url": "https://pitchfork.com",
+    "image": ""
+  },
+  "mainColumn": [
+    {
+      "title": "Aphex Twin drops surprise EP on floppy disk",
+      "url": "https://pitchfork.com",
+      "timestamp": "14:32"
+    },
+    {
+      "title": "The definitive oral history of the Beastie Boys' 'Sabotage' video",
+      "url": "https://stereogum.com",
+      "timestamp": "13:15"
+    },
+    {
+      "title": "Why are all movie posters orange and blue?",
+      "url": "https://theverge.com",
+      "timestamp": "12:08"
+    },
+    {
+      "title": "Justice announces North American tour dates",
+      "url": "https://residentadvisor.net",
+      "timestamp": "11:45"
+    },
+    {
+      "title": "The return of vinyl: Sales hit 30-year high",
+      "url": "https://billboard.com",
+      "timestamp": "10:22"
+    }
+  ],
+  "column1": [
+    {
+      "title": "Listen to this unearthed 1972 funk gem",
+      "url": "https://example.com"
+    },
+    {
+      "title": "New A24 horror film trailer looks wild",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Kendrick Lamar surprise drops three new tracks",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Watch: Rare footage of Prince rehearsing 'Purple Rain'",
+      "url": "https://example.com"
+    },
+    {
+      "title": "The best music documentaries streaming right now",
+      "url": "https://example.com"
+    }
+  ],
+  "column2": [
+    {
+      "title": "How Rick Rubin uses a sauna for music production",
+      "url": "https://example.com"
+    },
+    {
+      "title": "The rise of 'lo-fi beats to study to'",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Pitchfork's 100 best albums of the decade",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Behind the scenes of Childish Gambino's 'This Is America'",
+      "url": "https://example.com"
+    },
+    {
+      "title": "The synthesizers that defined the '80s",
+      "url": "https://example.com"
+    }
+  ],
+  "column3": [
+    {
+      "title": "Long Read: The slow death of the electric guitar",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Opinion: Is TikTok ruining music discovery?",
+      "url": "https://example.com"
+    },
+    {
+      "title": "The untold story of MTV's first 24 hours",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Why concert tickets cost so much now",
+      "url": "https://example.com"
+    },
+    {
+      "title": "The art of the album cover in the streaming age",
+      "url": "https://example.com"
+    }
+  ],
+  "automated": [
+    {
+      "title": "Stitched Up Heart Announce New Album, Unleash &#8220;GLITCH BITCH&#8221; Featuring Conquer Divide: Stream",
+      "url": "https://consequence.net/2026/01/stitched-up-heart-new-album-unleash-single-glitch-bitch/",
+      "timestamp": "14:27"
+    },
+    {
+      "title": "Sebastian Stan in Talks to Join The Batman: Part II Cast",
+      "url": "https://consequence.net/2026/01/sebastian-stan-the-batman-part-ii-cast/",
+      "timestamp": "13:56"
+    },
+    {
+      "title": "Universal and Nvidia Promise New Partnership Is an “Antidote to AI Slop”",
+      "url": "https://pitchfork.com/news/universal-and-nvidia-promise-new-partnership-is-an-antidote-to-ai-slop/",
+      "timestamp": "13:17"
+    },
+    {
+      "title": "Woman from Deftones&#8217; Around the Fur Album Art Looks Back on Iconic Cover 28 Years Later",
+      "url": "https://consequence.net/2026/01/woman-from-deftones-around-the-fur-album-art-interview-2026/",
+      "timestamp": "13:10"
+    },
+    {
+      "title": "Amazon Launches 3 for $33 Sale on 4K UHD Movies",
+      "url": "https://consequence.net/2026/01/amazon-4k-movie-sale-3-for-33/",
+      "timestamp": "13:05"
+    },
+    {
+      "title": "ZZ Top Were Offered $1 Million Each to Shave Their Beards for Gillette Commercial",
+      "url": "https://consequence.net/2026/01/zz-top-1-million-shave-beards-gillette-commercial/",
+      "timestamp": "12:53"
+    },
+    {
+      "title": "Heavenly Announce First Album in 30 Years",
+      "url": "https://pitchfork.com/news/heavenly-new-album-highway-to-heavenly/",
+      "timestamp": "12:00"
+    },
+    {
+      "title": "Matt Cameron Breaks Down His Drumming on Soundgarden&#8217;s &#8220;Spoonman&#8221;: Watch",
+      "url": "https://consequence.net/2026/01/drumeo-matt-cameron-soundgarden-spoonman/",
+      "timestamp": "11:53"
+    },
+    {
+      "title": "Gilmore Girls Seasons 1-7 to Finally Get Blu-ray Release",
+      "url": "https://consequence.net/2026/01/gilmore-girls-blu-ray-box-set-release/",
+      "timestamp": "11:49"
+    },
+    {
+      "title": "Metallica&#8217;s Lars Ulrich Launches Own SiriusXM Show &#8220;Lars&#8217; Deep Dive&#8221;",
+      "url": "https://consequence.net/2026/01/metallica-lars-ulrich-siriusxm-lars-deep-dive/",
+      "timestamp": "11:45"
+    },
+    {
+      "title": "They Might Be Giants Announce New EP Eyeball, Tease Upcoming Tour",
+      "url": "https://consequence.net/2026/01/they-might-be-giants-new-ep-2026-tour/",
+      "timestamp": "11:41"
+    },
+    {
+      "title": "The Most Anticipated Albums of 2026",
+      "url": "https://consequence.net/2026/01/most-anticipated-albums-2026-new-music/",
+      "timestamp": "10:45"
+    },
+    {
+      "title": "Michael Rapaport Announces 2029 Run for NYC Mayor to Stop “Evil” Zohran Mamdani",
+      "url": "https://consequence.net/2026/01/michael-rapport-mayor-nyc-zohran-mamdani/",
+      "timestamp": "10:43"
+    },
+    {
+      "title": "Dave Mustaine Won&#8217;t Perform with Ex-Bandmates on Final Tour: &#8220;It&#8217;s Not Puppet Show Megadeth&#8221;",
+      "url": "https://consequence.net/2026/01/dave-mustaine-no-former-megadeth-members-final-tour/",
+      "timestamp": "10:41"
+    },
+    {
+      "title": "Kali Uchis, Lorde, and Geese to Play Governors Ball 2026",
+      "url": "https://pitchfork.com/news/kali-uchis-lorde-and-geese-to-play-governors-ball-2026/",
+      "timestamp": "10:03"
+    },
+    {
+      "title": "Governors Ball Reveals 2026 Lineup with Lorde, Stray Kids &#038; Geese",
+      "url": "https://consequence.net/2026/01/governors-ball-2026-lineup/",
+      "timestamp": "10:02"
+    },
+    {
+      "title": "Led Zeppelin and Pink Floyd Classics Were Considered for Stranger Things Finale",
+      "url": "https://consequence.net/2026/01/led-zeppelin-pink-floyd-stranger-things-finale/",
+      "timestamp": "10:01"
+    },
+    {
+      "title": "The X-Men Enter the Fray in New Avengers: Doomsday Teaser: Watch",
+      "url": "https://consequence.net/2026/01/avengers-doomsday-x-men-teaser-trailer/",
+      "timestamp": "09:04"
+    },
+    {
+      "title": "New Music Releases and Upcoming Albums in 2026",
+      "url": "https://pitchfork.com/news/new-album-releases/",
+      "timestamp": "17:32"
+    },
+    {
+      "title": "Björk Calls for Greenlandic Independence",
+      "url": "https://pitchfork.com/news/bjork-calls-for-greenlandic-independence/",
+      "timestamp": "17:17"
+    }
+  ],
+  "lastUpdated": "2026-01-06T20:12:59.029Z"
+}
