@@ -175,3 +175,10 @@
 - [x] Add Twitter Card meta tags (twitter:image with alt text)
 - [x] Test social media preview (verified - image accessible, meta tags present)
 - [x] Deploy Open Graph integration
+
+## Open Graph Image Font Fix
+
+- [x] Regenerate Open Graph image with Helvetica/Arial font
+- [x] Match website masthead typography exactly (white Helvetica on black background)
+- [x] Test updated image
+- [x] Deploy updated Open Graph image
