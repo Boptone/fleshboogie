@@ -209,3 +209,12 @@
 - [x] Replace DARK/LIGHT text with sun/moon icon (☀ for light mode, ☾ for dark mode)
 - [x] Test mobile readability (verified - bold fonts, icon toggle, simplified About page)
 - [x] Deploy improvements
+
+## Legal Protection Enhancements
+
+- [x] Add Fair Use disclaimer for news aggregation (Section 4 - 17 U.S.C. § 107)
+- [x] Add DMCA Safe Harbor provisions with takedown procedure (Section 5 - 17 U.S.C. § 512(c))
+- [x] Add explicit "No Content Hosting" clarification (Section 3)
+- [x] Add "News Aggregation Model" section (Section 3)
+- [x] Test Terms page display (verified - all 17 sections display correctly)
+- [x] Deploy legal updates
