@@ -196,7 +196,31 @@ async function main() {
     };
   }
   
-  // Update automated section
+  // Auto-populate splash headline with top story if empty or placeholder
+  if (!content.splash.headline || content.splash.url.includes('example.com') || content.splash.url.endsWith('.com') || content.splash.url.endsWith('.com/')) {
+    if (recentItems.length > 0) {
+      content.splash = {
+        headline: recentItems[0].title.toUpperCase(),
+        url: recentItems[0].url,
+        image: ''
+      };
+    }
+  }
+  
+  // Auto-populate main column with top 5 stories if empty or has placeholders
+  const hasPlaceholders = content.mainColumn.some(item => 
+    item.url.includes('example.com') || item.url.endsWith('.com') || item.url.endsWith('.com/')
+  );
+  
+  if (content.mainColumn.length === 0 || hasPlaceholders) {
+    content.mainColumn = recentItems.slice(1, 6).map(item => ({
+      title: item.title,
+      url: item.url,
+      timestamp: item.timestamp
+    }));
+  }
+  
+  // Update automated section with remaining items
   content.automated = recentItems;
   content.lastUpdated = new Date().toISOString();
   

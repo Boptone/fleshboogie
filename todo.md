@@ -30,3 +30,9 @@
 - [x] Create backend API for saving content
 - [x] Add authentication check (owner-only access)
 - [x] Test admin panel functionality
+
+## Bug Fixes
+
+- [x] Replace all placeholder links with real article URLs
+- [x] Audit entire site to ensure all links work correctly
+- [x] Increase RSS feed update frequency from 1 hour to 15 minutes
