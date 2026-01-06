@@ -41,6 +41,80 @@ export default function Home() {
     document.title = 'FLESHBOOGIE - Music & Culture News Aggregator';
   }, []);
 
+  // Generate JSON-LD structured data for all articles
+  useEffect(() => {
+    if (!content) return;
+
+    // Collect all articles from all sections
+    const allArticles = [
+      // Splash headline
+      {
+        headline: content.splash.headline,
+        url: content.splash.url,
+        datePublished: content.lastUpdated,
+      },
+      // Main column articles
+      ...content.mainColumn.map(item => ({
+        headline: item.title,
+        url: item.url,
+        datePublished: content.lastUpdated,
+      })),
+      // Automated feed articles
+      ...content.automated.map(item => ({
+        headline: item.title,
+        url: item.url,
+        datePublished: content.lastUpdated,
+      })),
+    ];
+
+    // Create ItemList with NewsArticle items
+    const structuredData = {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "itemListElement": allArticles.map((article, index) => ({
+        "@type": "ListItem",
+        "position": index + 1,
+        "item": {
+          "@type": "NewsArticle",
+          "headline": article.headline,
+          "url": article.url,
+          "datePublished": article.datePublished,
+          "publisher": {
+            "@type": "Organization",
+            "name": "Fleshboogie",
+            "url": "https://fleshboogie.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://fleshboogie.com/logo.png"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Scottie Diablo"
+          }
+        }
+      }))
+    };
+
+    // Insert or update structured data script
+    let script = document.getElementById('structured-data-articles') as HTMLScriptElement;
+    if (!script) {
+      script = document.createElement('script');
+      script.id = 'structured-data-articles';
+      script.type = 'application/ld+json';
+      document.head.appendChild(script);
+    }
+    script.textContent = JSON.stringify(structuredData);
+
+    return () => {
+      // Cleanup on unmount
+      const existingScript = document.getElementById('structured-data-articles');
+      if (existingScript) {
+        existingScript.remove();
+      }
+    };
+  }, [content]);
+
   // Fetch content from JSON file
   useEffect(() => {
     fetch('/data/content.json')

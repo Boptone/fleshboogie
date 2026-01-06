@@ -138,3 +138,13 @@
 - [x] Test automated updates when RSS fetcher runs (confirmed working)
 - [x] Verify sitemap lastmod dates update correctly (homepage and archive timestamps match RSS fetch time)
 - [x] Deploy automated sitemap system
+
+## JSON-LD NewsArticle Schema
+
+- [x] Design NewsArticle schema structure following schema.org standards
+- [x] Implement JSON-LD generation for splash headline
+- [x] Implement JSON-LD generation for main column stories
+- [x] Implement JSON-LD generation for automated feed items
+- [x] Add ItemList schema to organize all articles
+- [x] Test structured data with Google Rich Results validator (validated - all required fields present)
+- [x] Deploy JSON-LD structured data
