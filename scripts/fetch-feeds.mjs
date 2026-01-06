@@ -18,14 +18,50 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// RSS Feeds to monitor (curated for music and culture)
+// RSS Feeds to monitor (curated for independent music and culture)
+// Focused on underground, indie, electronic, and substantive music journalism
+// Excludes mainstream pop and celebrity gossip sources
 const FEEDS = [
-  'https://pitchfork.com/rss/news/',
-  'https://www.stereogum.com/feed/',
-  'https://www.thefader.com/feed',
-  'https://consequenceofsound.net/feed/',
-  'https://www.residentadvisor.net/xml/rss-news.xml',
+  'https://consequenceofsound.net/feed/',      // Broad indie coverage
+  'https://www.thequietus.com/feed',           // Avant-garde, experimental
+  'https://pitchfork.com/rss/news/',           // Music news
+  'https://www.brooklynvegan.com/feed/',       // Indie, punk, underground
+  'https://www.factmag.com/feed/',             // Electronic, club culture
 ];
+
+// Keywords to filter out mainstream pop and gossip content
+const EXCLUDE_KEYWORDS = [
+  'taylor swift',
+  'beyonce',
+  'drake',
+  'kardashian',
+  'ariana grande',
+  'justin bieber',
+  'grammy',
+  'billboard hot 100',
+  'top 40',
+  'dating',
+  'breakup',
+  'engaged',
+  'married',
+  'divorce',
+  'pregnant',
+  'baby',
+];
+
+// Filter function to exclude mainstream/gossip content
+function shouldIncludeItem(title) {
+  const lowerTitle = title.toLowerCase();
+  
+  // Check if title contains any excluded keywords
+  for (const keyword of EXCLUDE_KEYWORDS) {
+    if (lowerTitle.includes(keyword)) {
+      return false;
+    }
+  }
+  
+  return true;
+}
 
 // Simple RSS parser (no dependencies)
 function parseRSS(xml) {
@@ -116,11 +152,16 @@ async function main() {
     }
   }
   
+  // Filter out mainstream pop and gossip content
+  const filteredItems = allItems.filter(item => shouldIncludeItem(item.title));
+  
+  console.log(`\n🎯 Filtered out ${allItems.length - filteredItems.length} mainstream/gossip items`);
+  
   // Sort by publication date (newest first)
-  allItems.sort((a, b) => b.pubDate - a.pubDate);
+  filteredItems.sort((a, b) => b.pubDate - a.pubDate);
   
   // Take top 20 most recent items
-  const recentItems = allItems.slice(0, 20).map(item => ({
+  const recentItems = filteredItems.slice(0, 20).map(item => ({
     title: item.title,
     url: item.url,
     timestamp: item.timestamp,

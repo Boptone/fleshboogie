@@ -15,3 +15,8 @@
 ## Site Updates
 
 - [x] Add hello@fleshboogie.com to footer
+
+## Content Curation
+
+- [x] Update RSS sources to focus on independent music and culture
+- [x] Add filtering to exclude Top 40/mainstream pop and celebrity gossip
