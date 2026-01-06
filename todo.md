@@ -56,3 +56,10 @@
 
 - [x] Remove service mark (℠) from large masthead logo
 - [x] Keep service mark only in footer copyright line
+
+## Bug Fixes (Round 2)
+
+- [x] Audit all story links on live site
+- [x] Identify which links are broken or going to wrong URLs
+- [x] Fix broken links in content.json or RSS feed logic
+- [x] Verify all links click through to correct articles

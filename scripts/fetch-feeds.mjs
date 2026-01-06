@@ -220,6 +220,38 @@ async function main() {
     }));
   }
   
+  // Auto-populate three columns with articles from the feed if they have placeholders
+  const column1HasPlaceholders = content.column1.some(item => 
+    item.url.includes('example.com') || item.url.endsWith('.com') || item.url.endsWith('.com/')
+  );
+  const column2HasPlaceholders = content.column2.some(item => 
+    item.url.includes('example.com') || item.url.endsWith('.com') || item.url.endsWith('.com/')
+  );
+  const column3HasPlaceholders = content.column3.some(item => 
+    item.url.includes('example.com') || item.url.endsWith('.com') || item.url.endsWith('.com/')
+  );
+  
+  if (content.column1.length === 0 || column1HasPlaceholders) {
+    content.column1 = recentItems.slice(6, 11).map(item => ({
+      title: item.title,
+      url: item.url
+    }));
+  }
+  
+  if (content.column2.length === 0 || column2HasPlaceholders) {
+    content.column2 = recentItems.slice(11, 16).map(item => ({
+      title: item.title,
+      url: item.url
+    }));
+  }
+  
+  if (content.column3.length === 0 || column3HasPlaceholders) {
+    content.column3 = recentItems.slice(16, 21).map(item => ({
+      title: item.title,
+      url: item.url
+    }));
+  }
+  
   // Update automated section with remaining items
   content.automated = recentItems;
   content.lastUpdated = new Date().toISOString();
