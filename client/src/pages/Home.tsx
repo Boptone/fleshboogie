@@ -10,6 +10,7 @@
  */
 
 import { useEffect, useState } from "react";
+import { NewsletterSignup } from "@/components/NewsletterSignup";
 
 interface LinkItem {
   title: string;
@@ -190,6 +191,9 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Newsletter Signup */}
+        <NewsletterSignup />
+
         {/* Footer */}
         <footer className="mt-16 pt-8 border-t-4 border-foreground">
           <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
@@ -199,7 +203,7 @@ export default function Home() {
             </div>
             <div className="flex gap-6 text-sm">
               <a href="#" className="uppercase">About</a>
-              <a href="#" className="uppercase">Submit Link</a>
+              <a href="#newsletter" className="uppercase">Newsletter</a>
               <a href="#" className="uppercase">Contact</a>
             </div>
           </div>
