@@ -271,6 +271,39 @@ async function main() {
   
   console.log(`\n✓ Updated content.json with ${recentItems.length} automated links`);
   console.log(`Last updated: ${content.lastUpdated}`);
+  
+  // Update archive with splash headline
+  const archivePath = path.join(__dirname, '..', 'client', 'public', 'data', 'archive.json');
+  let archive = { items: [], lastUpdated: new Date().toISOString() };
+  
+  try {
+    if (fs.existsSync(archivePath)) {
+      archive = JSON.parse(fs.readFileSync(archivePath, 'utf8'));
+    }
+  } catch (err) {
+    console.log('Creating new archive.json');
+  }
+  
+  // Add current splash headline to archive if it's not already there
+  if (content.splash.headline && content.splash.url) {
+    const exists = archive.items.some(item => item.url === content.splash.url);
+    if (!exists) {
+      archive.items.unshift({
+        headline: content.splash.headline,
+        url: content.splash.url,
+        date: new Date().toISOString()
+      });
+      
+      // Keep only last 30 days of headlines
+      const thirtyDaysAgo = new Date();
+      thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+      archive.items = archive.items.filter(item => new Date(item.date) > thirtyDaysAgo);
+      
+      archive.lastUpdated = new Date().toISOString();
+      fs.writeFileSync(archivePath, JSON.stringify(archive, null, 2));
+      console.log(`✓ Updated archive with ${archive.items.length} historical headlines`);
+    }
+  }
 }
 
 main().catch(console.error);

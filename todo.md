@@ -88,3 +88,12 @@
 - [x] Add uDiscover Music RSS feed
 - [x] Test all new feeds for correct article URLs (18/20 working, removed 2 broken feeds)
 - [x] Deploy updated RSS sources
+
+## About and Archive Pages
+
+- [x] Create About page with curator information
+- [x] Create Archive page for historical headlines
+- [x] Add archive tracking system to store splash headlines over time
+- [x] Add About and Archive links to footer navigation
+- [x] Test both pages
+- [x] Deploy About and Archive pages

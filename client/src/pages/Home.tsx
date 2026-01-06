@@ -202,6 +202,8 @@ export default function Home() {
               <p className="text-xs">Curated music and culture links, updated 24/7</p>
             </div>
             <div className="flex gap-6 text-sm">
+              <a href="/about" className="uppercase hover:underline">About</a>
+              <a href="/archive" className="uppercase hover:underline">Archive</a>
               <a href="/privacy" className="uppercase hover:underline">Privacy</a>
               <a href="/terms" className="uppercase hover:underline">Terms</a>
               <a href="mailto:hello@fleshboogie.com" className="uppercase hover:underline">Contact</a>
