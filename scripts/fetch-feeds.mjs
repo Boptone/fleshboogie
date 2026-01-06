@@ -119,6 +119,16 @@ const EXCLUDE_KEYWORDS = [
   'senate',
   'white house',
   'capitol',
+  'mayor',
+  'mayoral',
+  'campaign',
+  'governor',
+  'gubernatorial',
+  'candidate',
+  'vote',
+  'voting',
+  'ballot',
+  'primary',
   
   // Corporate business and stocks
   'stock market',
@@ -202,6 +212,32 @@ const EXCLUDE_KEYWORDS = [
   'scam',
 ];
 
+// Decode HTML entities to clean text
+function decodeHTMLEntities(text) {
+  const entities = {
+    '&#8220;': '"',
+    '&#8221;': '"',
+    '&#8216;': "'",
+    '&#8217;': "'",
+    '&#038;': '&',
+    '&amp;': '&',
+    '&quot;': '"',
+    '&apos;': "'",
+    '&lt;': '<',
+    '&gt;': '>',
+    '&#8211;': '–',
+    '&#8212;': '—',
+    '&#8230;': '...',
+  };
+  
+  let decoded = text;
+  for (const [entity, char] of Object.entries(entities)) {
+    decoded = decoded.replace(new RegExp(entity, 'g'), char);
+  }
+  
+  return decoded;
+}
+
 // Filter function to exclude mainstream/gossip content
 function shouldIncludeItem(title) {
   const lowerTitle = title.toLowerCase();
@@ -234,8 +270,11 @@ function parseRSS(xml) {
       const url = linkMatch[1].trim();
       const pubDate = pubDateMatch ? new Date(pubDateMatch[1]) : new Date();
       
+      const cleanTitle = title.replace(/<[^>]*>/g, ''); // Strip any HTML tags
+      const decodedTitle = decodeHTMLEntities(cleanTitle); // Decode HTML entities
+      
       items.push({
-        title: title.replace(/<[^>]*>/g, ''), // Strip any HTML tags
+        title: decodedTitle,
         url,
         timestamp: pubDate.toLocaleTimeString('en-US', { 
           hour: '2-digit', 

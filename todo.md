@@ -192,3 +192,12 @@
 - [x] Test theme switching functionality (verified - switches instantly between light/dark)
 - [x] Verify readability in both themes (excellent contrast and hierarchy in both modes)
 - [x] Deploy theme toggle feature
+
+## Content Filtering & HTML Entity Fixes
+
+- [x] Add political keywords (mayor, mayoral, campaign, governor, candidate, vote, ballot, primary)
+- [x] Implement HTML entity decoding for titles (decodes &#8220;, &#038;, etc.)
+- [x] Test RSS fetch with enhanced filtering (filtered 58 items including political stories)
+- [x] Verify political stories blocked (Michael Rapaport mayor story successfully filtered)
+- [x] Verify HTML entities decoded properly (all &#8220;, &#038;, &#8217; converted to proper quotes and ampersands)
+- [x] Deploy fixes
