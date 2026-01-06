@@ -218,3 +218,13 @@
 - [x] Add "News Aggregation Model" section (Section 3)
 - [x] Test Terms page display (verified - all 17 sections display correctly)
 - [x] Deploy legal updates
+
+## X (Twitter) Auto-Posting
+
+- [x] Create X API posting script with story selection
+- [x] Implement smart story selection (posts 1 story per run, prioritizes splash > main > automated)
+- [x] Add posting schedule (every 3-4 hours via cron - 8 posts/day)
+- [x] Create credential management for X API keys (environment variables)
+- [x] Add documentation for X Developer Portal setup (docs/X-API-SETUP.md)
+- [x] Test posting system (dry-run successful - 159/280 chars, splash story selected)
+- [x] Deploy auto-posting feature (ready - awaiting X API credentials)
