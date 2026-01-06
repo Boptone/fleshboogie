@@ -22,11 +22,19 @@ const __dirname = path.dirname(__filename);
 // Focused on underground, indie, electronic, and substantive music journalism
 // Excludes mainstream pop and celebrity gossip sources
 const FEEDS = [
+  // Core independent music sources
   'https://consequenceofsound.net/feed/',      // Broad indie coverage
   'https://www.thequietus.com/feed',           // Avant-garde, experimental
   'https://pitchfork.com/rss/news/',           // Music news
   'https://www.brooklynvegan.com/feed/',       // Indie, punk, underground
   'https://www.factmag.com/feed/',             // Electronic, club culture
+  
+  // Niche underground blogs
+  'https://www.tinymixtapes.com/feed.xml',     // Experimental, avant-garde
+  'https://www.gorillavsbear.net/feed/',       // Indie, electronic, dream pop
+  'https://www.passionweiss.com/feed/',        // Hip-hop, rap, underground
+  'https://www.stereofox.com/feed/',           // Chillhop, indie electronic
+  'https://www.dummymag.com/feed/',            // Electronic, experimental
 ];
 
 // Keywords to filter out mainstream pop and gossip content

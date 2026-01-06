@@ -20,3 +20,5 @@
 
 - [x] Update RSS sources to focus on independent music and culture
 - [x] Add filtering to exclude Top 40/mainstream pop and celebrity gossip
+
+- [x] Add niche underground RSS sources (Tiny Mix Tapes, Gorilla vs. Bear, etc.)
