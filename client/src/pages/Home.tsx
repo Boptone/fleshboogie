@@ -67,7 +67,7 @@ export default function Home() {
       <header className="border-b-4 border-foreground py-6 mb-8">
         <div className="container">
           <h1 className="text-6xl md:text-8xl font-black tracking-tighter uppercase">
-            FLESHBOOGIE
+            FLESHBOOGIE℠
           </h1>
           <div className="flex justify-between items-center mt-2">
             <p className="text-sm uppercase tracking-wide">
@@ -202,9 +202,9 @@ export default function Home() {
               <p className="text-xs">Curated music and culture links, updated 24/7</p>
             </div>
             <div className="flex gap-6 text-sm">
-              <a href="#" className="uppercase">About</a>
-              <a href="#newsletter" className="uppercase">Newsletter</a>
-              <a href="mailto:hello@fleshboogie.com" className="uppercase">Contact</a>
+              <a href="/privacy" className="uppercase hover:underline">Privacy</a>
+              <a href="/terms" className="uppercase hover:underline">Terms</a>
+              <a href="mailto:hello@fleshboogie.com" className="uppercase hover:underline">Contact</a>
             </div>
           </div>
           <div className="mt-6 text-xs text-center md:text-left">

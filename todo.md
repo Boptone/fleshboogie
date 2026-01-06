@@ -43,3 +43,11 @@
 - [x] Update newsletter router to sync subscribers to Mailchimp
 - [x] Test Mailchimp integration
 - [x] Deploy Mailchimp integration
+
+## Legal Pages
+
+- [x] Create Privacy Policy page (California/CCPA compliant)
+- [x] Create Terms of Service page
+- [x] Add Privacy Policy and TOS links to footer
+- [x] Add service mark (℠) symbol to Fleshboogie branding
+- [x] Test legal pages
