@@ -35,6 +35,16 @@ const FEEDS = [
   'https://www.passionweiss.com/feed/',        // Hip-hop, rap, underground
   'https://www.stereofox.com/feed/',           // Chillhop, indie electronic
   'https://www.dummymag.com/feed/',            // Electronic, experimental
+  
+  // Additional music and culture sources
+  'https://www.clashmusic.com/feed',           // UK music magazine
+  'https://www.nme.com/feed',                  // Music news and culture
+  'https://www.juxtapoz.com/feed',             // Art and culture
+  'https://www.musicbusinessworldwide.com/feed', // Music industry news
+  'https://aquariumdrunkard.com/feed/',        // Eclectic music blog
+  'https://www.rollingstone.com/feed/',        // Music news
+  'https://www.goldminemag.com/feed',          // Record collecting and reissues
+  'https://www.udiscovermusic.com/feed',       // Music history and discovery
 ];
 
 // Keywords to filter out mainstream pop and gossip content

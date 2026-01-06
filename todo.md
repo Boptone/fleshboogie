@@ -63,3 +63,28 @@
 - [x] Identify which links are broken or going to wrong URLs
 - [x] Fix broken links in content.json or RSS feed logic
 - [x] Verify all links click through to correct articles
+
+## Critical Bug Fix: Broken Links (Round 3)
+
+- [ ] Inspect actual content.json file to see what URLs are stored
+- [ ] Test RSS feed parser to verify it's extracting correct URLs
+- [ ] Check how links are rendered in Home.tsx
+- [ ] Test 10+ links across all sections to identify pattern
+- [ ] Identify root cause of broken links
+- [ ] Implement permanent fix
+- [ ] Verify all links work correctly
+
+## New RSS Sources Integration
+
+- [x] Add Clash Music RSS feed
+- [x] Add NME RSS feed
+- [x] Add Juxtapoz RSS feed
+- [x] Add Music Business Worldwide RSS feed
+- [x] Add Mojo RSS feed
+- [x] Add Uncut RSS feed
+- [x] Add Aquarium Drunkard RSS feed
+- [x] Add Rolling Stone RSS feed
+- [x] Add Goldmine RSS feed
+- [x] Add uDiscover Music RSS feed
+- [x] Test all new feeds for correct article URLs (18/20 working, removed 2 broken feeds)
+- [x] Deploy updated RSS sources
