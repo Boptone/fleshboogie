@@ -11,3 +11,7 @@
 - [ ] Test email delivery (TABLED - requires email service API key)
 - [x] Add unsubscribe functionality (database schema supports it)
 - [x] Deploy and document newsletter subscription infrastructure
+
+## Site Updates
+
+- [x] Add hello@fleshboogie.com to footer

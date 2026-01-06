@@ -204,7 +204,7 @@ export default function Home() {
             <div className="flex gap-6 text-sm">
               <a href="#" className="uppercase">About</a>
               <a href="#newsletter" className="uppercase">Newsletter</a>
-              <a href="#" className="uppercase">Contact</a>
+              <a href="mailto:hello@fleshboogie.com" className="uppercase">Contact</a>
             </div>
           </div>
           <div className="mt-6 text-xs text-center md:text-left">
