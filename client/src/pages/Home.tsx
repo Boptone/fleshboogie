@@ -14,7 +14,7 @@ import { useTheme } from '@/contexts/ThemeContext';
 import { Button } from '@/components/ui/button';
 import { NewsletterSignup } from "@/components/NewsletterSignup";
 
-// Theme toggle component
+// Theme toggle component with sun/moon icon
 function ThemeToggle() {
   const { theme, toggleTheme } = useTheme();
   
@@ -25,9 +25,10 @@ function ThemeToggle() {
       variant="ghost"
       size="sm"
       onClick={toggleTheme}
-      className="text-xs uppercase tracking-wide font-bold hover:bg-foreground hover:text-background transition-none px-2 py-1"
+      className="text-lg hover:bg-foreground hover:text-background transition-none px-2 py-1"
+      aria-label={theme === 'light' ? 'Switch to dark mode' : 'Switch to light mode'}
     >
-      {theme === 'light' ? 'Dark' : 'Light'}
+      {theme === 'light' ? '☾' : '☀'}
     </Button>
   );
 }

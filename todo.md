@@ -201,3 +201,11 @@
 - [x] Verify political stories blocked (Michael Rapaport mayor story successfully filtered)
 - [x] Verify HTML entities decoded properly (all &#8220;, &#038;, &#8217; converted to proper quotes and ampersands)
 - [x] Deploy fixes
+
+## Mobile Font & UI Improvements
+
+- [x] Bold fonts on mobile for better readability (font-weight: 600 for screens under 768px)
+- [x] Simplify About page to single sentence ("FLESHBOOGIE was built in Los Angeles by Scottie Diablo.")
+- [x] Replace DARK/LIGHT text with sun/moon icon (☀ for light mode, ☾ for dark mode)
+- [x] Test mobile readability (verified - bold fonts, icon toggle, simplified About page)
+- [x] Deploy improvements

@@ -30,7 +30,7 @@ export default function About() {
           
           <div className="space-y-6 text-lg font-mono">
             <p>
-              FLESHBOOGIE was built in Los Angeles and is curated by Scottie Diablo.
+              FLESHBOOGIE was built in Los Angeles by Scottie Diablo.
             </p>
           </div>
 
