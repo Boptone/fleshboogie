@@ -51,3 +51,8 @@
 - [x] Add Privacy Policy and TOS links to footer
 - [x] Add service mark (℠) symbol to Fleshboogie branding
 - [x] Test legal pages
+
+## Design Updates
+
+- [x] Remove service mark (℠) from large masthead logo
+- [x] Keep service mark only in footer copyright line

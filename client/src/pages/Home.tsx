@@ -67,7 +67,7 @@ export default function Home() {
       <header className="border-b-4 border-foreground py-6 mb-8">
         <div className="container">
           <h1 className="text-6xl md:text-8xl font-black tracking-tighter uppercase">
-            FLESHBOOGIE℠
+            FLESHBOOGIE
           </h1>
           <div className="flex justify-between items-center mt-2">
             <p className="text-sm uppercase tracking-wide">
@@ -208,7 +208,7 @@ export default function Home() {
             </div>
           </div>
           <div className="mt-6 text-xs text-center md:text-left">
-            <p>© {new Date().getFullYear()} Fleshboogie. All links property of their respective sources.</p>
+            <p>© {new Date().getFullYear()} Fleshboogie℠. All links property of their respective sources.</p>
           </div>
         </footer>
       </main>
