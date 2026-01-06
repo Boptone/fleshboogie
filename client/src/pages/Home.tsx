@@ -201,12 +201,17 @@ export default function Home() {
               <p className="text-sm uppercase tracking-wide font-bold">Fleshboogie</p>
               <p className="text-xs">Curated music and culture links, updated 24/7</p>
             </div>
-            <div className="flex gap-6 text-sm">
+            <div className="flex gap-6 text-sm items-center">
               <a href="/about" className="uppercase hover:underline">About</a>
               <a href="/archive" className="uppercase hover:underline">Archive</a>
               <a href="/privacy" className="uppercase hover:underline">Privacy</a>
               <a href="/terms" className="uppercase hover:underline">Terms</a>
               <a href="mailto:hello@fleshboogie.com" className="uppercase hover:underline">Contact</a>
+              <a href="https://x.com/fleshboogie" target="_blank" rel="noopener noreferrer" className="hover:opacity-70" aria-label="Follow Fleshboogie on X">
+                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+                </svg>
+              </a>
             </div>
           </div>
           <div className="mt-6 text-xs text-center md:text-left">

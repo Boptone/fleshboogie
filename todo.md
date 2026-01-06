@@ -97,3 +97,17 @@
 - [x] Add About and Archive links to footer navigation
 - [x] Test both pages
 - [x] Deploy About and Archive pages
+
+## X Social Link and New RSS Sources
+
+- [x] Add X (Twitter) logo and link to footer (https://x.com/fleshboogie)
+- [x] Add Deadline RSS feed
+- [x] Add Hollywood Reporter RSS feed
+- [x] Add IndieWire RSS feed
+- [x] Add Variety RSS feed
+- [x] Add Guardian Music RSS feed
+- [x] Add Village Voice RSS feed
+- [x] Add TechCrunch RSS feed
+- [x] Enhance content filtering to block politics, Trump, corporate business, stocks
+- [x] Test all new feeds and verify filtering works (23/25 working, removed 2 broken feeds)
+- [x] Deploy updates

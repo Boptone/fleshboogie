@@ -41,14 +41,22 @@ const FEEDS = [
   'https://www.nme.com/feed',                  // Music news and culture
   'https://www.juxtapoz.com/feed',             // Art and culture
   'https://www.musicbusinessworldwide.com/feed', // Music industry news
-  'https://aquariumdrunkard.com/feed/',        // Eclectic music blog
   'https://www.rollingstone.com/feed/',        // Music news
   'https://www.goldminemag.com/feed',          // Record collecting and reissues
   'https://www.udiscovermusic.com/feed',       // Music history and discovery
+  
+  // Entertainment and tech sources
+  'https://deadline.com/feed/',                // Entertainment news
+  'https://www.hollywoodreporter.com/feed/',   // Entertainment industry
+  'https://www.indiewire.com/feed/',           // Independent film and TV
+  'https://variety.com/feed/',                 // Entertainment news
+  'https://www.theguardian.com/music/rss',     // Guardian music section
+  'https://techcrunch.com/feed/',              // Tech and startups
 ];
 
-// Keywords to filter out mainstream pop and gossip content
+// Keywords to filter out mainstream pop, gossip, politics, business, and Trump content
 const EXCLUDE_KEYWORDS = [
+  // Mainstream pop
   'taylor swift',
   'beyonce',
   'drake',
@@ -58,6 +66,8 @@ const EXCLUDE_KEYWORDS = [
   'grammy',
   'billboard hot 100',
   'top 40',
+  
+  // Celebrity gossip
   'dating',
   'breakup',
   'engaged',
@@ -65,6 +75,37 @@ const EXCLUDE_KEYWORDS = [
   'divorce',
   'pregnant',
   'baby',
+  
+  // Politics and Trump (strict filtering)
+  'trump',
+  'donald trump',
+  'president trump',
+  'maga',
+  'republican',
+  'democrat',
+  'biden',
+  'election',
+  'political',
+  'politics',
+  'congress',
+  'senate',
+  'white house',
+  'capitol',
+  
+  // Corporate business and stocks
+  'stock market',
+  'stocks',
+  'nasdaq',
+  'dow jones',
+  'wall street',
+  's&p 500',
+  'shares',
+  'earnings report',
+  'quarterly earnings',
+  'ipo',
+  'merger',
+  'acquisition',
+  'corporate',
 ];
 
 // Filter function to exclude mainstream/gossip content
