@@ -129,3 +129,12 @@
 - [x] Test sitemap accessibility at /sitemap.xml (accessible and rendering correctly)
 - [x] Validate XML format (valid XML with 5 URLs, proper namespace)
 - [x] Deploy sitemap
+
+## Automated Sitemap Updates
+
+- [x] Analyze RSS fetcher workflow and content update triggers
+- [x] Create sitemap update function with dynamic lastmod dates
+- [x] Integrate sitemap updates into RSS fetcher script
+- [x] Test automated updates when RSS fetcher runs (confirmed working)
+- [x] Verify sitemap lastmod dates update correctly (homepage and archive timestamps match RSS fetch time)
+- [x] Deploy automated sitemap system

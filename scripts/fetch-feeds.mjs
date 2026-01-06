@@ -18,6 +18,34 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+/**
+ * Update sitemap.xml with current timestamp
+ * Called automatically when RSS fetcher updates content
+ */
+function updateSitemap() {
+  const sitemapPath = path.join(__dirname, '..', 'client', 'public', 'sitemap.xml');
+  const now = new Date().toISOString();
+  
+  try {
+    let sitemap = fs.readFileSync(sitemapPath, 'utf8');
+    
+    // Update homepage and archive lastmod (these change with every RSS update)
+    sitemap = sitemap.replace(
+      /(<loc>https:\/\/fleshboogie\.com\/<\/loc>\s*<lastmod>)[^<]+(<\/lastmod>)/,
+      `$1${now}$2`
+    );
+    sitemap = sitemap.replace(
+      /(<loc>https:\/\/fleshboogie\.com\/archive<\/loc>\s*<lastmod>)[^<]+(<\/lastmod>)/,
+      `$1${now}$2`
+    );
+    
+    fs.writeFileSync(sitemapPath, sitemap, 'utf8');
+    console.log('✓ Updated sitemap.xml with current timestamp');
+  } catch (err) {
+    console.error('✗ Failed to update sitemap:', err.message);
+  }
+}
+
 // RSS Feeds to monitor (curated for independent music and culture)
 // Focused on underground, indie, electronic, and substantive music journalism
 // Excludes mainstream pop and celebrity gossip sources
@@ -312,6 +340,9 @@ async function main() {
   
   console.log(`\n✓ Updated content.json with ${recentItems.length} automated links`);
   console.log(`Last updated: ${content.lastUpdated}`);
+  
+  // Update sitemap with current timestamp
+  updateSitemap();
   
   // Update archive with splash headline
   const archivePath = path.join(__dirname, '..', 'client', 'public', 'data', 'archive.json');
