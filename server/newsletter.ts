@@ -2,6 +2,7 @@ import { and, eq } from "drizzle-orm";
 import { nanoid } from "nanoid";
 import { InsertNewsletterSubscriber, newsletterSubscribers } from "../drizzle/schema";
 import { getDb } from "./db";
+import { addSubscriberToMailchimp } from "./mailchimp";
 
 /**
  * Subscribe a new email to The Boogie Blast newsletter
@@ -20,6 +21,15 @@ export async function subscribeToNewsletter(email: string, timezone: string = "A
     unsubscribeToken,
   };
 
+  // First, sync to Mailchimp
+  try {
+    await addSubscriberToMailchimp(email, timezone);
+  } catch (mailchimpError: any) {
+    console.error('Mailchimp sync failed:', mailchimpError.message);
+    // Continue to add to local database even if Mailchimp fails
+  }
+
+  // Then add to local database
   try {
     await db.insert(newsletterSubscribers).values(subscriber);
     return { success: true, unsubscribeToken };

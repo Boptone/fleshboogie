@@ -36,3 +36,10 @@
 - [x] Replace all placeholder links with real article URLs
 - [x] Audit entire site to ensure all links work correctly
 - [x] Increase RSS feed update frequency from 1 hour to 15 minutes
+
+## Mailchimp Integration
+
+- [x] Add Mailchimp API key and Audience ID as secrets
+- [x] Update newsletter router to sync subscribers to Mailchimp
+- [x] Test Mailchimp integration
+- [x] Deploy Mailchimp integration
