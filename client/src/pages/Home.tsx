@@ -145,7 +145,7 @@ export default function Home() {
       {/* Masthead */}
       <header className="border-b-4 border-foreground py-6 mb-8">
         <div className="container">
-          <h1 className="text-6xl md:text-8xl font-black tracking-tighter uppercase">
+          <h1 className="text-5xl md:text-8xl font-black tracking-tighter uppercase">
             FLESHBOOGIE
           </h1>
           <div className="flex justify-between items-center mt-2">
@@ -168,7 +168,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className="block no-underline hover:no-underline"
           >
-            <h2 className="text-4xl md:text-6xl font-black uppercase leading-none mb-4 hover:bg-foreground hover:text-background transition-none">
+            <h2 className="text-3xl md:text-6xl font-black uppercase leading-tight mb-4 hover:bg-foreground hover:text-background transition-none break-words">
               {content.splash.headline}
             </h2>
           </a>
@@ -186,7 +186,7 @@ export default function Home() {
                   href={item.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-lg"
+                  className="text-base md:text-lg break-words"
                 >
                   {item.title}
                 </a>
@@ -209,7 +209,7 @@ export default function Home() {
                     href={item.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-sm"
+                    className="text-sm break-words"
                   >
                     {item.title}
                   </a>
@@ -229,7 +229,7 @@ export default function Home() {
                   href={item.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-base block"
+                  className="text-sm md:text-base block break-words"
                 >
                   • {item.title}
                 </a>
@@ -245,7 +245,7 @@ export default function Home() {
                   href={item.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-base block"
+                  className="text-sm md:text-base block break-words"
                 >
                   • {item.title}
                 </a>
@@ -261,7 +261,7 @@ export default function Home() {
                   href={item.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-base block"
+                  className="text-sm md:text-base block break-words"
                 >
                   • {item.title}
                 </a>
