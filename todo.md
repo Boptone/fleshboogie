@@ -323,3 +323,14 @@
 - [x] Find newsletter signup section on homepage (NewsletterSignup.tsx)
 - [x] Update copy from "9am (your local time)" to "6 AM PST (9 AM EST)"
 - [x] Verify updated copy displays correctly
+
+## Debug Newsletter Automation Failure
+
+- [x] Identified issue: Manus scheduled tasks don't persist for production automation
+- [x] Create API endpoint for RSS feed refresh (/api/cron/refresh-feeds)
+- [x] Create API endpoint for daily newsletter send (/api/cron/send-daily-newsletter)
+- [x] Create API endpoint for weekly newsletter send (/api/cron/send-weekly-newsletter)
+- [x] Add authentication/security (CRON_SECRET environment variable)
+- [x] Test all endpoints manually (4/4 tests passing, RSS refresh working)
+- [x] Document external cron service setup (CRON_SETUP.md)
+- [x] Fix RSS feed not refreshing issue (now has API endpoint for automation)
