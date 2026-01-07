@@ -334,3 +334,11 @@
 - [x] Test all endpoints manually (4/4 tests passing, RSS refresh working)
 - [x] Document external cron service setup (CRON_SETUP.md)
 - [x] Fix RSS feed not refreshing issue (now has API endpoint for automation)
+
+## Welcome Email Implementation
+
+- [x] Create welcome email HTML template (professional design with FLESHBOOGIE branding)
+- [x] Build sendWelcomeEmail function in newsletter.ts
+- [x] Integrate welcome email into subscribe endpoint (sends immediately after subscription)
+- [x] Test welcome email delivery (2/2 tests passing, emails delivered)
+- [x] Verify email includes preferences link and frequency-specific messaging

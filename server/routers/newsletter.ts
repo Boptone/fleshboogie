@@ -1,6 +1,6 @@
 import { z } from "zod";
 import { publicProcedure, router } from "../_core/trpc";
-import { subscribeToNewsletter, unsubscribeFromNewsletter, getSubscriberByEmail, updateSubscriberFrequency } from "../newsletter";
+import { subscribeToNewsletter, unsubscribeFromNewsletter, getSubscriberByEmail, updateSubscriberFrequency, sendWelcomeEmail } from "../newsletter";
 
 export const newsletterRouter = router({
   /**
@@ -16,9 +16,18 @@ export const newsletterRouter = router({
     .mutation(async ({ input }) => {
       try {
         const result = await subscribeToNewsletter(input.email, input.timezone);
+        
+        // Send welcome email immediately after successful subscription
+        try {
+          await sendWelcomeEmail(input.email, "daily");
+        } catch (emailError) {
+          console.error("Failed to send welcome email:", emailError);
+          // Don't fail the subscription if welcome email fails
+        }
+        
         return {
           success: true,
-          message: "Successfully subscribed to The Boogie Blast!",
+          message: "Successfully subscribed to The Boogie Blast! Check your email for a welcome message.",
         };
       } catch (error: any) {
         if (error.message === "This email is already subscribed") {
