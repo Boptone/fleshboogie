@@ -6,7 +6,7 @@ This guide explains how to configure GitHub Actions to automate RSS feed refresh
 
 Three GitHub Actions workflows have been created:
 
-1. **Refresh RSS Feeds** - Runs every 30 minutes
+1. **Refresh RSS Feeds** - Runs every 60 minutes (hourly)
 2. **Send Daily Newsletter** - Runs daily at 6 AM PST (14:00 UTC)
 3. **Send Weekly Newsletter** - Runs every Sunday at 6 AM PST (14:00 UTC)
 
@@ -72,7 +72,7 @@ Repeat for all three workflows.
 
 | Workflow | Schedule | Cron Expression | Description |
 |----------|----------|----------------|-------------|
-| Refresh RSS Feeds | Every 30 min | `*/30 * * * *` | Updates content.json with latest stories |
+| Refresh RSS Feeds | Every 60 min | `0 * * * *` | Updates content.json with latest stories |
 | Send Daily Newsletter | Daily 6 AM PST | `0 14 * * *` | Sends to daily subscribers |
 | Send Weekly Newsletter | Sunday 6 AM PST | `0 14 * * 0` | Sends to weekly subscribers |
 
@@ -142,25 +142,16 @@ Each workflow run takes approximately:
 - Weekly Newsletter: ~5 minutes
 
 **Monthly usage estimate:**
-- RSS Refresh: 48 runs/day × 3 min = 144 min/day = ~4,320 min/month
+- RSS Refresh: 24 runs/day × 3 min = 72 min/day = ~2,160 min/month
 - Daily Newsletter: 1 run/day × 5 min = 5 min/day = ~150 min/month
 - Weekly Newsletter: 4 runs/month × 5 min = ~20 min/month
-- **Total: ~4,490 minutes/month**
+- **Total: ~2,330 minutes/month**
 
-**Note:** This exceeds the free tier. Consider:
-1. Reducing RSS refresh frequency (e.g., every 60 minutes instead of 30)
-2. Using a paid GitHub plan ($4/month for 3,000 minutes + $0.008/minute after)
-3. Using an external cron service like cron-job.org (free alternative)
+**Note:** This is within the free tier (2,000 minutes/month for private repos). Public repositories have unlimited minutes.
 
-## Alternative: Reduce Frequency
+## Alternative: Further Reduce Frequency
 
-To reduce GitHub Actions usage, edit the cron schedules:
-
-**Every 60 minutes instead of 30:**
-```yaml
-schedule:
-  - cron: '0 * * * *'  # Every hour at :00
-```
+If you need to reduce GitHub Actions usage further, edit the RSS refresh schedule:
 
 **Every 2 hours:**
 ```yaml
@@ -168,7 +159,13 @@ schedule:
   - cron: '0 */2 * * *'  # Every 2 hours
 ```
 
-This would reduce monthly usage to ~2,160 minutes (within free tier).
+**Every 3 hours:**
+```yaml
+schedule:
+  - cron: '0 */3 * * *'  # Every 3 hours
+```
+
+This would reduce monthly usage to ~1,080-1,440 minutes.
 
 ## Your Secrets
 

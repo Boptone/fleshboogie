@@ -353,3 +353,9 @@
 - [ ] Push workflows to GitHub repository
 - [ ] Configure GitHub secrets (FLESHBOOGIE_URL, CRON_SECRET)
 - [ ] Test workflows manually
+
+## Optimize GitHub Actions Usage
+
+- [x] Update RSS refresh workflow from 30 min to 60 min (cron: '0 * * * *')
+- [x] Update documentation with new schedule
+- [x] Recalculate monthly usage estimate (~2,330 min/month, within free tier)
