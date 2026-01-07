@@ -359,3 +359,20 @@
 - [x] Update RSS refresh workflow from 30 min to 60 min (cron: '0 * * * *')
 - [x] Update documentation with new schedule
 - [x] Recalculate monthly usage estimate (~2,330 min/month, within free tier)
+
+## GitHub Repository Setup
+
+- [ ] Initialize git repository
+- [ ] Create .gitignore file
+- [ ] Commit all project files
+- [ ] Create GitHub repository (Boptone/fleshboogie)
+- [ ] Push code to GitHub
+- [ ] Configure GitHub secrets (FLESHBOOGIE_URL, CRON_SECRET)
+- [ ] Test workflows from Actions tab
+
+## Fix Cron Endpoints for Production
+
+- [x] Update cron endpoints to use relative paths (process.cwd()) instead of hardcoded /home/ubuntu/fleshboogie
+- [x] Test endpoints locally (RSS refresh working, collected 20 items)
+- [ ] Deploy fix to production
+- [ ] Retest GitHub Actions workflows

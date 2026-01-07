@@ -45,8 +45,8 @@ router.post('/refresh-feeds', authenticateCron, async (req, res) => {
     console.log('[Cron] Starting RSS feed refresh...');
     
     const { stdout, stderr } = await execAsync(
-      'cd /home/ubuntu/fleshboogie && node scripts/fetch-feeds.mjs',
-      { timeout: 180000 } // 3 minute timeout
+      'node scripts/fetch-feeds.mjs',
+      { cwd: process.cwd(), timeout: 180000 } // 3 minute timeout
     );
 
     console.log('[Cron] RSS feed refresh completed');
@@ -80,8 +80,8 @@ router.post('/send-daily-newsletter', authenticateCron, async (req, res) => {
     console.log('[Cron] Starting daily newsletter send...');
     
     const { stdout, stderr } = await execAsync(
-      'cd /home/ubuntu/fleshboogie && node scripts/send-daily-newsletter.mjs',
-      { timeout: 300000 } // 5 minute timeout
+      'node scripts/send-daily-newsletter.mjs',
+      { cwd: process.cwd(), timeout: 300000 } // 5 minute timeout
     );
 
     console.log('[Cron] Daily newsletter send completed');
@@ -115,8 +115,8 @@ router.post('/send-weekly-newsletter', authenticateCron, async (req, res) => {
     console.log('[Cron] Starting weekly newsletter send...');
     
     const { stdout, stderr } = await execAsync(
-      'cd /home/ubuntu/fleshboogie && node scripts/send-weekly-newsletter.mjs',
-      { timeout: 300000 } // 5 minute timeout
+      'node scripts/send-weekly-newsletter.mjs',
+      { cwd: process.cwd(), timeout: 300000 } // 5 minute timeout
     );
 
     console.log('[Cron] Weekly newsletter send completed');
