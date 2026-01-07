@@ -425,7 +425,7 @@ function fetchFeed(url, redirectCount = 0) {
 
 // Main function
 async function main() {
-  console.log('🎵 Fetching latest music and culture news...\n');
+  console.log('🎵 RSS Fetcher v2.0 - Fetching latest music and culture news (with musicReleases support)...\n');
   
   const allItems = [];
   

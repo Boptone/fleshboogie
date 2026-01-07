@@ -461,3 +461,11 @@
 
 ## Change Section Heading
 - [x] Update "NEW MUSIC RELEASES" to "NEW MUSIC"
+
+## RSS Content Not Updating on Live Site
+- [x] Investigate why workflows run successfully but content stays at "5 hours ago" (content.json IS updating, but no musicReleases array)
+- [x] Check if NODE_ENV=production is actually being set in cron endpoint (yes, it's set)
+- [x] Identified root cause: production is running old version of fetch-feeds.mjs without musicReleases logic
+- [x] Added diagnostic endpoint to check production environment and script version
+- [ ] Deploy diagnostic endpoint and check production environment
+- [ ] Fix deployment issue so scripts folder updates in production

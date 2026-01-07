@@ -36,6 +36,52 @@ router.get('/health', authenticateCron, (req, res) => {
 });
 
 /**
+ * Diagnostic endpoint to check production environment
+ * GET /api/cron/diagnostic?secret=YOUR_SECRET
+ */
+router.get('/diagnostic', authenticateCron, async (req, res) => {
+  try {
+    const fs = await import('fs');
+    const path = await import('path');
+    
+    const cwd = process.cwd();
+    const scriptsPath = path.join(cwd, 'scripts');
+    const fetchFeedsPath = path.join(scriptsPath, 'fetch-feeds.mjs');
+    
+    const diagnostic: any = {
+      cwd: cwd,
+      nodeEnv: process.env.NODE_ENV,
+      scriptsExists: fs.existsSync(scriptsPath),
+      fetchFeedsExists: fs.existsSync(fetchFeedsPath),
+      distExists: fs.existsSync(path.join(cwd, 'dist')),
+      distPublicExists: fs.existsSync(path.join(cwd, 'dist', 'public')),
+      distPublicDataExists: fs.existsSync(path.join(cwd, 'dist', 'public', 'data')),
+    };
+    
+    // Try to read first 500 chars of fetch-feeds.mjs to check version
+    if (diagnostic.fetchFeedsExists) {
+      try {
+        const content = fs.readFileSync(fetchFeedsPath, 'utf8');
+        diagnostic.scriptVersion = content.includes('musicReleases') ? 'v2.0 (with musicReleases)' : 'v1.0 (old version)';
+        diagnostic.scriptPreview = content.substring(0, 500);
+      } catch (err: any) {
+        diagnostic.scriptReadError = err.message;
+      }
+    }
+    
+    res.json({
+      success: true,
+      diagnostic,
+    });
+  } catch (error: any) {
+    res.status(500).json({
+      success: false,
+      error: error.message,
+    });
+  }
+});
+
+/**
  * Refresh RSS feeds
  * POST /api/cron/refresh-feeds
  * Header: X-Cron-Secret: YOUR_SECRET
