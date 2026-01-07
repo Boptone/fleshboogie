@@ -55,7 +55,25 @@ interface AggregatorContent {
 
 export default function Home() {
   const [content, setContent] = useState<AggregatorContent | null>(null);
-  const [displayTime, setDisplayTime] = useState(new Date().toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true }));
+  const [relativeTime, setRelativeTime] = useState('Just now');
+
+  // Calculate relative time (e.g., "5 minutes ago")
+  const getRelativeTime = (timestamp: string) => {
+    const now = new Date();
+    const updated = new Date(timestamp);
+    const diffMs = now.getTime() - updated.getTime();
+    const diffMins = Math.floor(diffMs / 60000);
+    const diffHours = Math.floor(diffMins / 60);
+    const diffDays = Math.floor(diffHours / 24);
+
+    if (diffMins < 1) return 'Just now';
+    if (diffMins === 1) return '1 minute ago';
+    if (diffMins < 60) return `${diffMins} minutes ago`;
+    if (diffHours === 1) return '1 hour ago';
+    if (diffHours < 24) return `${diffHours} hours ago`;
+    if (diffDays === 1) return '1 day ago';
+    return `${diffDays} days ago`;
+  };
 
   // Set page title for SEO
   useEffect(() => {
@@ -144,14 +162,20 @@ export default function Home() {
       .catch(err => console.error('Failed to load content:', err));
   }, []);
 
-  // Auto-refresh display timestamp every minute
+  // Update relative time every minute
   useEffect(() => {
+    if (!content?.lastUpdated) return;
+
+    // Initial update
+    setRelativeTime(getRelativeTime(content.lastUpdated));
+
+    // Update every minute
     const interval = setInterval(() => {
-      setDisplayTime(new Date().toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true }));
+      setRelativeTime(getRelativeTime(content.lastUpdated));
     }, 60000);
 
     return () => clearInterval(interval);
-  }, []);
+  }, [content?.lastUpdated]);
 
   if (!content) {
     return (
@@ -175,8 +199,8 @@ export default function Home() {
             </p>
             <div className="flex items-center gap-4">
               <ThemeToggle />
-              <p className="text-sm uppercase tracking-wide">
-                Updated {displayTime}
+              <p className="text-sm uppercase tracking-wide" title={content.lastUpdated ? new Date(content.lastUpdated).toLocaleString() : ''}>
+                Updated {relativeTime}
               </p>
             </div>
           </div>

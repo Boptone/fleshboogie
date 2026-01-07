@@ -418,3 +418,11 @@
 - [x] Diagnose why stories appear stale on live site (RSS fetcher writes to client/public, but site serves from dist/public)
 - [x] Fix the issue - updated RSS fetcher to write to dist/public in production
 - [ ] Verify updates work after deployment
+
+## Add Last Updated Timestamp to Homepage
+- [x] Add timestamp display at top of story feed (already existed, but showed current time)
+- [x] Update to show actual RSS refresh time from content.json
+- [x] Format timestamp to be user-friendly ("5 minutes ago", "2 hours ago", etc.)
+- [x] Add hover tooltip showing exact timestamp
+- [x] Test timestamp display (showing "3 hours ago" correctly)
+- [ ] Deploy to production
