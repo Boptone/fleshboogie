@@ -488,3 +488,8 @@
 - [x] Create and run vitest to validate secret (all tests passed)
 - [ ] Republish site to activate CRON_SECRET in production
 - [ ] Test RSS refresh workflow authentication
+
+## Secure Diagnostic Endpoint
+- [x] Re-enable authentication on diagnostic endpoint
+- [x] Endpoint now requires CRON_SECRET via authenticateCron middleware
+- [ ] Deploy secured endpoint

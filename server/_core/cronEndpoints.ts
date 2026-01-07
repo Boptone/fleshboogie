@@ -37,9 +37,9 @@ router.get('/health', authenticateCron, (req, res) => {
 
 /**
  * Diagnostic endpoint to check production environment
- * GET /api/cron/diagnostic (public for troubleshooting)
+ * GET /api/cron/diagnostic?secret=YOUR_SECRET
  */
-router.get('/diagnostic', async (req, res) => {
+router.get('/diagnostic', authenticateCron, async (req, res) => {
   try {
     const fs = await import('fs');
     const path = await import('path');
