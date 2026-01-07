@@ -474,3 +474,10 @@
 - [x] Remove authentication from diagnostic endpoint for troubleshooting
 - [ ] Deploy and test endpoint
 - [ ] Get diagnostic results from production
+
+## Investigate musicReleases Array Not Appearing
+- [x] Test RSS fetcher locally to verify musicReleases logic works (code is correct)
+- [x] Check if musicReleases array is being generated but empty (script times out before completion)
+- [x] Identified root cause: 3-minute timeout too short for 84 feeds (~4 minutes needed)
+- [x] Increased timeout from 180 seconds to 300 seconds (5 minutes)
+- [ ] Deploy fix and test on production

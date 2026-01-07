@@ -94,7 +94,7 @@ router.post('/refresh-feeds', authenticateCron, async (req, res) => {
       'node scripts/fetch-feeds.mjs',
       { 
         cwd: process.cwd(), 
-        timeout: 180000, // 3 minute timeout
+        timeout: 300000, // 5 minute timeout (84 feeds takes ~4 minutes)
         env: { ...process.env, NODE_ENV: 'production' } // Ensure production mode
       }
     );
