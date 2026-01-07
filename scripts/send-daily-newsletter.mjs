@@ -1,6 +1,17 @@
 import { Resend } from 'resend';
+import { drizzle } from 'drizzle-orm/node-postgres';
+import pg from 'pg';
 import fs from 'fs';
+import * as schema from '../server/db/schema.js';
 
+const { Pool } = pg;
+
+// Initialize database connection
+const pool = new Pool({
+  connectionString: process.env.DATABASE_URL,
+});
+
+const db = drizzle(pool, { schema });
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 // Read current content
@@ -16,8 +27,9 @@ const dateStr = today.toLocaleDateString('en-US', {
   day: 'numeric' 
 });
 
-// Build email HTML
-const emailHTML = `
+// Build email HTML template
+function buildEmailHTML() {
+  return `
 <!DOCTYPE html>
 <html>
 <head>
@@ -178,41 +190,77 @@ const emailHTML = `
     <p><a href="https://x.com/fleshboogie">Follow @fleshboogie on X</a></p>
     <p class="unsubscribe">
       You're receiving this because you subscribed to The Boogie Blast.<br>
-      <a href="{{unsubscribe_url}}">Unsubscribe</a> | <a href="https://fleshboogie.com/privacy">Privacy Policy</a>
+      <a href="https://fleshboogie.com/unsubscribe?email={{email}}">Unsubscribe</a> | <a href="https://fleshboogie.com/privacy">Privacy Policy</a>
     </p>
   </div>
 </body>
 </html>
 `;
+}
 
-// Send test email
-async function sendTestNewsletter() {
+// Send newsletter to all subscribers
+async function sendDailyNewsletter() {
   try {
-    console.log('📧 Sending test newsletter to scottiediablo@icloud.com...\n');
+    console.log('📧 Starting daily newsletter send...');
+    console.log(`📅 Date: ${dateStr}\n`);
     
-    const { data, error } = await resend.emails.send({
-      from: 'FLESHBOOGIE <hello@fleshboogie.com>',
-      to: ['scottiediablo@icloud.com'],
-      subject: `The Boogie Blast – ${dateStr}`,
-      html: emailHTML,
+    // Get all active subscribers
+    const subscribers = await db.query.newsletterSubscribers.findMany({
+      where: (subscribers, { eq }) => eq(subscribers.subscribed, true)
     });
-
-    if (error) {
-      console.error('❌ Error sending email:', error);
-      process.exit(1);
+    
+    if (subscribers.length === 0) {
+      console.log('⚠️  No subscribers found. Skipping send.');
+      return;
     }
+    
+    console.log(`👥 Found ${subscribers.length} active subscribers\n`);
+    
+    const emailHTML = buildEmailHTML();
+    let successCount = 0;
+    let errorCount = 0;
+    
+    // Send to each subscriber
+    for (const subscriber of subscribers) {
+      try {
+        const personalizedHTML = emailHTML.replace('{{email}}', encodeURIComponent(subscriber.email));
+        
+        const { data, error } = await resend.emails.send({
+          from: 'FLESHBOOGIE <hello@fleshboogie.com>',
+          to: [subscriber.email],
+          subject: `The Boogie Blast – ${dateStr}`,
+          html: personalizedHTML,
+        });
 
-    console.log('✅ Test newsletter sent successfully!');
-    console.log('📬 Email ID:', data.id);
-    console.log('📧 Sent to: scottiediablo@icloud.com');
-    console.log(`📅 Date: ${dateStr}`);
-    console.log(`📰 Stories included: ${content.mainColumn.length + 10} total`);
-    console.log('\nCheck your inbox at scottiediablo@icloud.com!');
+        if (error) {
+          console.error(`❌ Failed to send to ${subscriber.email}:`, error);
+          errorCount++;
+        } else {
+          console.log(`✅ Sent to ${subscriber.email} (ID: ${data.id})`);
+          successCount++;
+        }
+        
+        // Small delay to avoid rate limiting
+        await new Promise(resolve => setTimeout(resolve, 100));
+        
+      } catch (err) {
+        console.error(`❌ Error sending to ${subscriber.email}:`, err.message);
+        errorCount++;
+      }
+    }
+    
+    console.log('\n📊 Send Summary:');
+    console.log(`✅ Successful: ${successCount}`);
+    console.log(`❌ Failed: ${errorCount}`);
+    console.log(`📧 Total: ${subscribers.length}`);
+    
+    await pool.end();
     
   } catch (err) {
-    console.error('❌ Failed to send newsletter:', err.message || err);
+    console.error('❌ Failed to send daily newsletter:', err);
+    await pool.end();
     process.exit(1);
   }
 }
 
-sendTestNewsletter();
+sendDailyNewsletter();

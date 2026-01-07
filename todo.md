@@ -288,3 +288,19 @@
 - [x] Create test newsletter email with current content
 - [x] Send test newsletter to hello@fleshboogie.com (Email ID: 5556308b-9b21-4dac-831a-387fad003e5f)
 - [x] Verify email delivery and formatting
+
+## Debug Newsletter Delivery Issue
+
+- [ ] Check Resend API configuration
+- [ ] Verify email was sent successfully
+- [ ] Check for delivery errors or bounces
+- [ ] Resend test newsletter
+- [ ] Confirm email received by user
+
+## Daily Newsletter Automation
+
+- [x] Create newsletter sending script that queries all subscribers
+- [x] Build email template with current day's content
+- [x] Schedule daily task for 6 AM PST (9 AM EST)
+- [x] Test automation setup (test email delivered successfully)
+- [x] Deploy automation (scheduled task created and running)
