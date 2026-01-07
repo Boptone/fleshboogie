@@ -6,6 +6,7 @@ import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 import Admin from "./pages/Admin";
+import RSSMetrics from "./pages/RSSMetrics";
 import Privacy from "./pages/Privacy";
 import Terms from "./pages/Terms";
 import About from "./pages/About";
@@ -18,6 +19,7 @@ function Router() {
     <Switch>
       <Route path={"/"} component={Home} />
       <Route path={"/admin"} component={Admin} />
+      <Route path={"/rss-metrics"} component={RSSMetrics} />
       <Route path={"/about"} component={About} />
       <Route path={"/archive"} component={Archive} />
       <Route path={"/preferences"} component={Preferences} />

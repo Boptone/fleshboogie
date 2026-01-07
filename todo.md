@@ -493,3 +493,28 @@
 - [x] Re-enable authentication on diagnostic endpoint
 - [x] Endpoint now requires CRON_SECRET via authenticateCron middleware
 - [ ] Deploy secured endpoint
+
+## RSS Source Quality Monitoring System
+- [ ] Design metrics to track (success rate, article count, music relevance, freshness)
+- [ ] Add tracking to RSS fetcher script
+- [ ] Store metrics in database
+- [ ] Create admin dashboard to view source quality
+- [ ] Add ability to disable low-quality sources
+- [ ] Test monitoring system
+- [ ] Deploy to production
+
+## RSS Source Quality Monitoring System
+
+- [x] Design database schema for RSS metrics tracking (rssSourceMetrics and rssSourceConfig tables)
+- [x] Create database schema with quality metrics fields
+- [x] Push database schema to production
+- [x] Initialize RSS source config table with all 84 sources
+- [x] Create database functions for metrics retrieval and source management
+- [x] Build tRPC router for RSS metrics API (getMetrics, toggleSource, getSourceDetails)
+- [x] Create admin dashboard page at /rss-metrics with filtering and sorting
+- [x] Implement source enable/disable functionality
+- [x] Write comprehensive vitest tests (9 tests - all passing)
+- [x] Verify category distribution (40 music, 31 tech, 9 entertainment, 4 culture)
+- [ ] Enhance RSS fetcher to track metrics during each refresh
+- [ ] Test metrics tracking with actual RSS refresh
+- [ ] Review quality data and optimize source mix

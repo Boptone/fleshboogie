@@ -42,3 +42,72 @@ export const newsletterSubscribers = mysqlTable("newsletter_subscribers", {
 
 export type NewsletterSubscriber = typeof newsletterSubscribers.$inferSelect;
 export type InsertNewsletterSubscriber = typeof newsletterSubscribers.$inferInsert;
+
+/**
+ * RSS Source Quality Metrics
+ * Tracks performance and quality metrics for each RSS feed source
+ */
+export const rssSourceMetrics = mysqlTable("rss_source_metrics", {
+  id: int("id").autoincrement().primaryKey(),
+  
+  // Source identification
+  sourceUrl: text("source_url").notNull(),
+  sourceName: text("source_name").notNull(),
+  
+  // Fetch metrics
+  lastFetchAt: timestamp("last_fetch_at").notNull(),
+  fetchSuccess: int("fetch_success").notNull().default(1), // 1=true, 0=false
+  fetchDurationMs: int("fetch_duration_ms"),
+  fetchError: text("fetch_error"),
+  
+  // Content metrics
+  articleCount: int("article_count").notNull().default(0),
+  musicArticleCount: int("music_article_count").notNull().default(0),
+  musicRelevanceScore: int("music_relevance_score").notNull().default(0), // 0-100 (percentage)
+  
+  // Quality metrics
+  averageArticleAge: int("average_article_age_hours"),
+  articlesInMainSection: int("articles_in_main_section").notNull().default(0),
+  articlesInMusicReleases: int("articles_in_music_releases").notNull().default(0),
+  
+  // Overall quality score (calculated)
+  qualityScore: int("quality_score").notNull().default(0), // 0-100
+  
+  createdAt: timestamp("created_at").defaultNow().notNull(),
+});
+
+export type RssSourceMetric = typeof rssSourceMetrics.$inferSelect;
+export type InsertRssSourceMetric = typeof rssSourceMetrics.$inferInsert;
+
+/**
+ * RSS Source Configuration
+ * Stores configuration and status for each RSS feed
+ */
+export const rssSourceConfig = mysqlTable("rss_source_config", {
+  id: int("id").autoincrement().primaryKey(),
+  
+  sourceUrl: text("source_url").notNull(),
+  sourceName: text("source_name").notNull(),
+  category: varchar("category", { length: 64 }).notNull(), // 'music', 'tech', 'entertainment', 'culture'
+  
+  // Status
+  isEnabled: int("is_enabled").notNull().default(1), // 1=true, 0=false
+  isMonitored: int("is_monitored").notNull().default(1),
+  
+  // Statistics (aggregated from metrics)
+  totalFetches: int("total_fetches").notNull().default(0),
+  successfulFetches: int("successful_fetches").notNull().default(0),
+  successRate: int("success_rate").notNull().default(100), // 0-100 percentage
+  averageQualityScore: int("average_quality_score").notNull().default(0), // 0-100
+  
+  // Timestamps
+  firstFetchAt: timestamp("first_fetch_at"),
+  lastFetchAt: timestamp("last_fetch_at"),
+  lastSuccessAt: timestamp("last_success_at"),
+  
+  createdAt: timestamp("created_at").defaultNow().notNull(),
+  updatedAt: timestamp("updated_at").defaultNow().onUpdateNow().notNull(),
+});
+
+export type RssSourceConfig = typeof rssSourceConfig.$inferSelect;
+export type InsertRssSourceConfig = typeof rssSourceConfig.$inferInsert;
