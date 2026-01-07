@@ -12,6 +12,7 @@ interface LinkItem {
   title: string;
   url: string;
   timestamp?: string;
+  pinned?: boolean;
 }
 
 interface ContentData {
@@ -19,6 +20,7 @@ interface ContentData {
     headline: string;
     url: string;
     image?: string;
+    pinned?: boolean;
   };
   mainColumn: LinkItem[];
   column1: LinkItem[];
@@ -160,7 +162,22 @@ export default function Admin() {
       <main className="container pb-16 space-y-12">
         {/* Splash Headline */}
         <section className="border-2 border-foreground p-6">
-          <h2 className="text-2xl font-black uppercase mb-4">Splash Headline</h2>
+          <div className="flex justify-between items-center mb-4">
+            <h2 className="text-2xl font-black uppercase">Splash Headline</h2>
+            <Button
+              onClick={() => setContent(prev => ({
+                ...prev,
+                splash: { ...prev.splash, pinned: !prev.splash.pinned }
+              }))}
+              variant={content.splash.pinned ? "default" : "outline"}
+              className="uppercase font-bold"
+            >
+              {content.splash.pinned ? "📌 PINNED" : "PIN"}
+            </Button>
+          </div>
+          <p className="text-sm text-muted-foreground mb-4">
+            {content.splash.pinned ? "This story will stay in place (won't auto-rotate)" : "This story will auto-rotate every 15 minutes"}
+          </p>
           <div className="space-y-4">
             <div>
               <Label htmlFor="splash-headline" className="uppercase font-bold">Headline</Label>
@@ -208,6 +225,22 @@ export default function Admin() {
           <div className="space-y-4">
             {content.mainColumn.map((link, index) => (
               <div key={index} className="border border-foreground p-4 space-y-2">
+                <div className="flex justify-between items-center mb-2">
+                  <span className="text-xs font-bold text-muted-foreground">STORY #{index + 1}</span>
+                  <Button
+                    onClick={() => setContent(prev => ({
+                      ...prev,
+                      mainColumn: prev.mainColumn.map((item, i) =>
+                        i === index ? { ...item, pinned: !item.pinned } : item
+                      )
+                    }))}
+                    variant={link.pinned ? "default" : "outline"}
+                    size="sm"
+                    className="uppercase font-bold text-xs"
+                  >
+                    {link.pinned ? "📌 PINNED" : "PIN"}
+                  </Button>
+                </div>
                 <div className="flex justify-between items-start gap-2">
                   <div className="flex-1 space-y-2">
                     <Input

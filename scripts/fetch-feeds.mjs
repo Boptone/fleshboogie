@@ -380,29 +380,25 @@ async function main() {
     };
   }
   
-  // Auto-populate splash headline with top story if empty or placeholder
-  if (!content.splash.headline || content.splash.url.includes('example.com') || content.splash.url.endsWith('.com') || content.splash.url.endsWith('.com/')) {
-    if (recentItems.length > 0) {
-      content.splash = {
-        headline: recentItems[0].title.toUpperCase(),
-        url: recentItems[0].url,
-        image: ''
-      };
-    }
+  // Auto-rotate splash headline with top story (unless pinned)
+  if (!content.splash.pinned && recentItems.length > 0) {
+    content.splash = {
+      headline: recentItems[0].title.toUpperCase(),
+      url: recentItems[0].url,
+      image: '',
+      pinned: false
+    };
   }
   
-  // Auto-populate main column with top 5 stories if empty or has placeholders
-  const hasPlaceholders = content.mainColumn.some(item => 
-    item.url.includes('example.com') || item.url.endsWith('.com') || item.url.endsWith('.com/')
-  );
-  
-  if (content.mainColumn.length === 0 || hasPlaceholders) {
-    content.mainColumn = recentItems.slice(1, 6).map(item => ({
-      title: item.title,
-      url: item.url,
-      timestamp: item.timestamp
-    }));
-  }
+  // Auto-rotate main column with top 5 stories (keep pinned stories)
+  const pinnedMain = content.mainColumn?.filter(item => item.pinned) || [];
+  const autoMain = recentItems.slice(1, 6 - pinnedMain.length).map(item => ({
+    title: item.title,
+    url: item.url,
+    timestamp: item.timestamp,
+    pinned: false
+  }));
+  content.mainColumn = [...pinnedMain, ...autoMain];
   
   // Auto-populate three columns with articles from the feed if they have placeholders
   const column1HasPlaceholders = content.column1.some(item => 

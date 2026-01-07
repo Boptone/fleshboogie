@@ -1,34 +1,40 @@
 {
   "splash": {
-    "headline": "MTV REWIND FAN SITE LAUNCHES WITH 27,000 CLASSIC VIDEOS AND VINTAGE COMMERCIALS",
-    "url": "https://consequence.net/2026/01/mtv-rewind-music-video-archive/",
-    "image": ""
+    "headline": "FORZA HORIZON 6 RELEASE DATE WINDOW, SETTING, GAMEPLAY, MORE",
+    "url": "https://www.nme.com/guides/gaming-guides/forza-horizon-6-release-date-3921550?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=forza-horizon-6-release-date",
+    "image": "",
+    "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Chloé Zhao, Amanda Seyfried and Mona Fastvold on  Spotlighting Female Perspectives on Film",
-      "url": "https://variety.com/2026/film/news/chloe-zhao-amanda-seyfried-mona-fastvold-kering-palm-springs-1236624499/",
-      "timestamp": "18:00"
+      "title": "DGA, PGA and BAFTA Predictions: 'Frankenstein' Eyes Longlist Dominance, Josh Safdie on Director Bubble and 'Sinners' Faces Key International Test",
+      "url": "https://variety.com/2026/film/awards/dga-pga-bafta-longlist-predictions-2026-1236624759/",
+      "timestamp": "20:01",
+      "pinned": false
     },
     {
-      "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
-      "url": "https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
-      "timestamp": "17:47"
+      "title": "Piper Rockelle on Joining OnlyFans: ‘I’ve Never Had a Good Reputation’",
+      "url": "https://www.rollingstone.com/culture/culture-features/piper-rockelle-onlyfans-interview-1235494798/",
+      "timestamp": "20:00",
+      "pinned": false
     },
     {
-      "title": "Elle Fanning Says Colin Firth 'Rushed to My Side' When She Fainted at Cannes in 2019 Because 'My Dress Was Too Tight': 'It Was the Talk of the Festival'",
-      "url": "https://variety.com/2026/film/news/elle-fanning-colin-firth-fainted-cannes-1236624710/",
-      "timestamp": "17:46"
+      "title": "'Sunday Night Football' Sets Viewership Record Averaging 23.5 Million Viewers Across NBC & Peacock In 2025",
+      "url": "https://deadline.com/2026/01/sunday-night-football-viewership-record-nbc-peacock-ratings-1236665921/",
+      "timestamp": "19:33",
+      "pinned": false
     },
     {
-      "title": "Wearable health devices could generate a million tons of e-waste by 2050",
-      "url": "https://techcrunch.com/2026/01/06/wearable-health-devices-could-generate-a-million-tons-of-e-waste-by-2050/",
-      "timestamp": "17:34"
+      "title": "TV Ratings: NFL Regular Season Grows Across the Board",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nfl-tv-ratings-2025-regular-season-1236466173/",
+      "timestamp": "19:32",
+      "pinned": false
     },
     {
-      "title": "Sebastian Stan Reportedly in Talks for 'The Batman: Part 2' — Everything We Know About the Sequel",
-      "url": "https://www.indiewire.com/news/general-news/the-batman-part-2-everything-we-know-sequel-1235171486/",
-      "timestamp": "17:30"
+      "title": "Arc Raiders 2026 roadmap – what to expect this year",
+      "url": "https://www.nme.com/guides/gaming-guides/arc-raiders-2026-roadmap-3921547?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=arc-raiders-2026-roadmap",
+      "timestamp": "19:27",
+      "pinned": false
     }
   ],
   "column1": [
@@ -95,6 +101,46 @@
   ],
   "automated": [
     {
+      "title": "Forza Horizon 6 release date window, setting, gameplay, more",
+      "url": "https://www.nme.com/guides/gaming-guides/forza-horizon-6-release-date-3921550?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=forza-horizon-6-release-date",
+      "timestamp": "20:02"
+    },
+    {
+      "title": "DGA, PGA and BAFTA Predictions: 'Frankenstein' Eyes Longlist Dominance, Josh Safdie on Director Bubble and 'Sinners' Faces Key International Test",
+      "url": "https://variety.com/2026/film/awards/dga-pga-bafta-longlist-predictions-2026-1236624759/",
+      "timestamp": "20:01"
+    },
+    {
+      "title": "Piper Rockelle on Joining OnlyFans: ‘I’ve Never Had a Good Reputation’",
+      "url": "https://www.rollingstone.com/culture/culture-features/piper-rockelle-onlyfans-interview-1235494798/",
+      "timestamp": "20:00"
+    },
+    {
+      "title": "'Sunday Night Football' Sets Viewership Record Averaging 23.5 Million Viewers Across NBC & Peacock In 2025",
+      "url": "https://deadline.com/2026/01/sunday-night-football-viewership-record-nbc-peacock-ratings-1236665921/",
+      "timestamp": "19:33"
+    },
+    {
+      "title": "TV Ratings: NFL Regular Season Grows Across the Board",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nfl-tv-ratings-2025-regular-season-1236466173/",
+      "timestamp": "19:32"
+    },
+    {
+      "title": "Arc Raiders 2026 roadmap – what to expect this year",
+      "url": "https://www.nme.com/guides/gaming-guides/arc-raiders-2026-roadmap-3921547?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=arc-raiders-2026-roadmap",
+      "timestamp": "19:27"
+    },
+    {
+      "title": "Glasgow Fest to Open With 'Everybody to Kenmure Street,' Exec Produced by Emma Thompson",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/glasgow-film-festival-2026-open-everybody-to-kenmure-street-1236465486/",
+      "timestamp": "19:01"
+    },
+    {
+      "title": "'NFL Top 100' Renewed For A Second Season As X Original Series",
+      "url": "https://deadline.com/2026/01/nfl-top-100-renewed-x-original-series-1236665890/",
+      "timestamp": "18:30"
+    },
+    {
       "title": "Béla Fleck Cancels Concerts at Kennedy Center",
       "url": "https://consequence.net/2026/01/bela-fleck-cancels-concerts-at-kennedy-center/",
       "timestamp": "18:22"
@@ -153,47 +199,7 @@
       "title": "Marc Sazer Elected President of American Federation of Musicians Local 47",
       "url": "https://www.hollywoodreporter.com/business/business-news/marc-sazer-elected-president-afm-local-47-1236466021/",
       "timestamp": "17:07"
-    },
-    {
-      "title": "Emma Stone Is So \"Invested\" in 'RHOSLC' That She Waited Outside Jen Shah's Sentencing \"Just for a Chance to See Her\"",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/emma-stone-rhoslc-jen-shah-sentencing-1236465962/",
-      "timestamp": "17:07"
-    },
-    {
-      "title": "At Sundance 2026, Solidarity House Wants to Rebuild Independent Media From the Outside In",
-      "url": "https://www.indiewire.com/news/festivals/sundance-solidarity-house-independent-media-1235168811/",
-      "timestamp": "17:00"
-    },
-    {
-      "title": "Tour news: Ladytron, Throwing Muses, The Format, Rev Horton Heat, Sinkane, more",
-      "url": "https://www.brooklynvegan.com/tour-news-ladytron-throwing-muses-the-format-rev-horton-heat-sinkane-more/",
-      "timestamp": "16:56"
-    },
-    {
-      "title": "Faetooth announce North American tour with Latter, Iress, Soap Box Derby, Bosses & Nightosphere",
-      "url": "https://www.brooklynvegan.com/faetooth-announce-north-american-tour-with-latter-iress-soap-box-derby-bosses-nightosphere/",
-      "timestamp": "16:39"
-    },
-    {
-      "title": "Cynthia Erivo to Miss Golden Globes Due to ‘Dracula’ West End Production Schedule (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/cynthia-erivo-to-miss-golden-globes-dracula-west-end-1236624607/",
-      "timestamp": "16:30"
-    },
-    {
-      "title": "Amazon MGM Studios Taps Jenn Levy for Head of Unscripted TV",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/amazon-names-jenn-levy-head-unscripted-tv-1236465963/",
-      "timestamp": "16:17"
-    },
-    {
-      "title": "'Springsteen: Deliver Me From Nowhere': Read The Screenplay For Intimate Pic About ‘Nebraska’ Album That Gave The Boss A Reason To Believe",
-      "url": "https://deadline.com/2026/01/springsteen-deliver-me-from-nowhere-script-read-screenplay-1236664671/",
-      "timestamp": "16:15"
-    },
-    {
-      "title": "In Development: Not Every Filmmaker Has to Be a Hydra",
-      "url": "https://www.indiewire.com/news/analysis/community-center-letterboxd-audience-development-1235171484/",
-      "timestamp": "16:13"
     }
   ],
-  "lastUpdated": "2026-01-06T23:29:45.119Z"
+  "lastUpdated": "2026-01-07T01:04:16.731Z"
 }

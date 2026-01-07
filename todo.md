@@ -234,3 +234,15 @@
 - [x] Replace Mailchimp references with Resend in Terms of Service (no references found)
 - [x] Replace Mailchimp references with Resend in Privacy Policy
 - [x] Deploy updated legal pages
+
+## Auto-Rotation & Admin Panel
+
+- [x] Implement auto-rotation logic for splash headline (picks newest/best story)
+- [x] Implement auto-rotation logic for main column stories (picks top 5 stories)
+- [x] Update RSS fetcher to auto-populate splash and main sections (with pin support)
+- [x] Build admin panel UI for manual story curation (already exists at /admin)
+- [x] Add ability to pin stories to specific positions (added PIN buttons)
+- [x] Add ability to add custom stories manually (already exists)
+- [x] Test auto-rotation with RSS fetcher (verified - splash changed to Forza Horizon story)
+- [x] Test admin panel functionality (PIN buttons added to splash and main column)
+- [x] Deploy auto-rotation and admin panel
