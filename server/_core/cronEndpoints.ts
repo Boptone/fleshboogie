@@ -46,7 +46,11 @@ router.post('/refresh-feeds', authenticateCron, async (req, res) => {
     
     const { stdout, stderr } = await execAsync(
       'node scripts/fetch-feeds.mjs',
-      { cwd: process.cwd(), timeout: 180000 } // 3 minute timeout
+      { 
+        cwd: process.cwd(), 
+        timeout: 180000, // 3 minute timeout
+        env: { ...process.env, NODE_ENV: 'production' } // Ensure production mode
+      }
     );
 
     console.log('[Cron] RSS feed refresh completed');

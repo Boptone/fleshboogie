@@ -426,3 +426,10 @@
 - [x] Add hover tooltip showing exact timestamp
 - [x] Test timestamp display (showing "3 hours ago" correctly)
 - [ ] Deploy to production
+
+## RSS Workflows Running But Content Not Updating
+- [x] Check if NODE_ENV is set to 'production' in production environment (NOT SET - this was the issue!)
+- [x] Verify RSS fetcher is writing to correct path (dist/public) (code was correct, but NODE_ENV wasn't set)
+- [x] Fix the issue - updated cron endpoint to explicitly set NODE_ENV=production
+- [ ] Test RSS refresh endpoint after deployment
+- [ ] Verify content updates on live site
