@@ -1,0 +1,28 @@
+name: Refresh RSS Feeds
+
+on:
+  schedule:
+    # Run every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  refresh-feeds:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Refresh RSS Feeds
+        run: |
+          curl -X POST "${{ secrets.FLESHBOOGIE_URL }}/api/cron/refresh-feeds" \
+            -H "X-Cron-Secret: ${{ secrets.CRON_SECRET }}" \
+            -H "Content-Type: application/json" \
+            --fail-with-body \
+            --max-time 180
+        
+      - name: Log completion
+        if: success()
+        run: echo "✓ RSS feeds refreshed successfully at $(date)"
+        
+      - name: Log failure
+        if: failure()
+        run: echo "✗ RSS feed refresh failed at $(date)"

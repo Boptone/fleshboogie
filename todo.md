@@ -342,3 +342,14 @@
 - [x] Integrate welcome email into subscribe endpoint (sends immediately after subscription)
 - [x] Test welcome email delivery (2/2 tests passing, emails delivered)
 - [x] Verify email includes preferences link and frequency-specific messaging
+
+## GitHub Actions Automation Setup
+
+- [x] Create .github/workflows directory
+- [x] Create RSS refresh workflow (every 30 minutes)
+- [x] Create daily newsletter workflow (6 AM PST daily)
+- [x] Create weekly newsletter workflow (6 AM PST Sundays)
+- [x] Document GitHub secrets configuration (GITHUB_ACTIONS_SETUP.md)
+- [ ] Push workflows to GitHub repository
+- [ ] Configure GitHub secrets (FLESHBOOGIE_URL, CRON_SECRET)
+- [ ] Test workflows manually

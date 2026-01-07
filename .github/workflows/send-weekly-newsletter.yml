@@ -1,0 +1,29 @@
+name: Send Weekly Newsletter
+
+on:
+  schedule:
+    # Run every Sunday at 6 AM PST (14:00 UTC)
+    # Note: Adjust for daylight saving time if needed
+    - cron: '0 14 * * 0'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Send Weekly Newsletter
+        run: |
+          curl -X POST "${{ secrets.FLESHBOOGIE_URL }}/api/cron/send-weekly-newsletter" \
+            -H "X-Cron-Secret: ${{ secrets.CRON_SECRET }}" \
+            -H "Content-Type: application/json" \
+            --fail-with-body \
+            --max-time 300
+        
+      - name: Log completion
+        if: success()
+        run: echo "✓ Weekly newsletter sent successfully at $(date)"
+        
+      - name: Log failure
+        if: failure()
+        run: echo "✗ Weekly newsletter send failed at $(date)"
