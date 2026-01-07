@@ -75,6 +75,13 @@ const FEEDS = [
   'https://www.rollingstone.com/feed/',        // Music news
   'https://www.goldminemag.com/feed',          // Record collecting and reissues
   'https://www.udiscovermusic.com/feed',       // Music history and discovery
+  'https://www.npr.org/rss/rss.php?id=1039',   // NPR Music
+  'https://www.thecurrent.org/feed',           // The Current (Minnesota Public Radio)
+  'https://www.thatericalper.com/feed/',       // That Eric Alper
+  'https://thirdmanrecords.com/blogs/news.atom', // Third Man Records
+  'https://www.ravensingstheblues.com/feed/',  // Raven Sings the Blues
+  'https://www.pastemagazine.com/rss/music',   // Paste Magazine Music
+  'https://www.spin.com/feed/',                // Spin Magazine
   
   // Entertainment and tech sources
   'https://deadline.com/feed/',                // Entertainment news
@@ -136,6 +143,7 @@ const FEEDS = [
   'https://www.technologyreview.com/feed/',    // MIT Technology Review
   'https://singularityhub.com/feed/',          // Future tech and science
   'https://www.fastcompany.com/technology/rss', // Tech innovation
+  'https://futurism.com/feed',                 // Futurism - future tech and science
   'https://www.wired.com/feed/category/science/latest/rss', // Science and tech
   'https://www.futurity.org/feed/',            // Research news
   'https://www.quantamagazine.org/feed/',      // Science and math
