@@ -481,3 +481,10 @@
 - [x] Identified root cause: 3-minute timeout too short for 84 feeds (~4 minutes needed)
 - [x] Increased timeout from 180 seconds to 300 seconds (5 minutes)
 - [ ] Deploy fix and test on production
+
+## Add CRON_SECRET to Production Environment
+- [x] Request CRON_SECRET from user (fleshboogie-cron-2026-secure-key)
+- [x] Add secret to production environment via webdev_request_secrets
+- [x] Create and run vitest to validate secret (all tests passed)
+- [ ] Republish site to activate CRON_SECRET in production
+- [ ] Test RSS refresh workflow authentication
