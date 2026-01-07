@@ -390,3 +390,11 @@
 - [x] Test daily newsletter script locally (successfully sent to 3/4 subscribers)
 - [ ] Deploy newsletter fixes to production
 - [ ] Retest GitHub Actions workflows (daily and weekly newsletter endpoints)
+
+## Fix Newsletter Scripts Production Module Import Error
+- [x] Diagnose why production can't find drizzle/schema.js module (tsx was in devDependencies)
+- [x] Fix newsletter scripts to use proper module imports for production (moved tsx to dependencies)
+- [x] Update cron endpoints if needed (already using npx tsx)
+- [x] Increase email delay to avoid Resend rate limiting (100ms → 600ms)
+- [ ] Test newsletter endpoints in production
+- [ ] Verify GitHub Actions workflows work correctly

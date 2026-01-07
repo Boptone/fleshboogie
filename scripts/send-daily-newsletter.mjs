@@ -243,8 +243,8 @@ async function sendDailyNewsletter() {
           successCount++;
         }
         
-        // Small delay to avoid rate limiting
-        await new Promise(resolve => setTimeout(resolve, 100));
+        // Delay to avoid rate limiting (Resend allows 2 requests/second)
+        await new Promise(resolve => setTimeout(resolve, 600));
         
       } catch (err) {
         console.error(`❌ Error sending to ${subscriber.email}:`, err.message);
