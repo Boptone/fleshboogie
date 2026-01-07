@@ -410,3 +410,11 @@
 - [x] Add Google verification HTML file to public directory
 - [ ] Deploy verification file to production
 - [ ] Verify site ownership in Google Search Console
+
+## RSS Stories Not Updating on Production
+- [x] Check if RSS refresh workflow is running on schedule (workflow running correctly)
+- [x] Verify RSS refresh endpoint is working correctly (endpoint works)
+- [x] Check if content.json is being updated on production server (updates source but not dist)
+- [x] Diagnose why stories appear stale on live site (RSS fetcher writes to client/public, but site serves from dist/public)
+- [x] Fix the issue - updated RSS fetcher to write to dist/public in production
+- [ ] Verify updates work after deployment

@@ -23,7 +23,10 @@ const __dirname = path.dirname(__filename);
  * Called automatically when RSS fetcher updates content
  */
 function updateSitemap() {
-  const sitemapPath = path.join(__dirname, '..', 'client', 'public', 'sitemap.xml');
+  const isProduction = process.env.NODE_ENV === 'production';
+  const sitemapPath = isProduction
+    ? path.join(__dirname, '..', 'dist', 'public', 'sitemap.xml')
+    : path.join(__dirname, '..', 'client', 'public', 'sitemap.xml');
   const now = new Date().toISOString();
   
   try {
@@ -434,7 +437,12 @@ async function main() {
   console.log(`\n📰 Total items collected: ${recentItems.length}`);
   
   // Load existing content
-  const contentPath = path.join(__dirname, '../client/public/data/content.json');
+  // In production, write to dist/public so changes are immediately visible
+  // In development, write to client/public
+  const isProduction = process.env.NODE_ENV === 'production';
+  const contentPath = isProduction 
+    ? path.join(__dirname, '../dist/public/data/content.json')
+    : path.join(__dirname, '../client/public/data/content.json');
   let content;
   
   try {
@@ -518,7 +526,9 @@ async function main() {
   updateSitemap();
   
   // Update archive with splash headline
-  const archivePath = path.join(__dirname, '..', 'client', 'public', 'data', 'archive.json');
+  const archivePath = isProduction
+    ? path.join(__dirname, '..', 'dist', 'public', 'data', 'archive.json')
+    : path.join(__dirname, '..', 'client', 'public', 'data', 'archive.json');
   let archive = { items: [], lastUpdated: new Date().toISOString() };
   
   try {
