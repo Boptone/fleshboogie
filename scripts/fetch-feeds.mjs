@@ -89,6 +89,53 @@ const FEEDS = [
   'https://www.wired.com/feed/rss',            // Technology and culture
   'https://www.engadget.com/rss.xml',          // Tech news
   'https://gizmodo.com/tag/tech/rss',          // Tech and gadgets
+  
+  // Film Industry
+  'https://www.thewrap.com/feed/',             // Film industry news
+  'https://www.filmmakermagazine.com/feed/',   // Independent filmmaking
+  'https://www.joblo.com/feed/',               // Movie news and reviews
+  'https://feeds.feedburner.com/FilmSchoolRejects', // Film criticism
+  
+  // Music Industry (expanded)
+  'https://www.billboard.com/feed/',           // Music charts and industry
+  'https://www.musicradar.com/news/feed',      // Music gear and news
+  
+  // Tech Industry (expanded)
+  'https://www.theverge.com/rss/index.xml',    // Tech news and reviews
+  'https://www.tomsguide.com/feeds/all',       // Tech guides and reviews
+  'https://hackaday.com/feed/',                // Hardware hacking
+  
+  // Music Tech
+  'https://www.attackmagazine.com/feed/',      // Electronic music production
+  'https://cdm.link/feed/',                    // Create Digital Music
+  'https://www.synthtopia.com/feed/',          // Synthesizers and music tech
+  'https://www.gearnews.com/feed/',            // Music gear news
+  'https://www.soundonsound.com/news/rss',     // Recording and audio
+  'https://rekkerd.org/feed/',                 // Music software news
+  
+  // Blockchain / Web3
+  'https://cointelegraph.com/rss',             // Crypto news
+  'https://decrypt.co/feed',                   // Web3 and crypto
+  'https://news.bitcoin.com/feed/',            // Bitcoin news
+  'https://bitcoinmagazine.com/.rss/full/',    // Bitcoin magazine
+  'https://cryptoslate.com/feed/',             // Crypto news and analysis
+  
+  // Artificial Intelligence
+  'https://www.deepmind.com/blog/rss.xml',     // DeepMind research
+  'https://syncedreview.com/feed/',            // AI research news
+  'https://www.unite.ai/feed/',                // AI news and tutorials
+  'https://www.marktechpost.com/feed/',        // AI and ML news
+  'https://pub.towardsai.net/feed',            // AI education and news
+  'https://www.aitimejournal.com/feed',        // AI industry journal
+  
+  // Future Tech / Emerging Tech
+  'https://www.technologyreview.com/feed/',    // MIT Technology Review
+  'https://singularityhub.com/feed/',          // Future tech and science
+  'https://www.fastcompany.com/technology/rss', // Tech innovation
+  'https://www.wired.com/feed/category/science/latest/rss', // Science and tech
+  'https://www.futurity.org/feed/',            // Research news
+  'https://www.quantamagazine.org/feed/',      // Science and math
+  'https://nautil.us/rss',                     // Science and culture
 ];
 
 // Keywords to filter out mainstream pop, gossip, politics, business, and Trump content
