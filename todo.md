@@ -469,3 +469,8 @@
 - [x] Added diagnostic endpoint to check production environment and script version
 - [ ] Deploy diagnostic endpoint and check production environment
 - [ ] Fix deployment issue so scripts folder updates in production
+
+## Make Diagnostic Endpoint Accessible
+- [x] Remove authentication from diagnostic endpoint for troubleshooting
+- [ ] Deploy and test endpoint
+- [ ] Get diagnostic results from production
