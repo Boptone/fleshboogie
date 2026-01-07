@@ -458,3 +458,6 @@
 - [x] Add 11 Substack RSS feeds (Ted Gioia, Penny Fractions, Dada Drummer Almanach, Aquarium Drunkard, Jason P Woodbury, White Denim, Jeff Tweedy, Chuck Prophet, Neko Case, Dust-to-Digital, Tim Napalm Stegall)
 - [x] Total feed count now 84 sources (up from 73)
 - [ ] Deploy updated feed list
+
+## Change Section Heading
+- [x] Update "NEW MUSIC RELEASES" to "NEW MUSIC"
