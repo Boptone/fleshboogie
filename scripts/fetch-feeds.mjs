@@ -435,6 +435,34 @@ async function main() {
   // Sort by publication date (newest first)
   filteredItems.sort((a, b) => b.pubDate - a.pubDate);
   
+  // Identify music releases (new albums, singles, premieres, streams)
+  const musicReleaseKeywords = [
+    'new album',
+    'releases',
+    'premiere',
+    'stream',
+    'listen',
+    'debut',
+    'drops',
+    'announces',
+    'shares',
+    'unveils',
+    'new single',
+    'new track',
+    'new song',
+    'new ep',
+    'new music',
+    'out now',
+    'available now'
+  ];
+  
+  const musicReleases = filteredItems.filter(item => {
+    const titleLower = item.title.toLowerCase();
+    return musicReleaseKeywords.some(keyword => titleLower.includes(keyword));
+  }).slice(0, 10); // Top 10 music releases
+  
+  console.log(`\n🎵 Found ${musicReleases.length} music release stories`);
+  
   // Take top 20 most recent items
   const recentItems = filteredItems.slice(0, 20).map(item => ({
     title: item.title,
@@ -465,6 +493,7 @@ async function main() {
       column2: [],
       column3: [],
       automated: [],
+      musicReleases: [],
     };
   }
   
@@ -522,6 +551,14 @@ async function main() {
   
   // Update automated section with remaining items
   content.automated = recentItems;
+  
+  // Update music releases section
+  content.musicReleases = musicReleases.map(item => ({
+    title: item.title,
+    url: item.url,
+    timestamp: item.timestamp,
+  }));
+  
   content.lastUpdated = new Date().toISOString();
   
   // Write back to file

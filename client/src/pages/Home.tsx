@@ -50,6 +50,7 @@ interface AggregatorContent {
   column2: LinkItem[];
   column3: LinkItem[];
   automated: LinkItem[];
+  musicReleases: LinkItem[];
   lastUpdated: string;
 }
 
@@ -94,6 +95,12 @@ export default function Home() {
       },
       // Main column articles
       ...content.mainColumn.map(item => ({
+        headline: item.title,
+        url: item.url,
+        datePublished: content.lastUpdated,
+      })),
+      // Music releases
+      ...(content.musicReleases || []).map(item => ({
         headline: item.title,
         url: item.url,
         datePublished: content.lastUpdated,
@@ -242,6 +249,30 @@ export default function Home() {
             ))}
           </div>
         </section>
+
+        {/* New Music Releases Section */}
+        {content.musicReleases && content.musicReleases.length > 0 && (
+          <section className="mb-12 border-b-2 border-foreground pb-8">
+            <h3 className="text-2xl md:text-3xl font-black uppercase mb-6 tracking-tight">🎵 NEW MUSIC RELEASES</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-3">
+              {content.musicReleases.map((item, index) => (
+                <div key={index} className="flex gap-2 items-baseline">
+                  {item.timestamp && (
+                    <span className="text-xs font-bold shrink-0">[{item.timestamp}]</span>
+                  )}
+                  <a
+                    href={item.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-sm md:text-base font-medium break-words hover:bg-foreground hover:text-background transition-none"
+                  >
+                    {item.title}
+                  </a>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* Automated Feed Section */}
         {content.automated && content.automated.length > 0 && (
