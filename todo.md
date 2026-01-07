@@ -246,3 +246,8 @@
 - [x] Test auto-rotation with RSS fetcher (verified - splash changed to Forza Horizon story)
 - [x] Test admin panel functionality (PIN buttons added to splash and main column)
 - [x] Deploy auto-rotation and admin panel
+
+## Navigation Tagline Update
+
+- [x] Add "WHATEVER" to top nav after "NEWS"
+- [x] Deploy navigation update

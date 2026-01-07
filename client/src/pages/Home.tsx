@@ -171,7 +171,7 @@ export default function Home() {
           </h1>
           <div className="flex justify-between items-center mt-2">
             <p className="text-sm uppercase tracking-wide">
-              Music • Culture • News
+              Music • Culture • News • Whatever
             </p>
             <div className="flex items-center gap-4">
               <ThemeToggle />
