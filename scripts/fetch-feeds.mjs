@@ -84,6 +84,19 @@ const FEEDS = [
   'https://www.spin.com/feed/',                // Spin Magazine
   'https://daily.bandcamp.com/feed',           // Bandcamp Daily
   
+  // Substack music publications
+  'https://tedgioia.substack.com/feed',        // Ted Gioia - music history and culture
+  'https://pennyfractions.substack.com/feed',  // Penny Fractions - music industry economics
+  'https://daddrummer.substack.com/feed',      // Dada Drummer Almanach - experimental music
+  'https://aquariumdrunkard.substack.com/feed', // Aquarium Drunkard - rock, folk, underground
+  'https://jasonpwoodbury.substack.com/feed',  // Jason P Woodbury - music journalism
+  'https://whitedenim.substack.com/feed',      // White Denim - artist newsletter
+  'https://jefftweedy.substack.com/feed',      // Jeff Tweedy - artist newsletter
+  'https://chuckprophet.substack.com/feed',    // Chuck Prophet - artist newsletter
+  'https://nekocase.substack.com/feed',        // Neko Case - artist newsletter
+  'https://dusttodigital.substack.com/feed',   // Dust-to-Digital - record label
+  'https://timnapalmstegall.substack.com/feed', // Tim Napalm Stegall - music writer
+  
   // Entertainment and tech sources
   'https://deadline.com/feed/',                // Entertainment news
   'https://www.hollywoodreporter.com/feed/',   // Entertainment industry
