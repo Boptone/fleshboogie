@@ -77,30 +77,34 @@ router.post('/refresh-feeds', authenticateCron, async (req, res) => {
  */
 router.post('/send-daily-newsletter', authenticateCron, async (req, res) => {
   try {
-    console.log('[Cron] Starting daily newsletter send...');
+    console.log('[Cron] Starting daily newsletter send in background...');
     
-    const { stdout, stderr } = await execAsync(
-      'npx tsx scripts/send-daily-newsletter.mjs',
-      { cwd: process.cwd(), timeout: 300000 } // 5 minute timeout
-    );
-
-    console.log('[Cron] Daily newsletter send completed');
-    console.log(stdout);
-    
-    if (stderr) {
-      console.error('[Cron] Daily newsletter warnings:', stderr);
-    }
-
+    // Respond immediately to avoid timeout
     res.json({
       success: true,
-      message: 'Daily newsletter sent successfully',
-      output: stdout.split('\n').slice(-10).join('\n'), // Last 10 lines
+      message: 'Daily newsletter job started in background',
+      timestamp: new Date().toISOString(),
     });
+    
+    // Run newsletter script in background (don't await)
+    execAsync(
+      'npx tsx scripts/send-daily-newsletter.mjs',
+      { cwd: process.cwd(), timeout: 300000 } // 5 minute timeout
+    ).then(({ stdout, stderr }) => {
+      console.log('[Cron] Daily newsletter send completed');
+      console.log(stdout);
+      if (stderr) {
+        console.error('[Cron] Daily newsletter warnings:', stderr);
+      }
+    }).catch((error: any) => {
+      console.error('[Cron] Daily newsletter send failed:', error);
+    });
+    
   } catch (error: any) {
-    console.error('[Cron] Daily newsletter send failed:', error);
+    console.error('[Cron] Failed to start daily newsletter:', error);
     res.status(500).json({
       success: false,
-      error: `Failed to send daily newsletter: ${error.message}`,
+      error: `Failed to start daily newsletter: ${error.message}`,
     });
   }
 });
@@ -112,30 +116,34 @@ router.post('/send-daily-newsletter', authenticateCron, async (req, res) => {
  */
 router.post('/send-weekly-newsletter', authenticateCron, async (req, res) => {
   try {
-    console.log('[Cron] Starting weekly newsletter send...');
+    console.log('[Cron] Starting weekly newsletter send in background...');
     
-    const { stdout, stderr } = await execAsync(
-      'npx tsx scripts/send-weekly-newsletter.mjs',
-      { cwd: process.cwd(), timeout: 300000 } // 5 minute timeout
-    );
-
-    console.log('[Cron] Weekly newsletter send completed');
-    console.log(stdout);
-    
-    if (stderr) {
-      console.error('[Cron] Weekly newsletter warnings:', stderr);
-    }
-
+    // Respond immediately to avoid timeout
     res.json({
       success: true,
-      message: 'Weekly newsletter sent successfully',
-      output: stdout.split('\n').slice(-10).join('\n'), // Last 10 lines
+      message: 'Weekly newsletter job started in background',
+      timestamp: new Date().toISOString(),
     });
+    
+    // Run newsletter script in background (don't await)
+    execAsync(
+      'npx tsx scripts/send-weekly-newsletter.mjs',
+      { cwd: process.cwd(), timeout: 300000 } // 5 minute timeout
+    ).then(({ stdout, stderr }) => {
+      console.log('[Cron] Weekly newsletter send completed');
+      console.log(stdout);
+      if (stderr) {
+        console.error('[Cron] Weekly newsletter warnings:', stderr);
+      }
+    }).catch((error: any) => {
+      console.error('[Cron] Weekly newsletter send failed:', error);
+    });
+    
   } catch (error: any) {
-    console.error('[Cron] Weekly newsletter send failed:', error);
+    console.error('[Cron] Failed to start weekly newsletter:', error);
     res.status(500).json({
       success: false,
-      error: `Failed to send weekly newsletter: ${error.message}`,
+      error: `Failed to start weekly newsletter: ${error.message}`,
     });
   }
 });

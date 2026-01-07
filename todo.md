@@ -398,3 +398,10 @@
 - [x] Increase email delay to avoid Resend rate limiting (100ms → 600ms)
 - [ ] Test newsletter endpoints in production
 - [ ] Verify GitHub Actions workflows work correctly
+
+## Fix Newsletter Endpoint Timeout (Error 524)
+- [x] Diagnose why newsletter endpoint is timing out (Cloudflare 524 error - script takes too long)
+- [x] Optimize newsletter script to complete faster (not feasible - needs to send emails)
+- [x] Implement async/background job approach - endpoints now respond immediately
+- [ ] Test endpoint response time
+- [ ] Verify GitHub Actions workflows work without timeout
