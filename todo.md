@@ -304,3 +304,16 @@
 - [x] Schedule daily task for 6 AM PST (9 AM EST)
 - [x] Test automation setup (test email delivered successfully)
 - [x] Deploy automation (scheduled task created and running)
+
+## Newsletter Preferences System
+
+- [x] Update database schema to add frequency field (daily/weekly)
+- [x] Create migration to add frequency column to newsletterSubscribers table
+- [x] Build preferences page UI at /preferences route
+- [x] Create backend API to handle preference updates (getPreferences, updateFrequency)
+- [x] Update daily newsletter script to filter by frequency=daily
+- [x] Create weekly newsletter script for frequency=weekly subscribers
+- [x] Schedule weekly newsletter for Sunday 6 AM PST
+- [x] Add preferences link to newsletter email templates
+- [x] Write and run vitest tests (5/5 passing)
+- [x] Deploy preferences system

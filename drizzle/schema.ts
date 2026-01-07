@@ -33,6 +33,7 @@ export const newsletterSubscribers = mysqlTable("newsletter_subscribers", {
   id: int("id").autoincrement().primaryKey(),
   email: varchar("email", { length: 320 }).notNull().unique(),
   timezone: varchar("timezone", { length: 64 }).notNull().default("America/New_York"),
+  frequency: mysqlEnum("frequency", ["daily", "weekly"]).default("daily").notNull(),
   isActive: int("is_active").notNull().default(1),
   subscribedAt: timestamp("subscribed_at").defaultNow().notNull(),
   lastEmailSent: timestamp("last_email_sent"),

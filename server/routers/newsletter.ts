@@ -1,6 +1,6 @@
 import { z } from "zod";
 import { publicProcedure, router } from "../_core/trpc";
-import { subscribeToNewsletter, unsubscribeFromNewsletter } from "../newsletter";
+import { subscribeToNewsletter, unsubscribeFromNewsletter, getSubscriberByEmail, updateSubscriberFrequency } from "../newsletter";
 
 export const newsletterRouter = router({
   /**
@@ -45,6 +45,45 @@ export const newsletterRouter = router({
       return {
         success: true,
         message: "Successfully unsubscribed from The Boogie Blast.",
+      };
+    }),
+
+  /**
+   * Get subscriber preferences by email
+   */
+  getPreferences: publicProcedure
+    .input(
+      z.object({
+        email: z.string().email("Invalid email address"),
+      })
+    )
+    .query(async ({ input }) => {
+      const subscriber = await getSubscriberByEmail(input.email);
+      if (!subscriber) {
+        throw new Error("Email not found in our subscriber list");
+      }
+      return {
+        email: subscriber.email,
+        frequency: subscriber.frequency,
+        isActive: subscriber.isActive === 1,
+      };
+    }),
+
+  /**
+   * Update subscriber frequency preference
+   */
+  updateFrequency: publicProcedure
+    .input(
+      z.object({
+        email: z.string().email("Invalid email address"),
+        frequency: z.enum(["daily", "weekly"]),
+      })
+    )
+    .mutation(async ({ input }) => {
+      await updateSubscriberFrequency(input.email, input.frequency);
+      return {
+        success: true,
+        message: `Preferences updated! You'll now receive The Boogie Blast ${input.frequency}.`,
       };
     }),
 });

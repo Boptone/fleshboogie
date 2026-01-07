@@ -1,6 +1,11 @@
 import { Resend } from 'resend';
+import { drizzle } from 'drizzle-orm/mysql2';
+import { and, eq } from 'drizzle-orm';
 import fs from 'fs';
+import { newsletterSubscribers } from '../drizzle/schema.js';
 
+// Initialize database connection
+const db = drizzle(process.env.DATABASE_URL);
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 // Read current content
@@ -16,14 +21,15 @@ const dateStr = today.toLocaleDateString('en-US', {
   day: 'numeric' 
 });
 
-// Build email HTML
-const emailHTML = `
+// Build email HTML template
+function buildEmailHTML() {
+  return `
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Boogie Blast</title>
+  <title>The Boogie Blast - Weekly Digest</title>
   <style>
     body {
       font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -53,6 +59,17 @@ const emailHTML = `
       letter-spacing: 2px;
       margin: 10px 0 0 0;
       color: #666;
+    }
+    .badge {
+      display: inline-block;
+      background: #000;
+      color: #fff;
+      padding: 8px 16px;
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin: 20px 0;
     }
     .date {
       font-size: 14px;
@@ -137,6 +154,7 @@ const emailHTML = `
   <div class="header">
     <h1 class="logo">FLESHBOOGIE</h1>
     <p class="tagline">Music • Culture • News • Whatever</p>
+    <div class="badge">Weekly Digest</div>
   </div>
 
   <div class="date">${dateStr}</div>
@@ -148,8 +166,8 @@ const emailHTML = `
   </div>
 
   <div class="section">
-    <div class="section-title">Top Stories</div>
-    ${content.mainColumn.slice(0, 5).map(story => `
+    <div class="section-title">This Week's Top Stories</div>
+    ${content.mainColumn.slice(0, 10).map(story => `
       <div class="story">
         <h3 class="story-title">
           <a href="${story.url}">${story.title}</a>
@@ -160,8 +178,8 @@ const emailHTML = `
   </div>
 
   <div class="section">
-    <div class="section-title">More Headlines</div>
-    ${content.automated.slice(0, 10).map(story => `
+    <div class="section-title">More From This Week</div>
+    ${content.automated.slice(0, 15).map(story => `
       <div class="story">
         <h3 class="story-title">
           <a href="${story.url}">${story.title}</a>
@@ -173,47 +191,85 @@ const emailHTML = `
 
   <div class="footer">
     <p><strong>FLESHBOOGIE℠</strong></p>
-    <p>Music, culture, and news – curated daily</p>
+    <p>Music, culture, and news – curated weekly</p>
     <p><a href="https://fleshboogie.com">Visit fleshboogie.com</a></p>
     <p><a href="https://x.com/fleshboogie">Follow @fleshboogie on X</a></p>
     <p><a href="https://fleshboogie.com/preferences">Manage your preferences</a></p>
     <p class="unsubscribe">
-      You're receiving this because you subscribed to The Boogie Blast.<br>
-      <a href="{{unsubscribe_url}}">Unsubscribe</a> | <a href="https://fleshboogie.com/privacy">Privacy Policy</a>
+      You're receiving this because you subscribed to The Boogie Blast (Weekly).<br>
+      <a href="https://fleshboogie.com/unsubscribe?email={{email}}">Unsubscribe</a> | <a href="https://fleshboogie.com/privacy">Privacy Policy</a>
     </p>
   </div>
 </body>
 </html>
 `;
+}
 
-// Send test email
-async function sendTestNewsletter() {
+// Send newsletter to all weekly subscribers
+async function sendWeeklyNewsletter() {
   try {
-    console.log('📧 Sending test newsletter to scottiediablo@icloud.com...\n');
+    console.log('📧 Starting weekly newsletter send...');
+    console.log(`📅 Date: ${dateStr}\n`);
     
-    const { data, error } = await resend.emails.send({
-      from: 'FLESHBOOGIE <hello@fleshboogie.com>',
-      to: ['scottiediablo@icloud.com'],
-      subject: `The Boogie Blast – ${dateStr}`,
-      html: emailHTML,
-    });
-
-    if (error) {
-      console.error('❌ Error sending email:', error);
-      process.exit(1);
+    // Get all active weekly subscribers
+    const subscribers = await db
+      .select()
+      .from(newsletterSubscribers)
+      .where(and(
+        eq(newsletterSubscribers.isActive, 1),
+        eq(newsletterSubscribers.frequency, 'weekly')
+      ));
+    
+    if (subscribers.length === 0) {
+      console.log('⚠️  No weekly subscribers found. Skipping send.');
+      return;
     }
+    
+    console.log(`👥 Found ${subscribers.length} active weekly subscribers\n`);
+    
+    const emailHTML = buildEmailHTML();
+    let successCount = 0;
+    let errorCount = 0;
+    
+    // Send to each subscriber
+    for (const subscriber of subscribers) {
+      try {
+        const personalizedHTML = emailHTML.replace('{{email}}', encodeURIComponent(subscriber.email));
+        
+        const { data, error } = await resend.emails.send({
+          from: 'FLESHBOOGIE <hello@fleshboogie.com>',
+          to: [subscriber.email],
+          subject: `The Boogie Blast – Weekly Digest – ${dateStr}`,
+          html: personalizedHTML,
+        });
 
-    console.log('✅ Test newsletter sent successfully!');
-    console.log('📬 Email ID:', data.id);
-    console.log('📧 Sent to: scottiediablo@icloud.com');
-    console.log(`📅 Date: ${dateStr}`);
-    console.log(`📰 Stories included: ${content.mainColumn.length + 10} total`);
-    console.log('\nCheck your inbox at scottiediablo@icloud.com!');
+        if (error) {
+          console.error(`❌ Failed to send to ${subscriber.email}:`, error);
+          errorCount++;
+        } else {
+          console.log(`✅ Sent to ${subscriber.email} (ID: ${data.id})`);
+          successCount++;
+        }
+        
+        // Small delay to avoid rate limiting
+        await new Promise(resolve => setTimeout(resolve, 100));
+        
+      } catch (err) {
+        console.error(`❌ Error sending to ${subscriber.email}:`, err.message);
+        errorCount++;
+      }
+    }
+    
+    console.log('\n📊 Send Summary:');
+    console.log(`✅ Successful: ${successCount}`);
+    console.log(`❌ Failed: ${errorCount}`);
+    console.log(`📧 Total: ${subscribers.length}`);
+    console.log('\n✅ Weekly newsletter send complete!');
     
   } catch (err) {
-    console.error('❌ Failed to send newsletter:', err.message || err);
+    console.error('❌ Failed to send weekly newsletter:', err);
     process.exit(1);
   }
 }
 
-sendTestNewsletter();
+sendWeeklyNewsletter();

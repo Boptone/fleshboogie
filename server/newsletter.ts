@@ -110,3 +110,38 @@ export async function updateLastEmailSent(subscriberId: number) {
     .set({ lastEmailSent: new Date() })
     .where(eq(newsletterSubscribers.id, subscriberId));
 }
+
+/**
+ * Get subscriber by email address
+ */
+export async function getSubscriberByEmail(email: string) {
+  const db = await getDb();
+  if (!db) {
+    return null;
+  }
+
+  const result = await db
+    .select()
+    .from(newsletterSubscribers)
+    .where(eq(newsletterSubscribers.email, email.toLowerCase().trim()))
+    .limit(1);
+
+  return result.length > 0 ? result[0] : null;
+}
+
+/**
+ * Update subscriber frequency preference
+ */
+export async function updateSubscriberFrequency(email: string, frequency: "daily" | "weekly") {
+  const db = await getDb();
+  if (!db) {
+    throw new Error("Database not available");
+  }
+
+  const result = await db
+    .update(newsletterSubscribers)
+    .set({ frequency })
+    .where(eq(newsletterSubscribers.email, email.toLowerCase().trim()));
+
+  return result;
+}

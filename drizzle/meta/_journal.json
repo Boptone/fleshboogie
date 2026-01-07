@@ -15,6 +15,13 @@
       "when": 1767730931747,
       "tag": "0001_absurd_night_thrasher",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1767753897057,
+      "tag": "0002_faulty_black_cat",
+      "breakpoints": true
     }
   ]
 }

@@ -10,6 +10,7 @@ import Privacy from "./pages/Privacy";
 import Terms from "./pages/Terms";
 import About from "./pages/About";
 import Archive from "./pages/Archive";
+import Preferences from "./pages/Preferences";
 
 function Router() {
   // make sure to consider if you need authentication for certain routes
@@ -19,6 +20,7 @@ function Router() {
       <Route path={"/admin"} component={Admin} />
       <Route path={"/about"} component={About} />
       <Route path={"/archive"} component={Archive} />
+      <Route path={"/preferences"} component={Preferences} />
       <Route path={"/privacy"} component={Privacy} />
       <Route path={"/terms"} component={Terms} />
       <Route path={"/404"} component={NotFound} />

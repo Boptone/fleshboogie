@@ -1,0 +1,1 @@
+ALTER TABLE `newsletter_subscribers` ADD `frequency` enum('daily','weekly') DEFAULT 'daily' NOT NULL;

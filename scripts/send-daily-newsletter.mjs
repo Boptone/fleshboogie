@@ -1,17 +1,11 @@
 import { Resend } from 'resend';
-import { drizzle } from 'drizzle-orm/node-postgres';
-import pg from 'pg';
+import { drizzle } from 'drizzle-orm/mysql2';
+import { and, eq } from 'drizzle-orm';
 import fs from 'fs';
-import * as schema from '../server/db/schema.js';
-
-const { Pool } = pg;
+import { newsletterSubscribers } from '../drizzle/schema.js';
 
 // Initialize database connection
-const pool = new Pool({
-  connectionString: process.env.DATABASE_URL,
-});
-
-const db = drizzle(pool, { schema });
+const db = drizzle(process.env.DATABASE_URL);
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 // Read current content
@@ -188,8 +182,9 @@ function buildEmailHTML() {
     <p>Music, culture, and news – curated daily</p>
     <p><a href="https://fleshboogie.com">Visit fleshboogie.com</a></p>
     <p><a href="https://x.com/fleshboogie">Follow @fleshboogie on X</a></p>
+    <p><a href="https://fleshboogie.com/preferences">Manage your preferences</a></p>
     <p class="unsubscribe">
-      You're receiving this because you subscribed to The Boogie Blast.<br>
+      You're receiving this because you subscribed to The Boogie Blast (Daily).<br>
       <a href="https://fleshboogie.com/unsubscribe?email={{email}}">Unsubscribe</a> | <a href="https://fleshboogie.com/privacy">Privacy Policy</a>
     </p>
   </div>
@@ -204,10 +199,14 @@ async function sendDailyNewsletter() {
     console.log('📧 Starting daily newsletter send...');
     console.log(`📅 Date: ${dateStr}\n`);
     
-    // Get all active subscribers
-    const subscribers = await db.query.newsletterSubscribers.findMany({
-      where: (subscribers, { eq }) => eq(subscribers.subscribed, true)
-    });
+    // Get all active daily subscribers
+    const subscribers = await db
+      .select()
+      .from(newsletterSubscribers)
+      .where(and(
+        eq(newsletterSubscribers.isActive, 1),
+        eq(newsletterSubscribers.frequency, 'daily')
+      ));
     
     if (subscribers.length === 0) {
       console.log('⚠️  No subscribers found. Skipping send.');
@@ -253,12 +252,10 @@ async function sendDailyNewsletter() {
     console.log(`✅ Successful: ${successCount}`);
     console.log(`❌ Failed: ${errorCount}`);
     console.log(`📧 Total: ${subscribers.length}`);
-    
-    await pool.end();
+    console.log('\n✅ Daily newsletter send complete!');
     
   } catch (err) {
     console.error('❌ Failed to send daily newsletter:', err);
-    await pool.end();
     process.exit(1);
   }
 }
