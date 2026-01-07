@@ -46,7 +46,7 @@ export function NewsletterSignup() {
           THE BOOGIE BLAST
         </h3>
         <p className="text-sm mb-4">
-          Get the best links delivered to your inbox every morning at 9am (your local time). No spam, unsubscribe anytime.
+          Get the best links delivered to your inbox every morning at 6 AM PST (9 AM EST). No spam, unsubscribe anytime.
         </p>
         
         <form onSubmit={handleSubmit} className="flex gap-2">

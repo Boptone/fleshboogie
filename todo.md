@@ -317,3 +317,9 @@
 - [x] Add preferences link to newsletter email templates
 - [x] Write and run vitest tests (5/5 passing)
 - [x] Deploy preferences system
+
+## Update Newsletter Signup Copy
+
+- [x] Find newsletter signup section on homepage (NewsletterSignup.tsx)
+- [x] Update copy from "9am (your local time)" to "6 AM PST (9 AM EST)"
+- [x] Verify updated copy displays correctly
