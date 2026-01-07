@@ -405,3 +405,8 @@
 - [x] Implement async/background job approach - endpoints now respond immediately
 - [ ] Test endpoint response time
 - [ ] Verify GitHub Actions workflows work without timeout
+
+## Google Search Console Verification
+- [x] Add Google verification HTML file to public directory
+- [ ] Deploy verification file to production
+- [ ] Verify site ownership in Google Search Console
