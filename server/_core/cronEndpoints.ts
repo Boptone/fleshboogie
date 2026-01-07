@@ -80,7 +80,7 @@ router.post('/send-daily-newsletter', authenticateCron, async (req, res) => {
     console.log('[Cron] Starting daily newsletter send...');
     
     const { stdout, stderr } = await execAsync(
-      'node scripts/send-daily-newsletter.mjs',
+      'npx tsx scripts/send-daily-newsletter.mjs',
       { cwd: process.cwd(), timeout: 300000 } // 5 minute timeout
     );
 
@@ -115,7 +115,7 @@ router.post('/send-weekly-newsletter', authenticateCron, async (req, res) => {
     console.log('[Cron] Starting weekly newsletter send...');
     
     const { stdout, stderr } = await execAsync(
-      'node scripts/send-weekly-newsletter.mjs',
+      'npx tsx scripts/send-weekly-newsletter.mjs',
       { cwd: process.cwd(), timeout: 300000 } // 5 minute timeout
     );
 

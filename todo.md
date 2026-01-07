@@ -376,3 +376,17 @@
 - [x] Test endpoints locally (RSS refresh working, collected 20 items)
 - [ ] Deploy fix to production
 - [ ] Retest GitHub Actions workflows
+
+## Sync Code to GitHub
+
+- [ ] Commit fixed cron endpoints
+- [ ] Push to GitHub repository
+- [ ] Verify code is synced
+
+## Fix Newsletter Scripts for Production
+- [x] Update send-daily-newsletter.mjs to use relative paths instead of hardcoded paths
+- [x] Update send-weekly-newsletter.mjs to use relative paths instead of hardcoded paths
+- [x] Update cron endpoints to use tsx instead of node for TypeScript support
+- [x] Test daily newsletter script locally (successfully sent to 3/4 subscribers)
+- [ ] Deploy newsletter fixes to production
+- [ ] Retest GitHub Actions workflows (daily and weekly newsletter endpoints)

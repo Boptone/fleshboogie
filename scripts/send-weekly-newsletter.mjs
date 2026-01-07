@@ -2,6 +2,8 @@ import { Resend } from 'resend';
 import { drizzle } from 'drizzle-orm/mysql2';
 import { and, eq } from 'drizzle-orm';
 import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 import { newsletterSubscribers } from '../drizzle/schema.js';
 
 // Initialize database connection
@@ -9,7 +11,9 @@ const db = drizzle(process.env.DATABASE_URL);
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 // Read current content
-const contentPath = '/home/ubuntu/fleshboogie/client/public/data/content.json';
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const contentPath = path.join(__dirname, '..', 'client', 'public', 'data', 'content.json');
 const content = JSON.parse(fs.readFileSync(contentPath, 'utf-8'));
 
 // Format date
