@@ -99,6 +99,7 @@ const FEEDS = [
   // Music Industry (expanded)
   'https://www.billboard.com/feed/',           // Music charts and industry
   'https://www.musicradar.com/news/feed',      // Music gear and news
+  'https://musically.com/feed/',               // Music industry analysis
   
   // Tech Industry (expanded)
   'https://www.theverge.com/rss/index.xml',    // Tech news and reviews

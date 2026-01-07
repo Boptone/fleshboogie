@@ -1,11 +1,17 @@
 {
   "splash": {
-    "headline": "'THE ROOKIE' SEASON 8 RELEASE SCHEDULE: WHEN ARE NEW EPISODES OUT?",
-    "url": "https://www.thewrap.com/creative-content/what-to-watch/the-rookie-season-8-episodes-release-date-time/",
+    "headline": "FORGET ROBOT VACUUMS — ECOVACS' MOST EXCITING PRODUCT AT CES 2026 WAS ITS UPCOMING AI-POWERED PET COMPANION",
+    "url": "https://www.tomsguide.com/home/smart-home/forget-robot-vacuums-ecovacs-most-exciting-product-at-ces-2026-was-its-upcoming-ai-powered-pet-companion",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
+    {
+      "title": "'The Rookie' Season 8 Release Schedule: When Are New Episodes Out?",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/the-rookie-season-8-episodes-release-date-time/",
+      "timestamp": "21:00",
+      "pinned": false
+    },
     {
       "title": "‘Heated Rivalry’ Stars Hudson Williams and Connor Storrie to Present at Golden Globes (Exclusive)",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-hudson-williams-connor-storrie-golden-globes-1236466179/",
@@ -28,12 +34,6 @@
       "title": "Black Bear Hires Distribution Vet Frank Patterson As General Sales Manager",
       "url": "https://deadline.com/2026/01/black-bear-frank-patterson-1236665976/",
       "timestamp": "20:33",
-      "pinned": false
-    },
-    {
-      "title": "Bitcoin ETFs Roar Into 2026 Like a Lion — $1.2B in Two Days Signals $150B Wall of Money",
-      "url": "https://news.bitcoin.com/bitcoin-etfs-roar-into-2026-like-a-lion-1-2b-in-two-days-signals-150b-wall-of-money/",
-      "timestamp": "20:30",
       "pinned": false
     }
   ],
@@ -100,6 +100,11 @@
     }
   ],
   "automated": [
+    {
+      "title": "Forget robot vacuums — Ecovacs' most exciting product at CES 2026 was its upcoming AI-powered pet companion",
+      "url": "https://www.tomsguide.com/home/smart-home/forget-robot-vacuums-ecovacs-most-exciting-product-at-ces-2026-was-its-upcoming-ai-powered-pet-companion",
+      "timestamp": "21:14"
+    },
     {
       "title": "'The Rookie' Season 8 Release Schedule: When Are New Episodes Out?",
       "url": "https://www.thewrap.com/creative-content/what-to-watch/the-rookie-season-8-episodes-release-date-time/",
@@ -181,7 +186,7 @@
       "timestamp": "20:00"
     },
     {
-      "title": "Piper Rockelle on Joining OnlyFans: ���I’ve Never Had a Good Reputation’",
+      "title": "Piper Rockelle on Joining OnlyFans: ‘I’ve Never Had a Good Reputation’",
       "url": "https://www.rollingstone.com/culture/culture-features/piper-rockelle-onlyfans-interview-1235494798/",
       "timestamp": "20:00"
     },
@@ -194,12 +199,7 @@
       "title": "Motorola Razr Fold Book-Style Foldable: Specs, Details, Release Date",
       "url": "https://www.wired.com/story/motorola-razr-fold-ces-2026/",
       "timestamp": "20:00"
-    },
-    {
-      "title": "Lenovo's 14th-gen ThinkPad X1 Carbon comes with a new Space Frame design",
-      "url": "<![CDATA[https://www.engadget.com/computing/laptops/lenovos-14th-gen-thinkpad-x1-carbon-comes-with-a-new-space-frame-design-010000262.html?src=rss]]>",
-      "timestamp": "20:00"
     }
   ],
-  "lastUpdated": "2026-01-07T02:14:18.173Z"
+  "lastUpdated": "2026-01-07T02:23:50.524Z"
 }
