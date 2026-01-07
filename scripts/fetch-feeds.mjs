@@ -82,6 +82,7 @@ const FEEDS = [
   'https://www.ravensingstheblues.com/feed/',  // Raven Sings the Blues
   'https://www.pastemagazine.com/rss/music',   // Paste Magazine Music
   'https://www.spin.com/feed/',                // Spin Magazine
+  'https://daily.bandcamp.com/feed',           // Bandcamp Daily
   
   // Entertainment and tech sources
   'https://deadline.com/feed/',                // Entertainment news

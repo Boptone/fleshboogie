@@ -449,3 +449,7 @@
 - [x] Add to JSON-LD structured data for SEO
 - [ ] Test with live RSS data
 - [ ] Deploy to production
+
+## Add Bandcamp Daily RSS Feed
+- [x] Add Bandcamp Daily to music sources (total now 73 feeds)
+- [ ] Deploy updated feed list
