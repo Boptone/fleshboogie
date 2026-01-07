@@ -251,3 +251,13 @@
 
 - [x] Add "WHATEVER" to top nav after "NEWS"
 - [x] Deploy navigation update
+
+## Add New RSS Feeds
+
+- [x] Find RSS feed URLs for Artforum, Hyperallergic, AV Club, Vulture
+- [x] Find RSS feed URLs for Stereogum, Nashville Scene, Memphis Flyer, KEXP, The Fader
+- [x] Find RSS feed URLs for WIRED, Engadget, Gizmodo Tech, SF Gate
+- [x] Add 7 working feeds to fetch-feeds.mjs (Artforum, Hyperallergic, AV Club, Stereogum, WIRED, Engadget, Gizmodo)
+- [x] Fix RSS fetcher redirect handling for HTTP/HTTPS protocol switches
+- [x] Test RSS fetcher with new feeds (all 30 sources working, 83 items filtered)
+- [x] Deploy new RSS feeds (Nashville Scene, Memphis Flyer, KEXP, SF Gate, Vulture, The Fader - no public RSS available)

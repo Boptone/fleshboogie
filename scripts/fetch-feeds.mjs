@@ -80,6 +80,15 @@ const FEEDS = [
   'https://variety.com/feed/',                 // Entertainment news
   'https://www.theguardian.com/music/rss',     // Guardian music section
   'https://techcrunch.com/feed/',              // Tech and startups
+  
+  // New additions - Art, Culture, Music, Tech
+  'https://www.artforum.com/feed/',            // Contemporary art
+  'http://hyperallergic.com/feed/',            // Art news and criticism
+  'https://www.avclub.com/feed/',              // Pop culture and entertainment
+  'https://stereogum.com/category/news/feed/', // Music news and reviews
+  'https://www.wired.com/feed/rss',            // Technology and culture
+  'https://www.engadget.com/rss.xml',          // Tech news
+  'https://gizmodo.com/tag/tech/rss',          // Tech and gadgets
 ];
 
 // Keywords to filter out mainstream pop, gossip, politics, business, and Trump content
@@ -297,13 +306,20 @@ function fetchFeed(url, redirectCount = 0) {
       return;
     }
     
-    const client = url.startsWith('https') ? https : http;
+    // Determine protocol from URL string
+    const client = url.startsWith('https:') ? https : http;
     
-    client.get(url, (res) => {
+    const request = client.get(url, (res) => {
       // Handle redirects
       if (res.statusCode === 301 || res.statusCode === 302 || res.statusCode === 307 || res.statusCode === 308) {
         if (res.headers.location) {
-          return fetchFeed(res.headers.location, redirectCount + 1)
+          // Handle relative redirects
+          let redirectUrl = res.headers.location;
+          if (!redirectUrl.startsWith('http')) {
+            const urlObj = new URL(url);
+            redirectUrl = `${urlObj.protocol}//${urlObj.host}${redirectUrl}`;
+          }
+          return fetchFeed(redirectUrl, redirectCount + 1)
             .then(resolve)
             .catch(reject);
         }
@@ -322,7 +338,15 @@ function fetchFeed(url, redirectCount = 0) {
           reject(new Error(`HTTP ${res.statusCode}`));
         }
       });
-    }).on('error', reject);
+    });
+    
+    request.on('error', reject);
+    
+    // Set timeout to prevent hanging
+    request.setTimeout(10000, () => {
+      request.destroy();
+      reject(new Error('Request timeout'));
+    });
   });
 }
 
