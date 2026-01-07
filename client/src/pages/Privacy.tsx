@@ -58,7 +58,7 @@ export default function Privacy() {
             <h2 className="font-bold text-lg mb-3">4. THIRD-PARTY SERVICE PROVIDERS</h2>
             <p>We use the following third-party services:</p>
             <ul className="list-disc ml-6 mt-2 space-y-1">
-              <li><strong>Mailchimp:</strong> For email newsletter delivery and subscriber management</li>
+              <li><strong>Resend:</strong> For email newsletter delivery and subscriber management</li>
               <li><strong>Analytics Services:</strong> For website traffic analysis</li>
             </ul>
             <p className="mt-2">

@@ -228,3 +228,9 @@
 - [x] Add documentation for X Developer Portal setup (docs/X-API-SETUP.md)
 - [x] Test posting system (dry-run successful - 159/280 chars, splash story selected)
 - [x] Deploy auto-posting feature (ready - awaiting X API credentials)
+
+## Update Legal Pages for Resend
+
+- [x] Replace Mailchimp references with Resend in Terms of Service (no references found)
+- [x] Replace Mailchimp references with Resend in Privacy Policy
+- [x] Deploy updated legal pages
