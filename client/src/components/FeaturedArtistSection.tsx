@@ -63,7 +63,7 @@ export function FeaturedArtistSection() {
 
   return (
     <section className="border-2 border-foreground p-6">
-      <h2 className="text-2xl font-black uppercase mb-4">Featured Artist Spotlight</h2>
+      <h2 className="text-2xl font-black uppercase mb-4">Featured Fleshboogie Artist Spotlight</h2>
       <p className="text-sm text-muted-foreground mb-6">
         Set a featured artist to highlight on the homepage. Data is auto-populated from MusicBrainz.
       </p>

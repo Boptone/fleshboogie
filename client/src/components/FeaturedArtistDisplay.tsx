@@ -11,7 +11,7 @@ export function FeaturedArtistDisplay() {
   return (
     <section className="mb-12 border-b-2 border-foreground pb-8">
       <h3 className="text-2xl md:text-3xl font-black uppercase mb-6 tracking-tight">
-        FEATURED ARTIST
+        FEATURED FLESHBOOGIE ARTIST
       </h3>
 
       <div className="space-y-4">

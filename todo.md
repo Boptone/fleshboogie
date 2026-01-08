@@ -597,3 +597,17 @@
 - [x] Write comprehensive tests (MusicBrainz integration, database operations, end-to-end flow)
 - [x] Test all functionality (8/8 tests passed)
 - [x] Deploy Featured Artist feature
+
+## Featured Artist Data Retrieval Bug
+
+- [ ] Investigate why Ramsay Midwood shows only basic info (name, location) without bio, genres, links, or releases
+- [ ] Debug MusicBrainz API integration to ensure all available data is fetched
+- [ ] Test with multiple artists to verify data retrieval works correctly
+- [ ] Fix any issues with data parsing or display
+
+## Featured Artist Heading Update
+
+- [x] Change "FEATURED ARTIST" to "FEATURED FLESHBOOGIE ARTIST" on homepage
+- [x] Change "FEATURED ARTIST SPOTLIGHT" to "FEATURED FLESHBOOGIE ARTIST SPOTLIGHT" in admin panel
+- [x] Test updated headings
+- [ ] Deploy changes
