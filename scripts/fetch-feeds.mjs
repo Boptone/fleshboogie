@@ -449,30 +449,66 @@ async function main() {
   // Sort by publication date (newest first)
   filteredItems.sort((a, b) => b.pubDate - a.pubDate);
   
-  // Identify music releases (new albums, singles, premieres, streams)
-  const musicReleaseKeywords = [
-    'new album',
-    'releases',
-    'premiere',
-    'stream',
-    'listen',
-    'debut',
-    'drops',
-    'announces',
-    'shares',
-    'unveils',
-    'new single',
-    'new track',
-    'new song',
-    'new ep',
-    'new music',
-    'out now',
-    'available now'
-  ];
-  
+  // Identify music releases with improved detection
+  // Require explicit music context to avoid false positives from TV/tech news
   const musicReleases = filteredItems.filter(item => {
     const titleLower = item.title.toLowerCase();
-    return musicReleaseKeywords.some(keyword => titleLower.includes(keyword));
+    
+    // Exclude obvious non-music content
+    const nonMusicKeywords = [
+      'season',
+      'episode',
+      'tv',
+      'show',
+      'series',
+      'movie',
+      'film',
+      'ceo',
+      'streamer',
+      'roku',
+      'netflix',
+      'hbo',
+      'hulu',
+      'amazon prime',
+      'apple tv',
+      'disney+',
+      'game',
+      'gaming'
+    ];
+    
+    if (nonMusicKeywords.some(keyword => titleLower.includes(keyword))) {
+      return false;
+    }
+    
+    // Strong music indicators (high confidence)
+    const strongMusicKeywords = [
+      'new album',
+      'new single',
+      'new track',
+      'new song',
+      'new ep',
+      'new music',
+      'album review',
+      'song premiere',
+      'music video',
+      'tour dates',
+      'tour announcement',
+      'concert',
+      'festival lineup'
+    ];
+    
+    if (strongMusicKeywords.some(keyword => titleLower.includes(keyword))) {
+      return true;
+    }
+    
+    // Moderate indicators (need additional music context)
+    const moderateKeywords = ['shares', 'unveils', 'drops', 'releases', 'announces'];
+    const musicContext = ['song', 'track', 'album', 'ep', 'music', 'single', 'video', 'tour'];
+    
+    const hasModeratekeyword = moderateKeywords.some(kw => titleLower.includes(kw));
+    const hasMusicContext = musicContext.some(ctx => titleLower.includes(ctx));
+    
+    return hasModeratekeyword && hasMusicContext;
   }).slice(0, 10); // Top 10 music releases
   
   console.log(`\n🎵 Found ${musicReleases.length} music release stories`);
