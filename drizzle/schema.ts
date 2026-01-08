@@ -111,3 +111,42 @@ export const rssSourceConfig = mysqlTable("rss_source_config", {
 
 export type RssSourceConfig = typeof rssSourceConfig.$inferSelect;
 export type InsertRssSourceConfig = typeof rssSourceConfig.$inferInsert;
+
+/**
+ * Featured Artist Spotlight
+ * Stores the currently featured artist with auto-populated data from MusicBrainz
+ */
+export const featuredArtist = mysqlTable("featured_artist", {
+  id: int("id").autoincrement().primaryKey(),
+  
+  // Artist identification
+  artistName: text("artist_name").notNull(),
+  musicbrainzId: varchar("musicbrainz_id", { length: 64 }),
+  
+  // Auto-populated data from MusicBrainz
+  bio: text("bio"),
+  genres: text("genres"), // JSON array of genre strings
+  originCountry: varchar("origin_country", { length: 64 }),
+  originCity: varchar("origin_city", { length: 128 }),
+  formedYear: int("formed_year"),
+  
+  // Links (JSON object with keys: website, bandcamp, spotify, soundcloud, instagram, twitter)
+  links: text("links"),
+  
+  // Latest releases (JSON array of release objects)
+  latestReleases: text("latest_releases"),
+  
+  // Custom curator notes
+  curatorNotes: text("curator_notes"),
+  
+  // Status
+  isActive: int("is_active").notNull().default(1), // Only one can be active at a time
+  
+  // Timestamps
+  featuredAt: timestamp("featured_at").defaultNow().notNull(),
+  createdAt: timestamp("created_at").defaultNow().notNull(),
+  updatedAt: timestamp("updated_at").defaultNow().onUpdateNow().notNull(),
+});
+
+export type FeaturedArtist = typeof featuredArtist.$inferSelect;
+export type InsertFeaturedArtist = typeof featuredArtist.$inferInsert;

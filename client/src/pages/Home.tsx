@@ -13,6 +13,7 @@ import { useEffect, useState } from 'react';
 import { useTheme } from '@/contexts/ThemeContext';
 import { Button } from '@/components/ui/button';
 import { NewsletterSignup } from "@/components/NewsletterSignup";
+import { FeaturedArtistDisplay } from "@/components/FeaturedArtistDisplay";
 import { trpc } from '@/lib/trpc';
 
 // Theme toggle component with sun/moon icon
@@ -230,6 +231,9 @@ export default function Home() {
             </h2>
           </a>
         </section>
+
+        {/* Featured Artist */}
+        <FeaturedArtistDisplay />
 
         {/* Main Column */}
         <section className="mb-12 border-b-2 border-foreground pb-8">

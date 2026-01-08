@@ -574,3 +574,26 @@
 - [x] Add filters for sales, deals, discounts, promotional content
 - [x] Add filters for product advertisements and sponsored content
 - [x] Added 14 advertising keywords to exclusion list
+
+## Featured Artist Spotlight System
+
+- [ ] Create database schema for featured artist
+- [ ] Build MusicBrainz API integration for auto-populating artist data
+- [ ] Create admin interface for setting featured artist by name
+- [ ] Build homepage featured artist display section
+- [ ] Add ability to edit auto-populated info
+- [ ] Test with real artists
+
+## Featured Artist Spotlight
+
+- [x] Create database schema for featuredArtist table
+- [x] Build MusicBrainz API integration service
+- [x] Create database functions (getActiveFeaturedArtist, setFeaturedArtist, deactivateFeaturedArtist)
+- [x] Build tRPC router with getCurrent, setByName, updateNotes, deactivate endpoints
+- [x] Create FeaturedArtistSection component for admin panel
+- [x] Create FeaturedArtistDisplay component for homepage
+- [x] Integrate Featured Artist section into admin panel
+- [x] Integrate Featured Artist display into homepage (after splash headline)
+- [x] Write comprehensive tests (MusicBrainz integration, database operations, end-to-end flow)
+- [x] Test all functionality (8/8 tests passed)
+- [x] Deploy Featured Artist feature

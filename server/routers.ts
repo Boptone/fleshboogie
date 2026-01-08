@@ -7,6 +7,7 @@ import { contentRouter } from "./routers/content";
 import { cronRouter } from "./routers/cron";
 import { rssMetricsRouter } from "./routers/rssMetrics";
 import { contentApiRouter } from "./routers/contentApi";
+import { featuredArtistRouter } from "./routers/featuredArtist";
 
 export const appRouter = router({
     // if you need to use socket.io, read and register route in server/_core/index.ts, all api should start with '/api/' so that the gateway can route correctly
@@ -16,6 +17,7 @@ export const appRouter = router({
   cron: cronRouter,
   rssMetrics: rssMetricsRouter,
   contentApi: contentApiRouter,
+  featuredArtist: featuredArtistRouter,
   auth: router({
     me: publicProcedure.query(opts => opts.ctx.user),
     logout: publicProcedure.mutation(({ ctx }) => {

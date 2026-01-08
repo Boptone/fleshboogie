@@ -7,6 +7,7 @@ import { trpc } from "@/lib/trpc";
 import { useEffect, useState } from "react";
 import { toast } from "sonner";
 import { getLoginUrl } from "@/const";
+import { FeaturedArtistSection } from "@/components/FeaturedArtistSection";
 
 interface LinkItem {
   title: string;
@@ -160,6 +161,9 @@ export default function Admin() {
       </header>
 
       <main className="container pb-16 space-y-12">
+        {/* Featured Artist */}
+        <FeaturedArtistSection />
+        
         {/* Splash Headline */}
         <section className="border-2 border-foreground p-6">
           <div className="flex justify-between items-center mb-4">
