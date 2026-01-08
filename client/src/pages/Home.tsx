@@ -168,7 +168,31 @@ export default function Home() {
   
   useEffect(() => {
     if (contentData?.success && contentData.content) {
-      setContent(contentData.content);
+      // Filter music content from automated feed if musicReleases is empty
+      const musicDomains = [
+        'billboard.com',
+        'brooklynvegan.com',
+        'pitchfork.com',
+        'clashmusic.com',
+        'udiscovermusic.com',
+        'stereogum.com',
+        'consequence.net',
+        'rollingstone.com/music',
+        'variety.com/music',
+        'hollywoodreporter.com/music'
+      ];
+      
+      let processedContent = { ...contentData.content };
+      
+      // If musicReleases is empty or undefined, filter from automated
+      if (!processedContent.musicReleases || processedContent.musicReleases.length === 0) {
+        const musicItems = (processedContent.automated || []).filter((item: LinkItem) => 
+          musicDomains.some(domain => item.url.includes(domain))
+        );
+        processedContent.musicReleases = musicItems;
+      }
+      
+      setContent(processedContent);
     }
   }, [contentData]);
 
