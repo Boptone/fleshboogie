@@ -639,3 +639,9 @@
 
 - [x] Move "View All Featured Artists" link inside Featured Artist section
 - [x] Test layout and visual hierarchy
+
+## Content Section Heading Improvements
+
+- [x] Rename Main Column section to "LATEST FROM THE WIRE"
+- [x] Rename automated feed section from "LATEST FROM THE WIRE" to "MORE FROM THE WIRE"
+- [x] Test and verify improved content hierarchy

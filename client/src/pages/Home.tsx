@@ -237,6 +237,7 @@ export default function Home() {
 
         {/* Main Column */}
         <section className="mb-12 border-b-2 border-foreground pb-8">
+          <h3 className="text-2xl md:text-3xl font-black uppercase mb-6 tracking-tight">LATEST FROM THE WIRE</h3>
           <div className="space-y-3">
             {content.mainColumn.map((item, index) => (
               <div key={index} className="flex gap-3 items-baseline">
@@ -283,7 +284,7 @@ export default function Home() {
         {/* Automated Feed Section */}
         {content.automated && content.automated.length > 0 && (
           <section className="mb-12 border-b-2 border-foreground pb-8">
-            <h3 className="text-xl font-black uppercase mb-4 tracking-wide">LATEST FROM THE WIRE</h3>
+            <h3 className="text-xl font-black uppercase mb-4 tracking-wide">MORE FROM THE WIRE</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-2">
               {content.automated.slice(0, 10).map((item, index) => (
                 <div key={index} className="flex gap-2 items-baseline">
