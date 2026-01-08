@@ -657,3 +657,18 @@
 
 - [x] Update Home page to show only 10 most recent music items
 - [x] Test and verify limit is working
+
+## Clean Up Featured Artist Archive
+
+- [x] Remove test artists (Sonic Youth, Yves Tumor, etc.) from database
+- [x] Keep only Theo Lawrence
+- [x] Verify archive page displays correctly
+
+### Manual Featured Artist Editing
+- [x] Update admin UI to show editable fields after MusicBrainz search
+- [x] Add text inputs for bio, genres, origin, formed year
+- [x] Add link inputs for website, Bandcamp, Spotify, SoundCloud, Instagram, Twitter
+- [x] Add release management (add/edit/remove releases)
+- [x] Implement manual save functionality
+- [x] Test with underground artist with limited MusicBrainz data
+- [x] Save checkpoint and deploy

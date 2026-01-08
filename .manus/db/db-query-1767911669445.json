@@ -1,0 +1,16 @@
+{
+  "query": "SELECT id, artist_name, is_active, featured_at FROM featured_artist ORDER BY featured_at DESC;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2SKEMaxYovcAzrR.251781ef2d6e --database JCsEuhJ6qsQEcpKUGBBn5v --execute SELECT id, artist_name, is_active, featured_at FROM featured_artist ORDER BY featured_at DESC;",
+  "rows": [
+    {
+      "id": "30005",
+      "artist_name": "Theo Lawrence",
+      "is_active": "1",
+      "featured_at": "2026-01-08 21:56:01"
+    }
+  ],
+  "messages": [],
+  "stdout": "id\tartist_name\tis_active\tfeatured_at\n30005\tTheo Lawrence\t1\t2026-01-08 21:56:01\n",
+  "stderr": "",
+  "execution_time_ms": 53
+}

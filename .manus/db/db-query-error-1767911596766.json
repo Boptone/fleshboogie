@@ -1,0 +1,8 @@
+{
+  "query": "SELECT id, artistName, originCountry, isActive, featuredAt FROM featured_artist ORDER BY featuredAt DESC;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2SKEMaxYovcAzrR.251781ef2d6e --database JCsEuhJ6qsQEcpKUGBBn5v --execute SELECT id, artistName, originCountry, isActive, featuredAt FROM featured_artist ORDER BY featuredAt DESC;",
+  "returncode": 1,
+  "logs": [
+    "ERROR 1054 (42S22) at line 1: Unknown column 'artistname' in 'field list'"
+  ]
+}

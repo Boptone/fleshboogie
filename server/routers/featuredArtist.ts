@@ -103,6 +103,70 @@ export const featuredArtistRouter = router({
     }),
 
   /**
+   * Set featured artist with manual data (admin only)
+   * Allows creating artist profiles from scratch or overriding MusicBrainz data
+   */
+  setManual: protectedProcedure
+    .input(
+      z.object({
+        artistName: z.string().min(1),
+        bio: z.string().optional(),
+        genres: z.array(z.string()).optional(),
+        originCity: z.string().optional(),
+        originCountry: z.string().optional(),
+        formedYear: z.number().optional(),
+        website: z.string().optional(),
+        bandcamp: z.string().optional(),
+        spotify: z.string().optional(),
+        soundcloud: z.string().optional(),
+        instagram: z.string().optional(),
+        twitter: z.string().optional(),
+        latestReleases: z.array(
+          z.object({
+            title: z.string(),
+            type: z.string(),
+            date: z.string(),
+          })
+        ).optional(),
+        curatorNotes: z.string().optional(),
+      })
+    )
+    .mutation(async ({ input }) => {
+      // Build links object
+      const links: any = {};
+      if (input.website) links.website = input.website;
+      if (input.bandcamp) links.bandcamp = input.bandcamp;
+      if (input.spotify) links.spotify = input.spotify;
+      if (input.soundcloud) links.soundcloud = input.soundcloud;
+      if (input.instagram) links.instagram = input.instagram;
+      if (input.twitter) links.twitter = input.twitter;
+      
+      // Set as featured artist
+      const newArtist = await setFeaturedArtist({
+        artistName: input.artistName,
+        musicbrainzId: null,
+        bio: input.bio || null,
+        genres: input.genres ? JSON.stringify(input.genres) : null,
+        originCountry: input.originCountry || null,
+        originCity: input.originCity || null,
+        formedYear: input.formedYear || null,
+        links: Object.keys(links).length > 0 ? JSON.stringify(links) : null,
+        latestReleases: input.latestReleases ? JSON.stringify(input.latestReleases) : null,
+        curatorNotes: input.curatorNotes || null,
+      });
+      
+      return {
+        success: true,
+        artist: {
+          ...newArtist,
+          genres: newArtist.genres ? JSON.parse(newArtist.genres) : [],
+          links: newArtist.links ? JSON.parse(newArtist.links) : {},
+          latestReleases: newArtist.latestReleases ? JSON.parse(newArtist.latestReleases) : [],
+        },
+      };
+    }),
+
+  /**
    * Deactivate current featured artist (admin only)
    */
   deactivate: protectedProcedure.mutation(async () => {

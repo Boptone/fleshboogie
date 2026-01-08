@@ -1,0 +1,73 @@
+{
+  "query": "SELECT id, artist_name, origin_country, is_active, featured_at FROM featured_artist ORDER BY featured_at DESC;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2SKEMaxYovcAzrR.251781ef2d6e --database JCsEuhJ6qsQEcpKUGBBn5v --execute SELECT id, artist_name, origin_country, is_active, featured_at FROM featured_artist ORDER BY featured_at DESC;",
+  "rows": [
+    {
+      "id": "30005",
+      "artist_name": "Theo Lawrence",
+      "origin_country": "FR",
+      "is_active": "1",
+      "featured_at": "2026-01-08 21:56:01"
+    },
+    {
+      "id": "30004",
+      "artist_name": "Yves Tumor",
+      "origin_country": "IT",
+      "is_active": "0",
+      "featured_at": "2026-01-08 21:48:30"
+    },
+    {
+      "id": "30003",
+      "artist_name": "Sonic Youth",
+      "origin_country": "US",
+      "is_active": "0",
+      "featured_at": "2026-01-08 21:48:28"
+    },
+    {
+      "id": "30002",
+      "artist_name": "Theo Lawrence",
+      "origin_country": "FR",
+      "is_active": "0",
+      "featured_at": "2026-01-08 21:24:59"
+    },
+    {
+      "id": "30001",
+      "artist_name": "Ramsay Midwood",
+      "origin_country": "US",
+      "is_active": "0",
+      "featured_at": "2026-01-08 21:20:21"
+    },
+    {
+      "id": "4",
+      "artist_name": "Sonic Youth",
+      "origin_country": "US",
+      "is_active": "0",
+      "featured_at": "2026-01-08 20:31:51"
+    },
+    {
+      "id": "1",
+      "artist_name": "Test Artist",
+      "origin_country": "US",
+      "is_active": "0",
+      "featured_at": "2026-01-08 20:31:50"
+    },
+    {
+      "id": "2",
+      "artist_name": "Artist One",
+      "origin_country": "NULL",
+      "is_active": "0",
+      "featured_at": "2026-01-08 20:31:50"
+    },
+    {
+      "id": "3",
+      "artist_name": "Artist Two",
+      "origin_country": "NULL",
+      "is_active": "0",
+      "featured_at": "2026-01-08 20:31:50"
+    }
+  ],
+  "messages": [],
+  "stdout": "id\tartist_name\torigin_country\tis_active\tfeatured_at\n30005\tTheo Lawrence\tFR\t1\t2026-01-08 21:56:01\n30004\tYves Tumor\tIT\t0\t2026-01-08 21:48:30\n30003\tSonic Youth\tUS\t0\t2026-01-08 21:48:28\n30002\tTheo Lawrence\tFR\t0\t2026-01-08 21:24:59\n30001\tRamsay Midwood\tUS\t0\t2026-01-08 21:20:21\n4\tSonic Youth\tUS\t0\t2026-01-08 20:31:51\n1\tTest Artist\tUS\t0\t2026-01-08 20:31:50\n2\tArtist One\tNULL\t0\t2026-01-08 20:31:50\n3\tArtist Two\tNULL\t0\t2026-01-08 20:31:50\n",
+  "stderr": "",
+  "execution_time_ms": 61
+}
