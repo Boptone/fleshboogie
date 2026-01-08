@@ -84,6 +84,16 @@ export function FeaturedArtistDisplay() {
             </div>
           </div>
         )}
+
+        {/* Archive Link */}
+        <div className="border-t border-foreground pt-4">
+          <a
+            href="/featured-artists"
+            className="text-sm uppercase font-bold underline hover:bg-foreground hover:text-background transition-none px-2 py-1"
+          >
+            View All Featured Artists →
+          </a>
+        </div>
       </div>
     </section>
   );

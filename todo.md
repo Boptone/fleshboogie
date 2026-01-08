@@ -634,3 +634,8 @@
 - [x] Build /featured-artists archive page component
 - [x] Add navigation link to archive page
 - [x] Test and deploy
+
+## Featured Artist Archive Link Position
+
+- [x] Move "View All Featured Artists" link inside Featured Artist section
+- [x] Test layout and visual hierarchy
