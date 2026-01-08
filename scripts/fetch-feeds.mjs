@@ -192,6 +192,23 @@ const EXCLUDE_KEYWORDS = [
   'pregnant',
   'baby',
   
+  // Advertising and promotional content
+  'sale',
+  'discount',
+  'deal',
+  'save up to',
+  'off',
+  '% off',
+  'promo',
+  'coupon',
+  'free shipping',
+  'limited time',
+  'shop now',
+  'buy now',
+  'order now',
+  'sponsored',
+  'advertisement',
+  
   // Politics and Trump (strict filtering)
   'trump',
   'donald trump',
