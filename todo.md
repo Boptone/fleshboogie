@@ -568,3 +568,9 @@
 ## Fix MUSIC NEWS Link Styling
 
 - [x] Make MUSIC NEWS section links bold like the rest of the site on mobile
+
+## Block Advertising and Promotional Content
+
+- [x] Add filters for sales, deals, discounts, promotional content
+- [x] Add filters for product advertisements and sponsored content
+- [x] Added 14 advertising keywords to exclusion list
