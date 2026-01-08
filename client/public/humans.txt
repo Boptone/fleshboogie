@@ -1,0 +1,34 @@
+/* TEAM */
+Creator: Scottie Diablo
+Location: Los Angeles, CA
+Contact: hello@fleshboogie.com
+X/Twitter: @fleshboogie
+
+/* THANKS */
+Built with: Manus AI
+Community: Underground music and culture enthusiasts worldwide
+
+/* SITE */
+Last update: 2026/01/08
+Language: English
+Doctype: HTML5
+Standards: HTML5, CSS3, JavaScript ES2022
+Components: React 18, TypeScript, Vite
+Backend: Node.js, tRPC, Drizzle ORM
+Database: PostgreSQL
+Styling: Tailwind CSS
+Design Philosophy: Xerox Brutalism
+Fonts: Helvetica (headlines), Courier (body)
+IDE: Built with Manus AI Development Platform
+
+/* CONTENT */
+RSS Feed: https://fleshboogie.com/rss.xml
+Atom Feed: https://fleshboogie.com/atom.xml
+Sitemap: https://fleshboogie.com/sitemap.xml
+Update Frequency: Every 15 minutes
+Content Sources: 25+ curated RSS feeds from independent music and culture publications
+
+/* PHILOSOPHY */
+FLESHBOOGIE is a music and culture news aggregator built on the principle of curation over algorithm.
+We believe in surfacing underground voices, independent artists, and cultural movements that deserve attention.
+No celebrity gossip. No politics. No violence. Just pure music, film, art, and culture.

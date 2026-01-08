@@ -693,6 +693,14 @@ async function main() {
   // Update sitemap with current timestamp
   updateSitemap();
   
+  // Generate RSS/Atom feeds for AI search engines
+  try {
+    const { execSync } = await import('child_process');
+    execSync('node scripts/generate-rss.mjs', { cwd: path.join(__dirname, '..'), stdio: 'inherit' });
+  } catch (err) {
+    console.error('✗ Failed to generate RSS feeds:', err.message);
+  }
+  
   // Update archive with splash headline
   const archivePath = isProduction
     ? path.join(__dirname, '..', 'dist', 'public', 'data', 'archive.json')
