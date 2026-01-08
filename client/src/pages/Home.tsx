@@ -189,7 +189,8 @@ export default function Home() {
         const musicItems = (processedContent.automated || []).filter((item: LinkItem) => 
           musicDomains.some(domain => item.url.includes(domain))
         );
-        processedContent.musicReleases = musicItems;
+        // Limit to 10 most recent music items
+        processedContent.musicReleases = musicItems.slice(0, 10);
       }
       
       setContent(processedContent);

@@ -652,3 +652,8 @@
 - [x] Filter music content from automated feed
 - [x] Display MUSIC NEWS section on homepage
 - [x] Test and deploy
+
+## Limit MUSIC NEWS to 10 Most Recent Stories
+
+- [x] Update Home page to show only 10 most recent music items
+- [x] Test and verify limit is working
