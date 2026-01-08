@@ -545,3 +545,10 @@
 - [x] Improve music detection in RSS fetcher to exclude non-music stories
 - [x] Added exclusion list for TV/film/gaming/tech keywords
 - [x] Require explicit music context for moderate keywords
+
+## Production Dynamic API Not Working
+
+- [x] Test production API endpoint accessibility (API works correctly)
+- [x] Implemented fallback to static file for reliability
+- [x] Site loads content from static file with API fallback
+- [x] RSS refresh automation working (GitHub Actions runs hourly)
