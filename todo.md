@@ -545,3 +545,7 @@
 - [x] Improve music detection in RSS fetcher to exclude non-music stories
 - [x] Added exclusion list for TV/film/gaming/tech keywords
 - [x] Require explicit music context for moderate keywords
+
+## Change Section Heading for SEO
+
+- [x] Change "NEW MUSIC" to "MUSIC NEWS" for better SEO
