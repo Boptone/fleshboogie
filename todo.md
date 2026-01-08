@@ -556,3 +556,11 @@
 - [x] Add exclusion filter for Christian/gospel music content
 - [x] Added 30+ mainstream pop artists to exclusion list
 - [x] Added Christian/gospel/worship keywords to exclusion list
+
+## Add New RSS Feeds
+
+- [x] Add Futurism Restated (https://futurismrestated.substack.com/feed)
+- [x] Add Far Out Magazine (https://faroutmagazine.co.uk/)
+- [x] Add Under the Radar (https://www.undertheradarmag.com/)
+- [x] Add Ultimate Classic Rock (https://ultimateclassicrock.com)
+- [x] Update RSS metrics database with new sources (now 88 total sources)

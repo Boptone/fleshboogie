@@ -1,0 +1,8 @@
+{
+  "query": "INSERT INTO rss_source_config (name, url, category, enabled) VALUES \n('Futurism Restated', 'https://futurismrestated.substack.com/feed', 'music', true),\n('Far Out Magazine', 'https://faroutmagazine.co.uk/feed/', 'music', true),\n('Under the Radar', 'https://www.undertheradarmag.com/feed', 'music', true),\n('Ultimate Classic Rock', 'https://ultimateclassicrock.com/feed/', 'music', true);",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2SKEMaxYovcAzrR.251781ef2d6e --database JCsEuhJ6qsQEcpKUGBBn5v --execute INSERT INTO rss_source_config (name, url, category, enabled) VALUES \n('Futurism Restated', 'https://futurismrestated.substack.com/feed', 'music', true),\n('Far Out Magazine', 'https://faroutmagazine.co.uk/feed/', 'music', true),\n('Under the Radar', 'https://www.undertheradarmag.com/feed', 'music', true),\n('Ultimate Classic Rock', 'https://ultimateclassicrock.com/feed/', 'music', true);",
+  "returncode": 1,
+  "logs": [
+    "ERROR 1054 (42S22) at line 1: Unknown column 'name' in 'field list'"
+  ]
+}

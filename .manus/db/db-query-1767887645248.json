@@ -1,0 +1,27 @@
+{
+  "query": "SELECT * FROM rss_source_config LIMIT 1;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2SKEMaxYovcAzrR.251781ef2d6e --database JCsEuhJ6qsQEcpKUGBBn5v --execute SELECT * FROM rss_source_config LIMIT 1;",
+  "rows": [
+    {
+      "id": "1",
+      "source_url": "https://consequenceofsound.net/feed/",
+      "source_name": "Consequence",
+      "category": "music",
+      "is_enabled": "1",
+      "is_monitored": "1",
+      "total_fetches": "0",
+      "successful_fetches": "0",
+      "success_rate": "100",
+      "average_quality_score": "0",
+      "first_fetch_at": "NULL",
+      "last_fetch_at": "NULL",
+      "last_success_at": "NULL",
+      "created_at": "2026-01-07 23:39:23",
+      "updated_at": "2026-01-07 23:40:53"
+    }
+  ],
+  "messages": [],
+  "stdout": "id\tsource_url\tsource_name\tcategory\tis_enabled\tis_monitored\ttotal_fetches\tsuccessful_fetches\tsuccess_rate\taverage_quality_score\tfirst_fetch_at\tlast_fetch_at\tlast_success_at\tcreated_at\tupdated_at\n1\thttps://consequenceofsound.net/feed/\tConsequence\tmusic\t1\t1\t0\t0\t100\t0\tNULL\tNULL\tNULL\t2026-01-07 23:39:23\t2026-01-07 23:40:53\n",
+  "stderr": "",
+  "execution_time_ms": 53
+}

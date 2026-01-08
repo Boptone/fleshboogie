@@ -96,6 +96,12 @@ const FEEDS = [
   'https://nekocase.substack.com/feed',        // Neko Case - artist newsletter
   'https://dusttodigital.substack.com/feed',   // Dust-to-Digital - record label
   'https://timnapalmstegall.substack.com/feed', // Tim Napalm Stegall - music writer
+  'https://futurismrestated.substack.com/feed',  // Futurism Restated - music and culture
+  
+  // Additional music magazines and blogs
+  'https://faroutmagazine.co.uk/feed/',          // Far Out Magazine - music and culture
+  'https://www.undertheradarmag.com/feed',       // Under the Radar - indie music magazine
+  'https://ultimateclassicrock.com/feed/',       // Ultimate Classic Rock
   
   // Entertainment and tech sources
   'https://deadline.com/feed/',                // Entertainment news

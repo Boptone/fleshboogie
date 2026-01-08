@@ -1,0 +1,9 @@
+{
+  "query": "INSERT INTO rss_source_config (source_url, source_name, category, is_enabled) VALUES \n('https://futurismrestated.substack.com/feed', 'Futurism Restated', 'music', 1),\n('https://faroutmagazine.co.uk/feed/', 'Far Out Magazine', 'music', 1),\n('https://www.undertheradarmag.com/feed', 'Under the Radar', 'music', 1),\n('https://ultimateclassicrock.com/feed/', 'Ultimate Classic Rock', 'music', 1);",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2SKEMaxYovcAzrR.251781ef2d6e --database JCsEuhJ6qsQEcpKUGBBn5v --execute INSERT INTO rss_source_config (source_url, source_name, category, is_enabled) VALUES \n('https://futurismrestated.substack.com/feed', 'Futurism Restated', 'music', 1),\n('https://faroutmagazine.co.uk/feed/', 'Far Out Magazine', 'music', 1),\n('https://www.undertheradarmag.com/feed', 'Under the Radar', 'music', 1),\n('https://ultimateclassicrock.com/feed/', 'Ultimate Classic Rock', 'music', 1);",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 69
+}
