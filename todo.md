@@ -518,3 +518,23 @@
 - [ ] Enhance RSS fetcher to track metrics during each refresh
 - [ ] Test metrics tracking with actual RSS refresh
 - [ ] Review quality data and optimize source mix
+
+## Admin Login Authentication Issue
+
+- [ ] Diagnose why admin login button redirects to main page instead of completing OAuth
+- [ ] Check OAuth configuration and login URL
+- [ ] Verify authentication flow in Admin.tsx
+- [ ] Test admin login functionality
+- [ ] Fix authentication redirect issue
+
+## Hourly RSS Refresh Not Working
+
+- [x] Check GitHub Actions workflow status and logs
+- [x] Test RSS refresh endpoint manually
+- [x] Verify CRON_SECRET is configured correctly
+- [x] Check production endpoint accessibility
+- [x] Identified issue: GitHub Actions updates files but published site serves stale content
+- [x] Create API endpoint to serve content.json dynamically
+- [x] Update frontend to fetch from API instead of static file
+- [x] Test dynamic content loading (5 tests passed)
+- [x] Implemented fully autonomous RSS refresh system

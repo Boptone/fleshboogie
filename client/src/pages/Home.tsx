@@ -13,6 +13,7 @@ import { useEffect, useState } from 'react';
 import { useTheme } from '@/contexts/ThemeContext';
 import { Button } from '@/components/ui/button';
 import { NewsletterSignup } from "@/components/NewsletterSignup";
+import { trpc } from '@/lib/trpc';
 
 // Theme toggle component with sun/moon icon
 function ThemeToggle() {
@@ -161,13 +162,14 @@ export default function Home() {
     };
   }, [content]);
 
-  // Fetch content from JSON file
+  // Fetch content from API (always gets latest RSS updates)
+  const { data: contentData } = trpc.contentApi.getCurrent.useQuery();
+  
   useEffect(() => {
-    fetch('/data/content.json')
-      .then(res => res.json())
-      .then(data => setContent(data))
-      .catch(err => console.error('Failed to load content:', err));
-  }, []);
+    if (contentData?.success && contentData.content) {
+      setContent(contentData.content);
+    }
+  }, [contentData]);
 
   // Update relative time every minute
   useEffect(() => {
