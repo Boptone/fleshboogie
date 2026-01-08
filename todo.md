@@ -549,3 +549,10 @@
 ## Change Section Heading for SEO
 
 - [x] Change "NEW MUSIC" to "MUSIC NEWS" for better SEO
+
+## Filter Mainstream Pop and Christian Music
+
+- [x] Add exclusion list for top 40 pop artists (Bruno Mars, Taylor Swift, etc.)
+- [x] Add exclusion filter for Christian/gospel music content
+- [x] Added 30+ mainstream pop artists to exclusion list
+- [x] Added Christian/gospel/worship keywords to exclusion list

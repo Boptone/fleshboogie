@@ -476,6 +476,56 @@ async function main() {
       'gaming'
     ];
     
+    // Exclude mainstream pop artists and Christian music
+    const mainstreamArtists = [
+      'bruno mars',
+      'taylor swift',
+      'beyonce',
+      'drake',
+      'ed sheeran',
+      'ariana grande',
+      'justin bieber',
+      'billie eilish',
+      'the weeknd',
+      'dua lipa',
+      'olivia rodrigo',
+      'bad bunny',
+      'harry styles',
+      'adele',
+      'rihanna',
+      'kanye west',
+      'post malone',
+      'lady gaga',
+      'katy perry',
+      'miley cyrus',
+      'selena gomez',
+      'shawn mendes',
+      'camila cabello',
+      'doja cat',
+      'megan thee stallion',
+      'cardi b',
+      'lizzo',
+      'sam smith',
+      'charlie puth',
+      'bts',
+      'blackpink',
+      'amy grant',
+      'christian',
+      'gospel',
+      'worship',
+      'praise',
+      'hillsong',
+      'bethel music',
+      'elevation worship',
+      'jesus',
+      'christ',
+      'faith-based'
+    ];
+    
+    if (mainstreamArtists.some(artist => titleLower.includes(artist))) {
+      return false;
+    }
+    
     if (nonMusicKeywords.some(keyword => titleLower.includes(keyword))) {
       return false;
     }
