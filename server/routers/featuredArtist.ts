@@ -8,6 +8,7 @@ import { router, protectedProcedure, publicProcedure } from '../_core/trpc.js';
 import { searchAndGetArtistData } from '../services/musicbrainz.js';
 import {
   getActiveFeaturedArtist,
+  getAllFeaturedArtists,
   setFeaturedArtist,
   updateFeaturedArtist,
   deactivateFeaturedArtist,
@@ -107,5 +108,23 @@ export const featuredArtistRouter = router({
   deactivate: protectedProcedure.mutation(async () => {
     await deactivateFeaturedArtist();
     return { success: true };
+  }),
+
+  /**
+   * Get all featured artists (archive/history) (public)
+   */
+  getAll: publicProcedure.query(async () => {
+    const artists = await getAllFeaturedArtists();
+    
+    // Parse JSON fields for each artist
+    return {
+      success: true,
+      artists: artists.map(artist => ({
+        ...artist,
+        genres: artist.genres ? JSON.parse(artist.genres) : [],
+        links: artist.links ? JSON.parse(artist.links) : {},
+        latestReleases: artist.latestReleases ? JSON.parse(artist.latestReleases) : [],
+      })),
+    };
   }),
 });

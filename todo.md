@@ -626,3 +626,11 @@
 - [x] User selects preferred design (Unicode ⚡ emoji)
 - [x] Add ⚡ to FLESHBOOGIE FEATURED ARTIST heading
 - [x] Test and deploy
+
+## Featured Artist Archive Page
+
+- [x] Update database schema to track deactivation dates
+- [x] Create tRPC endpoint to fetch all featured artists (past and present)
+- [x] Build /featured-artists archive page component
+- [x] Add navigation link to archive page
+- [x] Test and deploy

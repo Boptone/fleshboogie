@@ -234,6 +234,16 @@ export default function Home() {
 
         {/* Featured Artist */}
         <FeaturedArtistDisplay />
+        
+        {/* Link to Featured Artists Archive */}
+        <div className="mb-12 -mt-8">
+          <a
+            href="/featured-artists"
+            className="text-sm uppercase font-bold underline hover:bg-foreground hover:text-background transition-none px-2 py-1"
+          >
+            View All Featured Artists →
+          </a>
+        </div>
 
         {/* Main Column */}
         <section className="mb-12 border-b-2 border-foreground pb-8">

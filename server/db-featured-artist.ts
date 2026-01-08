@@ -2,7 +2,7 @@
  * Database functions for Featured Artist
  */
 
-import { eq } from 'drizzle-orm';
+import { eq, desc } from 'drizzle-orm';
 import { getDb } from './db.js';
 import { featuredArtist, type FeaturedArtist, type InsertFeaturedArtist } from '../drizzle/schema.js';
 
@@ -83,5 +83,5 @@ export async function getAllFeaturedArtists(): Promise<FeaturedArtist[]> {
   return await db
     .select()
     .from(featuredArtist)
-    .orderBy(featuredArtist.featuredAt);
+    .orderBy(desc(featuredArtist.featuredAt));
 }

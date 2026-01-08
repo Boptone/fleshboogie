@@ -12,6 +12,7 @@ import Terms from "./pages/Terms";
 import About from "./pages/About";
 import Archive from "./pages/Archive";
 import Preferences from "./pages/Preferences";
+import FeaturedArtists from "./pages/FeaturedArtists";
 
 function Router() {
   // make sure to consider if you need authentication for certain routes
@@ -22,6 +23,7 @@ function Router() {
       <Route path={"/rss-metrics"} component={RSSMetrics} />
       <Route path={"/about"} component={About} />
       <Route path={"/archive"} component={Archive} />
+      <Route path={"/featured-artists"} component={FeaturedArtists} />
       <Route path={"/preferences"} component={Preferences} />
       <Route path={"/privacy"} component={Privacy} />
       <Route path={"/terms"} component={Terms} />
