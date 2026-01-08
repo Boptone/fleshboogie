@@ -12,6 +12,7 @@ import {
   setFeaturedArtist,
   updateFeaturedArtist,
   deactivateFeaturedArtist,
+  deleteFeaturedArtist,
 } from '../db-featured-artist.js';
 
 export const featuredArtistRouter = router({
@@ -191,4 +192,18 @@ export const featuredArtistRouter = router({
       })),
     };
   }),
+
+  /**
+   * Delete a featured artist by ID (admin only)
+   */
+  delete: protectedProcedure
+    .input(
+      z.object({
+        id: z.number(),
+      })
+    )
+    .mutation(async ({ input }) => {
+      await deleteFeaturedArtist(input.id);
+      return { success: true };
+    }),
 });

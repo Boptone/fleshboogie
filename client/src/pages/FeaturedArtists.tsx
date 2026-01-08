@@ -1,7 +1,46 @@
 import { trpc } from "@/lib/trpc";
+import { useState } from "react";
+import { Button } from "@/components/ui/button";
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+} from "@/components/ui/alert-dialog";
+import { toast } from "sonner";
 
 export default function FeaturedArtists() {
   const { data, isLoading } = trpc.featuredArtist.getAll.useQuery();
+  const [deleteDialogOpen, setDeleteDialogOpen] = useState(false);
+  const [artistToDelete, setArtistToDelete] = useState<{ id: number; name: string } | null>(null);
+  
+  const utils = trpc.useUtils();
+  const deleteMutation = trpc.featuredArtist.delete.useMutation({
+    onSuccess: () => {
+      toast.success(`${artistToDelete?.name} has been deleted`);
+      utils.featuredArtist.getAll.invalidate();
+      setDeleteDialogOpen(false);
+      setArtistToDelete(null);
+    },
+    onError: (error: any) => {
+      toast.error(`Failed to delete artist: ${error.message}`);
+    },
+  });
+  
+  const handleDeleteClick = (id: number, name: string) => {
+    setArtistToDelete({ id, name });
+    setDeleteDialogOpen(true);
+  };
+  
+  const handleConfirmDelete = () => {
+    if (artistToDelete) {
+      deleteMutation.mutate({ id: artistToDelete.id });
+    }
+  };
 
   if (isLoading) {
     return (
@@ -53,21 +92,33 @@ export default function FeaturedArtists() {
                 {/* Artist Header */}
                 <div className="mb-4">
                   <div className="flex items-start justify-between mb-2">
-                    <h2 className="text-2xl md:text-3xl font-black uppercase">
-                      {artist.artistName}
-                      {artist.isActive === 1 && (
-                        <span className="ml-3 text-sm bg-foreground text-background px-2 py-1">
-                          CURRENT
-                        </span>
-                      )}
-                    </h2>
-                    <time className="text-sm font-bold text-muted-foreground">
-                      {new Date(artist.featuredAt).toLocaleDateString("en-US", {
-                        year: "numeric",
-                        month: "long",
-                        day: "numeric",
-                      })}
-                    </time>
+                    <div className="flex-1">
+                      <h2 className="text-2xl md:text-3xl font-black uppercase">
+                        {artist.artistName}
+                        {artist.isActive === 1 && (
+                          <span className="ml-3 text-sm bg-foreground text-background px-2 py-1">
+                            CURRENT
+                          </span>
+                        )}
+                      </h2>
+                    </div>
+                    <div className="flex items-center gap-3">
+                      <time className="text-sm font-bold text-muted-foreground">
+                        {new Date(artist.featuredAt).toLocaleDateString("en-US", {
+                          year: "numeric",
+                          month: "long",
+                          day: "numeric",
+                        })}
+                      </time>
+                      <Button
+                        variant="destructive"
+                        size="sm"
+                        onClick={() => handleDeleteClick(artist.id, artist.artistName)}
+                        className="text-xs uppercase font-bold"
+                      >
+                        Delete
+                      </Button>
+                    </div>
                   </div>
 
                   {/* Origin */}
@@ -138,8 +189,29 @@ export default function FeaturedArtists() {
               </article>
             ))}
           </div>
-        )}
+         )}
       </div>
+      
+      {/* Delete Confirmation Dialog */}
+      <AlertDialog open={deleteDialogOpen} onOpenChange={setDeleteDialogOpen}>
+        <AlertDialogContent>
+          <AlertDialogHeader>
+            <AlertDialogTitle>Delete Featured Artist?</AlertDialogTitle>
+            <AlertDialogDescription>
+              Are you sure you want to delete <strong>{artistToDelete?.name}</strong> from the Featured Artist archive? This action cannot be undone.
+            </AlertDialogDescription>
+          </AlertDialogHeader>
+          <AlertDialogFooter>
+            <AlertDialogCancel>Cancel</AlertDialogCancel>
+            <AlertDialogAction
+              onClick={handleConfirmDelete}
+              className="bg-destructive text-destructive-foreground hover:bg-destructive/90"
+            >
+              {deleteMutation.isPending ? "Deleting..." : "Delete"}
+            </AlertDialogAction>
+          </AlertDialogFooter>
+        </AlertDialogContent>
+      </AlertDialog>
     </div>
   );
 }

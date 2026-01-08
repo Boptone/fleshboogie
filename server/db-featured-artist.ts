@@ -85,3 +85,14 @@ export async function getAllFeaturedArtists(): Promise<FeaturedArtist[]> {
     .from(featuredArtist)
     .orderBy(desc(featuredArtist.featuredAt));
 }
+
+/**
+ * Delete a featured artist by ID
+ */
+export async function deleteFeaturedArtist(id: number): Promise<void> {
+  const db = await getDb();
+  if (!db) throw new Error('Database not available');
+  await db
+    .delete(featuredArtist)
+    .where(eq(featuredArtist.id, id));
+}
