@@ -610,4 +610,10 @@
 - [x] Change "FEATURED ARTIST" to "FEATURED FLESHBOOGIE ARTIST" on homepage
 - [x] Change "FEATURED ARTIST SPOTLIGHT" to "FEATURED FLESHBOOGIE ARTIST SPOTLIGHT" in admin panel
 - [x] Test updated headings
-- [ ] Deploy changes
+- [x] Deploy changes
+
+## Revise Featured Artist Heading
+
+- [x] Change "FEATURED FLESHBOOGIE ARTIST" to "FLESHBOOGIE FEATURED ARTIST" on homepage
+- [x] Change "FEATURED FLESHBOOGIE ARTIST SPOTLIGHT" to "FLESHBOOGIE FEATURED ARTIST SPOTLIGHT" in admin panel
+- [x] Test and deploy
