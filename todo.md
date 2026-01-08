@@ -564,3 +564,7 @@
 - [x] Add Under the Radar (https://www.undertheradarmag.com/)
 - [x] Add Ultimate Classic Rock (https://ultimateclassicrock.com)
 - [x] Update RSS metrics database with new sources (now 88 total sources)
+
+## Fix MUSIC NEWS Link Styling
+
+- [x] Make MUSIC NEWS section links bold like the rest of the site on mobile

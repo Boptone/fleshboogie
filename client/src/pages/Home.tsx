@@ -266,7 +266,7 @@ export default function Home() {
                     href={item.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-sm md:text-base font-medium break-words hover:bg-foreground hover:text-background transition-none"
+                    className="text-sm md:text-base font-bold break-words hover:bg-foreground hover:text-background transition-none"
                   >
                     {item.title}
                   </a>
