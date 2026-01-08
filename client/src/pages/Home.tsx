@@ -162,28 +162,14 @@ export default function Home() {
     };
   }, [content]);
 
-  // Fetch content from API with fallback to static file
+  // Fetch content from API (always gets latest RSS updates)
+  const { data: contentData } = trpc.contentApi.getCurrent.useQuery();
+  
   useEffect(() => {
-    // Try API first (for real-time updates)
-    fetch('/api/trpc/contentApi.getCurrent')
-      .then(res => res.json())
-      .then(data => {
-        if (data?.result?.data?.success && data?.result?.data?.content) {
-          setContent(data.result.data.content);
-        } else {
-          // Fallback to static file
-          return fetch('/data/content.json').then(r => r.json()).then(setContent);
-        }
-      })
-      .catch(err => {
-        console.error('API failed, falling back to static file:', err);
-        // Fallback to static file on error
-        fetch('/data/content.json')
-          .then(res => res.json())
-          .then(setContent)
-          .catch(err2 => console.error('Static file also failed:', err2));
-      });
-  }, []);
+    if (contentData?.success && contentData.content) {
+      setContent(contentData.content);
+    }
+  }, [contentData]);
 
   // Update relative time every minute
   useEffect(() => {
