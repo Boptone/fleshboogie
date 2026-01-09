@@ -735,3 +735,10 @@
 - [x] Test filter with current RSS feeds
 - [x] Verify no political content appears on homepage
 - [x] Save checkpoint
+
+## CCPA Compliance Pages
+- [x] Create California Notice page
+- [x] Create Opt-Out Choices page
+- [x] Add links to footer
+- [x] Test pages load correctly
+- [x] Save checkpoint

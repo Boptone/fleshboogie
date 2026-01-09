@@ -391,11 +391,13 @@ export default function Home() {
               <p className="text-sm uppercase tracking-wide font-bold">Fleshboogie</p>
               <p className="text-xs">Curated music and culture links, updated 24/7</p>
             </div>
-            <div className="flex gap-6 text-sm items-center">
+            <div className="flex gap-6 text-sm items-center flex-wrap">
               <a href="/about" className="uppercase hover:underline">About</a>
               <a href="/archive" className="uppercase hover:underline">Archive</a>
               <a href="/privacy" className="uppercase hover:underline">Privacy</a>
               <a href="/terms" className="uppercase hover:underline">Terms</a>
+              <a href="/california-notice" className="uppercase hover:underline">California Notice</a>
+              <a href="/opt-out-choices" className="uppercase hover:underline">Opt-Out Choices</a>
               <a href="mailto:hello@fleshboogie.com" className="uppercase hover:underline">Contact</a>
               <a href="https://x.com/fleshboogie" target="_blank" rel="noopener noreferrer" className="hover:opacity-70" aria-label="Follow Fleshboogie on X">
                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">

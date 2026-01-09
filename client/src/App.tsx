@@ -14,6 +14,8 @@ import Archive from "./pages/Archive";
 import Preferences from "./pages/Preferences";
 import FeaturedArtists from "./pages/FeaturedArtists";
 import FAQ from "./pages/FAQ";
+import CaliforniaNotice from "./pages/CaliforniaNotice";
+import OptOutChoices from "./pages/OptOutChoices";
 
 function Router() {
   // make sure to consider if you need authentication for certain routes
@@ -29,6 +31,8 @@ function Router() {
       <Route path={"/preferences"} component={Preferences} />
       <Route path={"/privacy"} component={Privacy} />
       <Route path={"/terms"} component={Terms} />
+      <Route path={"/california-notice"} component={CaliforniaNotice} />
+      <Route path={"/opt-out-choices"} component={OptOutChoices} />
       <Route path={"/404"} component={NotFound} />
       {/* Final fallback route */}
       <Route component={NotFound} />
