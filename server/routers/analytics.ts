@@ -1,7 +1,9 @@
-import { router, protectedProcedure } from "../_core/trpc";
+import { router, protectedProcedure, publicProcedure } from "../_core/trpc";
 import { getDb } from "../db";
 import { analyticsEvents, newsletterSubscribers } from "../../drizzle/schema";
 import { sql, and, gte } from "drizzle-orm";
+import { z } from "zod";
+import crypto from "crypto";
 
 /**
  * Analytics Router
@@ -91,4 +93,43 @@ export const analyticsRouter = router({
       };
     }
   }),
+
+  /**
+   * Track an analytics event (public endpoint - no auth required)
+   */
+  trackEvent: publicProcedure
+    .input(
+      z.object({
+        eventType: z.enum(["page_view", "newsletter_signup", "featured_artist_view"]),
+        metadata: z.record(z.string(), z.any()).optional(),
+        sessionId: z.string().optional(),
+      })
+    )
+    .mutation(async ({ input, ctx }) => {
+      const db = await getDb();
+      if (!db) {
+        return { success: false, error: "Database unavailable" };
+      }
+
+      try {
+        // Hash IP address for privacy (if available from request)
+        let ipHash: string | undefined;
+        const ip = ctx.req?.headers["x-forwarded-for"] || ctx.req?.socket?.remoteAddress;
+        if (ip) {
+          ipHash = crypto.createHash("sha256").update(String(ip)).digest("hex");
+        }
+
+        await db.insert(analyticsEvents).values({
+          eventType: input.eventType,
+          metadata: input.metadata ? JSON.stringify(input.metadata) : null,
+          sessionId: input.sessionId,
+          ipHash,
+        });
+
+        return { success: true };
+      } catch (error) {
+        console.error("[Analytics] Failed to track event:", error);
+        return { success: false, error: "Failed to track event" };
+      }
+    }),
 });

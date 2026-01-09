@@ -1,0 +1,19 @@
+{
+  "query": "SELECT COUNT(*) as total_events FROM analytics_events; SELECT * FROM analytics_events ORDER BY created_at DESC LIMIT 5;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2SKEMaxYovcAzrR.251781ef2d6e --database JCsEuhJ6qsQEcpKUGBBn5v --execute SELECT COUNT(*) as total_events FROM analytics_events; SELECT * FROM analytics_events ORDER BY created_at DESC LIMIT 5;",
+  "rows": [
+    {
+      "total_events": "1"
+    },
+    {
+      "total_events": "id\tevent_type\tmetadata\tsession_id\tip_hash\tcreated_at"
+    },
+    {
+      "total_events": "30001\tpage_view\t{\"page\":\"/\",\"referrer\":\"direct\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36\"}\t1767997619731-anewf39utof\t3e48ef9d22e096da6838540fb846999890462c8a32730a4f7a5eaee6945315f7\t2026-01-09 22:26:59"
+    }
+  ],
+  "messages": [],
+  "stdout": "total_events\n1\nid\tevent_type\tmetadata\tsession_id\tip_hash\tcreated_at\n30001\tpage_view\t{\"page\":\"/\",\"referrer\":\"direct\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36\"}\t1767997619731-anewf39utof\t3e48ef9d22e096da6838540fb846999890462c8a32730a4f7a5eaee6945315f7\t2026-01-09 22:26:59\n",
+  "stderr": "",
+  "execution_time_ms": 123
+}

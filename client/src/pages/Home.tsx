@@ -15,6 +15,7 @@ import { Button } from '@/components/ui/button';
 import { NewsletterSignup } from "@/components/NewsletterSignup";
 import { FeaturedArtistDisplay } from "@/components/FeaturedArtistDisplay";
 import { trpc } from '@/lib/trpc';
+import { usePageViewTracking } from '@/hooks/useAnalytics';
 
 // Theme toggle component with sun/moon icon
 function ThemeToggle() {
@@ -59,6 +60,9 @@ interface AggregatorContent {
 export default function Home() {
   const [content, setContent] = useState<AggregatorContent | null>(null);
   const [relativeTime, setRelativeTime] = useState('Just now');
+  
+  // Track page views for analytics
+  usePageViewTracking();
 
   // Calculate relative time (e.g., "5 minutes ago")
   const getRelativeTime = (timestamp: string) => {
