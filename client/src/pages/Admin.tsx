@@ -8,6 +8,7 @@ import { useEffect, useState } from "react";
 import { toast } from "sonner";
 import { getLoginUrl } from "@/const";
 import { FeaturedArtistSection } from "@/components/FeaturedArtistSection";
+import AnalyticsDashboard from "@/components/AnalyticsDashboard";
 
 interface LinkItem {
   title: string;
@@ -161,6 +162,9 @@ export default function Admin() {
       </header>
 
       <main className="container pb-16 space-y-12">
+        {/* Analytics Dashboard */}
+        <AnalyticsDashboard />
+        
         {/* Featured Artist */}
         <FeaturedArtistSection />
         

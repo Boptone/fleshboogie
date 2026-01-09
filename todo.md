@@ -768,3 +768,10 @@
 - [x] Add /california-notice to sitemap.xml
 - [x] Add /opt-out-choices to sitemap.xml
 - [x] Save checkpoint
+
+## Simple Analytics Module for /admin
+- [x] Create analytics backend endpoints (site visits, subscribers, Featured Artist views)
+- [x] Build analytics dashboard UI component
+- [x] Add analytics module to top of /admin page
+- [x] Test real-time data display
+- [x] Save checkpoint

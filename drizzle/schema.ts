@@ -150,3 +150,27 @@ export const featuredArtist = mysqlTable("featured_artist", {
 
 export type FeaturedArtist = typeof featuredArtist.$inferSelect;
 export type InsertFeaturedArtist = typeof featuredArtist.$inferInsert;
+
+/**
+ * Analytics Events
+ * Tracks site visits, subscriber signups, and Featured Artist views
+ */
+export const analyticsEvents = mysqlTable("analytics_events", {
+  id: int("id").autoincrement().primaryKey(),
+  
+  // Event type: 'page_view', 'newsletter_signup', 'featured_artist_view'
+  eventType: varchar("event_type", { length: 64 }).notNull(),
+  
+  // Event metadata (JSON)
+  metadata: text("metadata"), // e.g., {"page": "/", "referrer": "google.com"}
+  
+  // User identification (optional, for tracking unique visitors)
+  sessionId: varchar("session_id", { length: 64 }),
+  ipHash: varchar("ip_hash", { length: 64 }), // Hashed IP for privacy
+  
+  // Timestamp
+  createdAt: timestamp("created_at").defaultNow().notNull(),
+});
+
+export type AnalyticsEvent = typeof analyticsEvents.$inferSelect;
+export type InsertAnalyticsEvent = typeof analyticsEvents.$inferInsert;
