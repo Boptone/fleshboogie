@@ -19,6 +19,94 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 /**
+ * Write collected items to content.json
+ * Can be called incrementally during fetch or at the end
+ */
+function writeContent(allItems, contentPath) {
+  const isProduction = process.env.NODE_ENV === 'production';
+  
+  // Filter out mainstream pop and gossip content
+  const filteredItems = allItems.filter(item => shouldIncludeItem(item.title));
+  
+  // Sort by publication date (newest first)
+  filteredItems.sort((a, b) => b.pubDate - a.pubDate);
+  
+  // Identify music releases
+  const musicReleases = filteredItems.filter(item => {
+    const titleLower = item.title.toLowerCase();
+    const nonMusicKeywords = ['season', 'episode', 'tv', 'show', 'series', 'movie', 'film', 'ceo', 'streamer', 'roku', 'netflix', 'hbo', 'hulu', 'amazon prime', 'apple tv', 'disney+', 'game', 'gaming'];
+    const mainstreamArtists = ['bruno mars', 'taylor swift', 'beyonce', 'drake', 'ed sheeran', 'ariana grande', 'justin bieber', 'billie eilish', 'the weeknd', 'dua lipa', 'olivia rodrigo', 'bad bunny', 'harry styles', 'adele', 'rihanna', 'kanye west', 'post malone', 'lady gaga', 'katy perry', 'miley cyrus', 'selena gomez', 'shawn mendes', 'camila cabello', 'doja cat', 'megan thee stallion', 'cardi b', 'lizzo', 'sam smith', 'charlie puth', 'bts', 'blackpink', 'amy grant', 'christian', 'gospel', 'worship', 'praise', 'hillsong', 'bethel music', 'elevation worship', 'jesus', 'christ', 'faith-based'];
+    
+    if (mainstreamArtists.some(artist => titleLower.includes(artist))) return false;
+    if (nonMusicKeywords.some(keyword => titleLower.includes(keyword))) return false;
+    
+    const releaseKeywords = ['album', 'ep', 'single', 'track', 'release', 'debut', 'drops', 'out now', 'new music', 'shares', 'announces album', 'announces ep'];
+    const hasReleaseKeyword = releaseKeywords.some(keyword => titleLower.includes(keyword));
+    
+    const musicContextKeywords = ['artist', 'band', 'musician', 'singer', 'rapper', 'producer', 'dj', 'label', 'record', 'song', 'listen'];
+    const hasMusicContext = musicContextKeywords.some(keyword => titleLower.includes(keyword));
+    
+    return hasReleaseKeyword && hasMusicContext;
+  }).slice(0, 20);
+  
+  const recentItems = filteredItems.slice(0, 40);
+  
+  // Read existing content
+  let content = { splash: {}, mainColumn: [], column1: [], column2: [], column3: [], automated: [], musicReleases: [] };
+  try {
+    if (fs.existsSync(contentPath)) {
+      content = JSON.parse(fs.readFileSync(contentPath, 'utf8'));
+    }
+  } catch (err) {
+    console.log('Creating new content.json');
+  }
+  
+  // Auto-rotate splash headline
+  if (!content.splash.pinned && recentItems.length > 0) {
+    content.splash = {
+      headline: recentItems[0].title.toUpperCase(),
+      url: recentItems[0].url,
+      image: '',
+      pinned: false
+    };
+  }
+  
+  // Auto-rotate main column
+  const pinnedMain = content.mainColumn?.filter(item => item.pinned) || [];
+  const autoMain = recentItems.slice(1, 6 - pinnedMain.length).map(item => ({
+    title: item.title,
+    url: item.url,
+    timestamp: item.timestamp,
+    pinned: false
+  }));
+  content.mainColumn = [...pinnedMain, ...autoMain];
+  
+  // Auto-populate columns
+  const column1HasPlaceholders = content.column1.some(item => item.url.includes('example.com') || item.url.endsWith('.com') || item.url.endsWith('.com/'));
+  const column2HasPlaceholders = content.column2.some(item => item.url.includes('example.com') || item.url.endsWith('.com') || item.url.endsWith('.com/'));
+  const column3HasPlaceholders = content.column3.some(item => item.url.includes('example.com') || item.url.endsWith('.com') || item.url.endsWith('.com/'));
+  
+  if (content.column1.length === 0 || column1HasPlaceholders) {
+    content.column1 = recentItems.slice(6, 11).map(item => ({ title: item.title, url: item.url }));
+  }
+  if (content.column2.length === 0 || column2HasPlaceholders) {
+    content.column2 = recentItems.slice(11, 16).map(item => ({ title: item.title, url: item.url }));
+  }
+  if (content.column3.length === 0 || column3HasPlaceholders) {
+    content.column3 = recentItems.slice(16, 21).map(item => ({ title: item.title, url: item.url }));
+  }
+  
+  content.automated = recentItems;
+  content.musicReleases = musicReleases.map(item => ({ title: item.title, url: item.url, timestamp: item.timestamp }));
+  content.lastUpdated = new Date().toISOString();
+  
+  // Write to file
+  fs.writeFileSync(contentPath, JSON.stringify(content, null, 2), 'utf8');
+  
+  return { recentItems, musicReleases, content };
+}
+
+/**
  * Update sitemap.xml with current timestamp
  * Called automatically when RSS fetcher updates content
  */
@@ -54,41 +142,41 @@ function updateSitemap() {
 // Excludes mainstream pop and celebrity gossip sources
 const FEEDS = [
   // Core independent music sources
-  'https://consequenceofsound.net/feed/',      // Broad indie coverage
+  // 'https://consequenceofsound.net/feed/',      // DISABLED: Times out
   'https://www.thequietus.com/feed',           // Avant-garde, experimental
   'https://pitchfork.com/rss/news/',           // Music news
   'https://www.brooklynvegan.com/feed/',       // Indie, punk, underground
   'https://www.factmag.com/feed/',             // Electronic, club culture
   
   // Niche underground blogs
-  'https://www.tinymixtapes.com/feed.xml',     // Experimental, avant-garde
+  // 'https://www.tinymixtapes.com/feed.xml',     // DISABLED: Times out
   'https://www.gorillavsbear.net/feed/',       // Indie, electronic, dream pop
   'https://www.passionweiss.com/feed/',        // Hip-hop, rap, underground
   'https://www.stereofox.com/feed/',           // Chillhop, indie electronic
   'https://www.dummymag.com/feed/',            // Electronic, experimental
   
   // Additional music and culture sources
-  'https://www.clashmusic.com/feed',           // UK music magazine
+  // 'https://www.clashmusic.com/feed',           // DISABLED: Times out
   'https://www.nme.com/feed',                  // Music news and culture
-  'https://www.juxtapoz.com/feed',             // Art and culture
+  // 'https://www.juxtapoz.com/feed',             // DISABLED: Times out
   'https://www.musicbusinessworldwide.com/feed', // Music industry news
   'https://www.rollingstone.com/feed/',        // Music news
-  'https://www.goldminemag.com/feed',          // Record collecting and reissues
-  'https://www.udiscovermusic.com/feed',       // Music history and discovery
+  // 'https://www.goldminemag.com/feed',          // DISABLED: Times out
+  // 'https://www.udiscovermusic.com/feed',       // DISABLED: Times out
   'https://www.npr.org/rss/rss.php?id=1039',   // NPR Music
-  'https://www.thecurrent.org/feed',           // The Current (Minnesota Public Radio)
-  'https://www.thatericalper.com/feed/',       // That Eric Alper
+  // 'https://www.thecurrent.org/feed',           // DISABLED: Returns 403 Forbidden
+  // 'https://www.thatericalper.com/feed/',       // DISABLED: Times out
   'https://thirdmanrecords.com/blogs/news.atom', // Third Man Records
   'https://www.ravensingstheblues.com/feed/',  // Raven Sings the Blues
-  'https://www.pastemagazine.com/rss/music',   // Paste Magazine Music
+  // 'https://www.pastemagazine.com/rss/music',   // DISABLED: Returns 404
   'https://www.spin.com/feed/',                // Spin Magazine
   'https://daily.bandcamp.com/feed',           // Bandcamp Daily
   
   // Substack music publications
   'https://tedgioia.substack.com/feed',        // Ted Gioia - music history and culture
-  'https://pennyfractions.substack.com/feed',  // Penny Fractions - music industry economics
-  'https://daddrummer.substack.com/feed',      // Dada Drummer Almanach - experimental music
-  'https://aquariumdrunkard.substack.com/feed', // Aquarium Drunkard - rock, folk, underground
+  // 'https://pennyfractions.substack.com/feed',  // DISABLED: Returns 404
+  // 'https://daddrummer.substack.com/feed',      // DISABLED: Returns 404
+  // 'https://aquariumdrunkard.substack.com/feed', // DISABLED: Returns 404
   'https://jasonpwoodbury.substack.com/feed',  // Jason P Woodbury - music journalism
   'https://whitedenim.substack.com/feed',      // White Denim - artist newsletter
   'https://jefftweedy.substack.com/feed',      // Jeff Tweedy - artist newsletter
@@ -100,7 +188,7 @@ const FEEDS = [
   
   // Additional music magazines and blogs
   'https://faroutmagazine.co.uk/feed/',          // Far Out Magazine - music and culture
-  'https://www.undertheradarmag.com/feed',       // Under the Radar - indie music magazine
+  // 'https://www.undertheradarmag.com/feed',       // DISABLED: Returns 403 Forbidden
   'https://ultimateclassicrock.com/feed/',       // Ultimate Classic Rock
   
   // Entertainment and tech sources
@@ -438,8 +526,8 @@ function fetchFeed(url, redirectCount = 0) {
     
     request.on('error', reject);
     
-    // Set timeout to prevent hanging
-    request.setTimeout(10000, () => {
+    // Set timeout to prevent hanging (reduced to 5s to fail faster)
+    request.setTimeout(5000, () => {
       request.destroy();
       reject(new Error('Request timeout'));
     });
@@ -451,6 +539,13 @@ async function main() {
   console.log('🎵 RSS Fetcher v2.0 - Fetching latest music and culture news (with musicReleases support)...\n');
   
   const allItems = [];
+  const isProduction = process.env.NODE_ENV === 'production';
+  const contentPath = isProduction
+    ? path.join(__dirname, '..', 'dist', 'public', 'data', 'content.json')
+    : path.join(__dirname, '..', 'client', 'public', 'data', 'content.json');
+  
+  let feedCount = 0;
+  const WRITE_INTERVAL = 15; // Write partial results every 15 feeds
   
   for (const feedUrl of FEEDS) {
     try {
@@ -459,233 +554,22 @@ async function main() {
       const items = parseRSS(xml);
       allItems.push(...items);
       console.log(`✓ Found ${items.length} items\n`);
+      
+      feedCount++;
+      
+      // Write partial results every WRITE_INTERVAL feeds
+      if (feedCount % WRITE_INTERVAL === 0 && allItems.length > 0) {
+        console.log(`💾 Writing partial results (${feedCount} feeds processed, ${allItems.length} items collected)...`);
+        writeContent(allItems, contentPath);
+      }
     } catch (error) {
       console.error(`✗ Failed to fetch ${feedUrl}: ${error.message}\n`);
     }
   }
   
-  // Filter out mainstream pop and gossip content
-  const filteredItems = allItems.filter(item => shouldIncludeItem(item.title));
-  
-  console.log(`\n🎯 Filtered out ${allItems.length - filteredItems.length} mainstream/gossip items`);
-  
-  // Sort by publication date (newest first)
-  filteredItems.sort((a, b) => b.pubDate - a.pubDate);
-  
-  // Identify music releases with improved detection
-  // Require explicit music context to avoid false positives from TV/tech news
-  const musicReleases = filteredItems.filter(item => {
-    const titleLower = item.title.toLowerCase();
-    
-    // Exclude obvious non-music content
-    const nonMusicKeywords = [
-      'season',
-      'episode',
-      'tv',
-      'show',
-      'series',
-      'movie',
-      'film',
-      'ceo',
-      'streamer',
-      'roku',
-      'netflix',
-      'hbo',
-      'hulu',
-      'amazon prime',
-      'apple tv',
-      'disney+',
-      'game',
-      'gaming'
-    ];
-    
-    // Exclude mainstream pop artists and Christian music
-    const mainstreamArtists = [
-      'bruno mars',
-      'taylor swift',
-      'beyonce',
-      'drake',
-      'ed sheeran',
-      'ariana grande',
-      'justin bieber',
-      'billie eilish',
-      'the weeknd',
-      'dua lipa',
-      'olivia rodrigo',
-      'bad bunny',
-      'harry styles',
-      'adele',
-      'rihanna',
-      'kanye west',
-      'post malone',
-      'lady gaga',
-      'katy perry',
-      'miley cyrus',
-      'selena gomez',
-      'shawn mendes',
-      'camila cabello',
-      'doja cat',
-      'megan thee stallion',
-      'cardi b',
-      'lizzo',
-      'sam smith',
-      'charlie puth',
-      'bts',
-      'blackpink',
-      'amy grant',
-      'christian',
-      'gospel',
-      'worship',
-      'praise',
-      'hillsong',
-      'bethel music',
-      'elevation worship',
-      'jesus',
-      'christ',
-      'faith-based'
-    ];
-    
-    if (mainstreamArtists.some(artist => titleLower.includes(artist))) {
-      return false;
-    }
-    
-    if (nonMusicKeywords.some(keyword => titleLower.includes(keyword))) {
-      return false;
-    }
-    
-    // Strong music indicators (high confidence)
-    const strongMusicKeywords = [
-      'new album',
-      'new single',
-      'new track',
-      'new song',
-      'new ep',
-      'new music',
-      'album review',
-      'song premiere',
-      'music video',
-      'tour dates',
-      'tour announcement',
-      'concert',
-      'festival lineup'
-    ];
-    
-    if (strongMusicKeywords.some(keyword => titleLower.includes(keyword))) {
-      return true;
-    }
-    
-    // Moderate indicators (need additional music context)
-    const moderateKeywords = ['shares', 'unveils', 'drops', 'releases', 'announces'];
-    const musicContext = ['song', 'track', 'album', 'ep', 'music', 'single', 'video', 'tour'];
-    
-    const hasModeratekeyword = moderateKeywords.some(kw => titleLower.includes(kw));
-    const hasMusicContext = musicContext.some(ctx => titleLower.includes(ctx));
-    
-    return hasModeratekeyword && hasMusicContext;
-  }).slice(0, 10); // Top 10 music releases
-  
-  console.log(`\n🎵 Found ${musicReleases.length} music release stories`);
-  
-  // Take top 20 most recent items
-  const recentItems = filteredItems.slice(0, 20).map(item => ({
-    title: item.title,
-    url: item.url,
-    timestamp: item.timestamp,
-  }));
-  
-  console.log(`\n📰 Total items collected: ${recentItems.length}`);
-  
-  // Load existing content
-  // In production, write to dist/public so changes are immediately visible
-  // In development, write to client/public
-  const isProduction = process.env.NODE_ENV === 'production';
-  const contentPath = isProduction 
-    ? path.join(__dirname, '../dist/public/data/content.json')
-    : path.join(__dirname, '../client/public/data/content.json');
-  let content;
-  
-  try {
-    const contentData = fs.readFileSync(contentPath, 'utf8');
-    content = JSON.parse(contentData);
-  } catch (error) {
-    console.error('Failed to read content.json, using default structure');
-    content = {
-      splash: { headline: '', url: '', image: '' },
-      mainColumn: [],
-      column1: [],
-      column2: [],
-      column3: [],
-      automated: [],
-      musicReleases: [],
-    };
-  }
-  
-  // Auto-rotate splash headline with top story (unless pinned)
-  if (!content.splash.pinned && recentItems.length > 0) {
-    content.splash = {
-      headline: recentItems[0].title.toUpperCase(),
-      url: recentItems[0].url,
-      image: '',
-      pinned: false
-    };
-  }
-  
-  // Auto-rotate main column with top 5 stories (keep pinned stories)
-  const pinnedMain = content.mainColumn?.filter(item => item.pinned) || [];
-  const autoMain = recentItems.slice(1, 6 - pinnedMain.length).map(item => ({
-    title: item.title,
-    url: item.url,
-    timestamp: item.timestamp,
-    pinned: false
-  }));
-  content.mainColumn = [...pinnedMain, ...autoMain];
-  
-  // Auto-populate three columns with articles from the feed if they have placeholders
-  const column1HasPlaceholders = content.column1.some(item => 
-    item.url.includes('example.com') || item.url.endsWith('.com') || item.url.endsWith('.com/')
-  );
-  const column2HasPlaceholders = content.column2.some(item => 
-    item.url.includes('example.com') || item.url.endsWith('.com') || item.url.endsWith('.com/')
-  );
-  const column3HasPlaceholders = content.column3.some(item => 
-    item.url.includes('example.com') || item.url.endsWith('.com') || item.url.endsWith('.com/')
-  );
-  
-  if (content.column1.length === 0 || column1HasPlaceholders) {
-    content.column1 = recentItems.slice(6, 11).map(item => ({
-      title: item.title,
-      url: item.url
-    }));
-  }
-  
-  if (content.column2.length === 0 || column2HasPlaceholders) {
-    content.column2 = recentItems.slice(11, 16).map(item => ({
-      title: item.title,
-      url: item.url
-    }));
-  }
-  
-  if (content.column3.length === 0 || column3HasPlaceholders) {
-    content.column3 = recentItems.slice(16, 21).map(item => ({
-      title: item.title,
-      url: item.url
-    }));
-  }
-  
-  // Update automated section with remaining items
-  content.automated = recentItems;
-  
-  // Update music releases section
-  content.musicReleases = musicReleases.map(item => ({
-    title: item.title,
-    url: item.url,
-    timestamp: item.timestamp,
-  }));
-  
-  content.lastUpdated = new Date().toISOString();
-  
-  // Write back to file
-  fs.writeFileSync(contentPath, JSON.stringify(content, null, 2), 'utf8');
+  // Write final results
+  console.log(`\n💾 Writing final results (${feedCount} total feeds processed, ${allItems.length} items collected)...`);
+  const { recentItems, musicReleases, content } = writeContent(allItems, contentPath);
   
   console.log(`\n✓ Updated content.json with ${recentItems.length} automated links`);
   console.log(`Last updated: ${content.lastUpdated}`);
@@ -737,4 +621,31 @@ async function main() {
   }
 }
 
-main().catch(console.error);
+
+
+// Wrapper with timeout to ensure partial results are written
+let timeoutHandle;
+let isTimedOut = false;
+
+const OVERALL_TIMEOUT = 150000; // 2.5 minutes
+
+const timeoutPromise = new Promise((_, reject) => {
+  timeoutHandle = setTimeout(() => {
+    isTimedOut = true;
+    reject(new Error('Overall timeout reached - writing partial results'));
+  }, OVERALL_TIMEOUT);
+});
+
+Promise.race([main(), timeoutPromise])
+  .then(() => {
+    clearTimeout(timeoutHandle);
+    console.log('\n✅ RSS fetch completed successfully');
+  })
+  .catch((error) => {
+    clearTimeout(timeoutHandle);
+    if (isTimedOut) {
+      console.log('\n⏱️  Timeout reached - partial results should be written');
+    } else {
+      console.error('\n❌ RSS fetch failed:', error);
+    }
+  });
