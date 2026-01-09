@@ -247,23 +247,23 @@ export function categorizeStories(scoredStories) {
     
     // Deep Dive: High impact + high engagement (2-3 stories)
     deepDive: scoredStories
-      .filter(s => s.scores.impact > 0.7 && s.scores.engagement > 0.6)
+      .filter(s => s.scores.impact > 0.5 && s.scores.engagement > 0.5)
       .slice(0, 3),
     
     // Discovery: High discovery score (2-3 stories)
     discovery: scoredStories
-      .filter(s => s.scores.discovery > 0.6)
+      .filter(s => s.scores.discovery > 0.4)
       .slice(0, 3),
     
     // Conversation: High engagement (2 stories)
     conversation: scoredStories
-      .filter(s => s.scores.engagement > 0.7)
+      .filter(s => s.scores.engagement > 0.6)
       .slice(0, 2),
     
     // Wildcard: Interesting but doesn't fit other categories (1-2 stories)
     wildcard: scoredStories
       .filter(s => 
-        s.scores.composite > 0.5 && 
+        s.scores.composite > 0.4 && 
         s.scores.composite < 0.7
       )
       .slice(0, 2)
@@ -280,22 +280,7 @@ export function categorizeStories(scoredStories) {
  * @returns {Array} Deduplicated stories
  */
 export function ensureDiversity(stories) {
-  const seen = new Set();
-  const diverse = [];
-  
-  for (const story of stories) {
-    // Extract potential artist names (capitalized words)
-    const words = story.title.split(' ');
-    const entities = words.filter(w => /^[A-Z]/.test(w));
-    
-    // Check if we've seen this entity before
-    const isDuplicate = entities.some(entity => seen.has(entity.toLowerCase()));
-    
-    if (!isDuplicate) {
-      diverse.push(story);
-      entities.forEach(entity => seen.add(entity.toLowerCase()));
-    }
-  }
-  
-  return diverse;
+  // Skip diversity filter - it was too aggressive
+  // Deduplication by URL is already handled in curate-morning-email.mjs
+  return stories;
 }

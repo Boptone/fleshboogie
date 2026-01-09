@@ -196,9 +196,9 @@ function buildEmailHTML() {
   </style>
 </head>
 <body>
-  <div class="test-banner">
-    🧪 TEST EMAIL - Dark Mode Verification
-  </div>
+    <div class="test-banner">
+      TEST EMAIL - Dark Mode Verification
+    </div>
 
   <div class="header">
     <h1 class="logo">FLESHBOOGIE</h1>
@@ -209,7 +209,7 @@ function buildEmailHTML() {
 
   ${newsletter.leadStory ? `
   <div class="splash">
-    <div class="curation-badge">🎯 LEAD STORY</div>
+    <div class="curation-badge">LEAD STORY</div>
     <h2 class="splash-headline">
       <a href="${newsletter.leadStory.url}">${newsletter.leadStory.title}</a>
     </h2>
@@ -218,7 +218,7 @@ function buildEmailHTML() {
 
   ${newsletter.deepDive && newsletter.deepDive.length > 0 ? `
   <div class="section">
-    <div class="section-title">📚 Deep Dive</div>
+    <div class="section-title">Deep Dive</div>
     ${newsletter.deepDive.map(story => `
       <div class="story">
         <h3 class="story-title">
@@ -235,7 +235,7 @@ function buildEmailHTML() {
 
   ${newsletter.discovery && newsletter.discovery.length > 0 ? `
   <div class="section">
-    <div class="section-title">✨ Discovery</div>
+    <div class="section-title">Discovery</div>
     ${newsletter.discovery.map(story => `
       <div class="story">
         <h3 class="story-title">
@@ -251,7 +251,7 @@ function buildEmailHTML() {
 
   ${newsletter.conversation && newsletter.conversation.length > 0 ? `
   <div class="section">
-    <div class="section-title">💬 Conversation</div>
+    <div class="section-title">Conversation</div>
     ${newsletter.conversation.map(story => `
       <div class="story">
         <h3 class="story-title">
@@ -267,7 +267,7 @@ function buildEmailHTML() {
 
   ${newsletter.wildcard && newsletter.wildcard.length > 0 ? `
   <div class="section">
-    <div class="section-title">🎲 Wildcard</div>
+    <div class="section-title">Wildcard</div>
     ${newsletter.wildcard.map(story => `
       <div class="story">
         <h3 class="story-title">
@@ -280,11 +280,11 @@ function buildEmailHTML() {
 
   <div class="footer">
     <p><strong>FLESHBOOGIE℠</strong></p>
-    <p>Curated by Quantum Curation v1.0</p>
+    <p>Music, culture, and news – curated daily</p>
     <p><a href="https://fleshboogie.com">Visit fleshboogie.com</a></p>
     <p><a href="https://x.com/fleshboogie">Follow @fleshboogie on X</a></p>
     <p class="unsubscribe">
-      🧪 This is a TEST email to verify dark mode rendering.<br>
+      This is a TEST email to verify dark mode rendering.<br>
       Expected: White background with black text on iOS/Android dark mode.<br>
       You are not subscribed to the newsletter.
     </p>

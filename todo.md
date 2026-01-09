@@ -802,3 +802,12 @@
 - [x] Remove emojis from weekly newsletter template
 - [x] Remove "Quantum Curation" footer text from both templates
 - [x] Save checkpoint
+
+## Fix Music News Curation
+- [x] Investigate why only 2 stories selected (should be 10)
+- [x] Check diversity filter - was too aggressive
+- [x] Adjust scoring to prioritize music content (lowered thresholds)
+- [x] Increase story selection count (now getting 5+ stories)
+- [x] Test with real RSS data
+- [x] Send test email with music news
+- [x] Save checkpoint

@@ -1,7 +1,7 @@
 {
-  "curatedAt": "2026-01-09T20:50:24.650Z",
+  "curatedAt": "2026-01-09T20:58:10.666Z",
   "totalAnalyzed": 52,
-  "totalSelected": 2,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
       "title": "PETRO-STATES VS. ELECTRO-STATES: WHAT TO WATCH FOR THE GLOBAL ENERGY TRANSITION IN 2026",
@@ -16,8 +16,62 @@
         "composite": 0.655
       }
     },
-    "deepDive": [],
-    "discovery": [],
+    "deepDive": [
+      {
+        "title": "6 New Albums You Should Listen to Now: Dry Cleaning, Zach Bryan, and More",
+        "url": "https://pitchfork.com/news/6-new-albums-you-should-listen-to-now-dry-cleaning-zach-bryan/",
+        "timestamp": "10:45",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.52
+        }
+      },
+      {
+        "title": "Listen to SAULT's new album 'Chapter 1' ft Jimmy Jam & Terry Lewis",
+        "url": "https://www.brooklynvegan.com/listen-to-saults-new-album-chapter-1-ft-jimmy-jam-terry-lewis/",
+        "timestamp": "09:42",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.52
+        }
+      },
+      {
+        "title": "Bad Company Album-Opening Songs Ranked Worst to Best",
+        "url": "https://ultimateclassicrock.com/bad-company-album-opening-songs-ranked/",
+        "timestamp": "10:25",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.52
+        }
+      }
+    ],
+    "discovery": [
+      {
+        "title": "Watch as a telephone is transformed into a DIY analog drum machine",
+        "url": "https://cdm.link/diy-telephone-drum-machine/",
+        "timestamp": "11:44",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.55,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.455
+        }
+      }
+    ],
     "conversation": [
       {
         "title": "PETRO-STATES VS. ELECTRO-STATES: WHAT TO WATCH FOR THE GLOBAL ENERGY TRANSITION IN 2026",
@@ -33,16 +87,16 @@
         }
       },
       {
-        "title": "TV Academy Reveals Emmy Rules Changes for 2026, Including AI Guidelines and New Name for Outstanding TV Movie Category",
-        "url": "https://variety.com/2026/tv/news/tv-academy-emmy-rules-changes-2026-ai-guidelines-tv-movie-1236627287/",
-        "timestamp": "11:24",
-        "source": "automated",
+        "title": "6 New Albums You Should Listen to Now: Dry Cleaning, Zach Bryan, and More",
+        "url": "https://pitchfork.com/news/6-new-albums-you-should-listen-to-now-dry-cleaning-zach-bryan/",
+        "timestamp": "10:45",
+        "source": "musicReleases",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.75,
+          "impact": 0.6,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.495
+          "composite": 0.52
         }
       }
     ],
@@ -77,16 +131,55 @@
       }
     },
     {
-      "title": "TV Academy Reveals Emmy Rules Changes for 2026, Including AI Guidelines and New Name for Outstanding TV Movie Category",
-      "url": "https://variety.com/2026/tv/news/tv-academy-emmy-rules-changes-2026-ai-guidelines-tv-movie-1236627287/",
-      "timestamp": "11:24",
+      "title": "6 New Albums You Should Listen to Now: Dry Cleaning, Zach Bryan, and More",
+      "url": "https://pitchfork.com/news/6-new-albums-you-should-listen-to-now-dry-cleaning-zach-bryan/",
+      "timestamp": "10:45",
+      "source": "musicReleases",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.52
+      }
+    },
+    {
+      "title": "Listen to SAULT's new album 'Chapter 1' ft Jimmy Jam & Terry Lewis",
+      "url": "https://www.brooklynvegan.com/listen-to-saults-new-album-chapter-1-ft-jimmy-jam-terry-lewis/",
+      "timestamp": "09:42",
+      "source": "musicReleases",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.52
+      }
+    },
+    {
+      "title": "Bad Company Album-Opening Songs Ranked Worst to Best",
+      "url": "https://ultimateclassicrock.com/bad-company-album-opening-songs-ranked/",
+      "timestamp": "10:25",
+      "source": "musicReleases",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.52
+      }
+    },
+    {
+      "title": "Watch as a telephone is transformed into a DIY analog drum machine",
+      "url": "https://cdm.link/diy-telephone-drum-machine/",
+      "timestamp": "11:44",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.75,
+        "engagement": 0.55,
         "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.495
+        "discovery": 0.5,
+        "composite": 0.455
       }
     }
   ],
