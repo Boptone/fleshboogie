@@ -132,4 +132,54 @@ export const analyticsRouter = router({
         return { success: false, error: "Failed to track event" };
       }
     }),
+
+  /**
+   * Get page views for the last 7 days (for chart visualization)
+   */
+  get7DayPageViews: protectedProcedure.query(async () => {
+    const db = await getDb();
+    if (!db) {
+      return [];
+    }
+
+    try {
+      // Get data for last 7 days
+      const results: { date: string; views: number }[] = [];
+      
+      for (let i = 6; i >= 0; i--) {
+        const date = new Date();
+        date.setDate(date.getDate() - i);
+        date.setHours(0, 0, 0, 0);
+        
+        const nextDate = new Date(date);
+        nextDate.setDate(nextDate.getDate() + 1);
+        
+        const dayViews = await db
+          .select({ count: sql<number>`COUNT(*)` })
+          .from(analyticsEvents)
+          .where(
+            and(
+              sql`${analyticsEvents.eventType} = 'page_view'`,
+              sql`${analyticsEvents.createdAt} >= ${date.toISOString().split('T')[0]}`,
+              sql`${analyticsEvents.createdAt} < ${nextDate.toISOString().split('T')[0]}`
+            )
+          );
+        
+        const count = Number(dayViews[0]?.count || 0);
+        
+        // Format date as "Mon", "Tue", etc.
+        const dayName = date.toLocaleDateString('en-US', { weekday: 'short' });
+        
+        results.push({
+          date: dayName,
+          views: count,
+        });
+      }
+      
+      return results;
+    } catch (error) {
+      console.error('[Analytics] Failed to get 7-day page views:', error);
+      return [];
+    }
+  }),
 });

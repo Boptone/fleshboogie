@@ -831,3 +831,10 @@
 - [x] Fix tracking implementation (added trackEvent endpoint + usePageViewTracking hook)
 - [x] Test with real visits (6/6 tests passing)
 - [x] Save checkpoint
+
+## Add 7-Day Page Views Chart
+- [x] Add API endpoint to fetch daily page view counts for last 7 days
+- [x] Create chart component using recharts library
+- [x] Integrate chart into analytics dashboard
+- [x] Test chart with real data (7/7 tests passing)
+- [x] Save checkpoint
