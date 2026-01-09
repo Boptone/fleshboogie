@@ -1,0 +1,102 @@
+{
+  "curatedAt": "2026-01-09T20:36:41.898Z",
+  "totalAnalyzed": 52,
+  "totalSelected": 2,
+  "newsletter": {
+    "leadStory": {
+      "title": "PETRO-STATES VS. ELECTRO-STATES: WHAT TO WATCH FOR THE GLOBAL ENERGY TRANSITION IN 2026",
+      "url": "https://www.fastcompany.com/91469864/global-energy-transition-2026-fossil-fuels-fight?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
+      "timestamp": "2026-01-09T17:01:20.696Z",
+      "source": "splash",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.75,
+        "timeliness": 1,
+        "discovery": 0.3,
+        "composite": 0.655
+      }
+    },
+    "deepDive": [],
+    "discovery": [],
+    "conversation": [
+      {
+        "title": "PETRO-STATES VS. ELECTRO-STATES: WHAT TO WATCH FOR THE GLOBAL ENERGY TRANSITION IN 2026",
+        "url": "https://www.fastcompany.com/91469864/global-energy-transition-2026-fossil-fuels-fight?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
+        "timestamp": "2026-01-09T17:01:20.696Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.75,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.655
+        }
+      },
+      {
+        "title": "TV Academy Reveals Emmy Rules Changes for 2026, Including AI Guidelines and New Name for Outstanding TV Movie Category",
+        "url": "https://variety.com/2026/tv/news/tv-academy-emmy-rules-changes-2026-ai-guidelines-tv-movie-1236627287/",
+        "timestamp": "11:24",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.75,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.495
+        }
+      }
+    ],
+    "wildcard": [
+      {
+        "title": "PETRO-STATES VS. ELECTRO-STATES: WHAT TO WATCH FOR THE GLOBAL ENERGY TRANSITION IN 2026",
+        "url": "https://www.fastcompany.com/91469864/global-energy-transition-2026-fossil-fuels-fight?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
+        "timestamp": "2026-01-09T17:01:20.696Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.75,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.655
+        }
+      }
+    ]
+  },
+  "stories": [
+    {
+      "title": "PETRO-STATES VS. ELECTRO-STATES: WHAT TO WATCH FOR THE GLOBAL ENERGY TRANSITION IN 2026",
+      "url": "https://www.fastcompany.com/91469864/global-energy-transition-2026-fossil-fuels-fight?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
+      "timestamp": "2026-01-09T17:01:20.696Z",
+      "source": "splash",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.75,
+        "timeliness": 1,
+        "discovery": 0.3,
+        "composite": 0.655
+      }
+    },
+    {
+      "title": "TV Academy Reveals Emmy Rules Changes for 2026, Including AI Guidelines and New Name for Outstanding TV Movie Category",
+      "url": "https://variety.com/2026/tv/news/tv-academy-emmy-rules-changes-2026-ai-guidelines-tv-movie-1236627287/",
+      "timestamp": "11:24",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.75,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.495
+      }
+    }
+  ],
+  "metadata": {
+    "algorithm": "Quantum Curation v1.0",
+    "weights": {
+      "impact": 0.4,
+      "engagement": 0.3,
+      "timeliness": 0.2,
+      "discovery": 0.1
+    }
+  }
+}

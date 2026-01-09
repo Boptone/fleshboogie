@@ -4,17 +4,33 @@ import { and, eq } from 'drizzle-orm';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { newsletterSubscribers } from '../drizzle/schema.js';
+import { newsletterSubscribers } from '../drizzle/schema.ts';
+import { curateMorningEmail } from './curate-morning-email.mjs';
 
 // Initialize database connection
 const db = drizzle(process.env.DATABASE_URL);
 const resend = new Resend(process.env.RESEND_API_KEY);
 
+// Check if newsletter is paused
+const NEWSLETTER_PAUSED = process.env.NEWSLETTER_PAUSED === 'true';
+
+if (NEWSLETTER_PAUSED) {
+  console.log('⏸️  Newsletter is currently paused (NEWSLETTER_PAUSED=true)');
+  console.log('   To resume, set NEWSLETTER_PAUSED=false in Settings → Secrets');
+  process.exit(0);
+}
+
 // Read current content
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const contentPath = path.join(__dirname, '..', 'client', 'public', 'data', 'content.json');
-const content = JSON.parse(fs.readFileSync(contentPath, 'utf-8'));
+
+// Curate content before sending
+console.log('🎯 Curating weekly digest content...');
+await curateMorningEmail();
+
+// Load curated content
+const curatedPath = path.join(__dirname, '..', 'client', 'public', 'data', 'curated-morning.json');
+const curated = JSON.parse(fs.readFileSync(curatedPath, 'utf-8'));
 
 // Format date
 const today = new Date();
@@ -25,8 +41,10 @@ const dateStr = today.toLocaleDateString('en-US', {
   day: 'numeric' 
 });
 
-// Build email HTML template
+// Build email HTML template with curated content
 function buildEmailHTML() {
+  const { newsletter, stories } = curated;
+  
   return `
 <!DOCTYPE html>
 <html>
@@ -64,22 +82,22 @@ function buildEmailHTML() {
       margin: 10px 0 0 0;
       color: #666;
     }
-    .badge {
-      display: inline-block;
-      background: #000;
-      color: #fff;
-      padding: 8px 16px;
-      font-size: 12px;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      margin: 20px 0;
-    }
     .date {
       font-size: 14px;
       color: #666;
       margin: 20px 0;
       text-align: center;
+    }
+    .weekly-badge {
+      display: inline-block;
+      background: #000;
+      color: #fff;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 8px 16px;
+      margin: 20px auto;
+      text-transform: uppercase;
+      letter-spacing: 2px;
     }
     .splash {
       margin: 30px 0;
@@ -97,6 +115,17 @@ function buildEmailHTML() {
     .splash-headline a {
       color: #fff;
       text-decoration: none;
+    }
+    .curation-badge {
+      display: inline-block;
+      background: #ff0000;
+      color: #fff;
+      font-size: 10px;
+      font-weight: 700;
+      padding: 4px 8px;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
     }
     .section {
       margin: 40px 0;
@@ -131,9 +160,10 @@ function buildEmailHTML() {
     .story-title a:hover {
       text-decoration: underline;
     }
-    .story-time {
-      font-size: 12px;
+    .story-meta {
+      font-size: 11px;
       color: #999;
+      margin-top: 5px;
     }
     .footer {
       margin-top: 50px;
@@ -158,44 +188,85 @@ function buildEmailHTML() {
   <div class="header">
     <h1 class="logo">FLESHBOOGIE</h1>
     <p class="tagline">Music • Culture • News • Whatever</p>
-    <div class="badge">Weekly Digest</div>
+    <div class="weekly-badge">📅 WEEKLY DIGEST</div>
   </div>
 
   <div class="date">${dateStr}</div>
 
+  ${newsletter.leadStory ? `
   <div class="splash">
+    <div class="curation-badge">🎯 STORY OF THE WEEK</div>
     <h2 class="splash-headline">
-      <a href="${content.splash.url}">${content.splash.headline}</a>
+      <a href="${newsletter.leadStory.url}">${newsletter.leadStory.title}</a>
     </h2>
   </div>
+  ` : ''}
 
+  ${newsletter.deepDive && newsletter.deepDive.length > 0 ? `
   <div class="section">
-    <div class="section-title">This Week's Top Stories</div>
-    ${content.mainColumn.slice(0, 10).map(story => `
+    <div class="section-title">📚 Deep Dive</div>
+    ${newsletter.deepDive.map(story => `
       <div class="story">
         <h3 class="story-title">
           <a href="${story.url}">${story.title}</a>
         </h3>
-        ${story.timestamp ? `<div class="story-time">${story.timestamp}</div>` : ''}
+        <div class="story-meta">
+          Impact: ${(story.scores.impact * 100).toFixed(0)}% | 
+          Engagement: ${(story.scores.engagement * 100).toFixed(0)}%
+        </div>
       </div>
     `).join('')}
   </div>
+  ` : ''}
 
+  ${newsletter.discovery && newsletter.discovery.length > 0 ? `
   <div class="section">
-    <div class="section-title">More From This Week</div>
-    ${content.automated.slice(0, 15).map(story => `
+    <div class="section-title">✨ Discovery</div>
+    ${newsletter.discovery.map(story => `
       <div class="story">
         <h3 class="story-title">
           <a href="${story.url}">${story.title}</a>
         </h3>
-        ${story.timestamp ? `<div class="story-time">${story.timestamp}</div>` : ''}
+        <div class="story-meta">
+          Discovery: ${(story.scores.discovery * 100).toFixed(0)}%
+        </div>
       </div>
     `).join('')}
   </div>
+  ` : ''}
+
+  ${newsletter.conversation && newsletter.conversation.length > 0 ? `
+  <div class="section">
+    <div class="section-title">💬 Conversation</div>
+    ${newsletter.conversation.map(story => `
+      <div class="story">
+        <h3 class="story-title">
+          <a href="${story.url}">${story.title}</a>
+        </h3>
+        <div class="story-meta">
+          Engagement: ${(story.scores.engagement * 100).toFixed(0)}%
+        </div>
+      </div>
+    `).join('')}
+  </div>
+  ` : ''}
+
+  ${newsletter.wildcard && newsletter.wildcard.length > 0 ? `
+  <div class="section">
+    <div class="section-title">🎲 Wildcard</div>
+    ${newsletter.wildcard.map(story => `
+      <div class="story">
+        <h3 class="story-title">
+          <a href="${story.url}">${story.title}</a>
+        </h3>
+      </div>
+    `).join('')}
+  </div>
+  ` : ''}
 
   <div class="footer">
     <p><strong>FLESHBOOGIE℠</strong></p>
-    <p>Music, culture, and news – curated weekly</p>
+    <p>Curated by Quantum Curation v1.0</p>
     <p><a href="https://fleshboogie.com">Visit fleshboogie.com</a></p>
     <p><a href="https://x.com/fleshboogie">Follow @fleshboogie on X</a></p>
     <p><a href="https://fleshboogie.com/preferences">Manage your preferences</a></p>
@@ -212,76 +283,51 @@ function buildEmailHTML() {
 // Send newsletter to all weekly subscribers
 async function sendWeeklyNewsletter() {
   try {
-    // Check if newsletter is paused
-    if (process.env.NEWSLETTER_PAUSED === 'true') {
-      console.log('⏸️  Newsletter is currently PAUSED');
-      console.log('ℹ️  Email signups are still active, but sends are disabled');
-      console.log('ℹ️  To resume, set NEWSLETTER_PAUSED=false in environment variables\n');
-      return;
-    }
-    
-    console.log('📧 Starting weekly newsletter send...');
-    console.log(`📅 Date: ${dateStr}\n`);
-    
-    // Get all active weekly subscribers
+    // Get all weekly subscribers
     const subscribers = await db
       .select()
       .from(newsletterSubscribers)
-      .where(and(
-        eq(newsletterSubscribers.isActive, 1),
-        eq(newsletterSubscribers.frequency, 'weekly')
-      ));
-    
+      .where(
+        and(
+          eq(newsletterSubscribers.frequency, 'weekly'),
+          eq(newsletterSubscribers.active, true)
+        )
+      );
+
+    console.log(`📧 Sending weekly newsletter to ${subscribers.length} subscribers...`);
+
     if (subscribers.length === 0) {
-      console.log('⚠️  No weekly subscribers found. Skipping send.');
+      console.log('✅ No weekly subscribers found');
       return;
     }
-    
-    console.log(`👥 Found ${subscribers.length} active weekly subscribers\n`);
-    
+
     const emailHTML = buildEmailHTML();
-    let successCount = 0;
-    let errorCount = 0;
-    
-    // Send to each subscriber
+
+    // Send emails with delay to avoid rate limiting (Resend allows 2 req/sec)
     for (const subscriber of subscribers) {
       try {
-        const personalizedHTML = emailHTML.replace('{{email}}', encodeURIComponent(subscriber.email));
-        
-        const { data, error } = await resend.emails.send({
+        const result = await resend.emails.send({
           from: 'FLESHBOOGIE <hello@fleshboogie.com>',
-          to: [subscriber.email],
-          subject: `The Boogie Blast – Weekly Digest – ${dateStr}`,
-          html: personalizedHTML,
+          to: subscriber.email,
+          subject: `The Boogie Blast - Weekly Digest (${dateStr})`,
+          html: emailHTML.replace('{{email}}', subscriber.email)
         });
 
-        if (error) {
-          console.error(`❌ Failed to send to ${subscriber.email}:`, error);
-          errorCount++;
-        } else {
-          console.log(`✅ Sent to ${subscriber.email} (ID: ${data.id})`);
-          successCount++;
-        }
-        
-        // Delay to avoid rate limiting (Resend allows 2 requests/second)
+        console.log(`✅ Sent to ${subscriber.email} (ID: ${result.id})`);
+
+        // Delay 600ms between sends (allows ~2 emails/second, within Resend rate limit)
         await new Promise(resolve => setTimeout(resolve, 600));
-        
-      } catch (err) {
-        console.error(`❌ Error sending to ${subscriber.email}:`, err.message);
-        errorCount++;
+      } catch (error) {
+        console.error(`❌ Failed to send to ${subscriber.email}:`, error.message);
       }
     }
-    
-    console.log('\n📊 Send Summary:');
-    console.log(`✅ Successful: ${successCount}`);
-    console.log(`❌ Failed: ${errorCount}`);
-    console.log(`📧 Total: ${subscribers.length}`);
-    console.log('\n✅ Weekly newsletter send complete!');
-    
-  } catch (err) {
-    console.error('❌ Failed to send weekly newsletter:', err);
-    process.exit(1);
+
+    console.log('🎉 Weekly newsletter sent successfully!');
+  } catch (error) {
+    console.error('❌ Error sending weekly newsletter:', error);
+    throw error;
   }
 }
 
+// Run the script
 sendWeeklyNewsletter();
