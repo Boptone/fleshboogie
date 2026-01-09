@@ -713,3 +713,10 @@
 - [x] Implement delete confirmation dialog
 - [x] Test delete functionality
 - [x] Save checkpoint
+
+## Pause Morning Newsletter & Fix Outdated Content
+- [x] Disable morning newsletter cron job
+- [x] Keep email signup form active
+- [x] Investigate why newsletter content is outdated
+- [x] Document how to re-enable newsletter when fixed
+- [x] Save checkpoint

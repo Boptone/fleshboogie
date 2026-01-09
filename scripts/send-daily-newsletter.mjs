@@ -200,6 +200,14 @@ function buildEmailHTML() {
 // Send newsletter to all subscribers
 async function sendDailyNewsletter() {
   try {
+    // Check if newsletter is paused
+    if (process.env.NEWSLETTER_PAUSED === 'true') {
+      console.log('⏸️  Newsletter is currently PAUSED');
+      console.log('ℹ️  Email signups are still active, but sends are disabled');
+      console.log('ℹ️  To resume, set NEWSLETTER_PAUSED=false in environment variables\n');
+      return;
+    }
+    
     console.log('📧 Starting daily newsletter send...');
     console.log(`📅 Date: ${dateStr}\n`);
     
