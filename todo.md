@@ -763,3 +763,8 @@
 - [x] Remove privacy@fleshboogie.com and unsubscribe@fleshboogie.com references
 - [x] Test all pages for consistency
 - [x] Save checkpoint
+
+## Update Sitemap with New Legal Pages
+- [x] Add /california-notice to sitemap.xml
+- [x] Add /opt-out-choices to sitemap.xml
+- [x] Save checkpoint
