@@ -27,7 +27,7 @@ function ThemeToggle() {
       variant="ghost"
       size="sm"
       onClick={toggleTheme}
-      className="text-lg hover:bg-foreground hover:text-background transition-none px-2 py-1"
+      className="text-lg hover:bg-foreground hover:text-background transition-none w-8 h-8 rounded-full border border-foreground/20 flex items-center justify-center"
       aria-label={theme === 'light' ? 'Switch to dark mode' : 'Switch to light mode'}
     >
       {theme === 'light' ? '☾' : '☀'}

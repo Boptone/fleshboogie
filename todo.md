@@ -811,3 +811,15 @@
 - [x] Test with real RSS data
 - [x] Send test email with music news
 - [x] Save checkpoint
+
+## Fix 404 Error on Production
+- [ ] Investigate routing configuration
+- [ ] Check server entry point
+- [ ] Fix routing issue
+- [ ] Test locally
+- [ ] Save checkpoint and republish
+
+## Add Circle to Theme Toggle Icon
+- [x] Add circular background to dark/light mode toggle
+- [x] Test visual appearance
+- [x] Save checkpoint for publishing
