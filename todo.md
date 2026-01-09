@@ -784,3 +784,10 @@
 - [x] Test curation system with real RSS data
 - [x] Write vitest tests for scoring algorithm (12/12 passing)
 - [x] Save checkpoint
+
+## Newsletter Email Color Fix
+- [x] Review newsletter email templates for color settings
+- [x] Add explicit white background and black text overrides
+- [x] Prevent dark mode from affecting email rendering on iOS/Android
+- [x] Test email rendering
+- [x] Save checkpoint

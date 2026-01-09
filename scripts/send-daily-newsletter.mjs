@@ -55,16 +55,41 @@ function buildEmailHTML() {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light only">
+  <meta name="supported-color-schemes" content="light">
   <title>The Boogie Blast</title>
   <style>
+    /* Prevent dark mode from affecting email */
+    :root {
+      color-scheme: light only;
+      supported-color-schemes: light;
+    }
+    
     body {
       font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
       line-height: 1.6;
-      color: #000;
+      color: #000000 !important;
       max-width: 600px;
       margin: 0 auto;
       padding: 20px;
-      background-color: #fff;
+      background-color: #ffffff !important;
+    }
+    
+    /* Force white background on all containers */
+    * {
+      background-color: inherit;
+    }
+    
+    /* Prevent iOS/Android dark mode overrides */
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+      }
+      .header, .section, .footer, .splash, .story {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+      }
     }
     .header {
       text-align: center;
@@ -77,7 +102,7 @@ function buildEmailHTML() {
       font-weight: 900;
       letter-spacing: -2px;
       margin: 0;
-      color: #000;
+      color: #000000 !important;
     }
     .tagline {
       font-size: 12px;
@@ -147,7 +172,7 @@ function buildEmailHTML() {
       margin: 0 0 5px 0;
     }
     .story-title a {
-      color: #000;
+      color: #000000 !important;
       text-decoration: none;
     }
     .story-title a:hover {
@@ -175,7 +200,7 @@ function buildEmailHTML() {
       color: #666;
     }
     .footer a {
-      color: #000;
+      color: #000000 !important;
       text-decoration: none;
     }
     .unsubscribe {

@@ -169,9 +169,26 @@ export async function sendWelcomeEmail(email: string, frequency: "daily" | "week
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light only">
+  <meta name="supported-color-schemes" content="light">
   <title>Welcome to FLESHBOOGIE</title>
+  <style>
+    /* Prevent dark mode from affecting email */
+    :root {
+      color-scheme: light only;
+      supported-color-schemes: light;
+    }
+    
+    /* Prevent iOS/Android dark mode overrides */
+    @media (prefers-color-scheme: dark) {
+      body, table, td {
+        background-color: #ffffff !important;
+        color: #1a1a1a !important;
+      }
+    }
+  </style>
 </head>
-<body style="margin: 0; padding: 0; font-family: 'Courier New', monospace; background-color: #f5f5f0; color: #1a1a1a;">
+<body style="margin: 0; padding: 0; font-family: 'Courier New', monospace; background-color: #f5f5f0 !important; color: #1a1a1a !important;">
   <table width="100%" cellpadding="0" cellspacing="0" style="max-width: 600px; margin: 0 auto; background-color: #ffffff;">
     <!-- Header -->
     <tr>
