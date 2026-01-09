@@ -750,3 +750,16 @@
 - [x] Add favicon link tags to index.html
 - [x] Test favicon appears in browser tab
 - [x] Save checkpoint
+
+## Audit & Fix Legal Pages
+- [x] Audit Privacy Policy design and content
+- [x] Audit Terms of Service design and content
+- [x] Audit California Notice design and content
+- [x] Audit Opt-Out Choices design and content
+- [x] Update California Notice to match Privacy/Terms design
+- [x] Update Opt-Out Choices to match Privacy/Terms design
+- [x] Replace Mailchimp references with Resend
+- [x] Replace contact form references with hello@fleshboogie.com
+- [x] Remove privacy@fleshboogie.com and unsubscribe@fleshboogie.com references
+- [x] Test all pages for consistency
+- [x] Save checkpoint
