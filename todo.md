@@ -742,3 +742,11 @@
 - [x] Add links to footer
 - [x] Test pages load correctly
 - [x] Save checkpoint
+
+## Add FB Monogram Favicon
+- [x] Process favicon image to multiple sizes (16x16, 32x32, 180x180)
+- [x] Generate favicon.ico file
+- [x] Copy favicon files to /client/public/
+- [x] Add favicon link tags to index.html
+- [x] Test favicon appears in browser tab
+- [x] Save checkpoint
