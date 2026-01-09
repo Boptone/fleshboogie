@@ -791,3 +791,14 @@
 - [x] Prevent dark mode from affecting email rendering on iOS/Android
 - [x] Test email rendering
 - [x] Save checkpoint
+
+## Send Test Newsletter
+- [x] Create test newsletter script for single recipient
+- [x] Send test email to scottiediablo@icloud.com
+- [x] Confirm delivery
+
+## Remove Emojis and Quantum Curation References
+- [x] Remove emojis from daily newsletter template
+- [x] Remove emojis from weekly newsletter template
+- [x] Remove "Quantum Curation" footer text from both templates
+- [x] Save checkpoint

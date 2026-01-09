@@ -213,14 +213,14 @@ function buildEmailHTML() {
   <div class="header">
     <h1 class="logo">FLESHBOOGIE</h1>
     <p class="tagline">Music • Culture • News • Whatever</p>
-    <div class="weekly-badge">📅 WEEKLY DIGEST</div>
+    <div class="weekly-badge">WEEKLY DIGEST</div>
   </div>
 
   <div class="date">${dateStr}</div>
 
   ${newsletter.leadStory ? `
   <div class="splash">
-    <div class="curation-badge">🎯 STORY OF THE WEEK</div>
+    <div class="curation-badge">STORY OF THE WEEK</div>
     <h2 class="splash-headline">
       <a href="${newsletter.leadStory.url}">${newsletter.leadStory.title}</a>
     </h2>
@@ -229,7 +229,7 @@ function buildEmailHTML() {
 
   ${newsletter.deepDive && newsletter.deepDive.length > 0 ? `
   <div class="section">
-    <div class="section-title">📚 Deep Dive</div>
+    <div class="section-title">Deep Dive</div>
     ${newsletter.deepDive.map(story => `
       <div class="story">
         <h3 class="story-title">
@@ -246,7 +246,7 @@ function buildEmailHTML() {
 
   ${newsletter.discovery && newsletter.discovery.length > 0 ? `
   <div class="section">
-    <div class="section-title">✨ Discovery</div>
+    <div class="section-title">Discovery</div>
     ${newsletter.discovery.map(story => `
       <div class="story">
         <h3 class="story-title">
@@ -262,7 +262,7 @@ function buildEmailHTML() {
 
   ${newsletter.conversation && newsletter.conversation.length > 0 ? `
   <div class="section">
-    <div class="section-title">💬 Conversation</div>
+    <div class="section-title">Conversation</div>
     ${newsletter.conversation.map(story => `
       <div class="story">
         <h3 class="story-title">
@@ -278,7 +278,7 @@ function buildEmailHTML() {
 
   ${newsletter.wildcard && newsletter.wildcard.length > 0 ? `
   <div class="section">
-    <div class="section-title">🎲 Wildcard</div>
+    <div class="section-title">Wildcard</div>
     ${newsletter.wildcard.map(story => `
       <div class="story">
         <h3 class="story-title">
@@ -291,7 +291,7 @@ function buildEmailHTML() {
 
   <div class="footer">
     <p><strong>FLESHBOOGIE℠</strong></p>
-    <p>Curated by Quantum Curation v1.0</p>
+    <p>Music, culture, and news – your weekly digest</p>
     <p><a href="https://fleshboogie.com">Visit fleshboogie.com</a></p>
     <p><a href="https://x.com/fleshboogie">Follow @fleshboogie on X</a></p>
     <p><a href="https://fleshboogie.com/preferences">Manage your preferences</a></p>
