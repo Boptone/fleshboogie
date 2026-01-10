@@ -1,49 +1,22 @@
 {
-  "curatedAt": "2026-01-10T17:21:20.451Z",
+  "curatedAt": "2026-01-10T18:34:10.585Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "THE ONE MOVIE STEPHEN KING NEVER WANTED TO BE REMADE: \"FRANKLY A DUMB IDEA\"",
-      "url": "https://faroutmagazine.co.uk/movie-stephen-king-never-wanted-remade/",
-      "timestamp": "2026-01-10T17:21:17.440Z",
+      "title": "RICHARD ASHCROFT BANNED FROM DRIVING FOR SIX MONTHS",
+      "url": "https://www.nme.com/news/music/richard-ashcroft-banned-from-driving-for-six-months-3922360?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=richard-ashcroft-banned-from-driving-for-six-months",
+      "timestamp": "2026-01-10T18:34:07.569Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
-    "deepDive": [
-      {
-        "title": "Awesome Art's 2026 Preview With Avengers: Doomsday, The Odyssey, Scream 7, Spider-Man: Brand New Day, Supergirl",
-        "url": "https://www.joblo.com/awesome-arts-2026-preview-with-avengers-doomsday-the-odyssey-scream-7-spider-man-brand-new-day-supergirl/",
-        "timestamp": "14:50",
-        "source": "automated",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.4850000000000001
-        }
-      },
-      {
-        "title": "Top 30 Decision Tree Interview Questions and Answers (Part 2 of 2)",
-        "url": "https://pub.towardsai.net/top-30-decision-tree-interview-questions-and-answers-part-2-of-2-fe16d2977805?source=rss----98111c9905da---4",
-        "timestamp": "15:02",
-        "source": "automated",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.4700000000000001
-        }
-      }
-    ],
+    "deepDive": [],
     "discovery": [
       {
         "title": "Mike Myers names the greatest debut single in the history of music: \"It was just thrilling\"",
@@ -61,6 +34,19 @@
     ],
     "conversation": [
       {
+        "title": "How to watch 49ers vs Eagles for *FREE* — Stream NFL 2026 Wildcard game",
+        "url": "https://www.tomsguide.com/entertainment/sports/watch-san-francisco-49ers-vs-philadelphia-eagles-nfl-2026-wildcard-free",
+        "timestamp": "18:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.51
+        }
+      },
+      {
         "title": "How to watch Egypt vs Ivory Coast (it's free) — Stream AFCON 2025 quarter-final",
         "url": "https://www.tomsguide.com/entertainment/sports/watch-egypt-vs-ivory-coast-afcon-2025-quarter-final-free",
         "timestamp": "17:00",
@@ -72,75 +58,36 @@
           "discovery": 0.3,
           "composite": 0.51
         }
-      },
-      {
-        "title": "Here's How to Watch Miley Cyrus, Charli xcx & Snoop Dogg Present at the 2026 Golden Globes for&#160;Free",
-        "url": "https://www.billboard.com/culture/product-recommendations/2026-golden-globes-how-to-watch-1236151994/",
-        "timestamp": "16:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.75,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.495
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "THE ONE MOVIE STEPHEN KING NEVER WANTED TO BE REMADE: \"FRANKLY A DUMB IDEA\"",
-        "url": "https://faroutmagazine.co.uk/movie-stephen-king-never-wanted-remade/",
-        "timestamp": "2026-01-10T17:21:17.440Z",
+        "title": "RICHARD ASHCROFT BANNED FROM DRIVING FOR SIX MONTHS",
+        "url": "https://www.nme.com/news/music/richard-ashcroft-banned-from-driving-for-six-months-3922360?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=richard-ashcroft-banned-from-driving-for-six-months",
+        "timestamp": "2026-01-10T18:34:07.569Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "THE ONE MOVIE STEPHEN KING NEVER WANTED TO BE REMADE: \"FRANKLY A DUMB IDEA\"",
-      "url": "https://faroutmagazine.co.uk/movie-stephen-king-never-wanted-remade/",
-      "timestamp": "2026-01-10T17:21:17.440Z",
+      "title": "RICHARD ASHCROFT BANNED FROM DRIVING FOR SIX MONTHS",
+      "url": "https://www.nme.com/news/music/richard-ashcroft-banned-from-driving-for-six-months-3922360?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=richard-ashcroft-banned-from-driving-for-six-months",
+      "timestamp": "2026-01-10T18:34:07.569Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
-      }
-    },
-    {
-      "title": "Awesome Art's 2026 Preview With Avengers: Doomsday, The Odyssey, Scream 7, Spider-Man: Brand New Day, Supergirl",
-      "url": "https://www.joblo.com/awesome-arts-2026-preview-with-avengers-doomsday-the-odyssey-scream-7-spider-man-brand-new-day-supergirl/",
-      "timestamp": "14:50",
-      "source": "automated",
-      "scores": {
-        "impact": 0.55,
-        "engagement": 0.65,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.4850000000000001
-      }
-    },
-    {
-      "title": "Top 30 Decision Tree Interview Questions and Answers (Part 2 of 2)",
-      "url": "https://pub.towardsai.net/top-30-decision-tree-interview-questions-and-answers-part-2-of-2-fe16d2977805?source=rss----98111c9905da---4",
-      "timestamp": "15:02",
-      "source": "automated",
-      "scores": {
-        "impact": 0.55,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.4700000000000001
+        "composite": 0.5800000000000001
       }
     },
     {
@@ -157,9 +104,9 @@
       }
     },
     {
-      "title": "How to watch Egypt vs Ivory Coast (it's free) — Stream AFCON 2025 quarter-final",
-      "url": "https://www.tomsguide.com/entertainment/sports/watch-egypt-vs-ivory-coast-afcon-2025-quarter-final-free",
-      "timestamp": "17:00",
+      "title": "How to watch 49ers vs Eagles for *FREE* — Stream NFL 2026 Wildcard game",
+      "url": "https://www.tomsguide.com/entertainment/sports/watch-san-francisco-49ers-vs-philadelphia-eagles-nfl-2026-wildcard-free",
+      "timestamp": "18:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,
@@ -170,16 +117,16 @@
       }
     },
     {
-      "title": "Here's How to Watch Miley Cyrus, Charli xcx & Snoop Dogg Present at the 2026 Golden Globes for&#160;Free",
-      "url": "https://www.billboard.com/culture/product-recommendations/2026-golden-globes-how-to-watch-1236151994/",
-      "timestamp": "16:00",
+      "title": "How to watch Egypt vs Ivory Coast (it's free) — Stream AFCON 2025 quarter-final",
+      "url": "https://www.tomsguide.com/entertainment/sports/watch-egypt-vs-ivory-coast-afcon-2025-quarter-final-free",
+      "timestamp": "17:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.75,
+        "engagement": 0.7999999999999999,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.495
+        "composite": 0.51
       }
     }
   ],
