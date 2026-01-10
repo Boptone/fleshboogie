@@ -838,3 +838,11 @@
 - [x] Integrate chart into analytics dashboard
 - [x] Test chart with real data (7/7 tests passing)
 - [x] Save checkpoint
+
+## Fix RSS Refresh Schedule
+- [x] Check current RSS refresh cron job schedule
+- [x] Identify why site isn't updating every 60 minutes (API endpoint doesn't work on static site)
+- [x] Fix schedule to run hourly (consolidated to update-feeds.yml at 0 * * * *)
+- [x] Remove redundant refresh-rss-feeds.yml workflow
+- [x] Add auto-deploy trigger (requires DEPLOY_TOKEN secret)
+- [x] Save checkpoint

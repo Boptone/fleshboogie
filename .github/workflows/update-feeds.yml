@@ -2,8 +2,8 @@ name: Update RSS Feeds
 
 on:
   schedule:
-    # Run every 15 minutes
-    - cron: '*/15 * * * *'
+    # Run every 60 minutes (hourly)
+    - cron: '0 * * * *'
   workflow_dispatch: # Allow manual triggering
 
 jobs:
@@ -31,3 +31,12 @@ jobs:
           git config --global user.email 'bot@fleshboogie.com'
           git add client/public/data/content.json client/public/sitemap.xml
           git diff --quiet && git diff --staged --quiet || (git commit -m "🎵 Auto-update: Fresh links from RSS feeds" && git push)
+
+      - name: Trigger production deploy
+        if: success()
+        run: |
+          curl -X POST "${{ secrets.FLESHBOOGIE_URL }}/api/deploy" \
+            -H "Authorization: Bearer ${{ secrets.DEPLOY_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            --fail-with-body \
+            --max-time 60 || echo "Deploy trigger failed or not configured - site will update on next manual publish"
