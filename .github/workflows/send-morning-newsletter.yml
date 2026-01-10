@@ -1,0 +1,57 @@
+name: Send Morning Newsletter
+
+on:
+  schedule:
+    # Run at 6:00 AM PST (14:00 UTC) every day
+    # PST is UTC-8, so 6 AM PST = 2 PM UTC (14:00)
+    - cron: '0 14 * * *'
+  workflow_dispatch: # Allow manual triggering for testing
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          npm install
+
+      - name: Send morning newsletter
+        env:
+          FLESHBOOGIE_URL: ${{ secrets.FLESHBOOGIE_URL }}
+          CRON_SECRET: ${{ secrets.CRON_SECRET }}
+        run: |
+          echo "Triggering morning newsletter via cron endpoint..."
+          
+          RESPONSE=$(curl -s -w "\n%{http_code}" -X POST \
+            "${FLESHBOOGIE_URL}/api/trpc/cron.sendMorningNewsletter" \
+            -H "Content-Type: application/json" \
+            -H "x-cron-secret: ${CRON_SECRET}" \
+            -d '{}' )
+          
+          HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
+          BODY=$(echo "$RESPONSE" | sed '$d')
+          
+          echo "Response: $BODY"
+          echo "HTTP Status: $HTTP_CODE"
+          
+          if [ "$HTTP_CODE" -ne 200 ]; then
+            echo "Error: Newsletter send failed with status $HTTP_CODE"
+            exit 1
+          fi
+          
+          echo "✓ Morning newsletter sent successfully at $(date)"
+
+      - name: Log completion
+        if: always()
+        run: |
+          echo "Newsletter workflow completed at $(date)"
+          echo "Next run scheduled for tomorrow at 6:00 AM PST (14:00 UTC)"
