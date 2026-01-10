@@ -874,3 +874,20 @@
 - [x] Identified root cause: RSS fetch script was hanging on slow feeds
 - [x] Fixed timeout handling (reduced to 3s, write every 5 feeds instead of 15)
 - [x] Verified API serves fresh content correctly
+
+## Restore MUSIC NEWS Section
+- [ ] Audit current music feed coverage (check which music sources are still active)
+- [ ] Identify which removed feeds were critical for MUSIC NEWS section
+- [ ] Add back working music feeds or find replacements
+- [ ] Test RSS fetch performance with new feeds
+- [ ] Verify MUSIC NEWS section displays content
+- [ ] Save checkpoint
+
+## Update: MUSIC NEWS Section Restored
+- [x] Identified removed music feeds (Brooklyn Vegan, Pitchfork, Consequence, etc. - all timing out)
+- [x] Simplified music detection to use domain-based filtering instead of strict keyword matching
+- [x] Added The FADER RSS feed (working, fresh content)
+- [x] Updated music domain lists in both fetch-feeds.mjs and Home.tsx
+- [x] Tested RSS fetch - collected 20 music articles from working feeds
+- [x] Verified MUSIC NEWS section displays on homepage
+- [x] Music content now sourced from: Billboard, Stereogum, NME, Bandcamp Daily, The FADER, Far Out Magazine, Guardian Music, Spin, Rolling Stone, NPR Music, and music-focused Substacks

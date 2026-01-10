@@ -175,15 +175,21 @@ export default function Home() {
       // Filter music content from automated feed if musicReleases is empty
       const musicDomains = [
         'billboard.com',
-        'brooklynvegan.com',
-        'pitchfork.com',
-        'clashmusic.com',
-        'udiscovermusic.com',
         'stereogum.com',
-        'consequence.net',
         'rollingstone.com/music',
-        'variety.com/music',
-        'hollywoodreporter.com/music'
+        'factmag.com',
+        'bandcamp.com',
+        'spin.com',
+        'nme.com',
+        'npr.org',
+        'musicradar.com',
+        'faroutmagazine.co.uk',
+        'ultimateclassicrock.com',
+        'thefader.com',
+        'gorillavsbear.net',
+        'passionweiss.com',
+        'stereofox.com',
+        'theguardian.com/music'
       ];
       
       let processedContent = { ...contentData.content };

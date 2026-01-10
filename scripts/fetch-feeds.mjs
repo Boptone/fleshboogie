@@ -31,22 +31,44 @@ function writeContent(allItems, contentPath) {
   // Sort by publication date (newest first)
   filteredItems.sort((a, b) => b.pubDate - a.pubDate);
   
-  // Identify music releases
+  // Identify music content from music-specific domains
+  const musicDomains = [
+    'billboard.com',
+    'stereogum.com',
+    'rollingstone.com/music',
+    'factmag.com',
+    'bandcamp.com',
+    'spin.com',
+    'nme.com',
+    'npr.org',
+    'musicradar.com',
+    'faroutmagazine.co.uk',
+    'ultimateclassicrock.com',
+    'gorillavsbear.net',
+    'passionweiss.com',
+    'stereofox.com',
+    'theguardian.com/music',
+    'tedgioia.substack.com',
+    'jasonpwoodbury.substack.com',
+    'thefader.com'
+  ];
+  
   const musicReleases = filteredItems.filter(item => {
+    // Include items from music-specific domains
+    const isFromMusicDomain = musicDomains.some(domain => item.url.includes(domain));
+    if (!isFromMusicDomain) return false;
+    
+    // Exclude mainstream pop artists
     const titleLower = item.title.toLowerCase();
-    const nonMusicKeywords = ['season', 'episode', 'tv', 'show', 'series', 'movie', 'film', 'ceo', 'streamer', 'roku', 'netflix', 'hbo', 'hulu', 'amazon prime', 'apple tv', 'disney+', 'game', 'gaming'];
     const mainstreamArtists = ['bruno mars', 'taylor swift', 'beyonce', 'drake', 'ed sheeran', 'ariana grande', 'justin bieber', 'billie eilish', 'the weeknd', 'dua lipa', 'olivia rodrigo', 'bad bunny', 'harry styles', 'adele', 'rihanna', 'kanye west', 'post malone', 'lady gaga', 'katy perry', 'miley cyrus', 'selena gomez', 'shawn mendes', 'camila cabello', 'doja cat', 'megan thee stallion', 'cardi b', 'lizzo', 'sam smith', 'charlie puth', 'bts', 'blackpink', 'amy grant', 'christian', 'gospel', 'worship', 'praise', 'hillsong', 'bethel music', 'elevation worship', 'jesus', 'christ', 'faith-based'];
     
     if (mainstreamArtists.some(artist => titleLower.includes(artist))) return false;
+    
+    // Exclude TV/film/gaming content
+    const nonMusicKeywords = ['season', 'episode', 'tv show', 'series', 'movie', 'film', 'ceo', 'streamer', 'roku', 'netflix', 'hbo', 'hulu', 'amazon prime', 'apple tv', 'disney+', 'game', 'gaming'];
     if (nonMusicKeywords.some(keyword => titleLower.includes(keyword))) return false;
     
-    const releaseKeywords = ['album', 'ep', 'single', 'track', 'release', 'debut', 'drops', 'out now', 'new music', 'shares', 'announces album', 'announces ep'];
-    const hasReleaseKeyword = releaseKeywords.some(keyword => titleLower.includes(keyword));
-    
-    const musicContextKeywords = ['artist', 'band', 'musician', 'singer', 'rapper', 'producer', 'dj', 'label', 'record', 'song', 'listen'];
-    const hasMusicContext = musicContextKeywords.some(keyword => titleLower.includes(keyword));
-    
-    return hasReleaseKeyword && hasMusicContext;
+    return true;
   }).slice(0, 20);
   
   const recentItems = filteredItems.slice(0, 40);
@@ -143,10 +165,12 @@ function updateSitemap() {
 const FEEDS = [
   // Core independent music sources
   // 'https://consequenceofsound.net/feed/',      // DISABLED: Times out
-  'https://www.thequietus.com/feed',           // Avant-garde, experimental
-  'https://pitchfork.com/rss/news/',           // Music news
-  'https://www.brooklynvegan.com/feed/',       // Indie, punk, underground
+  // 'https://www.thequietus.com/feed',           // DISABLED: Times out
+  // 'https://pitchfork.com/rss/news/',           // DISABLED: Times out
+  // 'https://www.brooklynvegan.com/feed/',       // DISABLED: Times out
   'https://www.factmag.com/feed/',             // Electronic, club culture
+  // 'https://www.albumoftheyear.org/feeds/rss/album-releases/', // DISABLED: Returns 403
+  // 'https://www.allmusic.com/newreleases/rss',  // DISABLED: Returns 404
   
   // Niche underground blogs
   // 'https://www.tinymixtapes.com/feed.xml',     // DISABLED: Times out
@@ -170,6 +194,7 @@ const FEEDS = [
   'https://www.ravensingstheblues.com/feed/',  // Raven Sings the Blues
   // 'https://www.pastemagazine.com/rss/music',   // DISABLED: Returns 404
   'https://www.spin.com/feed/',                // Spin Magazine
+  'https://www.thefader.com/feed',             // The FADER - emerging music
   'https://daily.bandcamp.com/feed',           // Bandcamp Daily
   
   // Substack music publications
