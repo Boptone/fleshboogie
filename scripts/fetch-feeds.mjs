@@ -25,8 +25,24 @@ const __dirname = path.dirname(__filename);
 function writeContent(allItems, contentPath) {
   const isProduction = process.env.NODE_ENV === 'production';
   
-  // Filter out mainstream pop and gossip content
-  const filteredItems = allItems.filter(item => shouldIncludeItem(item.title));
+  // Trusted music Substack domains that bypass keyword filtering
+  const trustedMusicDomains = [
+    'honest-broker.com',
+    'jasonpwoodbury.substack.com',
+    'whitedenim.substack.com',
+    'jefftweedy.substack.com',
+    'chuckprophet.substack.com',
+    'nekocase.substack.com',
+    'dusttodigital.substack.com',
+    'timnapalmstegall.substack.com',
+    'futurismrestated.substack.com'
+  ];
+  
+  // Filter out mainstream pop and gossip content, but allow trusted music sources
+  const filteredItems = allItems.filter(item => {
+    const isTrustedMusicSource = trustedMusicDomains.some(domain => item.url.includes(domain));
+    return isTrustedMusicSource || shouldIncludeItem(item.title);
+  });
   
   // Sort by publication date (newest first)
   filteredItems.sort((a, b) => b.pubDate - a.pubDate);
@@ -48,9 +64,17 @@ function writeContent(allItems, contentPath) {
     'passionweiss.com',
     'stereofox.com',
     'theguardian.com/music',
-    'tedgioia.substack.com',
+    'thefader.com',
+    // All music Substack accounts
+    'honest-broker.com',
     'jasonpwoodbury.substack.com',
-    'thefader.com'
+    'whitedenim.substack.com',
+    'jefftweedy.substack.com',
+    'chuckprophet.substack.com',
+    'nekocase.substack.com',
+    'dusttodigital.substack.com',
+    'timnapalmstegall.substack.com',
+    'futurismrestated.substack.com'
   ];
   
   const musicReleases = filteredItems.filter(item => {
@@ -198,7 +222,7 @@ const FEEDS = [
   'https://daily.bandcamp.com/feed',           // Bandcamp Daily
   
   // Substack music publications
-  'https://tedgioia.substack.com/feed',        // Ted Gioia - music history and culture
+  'https://www.honest-broker.com/feed',        // Ted Gioia (The Honest Broker) - music history and culture
   // 'https://pennyfractions.substack.com/feed',  // DISABLED: Returns 404
   // 'https://daddrummer.substack.com/feed',      // DISABLED: Returns 404
   // 'https://aquariumdrunkard.substack.com/feed', // DISABLED: Returns 404

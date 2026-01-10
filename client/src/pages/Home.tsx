@@ -189,7 +189,17 @@ export default function Home() {
         'gorillavsbear.net',
         'passionweiss.com',
         'stereofox.com',
-        'theguardian.com/music'
+        'theguardian.com/music',
+        // All music Substack accounts
+        'honest-broker.com',
+        'jasonpwoodbury.substack.com',
+        'whitedenim.substack.com',
+        'jefftweedy.substack.com',
+        'chuckprophet.substack.com',
+        'nekocase.substack.com',
+        'dusttodigital.substack.com',
+        'timnapalmstegall.substack.com',
+        'futurismrestated.substack.com'
       ];
       
       let processedContent = { ...contentData.content };

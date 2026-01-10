@@ -891,3 +891,18 @@
 - [x] Tested RSS fetch - collected 20 music articles from working feeds
 - [x] Verified MUSIC NEWS section displays on homepage
 - [x] Music content now sourced from: Billboard, Stereogum, NME, Bandcamp Daily, The FADER, Far Out Magazine, Guardian Music, Spin, Rolling Stone, NPR Music, and music-focused Substacks
+
+## Include Substack Music Accounts in MUSIC NEWS Section
+- [ ] Add all music Substack domains to musicDomains filter in fetch-feeds.mjs
+- [ ] Add all music Substack domains to musicDomains filter in Home.tsx
+- [ ] Test RSS fetch to verify Substack content is included
+- [ ] Verify MUSIC NEWS section shows Substack articles
+- [ ] Save checkpoint
+
+- [x] Add all music Substack domains to musicDomains filter in fetch-feeds.mjs
+- [x] Add all music Substack domains to musicDomains filter in Home.tsx
+- [x] Updated Ted Gioia feed URL to honest-broker.com (custom domain)
+- [x] Modified filtering logic to allow trusted Substack sources to bypass EXCLUDE_KEYWORDS
+- [x] Test RSS fetch to verify Substack content is included
+- [x] Verify MUSIC NEWS section shows Substack articles (Jeff Tweedy, Ted Gioia confirmed)
+- [x] Save checkpoint
