@@ -846,3 +846,10 @@
 - [x] Remove redundant refresh-rss-feeds.yml workflow
 - [x] Add auto-deploy trigger (requires DEPLOY_TOKEN secret)
 - [x] Save checkpoint
+
+## Sync Workflow Changes to GitHub
+- [ ] Make small code change to trigger checkpoint
+- [ ] Save checkpoint to push workflow changes
+- [ ] Verify update-feeds.yml is on GitHub
+- [ ] Verify old refresh-rss-feeds.yml is removed
+- [ ] Confirm set-and-forget RSS updates working

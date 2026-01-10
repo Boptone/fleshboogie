@@ -1,4 +1,5 @@
 name: Update RSS Feeds
+# Automated hourly RSS refresh - set and forget
 
 on:
   schedule:
