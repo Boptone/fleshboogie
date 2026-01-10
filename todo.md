@@ -979,4 +979,14 @@
 - [x] Implement source diversity filter (max 3 stories per source in top 20)
 - [x] Test diversity algorithm with current RSS feeds
 - [x] Verify balanced distribution across multiple music sources (11 sources, max 15% per source)
-- [ ] Save checkpoint with diversity improvements
+- [x] Save checkpoint with diversity improvements
+
+
+## Filter Out Political Content
+
+- [x] Identify political keywords to exclude (president, nobel, election, congress, senate, etc.)
+- [x] Add political keywords to EXCLUDE_KEYWORDS in RSS fetcher
+- [x] Push updated fetcher to GitHub for next hourly run
+- [x] Test filter keywords (will block "Sorry, Mr. President - Nobel Committee" story)
+- [ ] Verify splash headline updates after next GitHub Actions run
+- [ ] Save checkpoint with political content filter

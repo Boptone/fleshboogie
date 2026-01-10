@@ -415,6 +415,15 @@ const EXCLUDE_KEYWORDS = [
   'filibuster',
   'legislation',
   'executive order',
+  'president',
+  'mr. president',
+  'presidential',
+  'vice president',
+  'vp',
+  'administration',
+  'nobel prize',
+  'nobel committee',
+  'nobel',
   
   // Government Institutions
   'government',
