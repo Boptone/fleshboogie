@@ -25,8 +25,8 @@ const __dirname = path.dirname(__filename);
 function writeContent(allItems, contentPath) {
   const isProduction = process.env.NODE_ENV === 'production';
   
-  // Trusted music Substack domains that bypass keyword filtering
-  const trustedMusicDomains = [
+  // Trusted sources that bypass keyword filtering (music Substacks, curated film/art sources)
+  const trustedDomains = [
     'honest-broker.com',
     'jasonpwoodbury.substack.com',
     'whitedenim.substack.com',
@@ -35,13 +35,15 @@ function writeContent(allItems, contentPath) {
     'nekocase.substack.com',
     'dusttodigital.substack.com',
     'timnapalmstegall.substack.com',
-    'futurismrestated.substack.com'
+    'futurismrestated.substack.com',
+    'collider.com',           // Curated film and entertainment
+    'schmattamag.com'         // Art, design, and culture
   ];
   
-  // Filter out mainstream pop and gossip content, but allow trusted music sources
+  // Filter out mainstream pop and gossip content, but allow trusted sources
   const filteredItems = allItems.filter(item => {
-    const isTrustedMusicSource = trustedMusicDomains.some(domain => item.url.includes(domain));
-    return isTrustedMusicSource || shouldIncludeItem(item.title);
+    const isTrustedSource = trustedDomains.some(domain => item.url.includes(domain));
+    return isTrustedSource || shouldIncludeItem(item.title);
   });
   
   // Sort by publication date (newest first)
@@ -235,6 +237,9 @@ const FEEDS = [
   'https://timnapalmstegall.substack.com/feed', // Tim Napalm Stegall - music writer
   'https://futurismrestated.substack.com/feed',  // Futurism Restated - music and culture
   
+  // Art and Design
+  'https://www.schmattamag.com/feed',          // Schmatta - art, design, and culture
+  
   // Additional music magazines and blogs
   'https://faroutmagazine.co.uk/feed/',          // Far Out Magazine - music and culture
   // 'https://www.undertheradarmag.com/feed',       // DISABLED: Returns 403 Forbidden
@@ -258,6 +263,7 @@ const FEEDS = [
   'https://gizmodo.com/tag/tech/rss',          // Tech and gadgets
   
   // Film Industry
+  'https://collider.com/feed/',                // Collider - movie news and entertainment
   'https://www.thewrap.com/feed/',             // Film industry news
   'https://www.filmmakermagazine.com/feed/',   // Independent filmmaking
   'https://www.joblo.com/feed/',               // Movie news and reviews

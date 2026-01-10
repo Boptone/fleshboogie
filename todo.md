@@ -911,3 +911,34 @@
 - [x] Fixed workflow dependency error by removing npm install step
 - [x] Pulled fresh RSS content from GitHub
 - [x] Restarted dev server
+
+## Set Up Automatic Deployment
+- [ ] Research Manus deployment API/webhook options
+- [ ] Create deployment trigger mechanism
+- [ ] Update GitHub Actions workflow to auto-publish after RSS updates
+- [ ] Test automatic deployment
+- [ ] Verify site updates automatically every hour
+
+## Fix Blank Production Site
+- [ ] Investigate why fleshboogie.manus.space shows blank page
+- [ ] Check browser console for JavaScript errors
+- [ ] Verify build configuration for production
+- [ ] Fix deployment issue
+- [ ] Republish and verify site works
+
+## Add New RSS Feeds
+- [ ] Test Collider (movies): https://collider.com/feed/
+- [ ] Test New Commute (music blog): https://www.newcommute.net/feed
+- [ ] Test Schmatta (art/design): https://www.schmattamag.com
+- [ ] Add working feeds to fetch-feeds.mjs
+- [ ] Update domain filtering logic
+- [ ] Test RSS fetch with new feeds
+- [ ] Verify new content appears on site
+
+- [x] Tested Collider RSS feed - works perfectly
+- [x] Tested New Commute RSS feed - no RSS available (Squarespace site)
+- [x] Tested Schmatta RSS feed - works perfectly  
+- [x] Added Collider and Schmatta to fetch-feeds.mjs
+- [x] Added both to trusted domains list to bypass keyword filtering
+- [x] Ran RSS fetch - successfully collecting from 72 feeds (up from 70)
+- [x] Verified feeds are integrated and will appear as new content publishes
