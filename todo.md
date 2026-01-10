@@ -859,3 +859,11 @@
 - [x] Verify content.json is being updated (workflow calling API endpoint that doesn't exist)
 - [x] Check if workflow is actually committing changes (NO - just calling API)
 - [x] Fix the issue (rewrote workflow to fetch feeds locally and commit files)
+
+## Add Force Refresh Button to Admin Panel
+- [x] Create API endpoint for manual RSS refresh
+- [x] Add Force Refresh button to admin dashboard
+- [x] Show loading state during refresh
+- [x] Display success/error messages
+- [x] Test manual refresh functionality (10/10 tests passing)
+- [x] Save checkpoint

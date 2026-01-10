@@ -1,4 +1,5 @@
-import { trpc } from "../lib/trpc";
+import React from 'react';
+import { trpc } from '../lib/trpc';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
 /**
@@ -6,6 +7,9 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContai
  * Displays real-time site metrics at the top of the /admin page
  */
 export default function AnalyticsDashboard() {
+  const [isRefreshing, setIsRefreshing] = React.useState(false);
+  const [refreshMessage, setRefreshMessage] = React.useState<string | null>(null);
+  
   const { data: stats, isLoading } = trpc.analytics.getDashboardStats.useQuery(undefined, {
     refetchInterval: 30000, // Refresh every 30 seconds for real-time updates
   });
@@ -13,6 +17,26 @@ export default function AnalyticsDashboard() {
   const { data: chartData, isLoading: isChartLoading } = trpc.analytics.get7DayPageViews.useQuery(undefined, {
     refetchInterval: 30000,
   });
+  
+  const forceRefreshMutation = trpc.analytics.forceRefreshRSS.useMutation({
+    onSuccess: (data) => {
+      setRefreshMessage('✓ RSS feeds refreshed successfully!');
+      setTimeout(() => setRefreshMessage(null), 5000);
+    },
+    onError: (error) => {
+      setRefreshMessage(`✗ Error: ${error.message}`);
+      setTimeout(() => setRefreshMessage(null), 5000);
+    },
+    onSettled: () => {
+      setIsRefreshing(false);
+    },
+  });
+  
+  const handleForceRefresh = () => {
+    setIsRefreshing(true);
+    setRefreshMessage('Refreshing RSS feeds...');
+    forceRefreshMutation.mutate();
+  };
 
   if (isLoading) {
     return (
@@ -43,7 +67,26 @@ export default function AnalyticsDashboard() {
 
   return (
     <div className="bg-white border-4 border-black p-6 mb-8">
-      <h2 className="text-2xl font-bold mb-6">ANALYTICS</h2>
+      <div className="flex justify-between items-center mb-6">
+        <h2 className="text-2xl font-bold">ANALYTICS</h2>
+        <button
+          onClick={handleForceRefresh}
+          disabled={isRefreshing}
+          className="px-4 py-2 bg-black text-white font-bold border-2 border-black hover:bg-gray-800 disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors"
+        >
+          {isRefreshing ? 'REFRESHING...' : 'FORCE REFRESH RSS'}
+        </button>
+      </div>
+      
+      {refreshMessage && (
+        <div className={`mb-4 p-3 border-2 border-black font-bold ${
+          refreshMessage.includes('✓') ? 'bg-green-100' : 
+          refreshMessage.includes('✗') ? 'bg-red-100' : 
+          'bg-yellow-100'
+        }`}>
+          {refreshMessage}
+        </div>
+      )}
       
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {statCards.map((card, index) => (

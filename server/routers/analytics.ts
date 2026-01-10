@@ -11,6 +11,39 @@ import crypto from "crypto";
  */
 export const analyticsRouter = router({
   /**
+   * Force refresh RSS feeds manually from admin panel
+   */
+  forceRefreshRSS: protectedProcedure.mutation(async () => {
+    try {
+      const { exec } = await import('child_process');
+      const { promisify } = await import('util');
+      const execAsync = promisify(exec);
+
+      // Run RSS fetch script
+      const { stdout, stderr } = await execAsync(
+        'node scripts/fetch-feeds.mjs && node scripts/curate-morning-email.mjs',
+        { 
+          cwd: process.cwd(), 
+          timeout: 300000, // 5 minute timeout
+        }
+      );
+
+      if (stderr) {
+        console.error('[Admin] RSS refresh warnings:', stderr);
+      }
+
+      return {
+        success: true,
+        message: 'RSS feeds refreshed successfully',
+        timestamp: new Date().toISOString(),
+        output: stdout.split('\n').slice(-5).join('\n'), // Last 5 lines
+      };
+    } catch (error: any) {
+      console.error('[Admin] RSS refresh failed:', error);
+      throw new Error(`Failed to refresh feeds: ${error.message}`);
+    }
+  }),
+  /**
    * Get dashboard stats (today's visits, total visits, new subscribers, Featured Artist views)
    */
   getDashboardStats: protectedProcedure.query(async () => {
