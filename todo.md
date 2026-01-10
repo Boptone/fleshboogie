@@ -906,3 +906,8 @@
 - [x] Test RSS fetch to verify Substack content is included
 - [x] Verify MUSIC NEWS section shows Substack articles (Jeff Tweedy, Ted Gioia confirmed)
 - [x] Save checkpoint
+
+- [x] Restored GitHub Actions workflow for RSS auto-updates
+- [x] Fixed workflow dependency error by removing npm install step
+- [x] Pulled fresh RSS content from GitHub
+- [x] Restarted dev server
