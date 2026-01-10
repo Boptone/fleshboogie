@@ -22,8 +22,7 @@ jobs:
           RESPONSE=$(curl -s -w "\n%{http_code}" -X POST \
             "${FLESHBOOGIE_URL}/api/trpc/cron.sendDailyNewsletter" \
             -H "Content-Type: application/json" \
-            -H "x-cron-secret: ${CRON_SECRET}" \
-            -d '{"secret":"'${CRON_SECRET}'"}' )
+            -d '{"secret":"'"${CRON_SECRET}"'"}' )
           
           HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
           BODY=$(echo "$RESPONSE" | sed '$d')
