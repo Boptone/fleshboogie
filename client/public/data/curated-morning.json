@@ -1,38 +1,51 @@
 {
-  "curatedAt": "2026-01-10T18:34:10.585Z",
+  "curatedAt": "2026-01-10T19:18:49.622Z",
   "totalAnalyzed": 66,
-  "totalSelected": 4,
+  "totalSelected": 2,
   "newsletter": {
     "leadStory": {
-      "title": "RICHARD ASHCROFT BANNED FROM DRIVING FOR SIX MONTHS",
-      "url": "https://www.nme.com/news/music/richard-ashcroft-banned-from-driving-for-six-months-3922360?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=richard-ashcroft-banned-from-driving-for-six-months",
-      "timestamp": "2026-01-10T18:34:07.569Z",
+      "title": "AUSTRALIAN OPEN 2026 LIVESTREAM: HOW TO WATCH THE GRAND SLAM TENNIS TOURNAMENT ONLINE WITHOUT CABLE FOR FREE",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+      "timestamp": "2026-01-10T19:18:46.684Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
+        "impact": 0.6,
+        "engagement": 0.7999999999999999,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.71
       }
     },
-    "deepDive": [],
-    "discovery": [
+    "deepDive": [
       {
-        "title": "Mike Myers names the greatest debut single in the history of music: \"It was just thrilling\"",
-        "url": "https://faroutmagazine.co.uk/mike-myers-names-greatest-debut-single-music/",
-        "timestamp": "14:15",
-        "source": "musicReleases",
+        "title": "AUSTRALIAN OPEN 2026 LIVESTREAM: HOW TO WATCH THE GRAND SLAM TENNIS TOURNAMENT ONLINE WITHOUT CABLE FOR FREE",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+        "timestamp": "2026-01-10T19:18:46.684Z",
+        "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.47000000000000003
+          "impact": 0.6,
+          "engagement": 0.7999999999999999,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.71
         }
       }
     ],
+    "discovery": [],
     "conversation": [
+      {
+        "title": "AUSTRALIAN OPEN 2026 LIVESTREAM: HOW TO WATCH THE GRAND SLAM TENNIS TOURNAMENT ONLINE WITHOUT CABLE FOR FREE",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+        "timestamp": "2026-01-10T19:18:46.684Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7999999999999999,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.71
+        }
+      },
       {
         "title": "How to watch 49ers vs Eagles for *FREE* — Stream NFL 2026 Wildcard game",
         "url": "https://www.tomsguide.com/entertainment/sports/watch-san-francisco-49ers-vs-philadelphia-eagles-nfl-2026-wildcard-free",
@@ -45,11 +58,13 @@
           "discovery": 0.3,
           "composite": 0.51
         }
-      },
+      }
+    ],
+    "wildcard": [
       {
-        "title": "How to watch Egypt vs Ivory Coast (it's free) — Stream AFCON 2025 quarter-final",
-        "url": "https://www.tomsguide.com/entertainment/sports/watch-egypt-vs-ivory-coast-afcon-2025-quarter-final-free",
-        "timestamp": "17:00",
+        "title": "How to watch 49ers vs Eagles for *FREE* — Stream NFL 2026 Wildcard game",
+        "url": "https://www.tomsguide.com/entertainment/sports/watch-san-francisco-49ers-vs-philadelphia-eagles-nfl-2026-wildcard-free",
+        "timestamp": "18:00",
         "source": "automated",
         "scores": {
           "impact": 0.5,
@@ -59,67 +74,26 @@
           "composite": 0.51
         }
       }
-    ],
-    "wildcard": [
-      {
-        "title": "RICHARD ASHCROFT BANNED FROM DRIVING FOR SIX MONTHS",
-        "url": "https://www.nme.com/news/music/richard-ashcroft-banned-from-driving-for-six-months-3922360?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=richard-ashcroft-banned-from-driving-for-six-months",
-        "timestamp": "2026-01-10T18:34:07.569Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.5,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.5800000000000001
-        }
-      }
     ]
   },
   "stories": [
     {
-      "title": "RICHARD ASHCROFT BANNED FROM DRIVING FOR SIX MONTHS",
-      "url": "https://www.nme.com/news/music/richard-ashcroft-banned-from-driving-for-six-months-3922360?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=richard-ashcroft-banned-from-driving-for-six-months",
-      "timestamp": "2026-01-10T18:34:07.569Z",
+      "title": "AUSTRALIAN OPEN 2026 LIVESTREAM: HOW TO WATCH THE GRAND SLAM TENNIS TOURNAMENT ONLINE WITHOUT CABLE FOR FREE",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+      "timestamp": "2026-01-10T19:18:46.684Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
+        "impact": 0.6,
+        "engagement": 0.7999999999999999,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
-      }
-    },
-    {
-      "title": "Mike Myers names the greatest debut single in the history of music: \"It was just thrilling\"",
-      "url": "https://faroutmagazine.co.uk/mike-myers-names-greatest-debut-single-music/",
-      "timestamp": "14:15",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.47000000000000003
+        "composite": 0.71
       }
     },
     {
       "title": "How to watch 49ers vs Eagles for *FREE* — Stream NFL 2026 Wildcard game",
       "url": "https://www.tomsguide.com/entertainment/sports/watch-san-francisco-49ers-vs-philadelphia-eagles-nfl-2026-wildcard-free",
       "timestamp": "18:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.7999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.51
-      }
-    },
-    {
-      "title": "How to watch Egypt vs Ivory Coast (it's free) — Stream AFCON 2025 quarter-final",
-      "url": "https://www.tomsguide.com/entertainment/sports/watch-egypt-vs-ivory-coast-afcon-2025-quarter-final-free",
-      "timestamp": "17:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,
