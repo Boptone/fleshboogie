@@ -8,7 +8,9 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContai
  */
 export default function AnalyticsDashboard() {
   const [isRefreshing, setIsRefreshing] = React.useState(false);
+  const [isPulling, setIsPulling] = React.useState(false);
   const [refreshMessage, setRefreshMessage] = React.useState<string | null>(null);
+  const [pullMessage, setPullMessage] = React.useState<string | null>(null);
   
   const { data: stats, isLoading } = trpc.analytics.getDashboardStats.useQuery(undefined, {
     refetchInterval: 30000, // Refresh every 30 seconds for real-time updates
@@ -32,10 +34,30 @@ export default function AnalyticsDashboard() {
     },
   });
   
+  const pullLatestContentMutation = trpc.githubSync.pullLatestContent.useMutation({
+    onSuccess: (data) => {
+      setPullMessage(data.message);
+      setTimeout(() => setPullMessage(null), 10000); // Show for 10 seconds
+    },
+    onError: (error) => {
+      setPullMessage(`✗ Error: ${error.message}`);
+      setTimeout(() => setPullMessage(null), 10000);
+    },
+    onSettled: () => {
+      setIsPulling(false);
+    },
+  });
+  
   const handleForceRefresh = () => {
     setIsRefreshing(true);
     setRefreshMessage('Refreshing RSS feeds...');
     forceRefreshMutation.mutate();
+  };
+  
+  const handlePullFromGitHub = () => {
+    setIsPulling(true);
+    setPullMessage('Pulling latest content from GitHub...');
+    pullLatestContentMutation.mutate();
   };
 
   if (isLoading) {
@@ -69,14 +91,33 @@ export default function AnalyticsDashboard() {
     <div className="bg-white border-4 border-black p-6 mb-8">
       <div className="flex justify-between items-center mb-6">
         <h2 className="text-2xl font-bold">ANALYTICS</h2>
-        <button
-          onClick={handleForceRefresh}
-          disabled={isRefreshing}
-          className="px-4 py-2 bg-black text-white font-bold border-2 border-black hover:bg-gray-800 disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors"
-        >
-          {isRefreshing ? 'REFRESHING...' : 'FORCE REFRESH RSS'}
-        </button>
+        <div className="flex gap-3">
+          <button
+            onClick={handlePullFromGitHub}
+            disabled={isPulling}
+            className="px-4 py-2 bg-blue-600 text-white font-bold border-2 border-blue-600 hover:bg-blue-700 disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors"
+          >
+            {isPulling ? 'PULLING...' : 'PULL FROM GITHUB'}
+          </button>
+          <button
+            onClick={handleForceRefresh}
+            disabled={isRefreshing}
+            className="px-4 py-2 bg-black text-white font-bold border-2 border-black hover:bg-gray-800 disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors"
+          >
+            {isRefreshing ? 'REFRESHING...' : 'FORCE REFRESH RSS'}
+          </button>
+        </div>
       </div>
+      
+      {pullMessage && (
+        <div className={`mb-4 p-3 border-2 border-black font-bold ${
+          pullMessage.includes('✓') ? 'bg-green-100' : 
+          pullMessage.includes('✗') ? 'bg-red-100' : 
+          'bg-blue-100'
+        }`}>
+          {pullMessage}
+        </div>
+      )}
       
       {refreshMessage && (
         <div className={`mb-4 p-3 border-2 border-black font-bold ${
