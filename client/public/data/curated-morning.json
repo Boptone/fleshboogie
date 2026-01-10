@@ -1,49 +1,62 @@
 {
-  "curatedAt": "2026-01-10T19:18:49.622Z",
+  "curatedAt": "2026-01-10T20:27:07.768Z",
   "totalAnalyzed": 66,
-  "totalSelected": 2,
+  "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "AUSTRALIAN OPEN 2026 LIVESTREAM: HOW TO WATCH THE GRAND SLAM TENNIS TOURNAMENT ONLINE WITHOUT CABLE FOR FREE",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
-      "timestamp": "2026-01-10T19:18:46.684Z",
+      "title": "THE OSCAR WINNER WHO NEEDED THERAPY AFTER WORKING WITH JIM CARREY: \"HE WAS REALLY MEAN TO EVERYBODY\"",
+      "url": "https://faroutmagazine.co.uk/oscar-winner-needed-therapy-working-with-jim-carrey/",
+      "timestamp": "2026-01-10T20:27:04.841Z",
       "source": "splash",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.7999999999999999,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.71
+        "composite": 0.6200000000000001
       }
     },
     "deepDive": [
       {
-        "title": "AUSTRALIAN OPEN 2026 LIVESTREAM: HOW TO WATCH THE GRAND SLAM TENNIS TOURNAMENT ONLINE WITHOUT CABLE FOR FREE",
+        "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
         "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
-        "timestamp": "2026-01-10T19:18:46.684Z",
-        "source": "splash",
+        "timestamp": "19:09",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7999999999999999,
-          "timeliness": 1,
+          "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.71
+          "composite": 0.55
+        }
+      },
+      {
+        "title": "‘Amarela’ Filmmaker André Saito Talks Embracing Individuality In Brazilian Oscar Shortlisted Short Film",
+        "url": "https://deadline.com/2026/01/amarela-interview-andre-saito-oscar-shortlist-1236678571/",
+        "timestamp": "20:10",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.55,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.4750000000000001
         }
       }
     ],
     "discovery": [],
     "conversation": [
       {
-        "title": "AUSTRALIAN OPEN 2026 LIVESTREAM: HOW TO WATCH THE GRAND SLAM TENNIS TOURNAMENT ONLINE WITHOUT CABLE FOR FREE",
+        "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
         "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
-        "timestamp": "2026-01-10T19:18:46.684Z",
-        "source": "splash",
+        "timestamp": "19:09",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7999999999999999,
-          "timeliness": 1,
+          "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.71
+          "composite": 0.55
         }
       },
       {
@@ -62,32 +75,58 @@
     ],
     "wildcard": [
       {
-        "title": "How to watch 49ers vs Eagles for *FREE* — Stream NFL 2026 Wildcard game",
-        "url": "https://www.tomsguide.com/entertainment/sports/watch-san-francisco-49ers-vs-philadelphia-eagles-nfl-2026-wildcard-free",
-        "timestamp": "18:00",
-        "source": "automated",
+        "title": "THE OSCAR WINNER WHO NEEDED THERAPY AFTER WORKING WITH JIM CARREY: \"HE WAS REALLY MEAN TO EVERYBODY\"",
+        "url": "https://faroutmagazine.co.uk/oscar-winner-needed-therapy-working-with-jim-carrey/",
+        "timestamp": "2026-01-10T20:27:04.841Z",
+        "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
+          "impact": 0.6,
+          "engagement": 0.5,
+          "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.51
+          "composite": 0.6200000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "AUSTRALIAN OPEN 2026 LIVESTREAM: HOW TO WATCH THE GRAND SLAM TENNIS TOURNAMENT ONLINE WITHOUT CABLE FOR FREE",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
-      "timestamp": "2026-01-10T19:18:46.684Z",
+      "title": "THE OSCAR WINNER WHO NEEDED THERAPY AFTER WORKING WITH JIM CARREY: \"HE WAS REALLY MEAN TO EVERYBODY\"",
+      "url": "https://faroutmagazine.co.uk/oscar-winner-needed-therapy-working-with-jim-carrey/",
+      "timestamp": "2026-01-10T20:27:04.841Z",
       "source": "splash",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.7999999999999999,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.71
+        "composite": 0.6200000000000001
+      }
+    },
+    {
+      "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+      "timestamp": "19:09",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.55
+      }
+    },
+    {
+      "title": "‘Amarela’ Filmmaker André Saito Talks Embracing Individuality In Brazilian Oscar Shortlisted Short Film",
+      "url": "https://deadline.com/2026/01/amarela-interview-andre-saito-oscar-shortlist-1236678571/",
+      "timestamp": "20:10",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.55,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.4750000000000001
       }
     },
     {
