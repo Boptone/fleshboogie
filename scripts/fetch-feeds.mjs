@@ -619,8 +619,8 @@ function fetchFeed(url, redirectCount = 0) {
     
     request.on('error', reject);
     
-    // Set timeout to prevent hanging (reduced to 5s to fail faster)
-    request.setTimeout(5000, () => {
+    // Set timeout to prevent hanging (reduced to 3s to fail faster)
+    request.setTimeout(3000, () => {
       request.destroy();
       reject(new Error('Request timeout'));
     });
@@ -638,7 +638,7 @@ async function main() {
     : path.join(__dirname, '..', 'client', 'public', 'data', 'content.json');
   
   let feedCount = 0;
-  const WRITE_INTERVAL = 15; // Write partial results every 15 feeds
+  const WRITE_INTERVAL = 5; // Write partial results every 5 feeds (more frequent to prevent data loss)
   
   for (const feedUrl of FEEDS) {
     try {
