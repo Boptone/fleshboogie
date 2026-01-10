@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "headline": "HERE’S WHAT HAPPENED IN CRYPTO TODAY",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-01-10T23:03:20.597Z"
+    },
+    {
       "headline": "OPENAI IS REPORTEDLY ASKING CONTRACTORS TO UPLOAD REAL WORK FROM PAST JOBS",
       "url": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
       "date": "2026-01-10T21:21:39.494Z"
@@ -96,5 +101,5 @@
       "date": "2026-01-06T22:20:25.062Z"
     }
   ],
-  "lastUpdated": "2026-01-10T21:21:39.494Z"
+  "lastUpdated": "2026-01-10T23:03:20.597Z"
 }

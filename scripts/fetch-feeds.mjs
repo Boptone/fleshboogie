@@ -603,7 +603,7 @@ function parseRSS(xml) {
     const itemXml = match[1];
     
     const titleMatch = /<title><!\[CDATA\[(.*?)\]\]><\/title>|<title>(.*?)<\/title>/s.exec(itemXml);
-    const linkMatch = /<link>(.*?)<\/link>/s.exec(itemXml);
+    const linkMatch = /<link><!\[CDATA\[(.*?)\]\]><\/link>|<link>(.*?)<\/link>/s.exec(itemXml);
     const pubDateMatch = /<pubDate>(.*?)<\/pubDate>/s.exec(itemXml);
     
     if (titleMatch && linkMatch) {

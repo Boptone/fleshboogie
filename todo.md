@@ -962,3 +962,12 @@
 - [x] Send test newsletter to scottiediablo@icloud.com
 - [x] Confirm NEWSLETTER_PAUSED=false setting
 - [x] Document newsletter workflow
+
+
+### Fix CDATA Tags in RSS Feed URLs
+- [x] Investigate RSS parser to find where CDATA tags are being included in URLs
+- [x] Add CDATA stripping logic to RSS parser (line 606 in fetch-feeds.mjs)
+- [x] Clean existing content.json and dist/public/data/content.json files
+- [x] Test fix with affected feeds (Engadget GameStop link now works)
+- [x] Verify all links work correctly on homepage
+- [ ] Save checkpoint with fix
