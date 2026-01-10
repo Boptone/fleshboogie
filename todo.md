@@ -989,4 +989,13 @@
 - [x] Push updated fetcher to GitHub for next hourly run
 - [x] Test filter keywords (will block "Sorry, Mr. President - Nobel Committee" story)
 - [ ] Verify splash headline updates after next GitHub Actions run
-- [ ] Save checkpoint with political content filter
+- [x] Save checkpoint with political content filter
+
+
+## Add Sports Content Filter (with LA Dodgers Exception)
+
+- [x] Identify sports keywords to exclude (NFL, NBA, NHL, soccer, wild card, vs., etc.)
+- [x] Implement sports filter with LA Dodgers exception in shouldIncludeItem function
+- [x] Test filter logic (will block "Bills vs. Jaguars Wild Card" but allow Dodgers)
+- [ ] Verify Bills vs. Jaguars story is filtered out after next GitHub Actions run
+- [ ] Save checkpoint with sports filter

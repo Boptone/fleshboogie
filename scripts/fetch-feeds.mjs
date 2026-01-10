@@ -582,6 +582,44 @@ const EXCLUDE_KEYWORDS = [
   'probe',
   'fraud',
   'scam',
+  
+  // Sports (except LA Dodgers - handled separately in shouldIncludeItem)
+  'nfl',
+  'nba',
+  'nhl',
+  'mlb',
+  'mls',
+  'super bowl',
+  'superbowl',
+  'world series',
+  'playoffs',
+  'playoff',
+  'wild card',
+  'wildcard',
+  'championship',
+  'finals',
+  'quarterback',
+  'touchdown',
+  'football',
+  'basketball',
+  'hockey',
+  'baseball',
+  'soccer',
+  'nascar',
+  'formula 1',
+  'f1',
+  'ufc',
+  'boxing',
+  'wrestling',
+  'espn',
+  'sports',
+  'athlete',
+  'coach',
+  'team',
+  'game',
+  'match',
+  'vs.',
+  'versus',
 ];
 
 // Decode HTML entities to clean text
@@ -613,6 +651,13 @@ function decodeHTMLEntities(text) {
 // Filter function to exclude mainstream/gossip content
 function shouldIncludeItem(title) {
   const lowerTitle = title.toLowerCase();
+  
+  // Exception: Always allow LA Dodgers content
+  const dodgersKeywords = ['dodgers', 'los angeles dodgers', 'la dodgers'];
+  const isDodgersContent = dodgersKeywords.some(keyword => lowerTitle.includes(keyword));
+  if (isDodgersContent) {
+    return true;
+  }
   
   // Check if title contains any excluded keywords
   for (const keyword of EXCLUDE_KEYWORDS) {
