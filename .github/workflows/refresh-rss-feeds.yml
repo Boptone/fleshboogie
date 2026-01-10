@@ -3,7 +3,7 @@ name: Refresh RSS Feeds
 
 on:
   schedule:
-    # Run every 60 minutes (hourly )
+    # Run every 60 minutes (hourly)
     - cron: '0 * * * *'
   workflow_dispatch: # Allow manual triggering
 
@@ -20,9 +20,6 @@ jobs:
         with:
           node-version: '22'
           
-      - name: Install dependencies
-        run: npm install
-        
       - name: Fetch RSS feeds
         run: node scripts/fetch-feeds.mjs
         
@@ -33,5 +30,5 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          git add client/public/data/content.json client/public/data/curated-morning.json
+          git add client/public/data/content.json client/public/data/curated-morning.json client/public/rss.xml client/public/atom.xml client/public/sitemap.xml client/public/data/archive.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update RSS feeds - $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)
