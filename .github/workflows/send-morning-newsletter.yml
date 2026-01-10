@@ -20,9 +20,9 @@ jobs:
           echo "Triggering morning newsletter via cron endpoint..."
           
           RESPONSE=$(curl -s -w "\n%{http_code}" -X POST \
-            "${FLESHBOOGIE_URL}/api/trpc/cron.sendDailyNewsletter" \
+            "${FLESHBOOGIE_URL}/api/cron/send-daily-newsletter" \
             -H "Content-Type: application/json" \
-            -d '{"secret":"'"${CRON_SECRET}"'"}' )
+            -H "X-Cron-Secret: ${CRON_SECRET}" )
           
           HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
           BODY=$(echo "$RESPONSE" | sed '$d')
@@ -35,7 +35,7 @@ jobs:
             exit 1
           fi
           
-          echo "✓ Morning newsletter sent successfully at $(date)"
+          echo "✓ Morning newsletter job started successfully at $(date)"
 
       - name: Log completion
         if: always()
