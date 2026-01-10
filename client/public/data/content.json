@@ -1,11 +1,23 @@
 {
   "splash": {
-    "headline": "THE OSCAR WINNER WHO NEEDED THERAPY AFTER WORKING WITH JIM CARREY: \"HE WAS REALLY MEAN TO EVERYBODY\"",
-    "url": "https://faroutmagazine.co.uk/oscar-winner-needed-therapy-working-with-jim-carrey/",
+    "headline": "ALAMO DRAFTHOUSE IS GOING MOBILE FOR FOOD ORDERS TO 'PROTECT THE MOVIEGOING EXPERIENCE,' OR SO THEY SAY",
+    "url": "https://www.joblo.com/alamo-drafthouse-mobile-ordering/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
+    {
+      "title": "Matt Rogers, Bowen Yang Promise To \"Be More Thoughtful\" After Jasmine Crockett Comments",
+      "url": "https://deadline.com/2026/01/matt-rogers-bowen-yang-be-more-thoughtful-jasmine-crockett-1236678568/",
+      "timestamp": "20:29",
+      "pinned": false
+    },
+    {
+      "title": "The Oscar winner who needed therapy after working with Jim Carrey: \"He was really mean to everybody\"",
+      "url": "https://faroutmagazine.co.uk/oscar-winner-needed-therapy-working-with-jim-carrey/",
+      "timestamp": "20:15",
+      "pinned": false
+    },
     {
       "title": "The song Bob Dylan wrote to be a \"big\" anthem: \"What the people like to hear\"",
       "url": "https://faroutmagazine.co.uk/the-song-bob-dylan-wrote-to-be-a-big-anthem/",
@@ -22,18 +34,6 @@
       "title": "Starknet publishes post-mortem report after temporary network outage",
       "url": "<![CDATA[https://cointelegraph.com/news/starknet-post-mortem-report-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "timestamp": "20:06",
-      "pinned": false
-    },
-    {
-      "title": "XRP Stalls Despite Bullish Developments and Ripple’s Institutional Momentum",
-      "url": "https://news.bitcoin.com/xrp-stalls-despite-bullish-developments-and-ripples-institutional-momentum/",
-      "timestamp": "20:05",
-      "pinned": false
-    },
-    {
-      "title": "A Linear, Self-Adaptive Framework for Streaming Forecasting",
-      "url": "https://pub.towardsai.net/a-linear-self-adaptive-framework-for-streaming-forecasting-d05c6de7aa21?source=rss----98111c9905da---4",
-      "timestamp": "20:02",
       "pinned": false
     }
   ],
@@ -104,6 +104,18 @@
     }
   ],
   "automated": [
+    {
+      "title": "Alamo Drafthouse is going mobile for food orders to 'Protect the Moviegoing Experience,' or so they say",
+      "url": "https://www.joblo.com/alamo-drafthouse-mobile-ordering/",
+      "timestamp": "20:30",
+      "pubDate": "2026-01-10T20:30:00.000Z"
+    },
+    {
+      "title": "Matt Rogers, Bowen Yang Promise To \"Be More Thoughtful\" After Jasmine Crockett Comments",
+      "url": "https://deadline.com/2026/01/matt-rogers-bowen-yang-be-more-thoughtful-jasmine-crockett-1236678568/",
+      "timestamp": "20:29",
+      "pubDate": "2026-01-10T20:29:08.000Z"
+    },
     {
       "title": "The Oscar winner who needed therapy after working with Jim Carrey: \"He was really mean to everybody\"",
       "url": "https://faroutmagazine.co.uk/oscar-winner-needed-therapy-working-with-jim-carrey/",
@@ -255,6 +267,12 @@
       "pubDate": "2026-01-10T18:35:36.000Z"
     },
     {
+      "title": "DHS Responds To Billie Eilish Calling ICE A “Terrorist Group”",
+      "url": "https://stereogum.com/2484785/dhs-responds-to-billie-eilish-calling-ice-a-terrorist-group/news/",
+      "timestamp": "18:35",
+      "pubDate": "2026-01-10T18:35:21.000Z"
+    },
+    {
       "title": "Richard Ashcroft banned from driving for six months",
       "url": "https://www.nme.com/news/music/richard-ashcroft-banned-from-driving-for-six-months-3922360?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=richard-ashcroft-banned-from-driving-for-six-months",
       "timestamp": "18:31",
@@ -325,24 +343,6 @@
       "url": "https://faroutmagazine.co.uk/dumb-movie-left-clint-eastwood-incensed/",
       "timestamp": "17:45",
       "pubDate": "2026-01-10T17:45:00.000Z"
-    },
-    {
-      "title": "Venice AI’s DIEM Posts Triple-Digit Monthly Gains on Utility Demand",
-      "url": "https://news.bitcoin.com/venice-ais-diem-posts-triple-digit-monthly-gains-on-utility-demand/",
-      "timestamp": "17:41",
-      "pubDate": "2026-01-10T17:41:02.000Z"
-    },
-    {
-      "title": "'Anaconda' Crosses $100 Million Globally",
-      "url": "https://variety.com/2026/film/box-office/anaconda-crosses-100-million-global-box-office-1236627969/",
-      "timestamp": "17:34",
-      "pubDate": "2026-01-10T17:34:24.000Z"
-    },
-    {
-      "title": "The singer Robert Plant and Jimmy Page both called the greatest: \"Visionary genius\"",
-      "url": "https://faroutmagazine.co.uk/singer-robert-plant-and-jimmy-page-both-called-the-greatest/",
-      "timestamp": "17:30",
-      "pubDate": "2026-01-10T17:30:00.000Z"
     }
   ],
   "musicReleases": [
@@ -447,5 +447,5 @@
       "timestamp": "15:16"
     }
   ],
-  "lastUpdated": "2026-01-10T20:27:04.841Z"
+  "lastUpdated": "2026-01-10T20:34:17.625Z"
 }
