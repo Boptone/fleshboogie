@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-10T21:21:42.424Z",
+  "curatedAt": "2026-01-10T22:23:42.585Z",
   "totalAnalyzed": 66,
-  "totalSelected": 3,
+  "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
-      "timestamp": "19:09",
-      "source": "automated",
+      "title": "CI/CD VS MANUAL DEPLOYMENT USING AWS : PYTHON PRACTICAL STEP-BY-STEP FLASK APPLICATION EXAMPLE",
+      "url": "https://pub.towardsai.net/ci-cd-vs-manual-deployment-using-aws-python-practical-step-by-step-flask-application-example-a74180283651?source=rss----98111c9905da---4",
+      "timestamp": "2026-01-10T22:23:39.618Z",
+      "source": "splash",
       "scores": {
-        "impact": 0.6,
-        "engagement": 0.7999999999999999,
-        "timeliness": 0.2,
+        "impact": 0.5,
+        "engagement": 0.5,
+        "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.55
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
@@ -28,6 +28,19 @@
           "timeliness": 0.2,
           "discovery": 0.3,
           "composite": 0.55
+        }
+      },
+      {
+        "title": "TEED releases his new album 'Always With Me'",
+        "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
+        "timestamp": "22:01",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.7,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.545
         }
       },
       {
@@ -60,36 +73,49 @@
         }
       },
       {
-        "title": "The 3 Best Movies on HBO Max This Weekend",
-        "url": "https://www.thewrap.com/creative-content/what-to-watch/3-best-movies-on-hbo-max-this-weekend-jan-9-11/",
-        "timestamp": "21:00",
-        "source": "automated",
+        "title": "TEED releases his new album 'Always With Me'",
+        "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
+        "timestamp": "22:01",
+        "source": "mainColumn",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
+          "impact": 0.7,
+          "engagement": 0.65,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.4800000000000001
+          "composite": 0.545
         }
       }
     ],
     "wildcard": [
       {
-        "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
-        "timestamp": "19:09",
-        "source": "automated",
+        "title": "CI/CD VS MANUAL DEPLOYMENT USING AWS : PYTHON PRACTICAL STEP-BY-STEP FLASK APPLICATION EXAMPLE",
+        "url": "https://pub.towardsai.net/ci-cd-vs-manual-deployment-using-aws-python-practical-step-by-step-flask-application-example-a74180283651?source=rss----98111c9905da---4",
+        "timestamp": "2026-01-10T22:23:39.618Z",
+        "source": "splash",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
+          "impact": 0.5,
+          "engagement": 0.5,
+          "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.55
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
+    {
+      "title": "CI/CD VS MANUAL DEPLOYMENT USING AWS : PYTHON PRACTICAL STEP-BY-STEP FLASK APPLICATION EXAMPLE",
+      "url": "https://pub.towardsai.net/ci-cd-vs-manual-deployment-using-aws-python-practical-step-by-step-flask-application-example-a74180283651?source=rss----98111c9905da---4",
+      "timestamp": "2026-01-10T22:23:39.618Z",
+      "source": "splash",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.5,
+        "timeliness": 1,
+        "discovery": 0.3,
+        "composite": 0.5800000000000001
+      }
+    },
     {
       "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
@@ -104,6 +130,19 @@
       }
     },
     {
+      "title": "TEED releases his new album 'Always With Me'",
+      "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
+      "timestamp": "22:01",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.7,
+        "engagement": 0.65,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.545
+      }
+    },
+    {
       "title": "‘Amarela’ Filmmaker André Saito Talks Embracing Individuality In Brazilian Oscar Shortlisted Short Film",
       "url": "https://deadline.com/2026/01/amarela-interview-andre-saito-oscar-shortlist-1236678571/",
       "timestamp": "20:10",
@@ -114,19 +153,6 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.4750000000000001
-      }
-    },
-    {
-      "title": "The 3 Best Movies on HBO Max This Weekend",
-      "url": "https://www.thewrap.com/creative-content/what-to-watch/3-best-movies-on-hbo-max-this-weekend-jan-9-11/",
-      "timestamp": "21:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.4800000000000001
       }
     }
   ],
