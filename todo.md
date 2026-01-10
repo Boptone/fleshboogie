@@ -853,3 +853,9 @@
 - [ ] Verify update-feeds.yml is on GitHub
 - [ ] Verify old refresh-rss-feeds.yml is removed
 - [ ] Confirm set-and-forget RSS updates working
+
+## Investigate RSS Content Not Updating on Published Site
+- [x] Check GitHub commits for RSS updates (no new commits since Jan 8)
+- [x] Verify content.json is being updated (workflow calling API endpoint that doesn't exist)
+- [x] Check if workflow is actually committing changes (NO - just calling API)
+- [x] Fix the issue (rewrote workflow to fetch feeds locally and commit files)
