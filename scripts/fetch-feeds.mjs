@@ -79,7 +79,8 @@ function writeContent(allItems, contentPath) {
     'futurismrestated.substack.com'
   ];
   
-  const musicReleases = filteredItems.filter(item => {
+  // Filter music items with source diversity (max 3 per source)
+  const musicCandidates = filteredItems.filter(item => {
     // Include items from music-specific domains
     const isFromMusicDomain = musicDomains.some(domain => item.url.includes(domain));
     if (!isFromMusicDomain) return false;
@@ -95,7 +96,28 @@ function writeContent(allItems, contentPath) {
     if (nonMusicKeywords.some(keyword => titleLower.includes(keyword))) return false;
     
     return true;
-  }).slice(0, 20);
+  });
+  
+  // Apply source diversity filter: max 3 stories per source
+  const musicReleases = [];
+  const sourceCounts = {};
+  const MAX_PER_SOURCE = 3;
+  
+  for (const item of musicCandidates) {
+    try {
+      const domain = new URL(item.url).hostname.replace('www.', '');
+      const count = sourceCounts[domain] || 0;
+      
+      if (count < MAX_PER_SOURCE) {
+        musicReleases.push(item);
+        sourceCounts[domain] = count + 1;
+        
+        if (musicReleases.length >= 20) break;
+      }
+    } catch (e) {
+      // Skip items with invalid URLs
+    }
+  }
   
   const recentItems = filteredItems.slice(0, 40);
   
@@ -608,7 +630,7 @@ function parseRSS(xml) {
     
     if (titleMatch && linkMatch) {
       const title = (titleMatch[1] || titleMatch[2] || '').trim();
-      const url = linkMatch[1].trim();
+      const url = (linkMatch[1] || linkMatch[2] || '').trim();
       const pubDate = pubDateMatch ? new Date(pubDateMatch[1]) : new Date();
       
       const cleanTitle = title.replace(/<[^>]*>/g, ''); // Strip any HTML tags

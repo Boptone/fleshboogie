@@ -964,10 +964,19 @@
 - [x] Document newsletter workflow
 
 
-### Fix CDATA Tags in RSS Feed URLs
+## Fix CDATA Tags in RSS Feed URLs
 - [x] Investigate RSS parser to find where CDATA tags are being included in URLs
 - [x] Add CDATA stripping logic to RSS parser (line 606 in fetch-feeds.mjs)
 - [x] Clean existing content.json and dist/public/data/content.json files
 - [x] Test fix with affected feeds (Engadget GameStop link now works)
 - [x] Verify all links work correctly on homepage
-- [ ] Save checkpoint with fix
+- [x] Save checkpoint with fix
+
+
+## Improve Music News Source Diversity
+
+- [x] Analyze current music news section to identify dominant source (Far Out Magazine: 23/53 = 43.4%)
+- [x] Implement source diversity filter (max 3 stories per source in top 20)
+- [x] Test diversity algorithm with current RSS feeds
+- [x] Verify balanced distribution across multiple music sources (11 sources, max 15% per source)
+- [ ] Save checkpoint with diversity improvements
