@@ -942,3 +942,23 @@
 - [x] Added both to trusted domains list to bypass keyword filtering
 - [x] Ran RSS fetch - successfully collecting from 72 feeds (up from 70)
 - [x] Verified feeds are integrated and will appear as new content publishes
+
+
+## GitHub Pull & Checkpoint Feature for Daily Publishing
+
+- [x] Add backend endpoint for git pull from GitHub
+- [x] Add "Pull Latest Content from GitHub" button to admin dashboard
+- [x] Test git pull and checkpoint workflow
+- [x] Document daily publishing workflow for user
+
+## Restore Daily Morning Newsletter Workflow
+
+- [x] Check GitHub repository for existing newsletter workflow files
+- [x] Create "Send Morning Newsletter" GitHub Actions workflow
+- [x] Configure workflow to run at 6 AM PST / 9 AM EST daily
+- [x] Fix workflow endpoint from TRPC to Express cron endpoint
+- [x] Test workflow execution (successful - run #5)
+- [x] Verify newsletter emails are being sent via Resend
+- [x] Send test newsletter to scottiediablo@icloud.com
+- [x] Confirm NEWSLETTER_PAUSED=false setting
+- [x] Document newsletter workflow

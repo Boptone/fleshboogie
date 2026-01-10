@@ -1,33 +1,33 @@
 {
-  "curatedAt": "2026-01-10T23:22:49.363Z",
+  "curatedAt": "2026-01-10T22:24:43.581Z",
   "totalAnalyzed": 66,
-  "totalSelected": 4,
+  "totalSelected": 3,
   "newsletter": {
     "leadStory": {
-      "title": "SORRY, MR. PRESIDENT – NOBEL COMMITTEE SAYS PRIZES CANNOT BE 'REVOKED, SHARED, OR TRANSFERRED'",
-      "url": "https://www.thewrap.com/media-platforms/politics/nobel-prize-committee-prizes-not-shared-machado-trump/",
-      "timestamp": "2026-01-10T23:22:46.366Z",
-      "source": "splash",
+      "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+      "timestamp": "19:09",
+      "source": "automated",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
-        "timeliness": 1,
+        "impact": 0.6,
+        "engagement": 0.7999999999999999,
+        "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.55
       }
     },
     "deepDive": [
       {
-        "title": "TEED releases his new album 'Always With Me'",
-        "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
-        "timestamp": "22:01",
+        "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+        "timestamp": "19:09",
         "source": "automated",
         "scores": {
-          "impact": 0.7,
-          "engagement": 0.65,
+          "impact": 0.6,
+          "engagement": 0.7999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.545
+          "composite": 0.55
         }
       },
       {
@@ -47,16 +47,16 @@
     "discovery": [],
     "conversation": [
       {
-        "title": "TEED releases his new album 'Always With Me'",
-        "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
-        "timestamp": "22:01",
+        "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+        "timestamp": "19:09",
         "source": "automated",
         "scores": {
-          "impact": 0.7,
-          "engagement": 0.65,
+          "impact": 0.6,
+          "engagement": 0.7999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.545
+          "composite": 0.55
         }
       },
       {
@@ -75,45 +75,32 @@
     ],
     "wildcard": [
       {
-        "title": "SORRY, MR. PRESIDENT – NOBEL COMMITTEE SAYS PRIZES CANNOT BE 'REVOKED, SHARED, OR TRANSFERRED'",
-        "url": "https://www.thewrap.com/media-platforms/politics/nobel-prize-committee-prizes-not-shared-machado-trump/",
-        "timestamp": "2026-01-10T23:22:46.366Z",
-        "source": "splash",
+        "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+        "timestamp": "19:09",
+        "source": "automated",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.5,
-          "timeliness": 1,
+          "impact": 0.6,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.55
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "SORRY, MR. PRESIDENT – NOBEL COMMITTEE SAYS PRIZES CANNOT BE 'REVOKED, SHARED, OR TRANSFERRED'",
-      "url": "https://www.thewrap.com/media-platforms/politics/nobel-prize-committee-prizes-not-shared-machado-trump/",
-      "timestamp": "2026-01-10T23:22:46.366Z",
-      "source": "splash",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
-        "timeliness": 1,
-        "discovery": 0.3,
-        "composite": 0.5800000000000001
-      }
-    },
-    {
-      "title": "TEED releases his new album 'Always With Me'",
-      "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
-      "timestamp": "22:01",
+      "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+      "timestamp": "19:09",
       "source": "automated",
       "scores": {
-        "impact": 0.7,
-        "engagement": 0.65,
+        "impact": 0.6,
+        "engagement": 0.7999999999999999,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.545
+        "composite": 0.55
       }
     },
     {
