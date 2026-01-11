@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "THE METALLICA SONG KIRK HAMMETT ALWAYS STRUGGLES TO PLAY LIVE: \"I'M LIABLE TO MESS IT UP\"",
-    "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
+    "headline": "THE TV SHOW STEVEN SPIELBERG HATED WITH A PASSION: \"NO ONE CAN CANNIBALISE MY FILMS\"",
+    "url": "https://faroutmagazine.co.uk/tv-show-steven-spielberg-hated-passion/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "The rock songs Sting dismissed as complete garbage: \"There’s a whole genre\"",
-      "url": "https://faroutmagazine.co.uk/the-rock-songs-sting-dismissed-as-complete-garbage/",
-      "timestamp": "13:00",
+      "title": "$1 Billion to Google. 15 AI Minds Lost. Apple’s Surrender Equation.",
+      "url": "https://pub.towardsai.net/1-billion-to-google-15-ai-minds-lost-apples-surrender-equation-5ba4dbaf7406?source=rss----98111c9905da---4",
+      "timestamp": "14:02",
       "pinned": false
     },
     {
-      "title": "John Lydon revealed as surprise star on 'Masked Singer'",
-      "url": "https://faroutmagazine.co.uk/john-lydon-revealed-as-surprise-star-on-masked-singer/",
-      "timestamp": "12:51",
+      "title": "DeepSeek Sparse Attention: From O(L²) to Near-Linear O(L·n)",
+      "url": "https://pub.towardsai.net/deepseek-sparse-attention-from-o-l%C2%B2-to-near-linear-o-l-n-6f755d49331f?source=rss----98111c9905da---4",
+      "timestamp": "14:02",
       "pinned": false
     },
     {
-      "title": "The one role Morgan Freeman compared to \"prostitution\"",
-      "url": "https://faroutmagazine.co.uk/role-morgan-freeman-compared-to-prostitution/",
-      "timestamp": "12:48",
+      "title": "Who was the first Beatle to perform on 'Top of the Pops'?",
+      "url": "https://faroutmagazine.co.uk/the-first-beatle-to-perform-on-top-of-the-pops/",
+      "timestamp": "14:00",
       "pinned": false
     },
     {
-      "title": "Paul Weller's attempt to write a modern version of 'Danny Boy'",
-      "url": "https://faroutmagazine.co.uk/paul-weller-attempt-modern-danny-boy/",
-      "timestamp": "12:30",
+      "title": "Doomsday Glacier Bombarded by Earthquakes",
+      "url": "https://futurism.com/science-energy/doomsday-glacier-earthquake",
+      "timestamp": "14:00",
       "pinned": false
     },
     {
-      "title": "16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)",
-      "url": "https://www.wired.com/gallery/the-best-heat-protectants-for-hair/",
-      "timestamp": "12:30",
+      "title": "The 2026 Roadmap: Three Major Transformations Foreseen by Global Consulting Giants",
+      "url": "https://pub.towardsai.net/the-2026-roadmap-three-major-transformations-foreseen-by-global-consulting-giants-5b00d061ab5c?source=rss----98111c9905da---4",
+      "timestamp": "13:40",
       "pinned": false
     }
   ],
@@ -105,6 +105,72 @@
   ],
   "automated": [
     {
+      "title": "The TV show Steven Spielberg hated with a passion: \"No one can cannibalise my films\"",
+      "url": "https://faroutmagazine.co.uk/tv-show-steven-spielberg-hated-passion/",
+      "timestamp": "14:15",
+      "pubDate": "2026-01-11T14:15:00.000Z"
+    },
+    {
+      "title": "$1 Billion to Google. 15 AI Minds Lost. Apple’s Surrender Equation.",
+      "url": "https://pub.towardsai.net/1-billion-to-google-15-ai-minds-lost-apples-surrender-equation-5ba4dbaf7406?source=rss----98111c9905da---4",
+      "timestamp": "14:02",
+      "pubDate": "2026-01-11T14:02:49.000Z"
+    },
+    {
+      "title": "DeepSeek Sparse Attention: From O(L²) to Near-Linear O(L·n)",
+      "url": "https://pub.towardsai.net/deepseek-sparse-attention-from-o-l%C2%B2-to-near-linear-o-l-n-6f755d49331f?source=rss----98111c9905da---4",
+      "timestamp": "14:02",
+      "pubDate": "2026-01-11T14:02:37.000Z"
+    },
+    {
+      "title": "Who was the first Beatle to perform on 'Top of the Pops'?",
+      "url": "https://faroutmagazine.co.uk/the-first-beatle-to-perform-on-top-of-the-pops/",
+      "timestamp": "14:00",
+      "pubDate": "2026-01-11T14:00:00.000Z"
+    },
+    {
+      "title": "Doomsday Glacier Bombarded by Earthquakes",
+      "url": "https://futurism.com/science-energy/doomsday-glacier-earthquake",
+      "timestamp": "14:00",
+      "pubDate": "2026-01-11T14:00:00.000Z"
+    },
+    {
+      "title": "The 2026 Roadmap: Three Major Transformations Foreseen by Global Consulting Giants",
+      "url": "https://pub.towardsai.net/the-2026-roadmap-three-major-transformations-foreseen-by-global-consulting-giants-5b00d061ab5c?source=rss----98111c9905da---4",
+      "timestamp": "13:40",
+      "pubDate": "2026-01-11T13:40:18.000Z"
+    },
+    {
+      "title": "Part2: Guide to Huggingface AutoModels** for Vision and Audio",
+      "url": "https://pub.towardsai.net/part2-guide-to-huggingface-automodels-for-vision-and-audio-4b0c90f2255c?source=rss----98111c9905da---4",
+      "timestamp": "13:39",
+      "pubDate": "2026-01-11T13:39:12.000Z"
+    },
+    {
+      "title": "Particle Filters in Trading: Detecting Volatility Regime Shifts with Python",
+      "url": "https://pub.towardsai.net/particle-filters-in-trading-detecting-volatility-regime-shifts-with-python-b116c2f93275?source=rss----98111c9905da---4",
+      "timestamp": "13:34",
+      "pubDate": "2026-01-11T13:34:34.000Z"
+    },
+    {
+      "title": "Guide to Hugging Face AutoModelFor** Classes and Tokenizers",
+      "url": "https://pub.towardsai.net/guide-to-hugging-face-automodelfor-classes-and-tokenizers-05d2a5b85210?source=rss----98111c9905da---4",
+      "timestamp": "13:33",
+      "pubDate": "2026-01-11T13:33:22.000Z"
+    },
+    {
+      "title": "Beyond Gradient Descent: A Practical Guide to SGD, Momentum, RMSProp, and Adam (with Worked…",
+      "url": "https://pub.towardsai.net/beyond-gradient-descent-a-practical-guide-to-sgd-momentum-rmsprop-and-adam-with-worked-688ecdddd616?source=rss----98111c9905da---4",
+      "timestamp": "13:28",
+      "pubDate": "2026-01-11T13:28:01.000Z"
+    },
+    {
+      "title": "TOON Prompting: Moving Past Natural Language and JSON to Token-Optimized Data",
+      "url": "https://pub.towardsai.net/toon-prompting-moving-past-natural-language-and-json-to-token-optimized-data-2318aac6e8a8?source=rss----98111c9905da---4",
+      "timestamp": "13:27",
+      "pubDate": "2026-01-11T13:27:49.000Z"
+    },
+    {
       "title": "The Metallica song Kirk Hammett always struggles to play live: \"I'm liable to mess it up\"",
       "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
       "timestamp": "13:02",
@@ -127,6 +193,12 @@
       "url": "https://faroutmagazine.co.uk/role-morgan-freeman-compared-to-prostitution/",
       "timestamp": "12:48",
       "pubDate": "2026-01-11T12:48:05.000Z"
+    },
+    {
+      "title": "Venezuela Shock Rally, Maduro Removed, and More — Week in Review",
+      "url": "https://news.bitcoin.com/venezuela-shock-rally-maduro-removed-and-more-week-in-review/",
+      "timestamp": "12:30",
+      "pubDate": "2026-01-11T12:30:02.000Z"
     },
     {
       "title": "Paul Weller's attempt to write a modern version of 'Danny Boy'",
@@ -271,81 +343,14 @@
       "url": "https://faroutmagazine.co.uk/margot-robbie-favourite-film-scores-of-all-time/",
       "timestamp": "09:30",
       "pubDate": "2026-01-11T09:30:00.000Z"
-    },
-    {
-      "title": "The internet is obsessed with the Kodak Charmera and I finally got my hands on it: here's why it's charmed me too",
-      "url": "https://www.tomsguide.com/cameras-photography/kodak-charmera-first-impressions-opinion",
-      "timestamp": "09:30",
-      "pubDate": "2026-01-11T09:30:00.000Z"
-    },
-    {
-      "title": "This teen girl is the action hero we need — watch both of her movies now on Netflix",
-      "url": "https://www.tomsguide.com/entertainment/netflix/this-teen-girl-is-the-action-hero-we-need-watch-both-of-her-movies-now-on-netflix",
-      "timestamp": "09:15",
-      "pubDate": "2026-01-11T09:15:00.000Z"
-    },
-    {
-      "title": "A Much Faster Mac On A Microcontroller",
-      "url": "https://hackaday.com/2026/01/11/a-much-faster-mac-on-a-microcontroller/",
-      "timestamp": "09:00",
-      "pubDate": "2026-01-11T09:00:28.000Z"
-    },
-    {
-      "title": "Donna Summer, the musical 'Hair', and the birth of disco: The audition that changed music",
-      "url": "https://faroutmagazine.co.uk/donna-summer-musical-hair-birth-of-disco/",
-      "timestamp": "09:00",
-      "pubDate": "2026-01-11T09:00:00.000Z"
-    },
-    {
-      "title": "Bird baths won't freeze over this winter if you add this $2 item",
-      "url": "https://www.tomsguide.com/home/gardening/bird-baths-wont-freeze-over-this-winter-if-you-add-this-usd2-item",
-      "timestamp": "09:00",
-      "pubDate": "2026-01-11T09:00:00.000Z"
-    },
-    {
-      "title": "I’m a personal trainer who works with seniors — build lower body and core strength with these exercises you can do on your bed",
-      "url": "https://www.tomsguide.com/wellness/workouts/im-a-personal-trainer-who-works-with-seniors-build-lower-body-and-core-strength-with-these-exercises-you-can-do-on-your-bed",
-      "timestamp": "08:45",
-      "pubDate": "2026-01-11T08:45:00.000Z"
-    },
-    {
-      "title": "Brazil's B3 to Expand Trading Hours for Crypto and Gold Futures",
-      "url": "https://news.bitcoin.com/brazils-b3-to-expand-trading-hours-for-crypto-and-gold-futures/",
-      "timestamp": "08:30",
-      "pubDate": "2026-01-11T08:30:25.000Z"
-    },
-    {
-      "title": "The Richard Burton role Christopher Walken wasn't allowed to play: \"That's the way it goes\"",
-      "url": "https://faroutmagazine.co.uk/richard-burton-role-christopher-walken-wasnt-allowed-to-play/",
-      "timestamp": "08:30",
-      "pubDate": "2026-01-11T08:30:00.000Z"
-    },
-    {
-      "title": "The iPhone Fold’s rumored price is $2,400 — and analysts say Apple fans won’t blink",
-      "url": "https://www.tomsguide.com/phones/iphones/the-iphone-folds-rumored-price-is-usd2-400-and-analysts-say-apple-fans-wont-blink",
-      "timestamp": "08:30",
-      "pubDate": "2026-01-11T08:30:00.000Z"
-    },
-    {
-      "title": "Five albums from Factory Records that changed the world",
-      "url": "https://faroutmagazine.co.uk/five-albums-from-factory-records-that-changed-world/",
-      "timestamp": "08:00",
-      "pubDate": "2026-01-11T08:00:00.000Z"
-    },
-    {
-      "title": "The return of Prime Video's slick spy thriller series was worth the 10-year wait — 'The Night Manager' season 2 is gripping",
-      "url": "https://www.tomsguide.com/entertainment/prime-video/the-return-of-prime-videos-slick-spy-thriller-series-was-worth-the-10-year-wait-the-night-manager-season-2-is-gripping",
-      "timestamp": "08:00",
-      "pubDate": "2026-01-11T08:00:00.000Z"
-    },
-    {
-      "title": "The 4 7 8 breathing method doesn’t work for me when I’m anxious — but this psychological hack always helps me fall asleep in minutes",
-      "url": "https://www.tomsguide.com/wellness/sleep-problems/the-4-7-8-breathing-method-doesnt-work-for-me-when-im-anxious-but-this-psychological-hack-always-helps-me-fall-asleep-in-minutes",
-      "timestamp": "07:45",
-      "pubDate": "2026-01-11T07:45:00.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "Who was the first Beatle to perform on 'Top of the Pops'?",
+      "url": "https://faroutmagazine.co.uk/the-first-beatle-to-perform-on-top-of-the-pops/",
+      "timestamp": "14:00"
+    },
     {
       "title": "The Metallica song Kirk Hammett always struggles to play live: \"I'm liable to mess it up\"",
       "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
@@ -355,11 +360,6 @@
       "title": "The rock songs Sting dismissed as complete garbage: \"There’s a whole genre\"",
       "url": "https://faroutmagazine.co.uk/the-rock-songs-sting-dismissed-as-complete-garbage/",
       "timestamp": "13:00"
-    },
-    {
-      "title": "John Lydon revealed as surprise star on 'Masked Singer'",
-      "url": "https://faroutmagazine.co.uk/john-lydon-revealed-as-surprise-star-on-masked-singer/",
-      "timestamp": "12:51"
     },
     {
       "title": "Rilo Kiley's Jenny Lewis marks 50th birthday by marrying her dog",
@@ -447,5 +447,5 @@
       "timestamp": "16:05"
     }
   ],
-  "lastUpdated": "2026-01-11T13:32:22.712Z"
+  "lastUpdated": "2026-01-11T14:22:33.546Z"
 }

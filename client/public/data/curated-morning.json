@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-11T13:32:25.725Z",
+  "curatedAt": "2026-01-11T14:22:36.530Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "THE METALLICA SONG KIRK HAMMETT ALWAYS STRUGGLES TO PLAY LIVE: \"I'M LIABLE TO MESS IT UP\"",
-      "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
-      "timestamp": "2026-01-11T13:32:22.712Z",
+      "title": "THE TV SHOW STEVEN SPIELBERG HATED WITH A PASSION: \"NO ONE CAN CANNIBALISE MY FILMS\"",
+      "url": "https://faroutmagazine.co.uk/tv-show-steven-spielberg-hated-passion/",
+      "timestamp": "2026-01-11T14:22:33.546Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -102,9 +102,9 @@
     ],
     "wildcard": [
       {
-        "title": "THE METALLICA SONG KIRK HAMMETT ALWAYS STRUGGLES TO PLAY LIVE: \"I'M LIABLE TO MESS IT UP\"",
-        "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
-        "timestamp": "2026-01-11T13:32:22.712Z",
+        "title": "THE TV SHOW STEVEN SPIELBERG HATED WITH A PASSION: \"NO ONE CAN CANNIBALISE MY FILMS\"",
+        "url": "https://faroutmagazine.co.uk/tv-show-steven-spielberg-hated-passion/",
+        "timestamp": "2026-01-11T14:22:33.546Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -118,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "THE METALLICA SONG KIRK HAMMETT ALWAYS STRUGGLES TO PLAY LIVE: \"I'M LIABLE TO MESS IT UP\"",
-      "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
-      "timestamp": "2026-01-11T13:32:22.712Z",
+      "title": "THE TV SHOW STEVEN SPIELBERG HATED WITH A PASSION: \"NO ONE CAN CANNIBALISE MY FILMS\"",
+      "url": "https://faroutmagazine.co.uk/tv-show-steven-spielberg-hated-passion/",
+      "timestamp": "2026-01-11T14:22:33.546Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
