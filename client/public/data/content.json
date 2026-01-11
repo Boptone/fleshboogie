@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "DON WAS REMEMBERS BOB WEIR, HIS 'FEARLESS' FRIEND AND&#160;BANDMATE",
-    "url": "https://www.billboard.com/music/music-news/don-was-bob-weir-death-statement-1236152708/",
+    "headline": "I ADDED A 10X OPTICAL ZOOM TO MY IPHONE WITH THIS ATTACHABLE LENS — BUT IT HAS A MORE AMAZING TRICK UP ITS SLEEVE",
+    "url": "https://www.tomsguide.com/phones/iphones/i-added-a-10x-optical-zoom-to-my-iphone-with-this-attachable-lens-but-it-has-a-more-amazing-trick-up-its-sleeve",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "'Hamnet' Wins AARP's 2026 Best Movie For Grownups — Full Winners List",
-      "url": "https://deadline.com/2026/01/aarp-2026-best-movie-grownups-full-winners-list-1236678559/",
-      "timestamp": "03:45",
+      "title": "The band Phil Collins called the gold standard of perfection: \"This is remarkably simple\"",
+      "url": "https://faroutmagazine.co.uk/the-band-phil-collins-called-the-gold-standard-of-perfection/",
+      "timestamp": "05:00",
       "pinned": false
     },
     {
-      "title": "Bitcoin’s Calm Is a Trap: Strategist Sees Volatility Bull Market Ahead",
-      "url": "https://news.bitcoin.com/bitcoins-calm-is-a-trap-strategist-sees-volatility-bull-market-ahead/",
-      "timestamp": "03:30",
+      "title": "Every season of ‘The Traitors’ U.K. ranked — and where to stream them all now",
+      "url": "https://www.tomsguide.com/entertainment/streaming/every-season-of-the-traitors-u-k-ranked-and-where-to-stream-them-all-now",
+      "timestamp": "05:00",
       "pinned": false
     },
     {
-      "title": "The movie Florence Pugh was told not to make because she'd fail: \"I'm glad I did it\"",
-      "url": "https://faroutmagazine.co.uk/the-movie-florence-pugh-was-told-not-to-make-because-shed-fail/",
-      "timestamp": "03:30",
+      "title": "The one thing Adam Sandler hates doing onscreen the most: \"I'm going to let everybody down\"",
+      "url": "https://faroutmagazine.co.uk/one-thing-adam-sandler-hates-doing-onscreen-the-most/",
+      "timestamp": "04:30",
       "pinned": false
     },
     {
-      "title": "Trey Anastasio Remembers 'Sweet, Kind, Gentle Friend' Bob Weir",
-      "url": "https://www.rollingstone.com/music/music-news/trey-anastasio-pays-tribute-bob-weir-grateful-dead-1235497464/",
-      "timestamp": "03:12",
+      "title": "Guy Moon, 'The Fairly OddParents' and 'Danny Phantom' Composer, Dies at 63",
+      "url": "https://www.hollywoodreporter.com/music/music-news/guy-moon-dead-fairly-oddparents-composer-1236469457/",
+      "timestamp": "04:12",
       "pinned": false
     },
     {
-      "title": "ESP with EEG — No, Not That ESP!",
-      "url": "https://hackaday.com/2026/01/10/esp-with-eeg-no-not-that-esp/",
-      "timestamp": "03:00",
+      "title": "Don Was Remembers Bob Weir, His 'Fearless' Friend and&#160;Bandmate",
+      "url": "https://www.billboard.com/music/music-news/don-was-bob-weir-death-statement-1236152708/",
+      "timestamp": "03:52",
       "pinned": false
     }
   ],
@@ -105,16 +105,40 @@
   ],
   "automated": [
     {
+      "title": "I added a 10x optical zoom to my iPhone with this attachable lens — but it has a more amazing trick up its sleeve",
+      "url": "https://www.tomsguide.com/phones/iphones/i-added-a-10x-optical-zoom-to-my-iphone-with-this-attachable-lens-but-it-has-a-more-amazing-trick-up-its-sleeve",
+      "timestamp": "05:05",
+      "pubDate": "2026-01-11T05:05:00.000Z"
+    },
+    {
+      "title": "The band Phil Collins called the gold standard of perfection: \"This is remarkably simple\"",
+      "url": "https://faroutmagazine.co.uk/the-band-phil-collins-called-the-gold-standard-of-perfection/",
+      "timestamp": "05:00",
+      "pubDate": "2026-01-11T05:00:00.000Z"
+    },
+    {
+      "title": "Every season of ‘The Traitors’ U.K. ranked — and where to stream them all now",
+      "url": "https://www.tomsguide.com/entertainment/streaming/every-season-of-the-traitors-u-k-ranked-and-where-to-stream-them-all-now",
+      "timestamp": "05:00",
+      "pubDate": "2026-01-11T05:00:00.000Z"
+    },
+    {
+      "title": "The one thing Adam Sandler hates doing onscreen the most: \"I'm going to let everybody down\"",
+      "url": "https://faroutmagazine.co.uk/one-thing-adam-sandler-hates-doing-onscreen-the-most/",
+      "timestamp": "04:30",
+      "pubDate": "2026-01-11T04:30:00.000Z"
+    },
+    {
+      "title": "Guy Moon, 'The Fairly OddParents' and 'Danny Phantom' Composer, Dies at 63",
+      "url": "https://www.hollywoodreporter.com/music/music-news/guy-moon-dead-fairly-oddparents-composer-1236469457/",
+      "timestamp": "04:12",
+      "pubDate": "2026-01-11T04:12:05.000Z"
+    },
+    {
       "title": "Don Was Remembers Bob Weir, His 'Fearless' Friend and&#160;Bandmate",
       "url": "https://www.billboard.com/music/music-news/don-was-bob-weir-death-statement-1236152708/",
       "timestamp": "03:52",
       "pubDate": "2026-01-11T03:52:11.000Z"
-    },
-    {
-      "title": "'Hamnet' Wins AARP's 2026 Best Movie For Grownups — Full Winners List",
-      "url": "https://deadline.com/2026/01/aarp-2026-best-movie-grownups-full-winners-list-1236678559/",
-      "timestamp": "03:45",
-      "pubDate": "2026-01-11T03:45:00.000Z"
     },
     {
       "title": "Bitcoin’s Calm Is a Trap: Strategist Sees Volatility Bull Market Ahead",
@@ -319,33 +343,19 @@
       "url": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
       "timestamp": "21:18",
       "pubDate": "2026-01-10T21:18:29.000Z"
-    },
-    {
-      "title": "The Slipknot album Corey Taylor hated with a passion: \"F*cking abysmal\"",
-      "url": "https://faroutmagazine.co.uk/slipknot-album-corey-taylor-hated-with-a-passion/",
-      "timestamp": "21:17",
-      "pubDate": "2026-01-10T21:17:38.000Z"
-    },
-    {
-      "title": "The one movie Michael J Fox wishes he'd never made: \"Every bit as terrible as we predicted\"",
-      "url": "https://faroutmagazine.co.uk/one-movie-michael-j-fox-wishes-never-made/",
-      "timestamp": "21:15",
-      "pubDate": "2026-01-10T21:15:00.000Z"
-    },
-    {
-      "title": "James Blake teases new music: \"I think we might be sleeping\"",
-      "url": "https://www.nme.com/news/music/james-blake-teases-new-music-i-think-we-might-be-sleeping-3922373?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=james-blake-teases-new-music-i-think-we-might-be-sleeping",
-      "timestamp": "21:11",
-      "pubDate": "2026-01-10T21:11:58.000Z"
-    },
-    {
-      "title": "The song that defines Ronnie Wood and Keith Richards: \"It's quite amazing really\"",
-      "url": "https://faroutmagazine.co.uk/ong-that-defines-ronnie-wood-and-keith-richards/",
-      "timestamp": "21:07",
-      "pubDate": "2026-01-10T21:07:20.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "The band Phil Collins called the gold standard of perfection: \"This is remarkably simple\"",
+      "url": "https://faroutmagazine.co.uk/the-band-phil-collins-called-the-gold-standard-of-perfection/",
+      "timestamp": "05:00"
+    },
+    {
+      "title": "The one thing Adam Sandler hates doing onscreen the most: \"I'm going to let everybody down\"",
+      "url": "https://faroutmagazine.co.uk/one-thing-adam-sandler-hates-doing-onscreen-the-most/",
+      "timestamp": "04:30"
+    },
     {
       "title": "Don Was Remembers Bob Weir, His 'Fearless' Friend and&#160;Bandmate",
       "url": "https://www.billboard.com/music/music-news/don-was-bob-weir-death-statement-1236152708/",
@@ -387,19 +397,9 @@
       "timestamp": "00:00"
     },
     {
-      "title": "The \"legendary director\" who called Patrick Swayze a poser: \"This was a real insult\"",
-      "url": "https://faroutmagazine.co.uk/legendary-director-called-patrick-swayze-a-poser/",
-      "timestamp": "22:30"
-    },
-    {
       "title": "TEED releases his new album 'Always With Me'",
       "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
       "timestamp": "22:01"
-    },
-    {
-      "title": "The singer Linda Ronstadt was forever grateful to hear: \"We don’t have her anymore\"",
-      "url": "https://faroutmagazine.co.uk/the-singer-linda-ronstadt-was-forever-grateful-to-hear/",
-      "timestamp": "22:00"
     },
     {
       "title": "Nikki Glaser Wants To Do 'WAP' Karaoke With Teyana Taylor & Why She Wants to Host the Golden&#160;Globes",
@@ -447,5 +447,5 @@
       "timestamp": "19:05"
     }
   ],
-  "lastUpdated": "2026-01-11T04:11:58.195Z"
+  "lastUpdated": "2026-01-11T05:29:01.169Z"
 }
