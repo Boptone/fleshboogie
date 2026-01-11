@@ -1,35 +1,22 @@
 {
-  "curatedAt": "2026-01-11T21:21:52.963Z",
+  "curatedAt": "2026-01-11T22:23:45.812Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "'SIRÂT' WINS FIPRESCI PRIZE FOR BEST FILM AT 2026 PALM SPRINGS INTERNATIONAL FILM FESTIVAL — FULL LIST",
-      "url": "https://deadline.com/2026/01/sirat-best-film-palm-springs-international-film-festival-1236679047/",
-      "timestamp": "2026-01-11T21:21:49.963Z",
+      "title": "CHLOÉ ZHAO REVEALS HER PERSONAL JOURNEY TO GET FROM 'NOMADLAND' TO 'HAMNET'",
+      "url": "https://www.thewrap.com/creative-content/movies/hamnet-director-chloe-zhao-golden-globes-weekend/",
+      "timestamp": "2026-01-11T22:23:42.803Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
-        "engagement": 0.7,
+        "impact": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6799999999999999
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
-      {
-        "title": "'SIRÂT' WINS FIPRESCI PRIZE FOR BEST FILM AT 2026 PALM SPRINGS INTERNATIONAL FILM FESTIVAL — FULL LIST",
-        "url": "https://deadline.com/2026/01/sirat-best-film-palm-springs-international-film-festival-1236679047/",
-        "timestamp": "2026-01-11T21:21:49.963Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6799999999999999
-        }
-      },
       {
         "title": "TEED releases his new album 'Always With Me'",
         "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
@@ -42,22 +29,35 @@
           "discovery": 0.3,
           "composite": 0.545
         }
+      },
+      {
+        "title": "'Sirât' Wins FIPRESCI Prize For Best Film At 2026 Palm Springs International Film Festival — Full List",
+        "url": "https://deadline.com/2026/01/sirat-best-film-palm-springs-international-film-festival-1236679047/",
+        "timestamp": "21:19",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.52
+        }
+      },
+      {
+        "title": "The album Neil Peart said Rush would never make: \"We would see it as a sacrifice\"",
+        "url": "https://faroutmagazine.co.uk/album-neil-peart-said-rush-would-never-make/",
+        "timestamp": "21:30",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.49
+        }
       }
     ],
     "discovery": [
-      {
-        "title": "Meet ØWay, the Atlanta rap collective behind 2026’s first viral cypher",
-        "url": "https://www.thefader.com/2026/01/09/oway-cypher-2026-tezzus-pz-young-thug",
-        "timestamp": "20:45",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.75,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.515
-        }
-      },
       {
         "title": "One US location just banned CBDCs, but its new state token is doing something even more surprising",
         "url": "https://cryptoslate.com/wyoming-frnt-state-seal-stablecoin-public-money-debate/",
@@ -70,35 +70,9 @@
           "discovery": 0.5,
           "composite": 0.455
         }
-      },
-      {
-        "title": "'People We Meet On Vacation' Author On The Movie's Change That Feels \"So Earned\"",
-        "url": "https://deadline.com/2026/01/people-we-meet-on-vacation-author-change-feels-earned-1236679014/",
-        "timestamp": "18:53",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.5,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.44
-        }
       }
     ],
     "conversation": [
-      {
-        "title": "'SIRÂT' WINS FIPRESCI PRIZE FOR BEST FILM AT 2026 PALM SPRINGS INTERNATIONAL FILM FESTIVAL — FULL LIST",
-        "url": "https://deadline.com/2026/01/sirat-best-film-palm-springs-international-film-festival-1236679047/",
-        "timestamp": "2026-01-11T21:21:49.963Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6799999999999999
-        }
-      },
       {
         "title": "TEED releases his new album 'Always With Me'",
         "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
@@ -111,36 +85,49 @@
           "discovery": 0.3,
           "composite": 0.545
         }
+      },
+      {
+        "title": "What was the best-selling song in 1973?",
+        "url": "https://faroutmagazine.co.uk/what-was-the-best-selling-song-in-1973/",
+        "timestamp": "20:30",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.8999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.54
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "'SIRÂT' WINS FIPRESCI PRIZE FOR BEST FILM AT 2026 PALM SPRINGS INTERNATIONAL FILM FESTIVAL — FULL LIST",
-        "url": "https://deadline.com/2026/01/sirat-best-film-palm-springs-international-film-festival-1236679047/",
-        "timestamp": "2026-01-11T21:21:49.963Z",
+        "title": "CHLOÉ ZHAO REVEALS HER PERSONAL JOURNEY TO GET FROM 'NOMADLAND' TO 'HAMNET'",
+        "url": "https://www.thewrap.com/creative-content/movies/hamnet-director-chloe-zhao-golden-globes-weekend/",
+        "timestamp": "2026-01-11T22:23:42.803Z",
         "source": "splash",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
+          "impact": 0.5,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6799999999999999
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "'SIRÂT' WINS FIPRESCI PRIZE FOR BEST FILM AT 2026 PALM SPRINGS INTERNATIONAL FILM FESTIVAL — FULL LIST",
-      "url": "https://deadline.com/2026/01/sirat-best-film-palm-springs-international-film-festival-1236679047/",
-      "timestamp": "2026-01-11T21:21:49.963Z",
+      "title": "CHLOÉ ZHAO REVEALS HER PERSONAL JOURNEY TO GET FROM 'NOMADLAND' TO 'HAMNET'",
+      "url": "https://www.thewrap.com/creative-content/movies/hamnet-director-chloe-zhao-golden-globes-weekend/",
+      "timestamp": "2026-01-11T22:23:42.803Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
-        "engagement": 0.7,
+        "impact": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6799999999999999
+        "composite": 0.6100000000000001
       }
     },
     {
@@ -157,16 +144,29 @@
       }
     },
     {
-      "title": "Meet ØWay, the Atlanta rap collective behind 2026’s first viral cypher",
-      "url": "https://www.thefader.com/2026/01/09/oway-cypher-2026-tezzus-pz-young-thug",
-      "timestamp": "20:45",
-      "source": "musicReleases",
+      "title": "'Sirât' Wins FIPRESCI Prize For Best Film At 2026 Palm Springs International Film Festival — Full List",
+      "url": "https://deadline.com/2026/01/sirat-best-film-palm-springs-international-film-festival-1236679047/",
+      "timestamp": "21:19",
+      "source": "automated",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.75,
+        "impact": 0.6,
+        "engagement": 0.7,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.515
+        "discovery": 0.3,
+        "composite": 0.52
+      }
+    },
+    {
+      "title": "The album Neil Peart said Rush would never make: \"We would see it as a sacrifice\"",
+      "url": "https://faroutmagazine.co.uk/album-neil-peart-said-rush-would-never-make/",
+      "timestamp": "21:30",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.49
       }
     },
     {
@@ -183,16 +183,16 @@
       }
     },
     {
-      "title": "'People We Meet On Vacation' Author On The Movie's Change That Feels \"So Earned\"",
-      "url": "https://deadline.com/2026/01/people-we-meet-on-vacation-author-change-feels-earned-1236679014/",
-      "timestamp": "18:53",
+      "title": "What was the best-selling song in 1973?",
+      "url": "https://faroutmagazine.co.uk/what-was-the-best-selling-song-in-1973/",
+      "timestamp": "20:30",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.8999999999999999,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.44
+        "discovery": 0.3,
+        "composite": 0.54
       }
     }
   ],
