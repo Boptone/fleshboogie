@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-11T10:25:34.698Z",
+  "curatedAt": "2026-01-11T11:20:12.110Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "WHICH ACTOR HAS STARRED IN THE MOST JAMES BOND MOVIES EVER?",
-      "url": "https://faroutmagazine.co.uk/which-actor-has-been-in-the-most-james-bond-movies/",
-      "timestamp": "2026-01-11T10:25:31.782Z",
+      "title": "DEPARTMENT OF HOMELAND SECURITY RESPOND TO BILLIE EILISH RE-SHARING POST THAT CALLS ICE A \"TERRORIST ORGANISATION\"",
+      "url": "https://www.nme.com/news/music/department-of-homeland-security-respond-to-billie-eilish-re-sharing-post-that-calls-ice-a-terrorist-organisation-3922444?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=department-of-homeland-security-respond-to-billie-eilish-re-sharing-post-that-calls-ice-a-terrorist-organisation",
+      "timestamp": "2026-01-11T11:20:09.119Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
@@ -74,19 +74,6 @@
     ],
     "conversation": [
       {
-        "title": "WHICH ACTOR HAS STARRED IN THE MOST JAMES BOND MOVIES EVER?",
-        "url": "https://faroutmagazine.co.uk/which-actor-has-been-in-the-most-james-bond-movies/",
-        "timestamp": "2026-01-11T10:25:31.782Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6400000000000001
-        }
-      },
-      {
         "title": "TEED releases his new album 'Always With Me'",
         "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
         "timestamp": "22:01",
@@ -98,36 +85,49 @@
           "discovery": 0.3,
           "composite": 0.545
         }
+      },
+      {
+        "title": "Meet ØWay, the Atlanta rap collective behind 2026’s first viral cypher",
+        "url": "https://www.thefader.com/2026/01/09/oway-cypher-2026-tezzus-pz-young-thug",
+        "timestamp": "20:45",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.75,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.515
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "WHICH ACTOR HAS STARRED IN THE MOST JAMES BOND MOVIES EVER?",
-        "url": "https://faroutmagazine.co.uk/which-actor-has-been-in-the-most-james-bond-movies/",
-        "timestamp": "2026-01-11T10:25:31.782Z",
+        "title": "DEPARTMENT OF HOMELAND SECURITY RESPOND TO BILLIE EILISH RE-SHARING POST THAT CALLS ICE A \"TERRORIST ORGANISATION\"",
+        "url": "https://www.nme.com/news/music/department-of-homeland-security-respond-to-billie-eilish-re-sharing-post-that-calls-ice-a-terrorist-organisation-3922444?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=department-of-homeland-security-respond-to-billie-eilish-re-sharing-post-that-calls-ice-a-terrorist-organisation",
+        "timestamp": "2026-01-11T11:20:09.119Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6400000000000001
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "WHICH ACTOR HAS STARRED IN THE MOST JAMES BOND MOVIES EVER?",
-      "url": "https://faroutmagazine.co.uk/which-actor-has-been-in-the-most-james-bond-movies/",
-      "timestamp": "2026-01-11T10:25:31.782Z",
+      "title": "DEPARTMENT OF HOMELAND SECURITY RESPOND TO BILLIE EILISH RE-SHARING POST THAT CALLS ICE A \"TERRORIST ORGANISATION\"",
+      "url": "https://www.nme.com/news/music/department-of-homeland-security-respond-to-billie-eilish-re-sharing-post-that-calls-ice-a-terrorist-organisation-3922444?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=department-of-homeland-security-respond-to-billie-eilish-re-sharing-post-that-calls-ice-a-terrorist-organisation",
+      "timestamp": "2026-01-11T11:20:09.119Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.5800000000000001
       }
     },
     {
