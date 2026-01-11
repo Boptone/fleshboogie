@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "CELEBRATING BOB WEIR: 10 OF HIS MOST ESSENTIAL MUSICAL MOMENTS",
-    "url": "https://variety.com/2026/music/obituaries-people-news/bob-weir-10-essential-moments-best-songs-grateful-dead-1236628279/",
+    "headline": "THE CRUSHING LYRICS INSCRIBED ON IAN CURTIS' GRAVESTONE",
+    "url": "https://faroutmagazine.co.uk/the-crushing-lyrics-inscribed-on-ian-curtis-gravestone/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Meet SETA: Open Source Training Reinforcement Learning Environments for Terminal Agents with 400 Tasks and CAMEL Toolkit",
-      "url": "https://www.marktechpost.com/2026/01/11/meet-seta-open-source-training-reinforcement-learning-environments-for-terminal-agents-with-400-tasks-and-camel-toolkit/",
-      "timestamp": "15:12",
+      "title": "Nuclear startups are back in vogue with small reactors, and big challenges",
+      "url": "https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/",
+      "timestamp": "16:15",
       "pinned": false
     },
     {
-      "title": "AI in 2026 will get smarter by getting constrained",
-      "url": "https://pub.towardsai.net/ai-in-2026-will-get-smarter-by-getting-constrained-017667480e1f?source=rss----98111c9905da---4",
-      "timestamp": "15:03",
+      "title": "Claude HUD: Building Real-Time Observability for Claude Code via the Statusline API",
+      "url": "https://pub.towardsai.net/claude-hud-building-real-time-observability-for-claude-code-via-the-statusline-api-b114b825d3ef?source=rss----98111c9905da---4",
+      "timestamp": "16:02",
       "pinned": false
     },
     {
-      "title": "The Intel 8087 and Conditional Microcode Tests",
-      "url": "https://hackaday.com/2026/01/11/the-intel-8087-and-conditional-microcode-tests/",
-      "timestamp": "15:00",
+      "title": "How to Stream the 2026 Golden Globes Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-golden-globes-2026-online-free-cbs-livestream-awards-1236467190/",
+      "timestamp": "16:01",
       "pinned": false
     },
     {
-      "title": "Watch Sara Bareilles Discuss Her Oscar Shortlisted Original Song for Ryan White's Doc 'Come See Me in the Good Light'",
-      "url": "https://www.indiewire.com/news/events/indiewire-apple-sara-bareilles-event-1235172419/",
-      "timestamp": "15:00",
+      "title": "See Lucy Dacus and Chappell Roan Cover 'The Book of Love' at Artists for Aid Benefit Concert",
+      "url": "https://www.rollingstone.com/music/music-news/lucy-dacus-chappell-roan-the-book-of-love-benefit-concert-1235497509/",
+      "timestamp": "16:00",
       "pinned": false
     },
     {
-      "title": "Wing to expand drone delivery to another 150 Walmart stores",
-      "url": "https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/",
-      "timestamp": "15:00",
+      "title": "Vagueposting: Why 2026 Content Is All About Keeping You Confused",
+      "url": "https://www.rollingstone.com/culture/culture-features/vagueposting-meme-explained-1235497077/",
+      "timestamp": "16:00",
       "pinned": false
     }
   ],
@@ -104,6 +104,90 @@
     }
   ],
   "automated": [
+    {
+      "title": "The crushing lyrics inscribed on Ian Curtis' gravestone",
+      "url": "https://faroutmagazine.co.uk/the-crushing-lyrics-inscribed-on-ian-curtis-gravestone/",
+      "timestamp": "16:15",
+      "pubDate": "2026-01-11T16:15:00.000Z"
+    },
+    {
+      "title": "Nuclear startups are back in vogue with small reactors, and big challenges",
+      "url": "https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/",
+      "timestamp": "16:15",
+      "pubDate": "2026-01-11T16:15:00.000Z"
+    },
+    {
+      "title": "Claude HUD: Building Real-Time Observability for Claude Code via the Statusline API",
+      "url": "https://pub.towardsai.net/claude-hud-building-real-time-observability-for-claude-code-via-the-statusline-api-b114b825d3ef?source=rss----98111c9905da---4",
+      "timestamp": "16:02",
+      "pubDate": "2026-01-11T16:02:52.000Z"
+    },
+    {
+      "title": "How to Stream the 2026 Golden Globes Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-golden-globes-2026-online-free-cbs-livestream-awards-1236467190/",
+      "timestamp": "16:01",
+      "pubDate": "2026-01-11T16:01:48.000Z"
+    },
+    {
+      "title": "See Lucy Dacus and Chappell Roan Cover 'The Book of Love' at Artists for Aid Benefit Concert",
+      "url": "https://www.rollingstone.com/music/music-news/lucy-dacus-chappell-roan-the-book-of-love-benefit-concert-1235497509/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-11T16:00:02.000Z"
+    },
+    {
+      "title": "Vagueposting: Why 2026 Content Is All About Keeping You Confused",
+      "url": "https://www.rollingstone.com/culture/culture-features/vagueposting-meme-explained-1235497077/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-11T16:00:00.000Z"
+    },
+    {
+      "title": "The one Led Zeppelin song Jimmy Page said couldn't be replicated: \"That black hole\"",
+      "url": "https://faroutmagazine.co.uk/led-zeppelin-song-jimmy-page-said-couldnt-be-replicated/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-11T16:00:00.000Z"
+    },
+    {
+      "title": "'Industry' Review: Season 4 Is a Remarkable Reboot That Will Blind You with Its Brilliance",
+      "url": "https://www.indiewire.com/criticism/shows/industry-season-4-review-hbo-1235171930/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-11T16:00:00.000Z"
+    },
+    {
+      "title": "A World Without Bowie – 10 Years On...",
+      "url": "https://www.gearnews.com/a-world-without-bowie-10-years-on/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-11T16:00:00.000Z"
+    },
+    {
+      "title": "Monero's XMR hits $500 for the first time since 2021 as rival Zcash fumbles",
+      "url": "https://cointelegraph.com/news/monero-xmr-hits-500-first-time-since-2021-zcash-fumbles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "15:57",
+      "pubDate": "2026-01-11T15:57:24.000Z"
+    },
+    {
+      "title": "X Aims to Roll out Smart Cashtags, Aiming to Clean up the Internet’s Messiest Money Talk",
+      "url": "https://news.bitcoin.com/x-aims-to-roll-out-smart-cashtags-aiming-to-clean-up-the-internets-messiest-money-talk/",
+      "timestamp": "15:45",
+      "pubDate": "2026-01-11T15:45:07.000Z"
+    },
+    {
+      "title": "How Mel Gibson ruined his brother's acting career: \"I hate what he has become\"",
+      "url": "https://faroutmagazine.co.uk/mel-gibson-ruined-brothers-acting-career/",
+      "timestamp": "15:45",
+      "pubDate": "2026-01-11T15:45:00.000Z"
+    },
+    {
+      "title": "The record Björk hailed as \"one of the best albums ever\"",
+      "url": "https://faroutmagazine.co.uk/record-bjork-hailed-best-albums-ever/",
+      "timestamp": "15:30",
+      "pubDate": "2026-01-11T15:30:00.000Z"
+    },
+    {
+      "title": "Poll: What's the Best Danny Boyle Movie?",
+      "url": "https://www.joblo.com/poll-whats-the-best-danny-boyle-movie/",
+      "timestamp": "15:26",
+      "pubDate": "2026-01-11T15:26:54.000Z"
+    },
     {
       "title": "Celebrating Bob Weir: 10 of His Most Essential Musical Moments",
       "url": "https://variety.com/2026/music/obituaries-people-news/bob-weir-10-essential-moments-best-songs-grateful-dead-1236628279/",
@@ -259,93 +343,29 @@
       "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
       "timestamp": "13:02",
       "pubDate": "2026-01-11T13:02:33.000Z"
-    },
-    {
-      "title": "The rock songs Sting dismissed as complete garbage: \"There’s a whole genre\"",
-      "url": "https://faroutmagazine.co.uk/the-rock-songs-sting-dismissed-as-complete-garbage/",
-      "timestamp": "13:00",
-      "pubDate": "2026-01-11T13:00:00.000Z"
-    },
-    {
-      "title": "John Lydon revealed as surprise star on 'Masked Singer'",
-      "url": "https://faroutmagazine.co.uk/john-lydon-revealed-as-surprise-star-on-masked-singer/",
-      "timestamp": "12:51",
-      "pubDate": "2026-01-11T12:51:58.000Z"
-    },
-    {
-      "title": "The one role Morgan Freeman compared to \"prostitution\"",
-      "url": "https://faroutmagazine.co.uk/role-morgan-freeman-compared-to-prostitution/",
-      "timestamp": "12:48",
-      "pubDate": "2026-01-11T12:48:05.000Z"
-    },
-    {
-      "title": "Venezuela Shock Rally, Maduro Removed, and More — Week in Review",
-      "url": "https://news.bitcoin.com/venezuela-shock-rally-maduro-removed-and-more-week-in-review/",
-      "timestamp": "12:30",
-      "pubDate": "2026-01-11T12:30:02.000Z"
-    },
-    {
-      "title": "Paul Weller's attempt to write a modern version of 'Danny Boy'",
-      "url": "https://faroutmagazine.co.uk/paul-weller-attempt-modern-danny-boy/",
-      "timestamp": "12:30",
-      "pubDate": "2026-01-11T12:30:00.000Z"
-    },
-    {
-      "title": "16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)",
-      "url": "https://www.wired.com/gallery/the-best-heat-protectants-for-hair/",
-      "timestamp": "12:30",
-      "pubDate": "2026-01-11T12:30:00.000Z"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "12:19",
-      "pubDate": "2026-01-11T12:19:04.000Z"
-    },
-    {
-      "title": "The SCSI Film Scanner Resurrection",
-      "url": "https://hackaday.com/2026/01/11/the-scsi-film-scanner-resurrection/",
-      "timestamp": "12:00",
-      "pubDate": "2026-01-11T12:00:07.000Z"
-    },
-    {
-      "title": "The singer David Bowie called \"a phoenix from the ashes\"",
-      "url": "https://faroutmagazine.co.uk/the-one-singer-david-bowie-called-a-phoenix-from-the-ashes/",
-      "timestamp": "12:00",
-      "pubDate": "2026-01-11T12:00:00.000Z"
-    },
-    {
-      "title": "Rilo Kiley's Jenny Lewis marks 50th birthday by marrying her dog",
-      "url": "https://www.nme.com/news/music/rilo-kileys-jenny-lewis-marks-50th-birthday-by-marrying-her-dog-3922464?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rilo-kileys-jenny-lewis-marks-50th-birthday-by-marrying-her-dog",
-      "timestamp": "11:50",
-      "pubDate": "2026-01-11T11:50:31.000Z"
-    },
-    {
-      "title": "The actor who refused to be the first James Bond villain: \"What could you have been thinking of?\"",
-      "url": "https://faroutmagazine.co.uk/actor-refused-first-james-bond-villain/",
-      "timestamp": "11:30",
-      "pubDate": "2026-01-11T11:30:00.000Z"
-    },
-    {
-      "title": "Sony A7V Review: The Best Overall Mirrorless Camera",
-      "url": "https://www.wired.com/review/sony-a7v-mirrorless-camera/",
-      "timestamp": "11:30",
-      "pubDate": "2026-01-11T11:30:00.000Z"
-    },
-    {
-      "title": "I asked ChatGPT to build a beginner workout plan — and it actually made me want to go to the gym",
-      "url": "https://www.tomsguide.com/ai/i-asked-chatgpt-to-build-a-beginner-workout-plan-and-it-actually-made-me-want-to-go-to-the-gym",
-      "timestamp": "11:30",
-      "pubDate": "2026-01-11T11:30:00.000Z"
-    },
-    {
-      "title": "Department of Homeland Security slams Billie Eilish's ICE post",
-      "url": "https://faroutmagazine.co.uk/department-of-homeland-security-slams-billie-eilishs-ice-post/",
-      "timestamp": "11:28",
-      "pubDate": "2026-01-11T11:28:32.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "The crushing lyrics inscribed on Ian Curtis' gravestone",
+      "url": "https://faroutmagazine.co.uk/the-crushing-lyrics-inscribed-on-ian-curtis-gravestone/",
+      "timestamp": "16:15"
+    },
+    {
+      "title": "See Lucy Dacus and Chappell Roan Cover 'The Book of Love' at Artists for Aid Benefit Concert",
+      "url": "https://www.rollingstone.com/music/music-news/lucy-dacus-chappell-roan-the-book-of-love-benefit-concert-1235497509/",
+      "timestamp": "16:00"
+    },
+    {
+      "title": "The one Led Zeppelin song Jimmy Page said couldn't be replicated: \"That black hole\"",
+      "url": "https://faroutmagazine.co.uk/led-zeppelin-song-jimmy-page-said-couldnt-be-replicated/",
+      "timestamp": "16:00"
+    },
+    {
+      "title": "How Mel Gibson ruined his brother's acting career: \"I hate what he has become\"",
+      "url": "https://faroutmagazine.co.uk/mel-gibson-ruined-brothers-acting-career/",
+      "timestamp": "15:45"
+    },
     {
       "title": "Billy Strings Pays Tribute to Bob Weir: 'Heaven's Choir Just Gained a Beautiful New Voice'",
       "url": "https://www.rollingstone.com/music/music-news/billy-strings-tribute-bob-weir-grateful-dead-1235497503/",
@@ -355,21 +375,6 @@
       "title": "IDK – LiFE 4 A LiFE (ft. Pusha T)",
       "url": "https://www.stereofox.com/idk-life-4-a-life-ft-pusha-t/",
       "timestamp": "14:37"
-    },
-    {
-      "title": "Every Lorde album ranked from worst to best",
-      "url": "https://faroutmagazine.co.uk/lorde-album-ranked-worst-to-best/",
-      "timestamp": "14:30"
-    },
-    {
-      "title": "Who was the first Beatle to perform on 'Top of the Pops'?",
-      "url": "https://faroutmagazine.co.uk/the-first-beatle-to-perform-on-top-of-the-pops/",
-      "timestamp": "14:00"
-    },
-    {
-      "title": "The Metallica song Kirk Hammett always struggles to play live: \"I'm liable to mess it up\"",
-      "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
-      "timestamp": "13:02"
     },
     {
       "title": "Rilo Kiley's Jenny Lewis marks 50th birthday by marrying her dog",
@@ -390,11 +395,6 @@
       "title": "Trey Anastasio Remembers 'Sweet, Kind, Gentle Friend' Bob Weir",
       "url": "https://www.rollingstone.com/music/music-news/trey-anastasio-pays-tribute-bob-weir-grateful-dead-1235497464/",
       "timestamp": "03:12"
-    },
-    {
-      "title": "Bob Weir: A Life in Photos",
-      "url": "https://www.rollingstone.com/music/music-pictures/bob-weir-photos-grateful-dead-1235497293/",
-      "timestamp": "02:27"
     },
     {
       "title": "Trey Anastasio On Bob Weir: 'Your Spirit Lives On Forever'",
@@ -447,5 +447,5 @@
       "timestamp": "20:22"
     }
   ],
-  "lastUpdated": "2026-01-11T15:23:58.640Z"
+  "lastUpdated": "2026-01-11T16:29:04.195Z"
 }

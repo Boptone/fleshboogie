@@ -4,7 +4,7 @@
   <link href="https://fleshboogie.com" />
   <link href="https://fleshboogie.com/atom.xml" rel="self" type="application/atom+xml" />
   <id>https://fleshboogie.com/</id>
-  <updated>2026-01-11T15:23:58.640Z</updated>
+  <updated>2026-01-11T16:29:04.195Z</updated>
   <subtitle>Curated music and culture links from across the web. Updated 24/7 with the latest news, reviews, and discoveries in music, film, art, and underground culture.</subtitle>
   <rights>Copyright 2026 Fleshboogie. All content aggregated under Fair Use (17 U.S.C. § 107).</rights>
   <author>
@@ -16,67 +16,221 @@
   <logo>https://fleshboogie.com/og-image.png</logo>
 
   <entry>
-    <title>CELEBRATING BOB WEIR: 10 OF HIS MOST ESSENTIAL MUSICAL MOMENTS</title>
-    <link href="https://variety.com/2026/music/obituaries-people-news/bob-weir-10-essential-moments-best-songs-grateful-dead-1236628279/" />
-    <id>https://variety.com/2026/music/obituaries-people-news/bob-weir-10-essential-moments-best-songs-grateful-dead-1236628279/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>Featured Story: CELEBRATING BOB WEIR: 10 OF HIS MOST ESSENTIAL MUSICAL MOMENTS</summary>
+    <title>THE CRUSHING LYRICS INSCRIBED ON IAN CURTIS&apos; GRAVESTONE</title>
+    <link href="https://faroutmagazine.co.uk/the-crushing-lyrics-inscribed-on-ian-curtis-gravestone/" />
+    <id>https://faroutmagazine.co.uk/the-crushing-lyrics-inscribed-on-ian-curtis-gravestone/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>Featured Story: THE CRUSHING LYRICS INSCRIBED ON IAN CURTIS&apos; GRAVESTONE</summary>
     <category term="Featured" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
   </entry>
   <entry>
-    <title>Meet SETA: Open Source Training Reinforcement Learning Environments for Terminal Agents with 400 Tasks and CAMEL Toolkit</title>
-    <link href="https://www.marktechpost.com/2026/01/11/meet-seta-open-source-training-reinforcement-learning-environments-for-terminal-agents-with-400-tasks-and-camel-toolkit/" />
-    <id>https://www.marktechpost.com/2026/01/11/meet-seta-open-source-training-reinforcement-learning-environments-for-terminal-agents-with-400-tasks-and-camel-toolkit/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>Meet SETA: Open Source Training Reinforcement Learning Environments for Terminal Agents with 400 Tasks and CAMEL Toolkit</summary>
+    <title>Nuclear startups are back in vogue with small reactors, and big challenges</title>
+    <link href="https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/" />
+    <id>https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>Nuclear startups are back in vogue with small reactors, and big challenges</summary>
     <category term="Main Story" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
   </entry>
   <entry>
-    <title>AI in 2026 will get smarter by getting constrained</title>
-    <link href="https://pub.towardsai.net/ai-in-2026-will-get-smarter-by-getting-constrained-017667480e1f?source=rss----98111c9905da---4" />
-    <id>https://pub.towardsai.net/ai-in-2026-will-get-smarter-by-getting-constrained-017667480e1f?source=rss----98111c9905da---4</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>AI in 2026 will get smarter by getting constrained</summary>
+    <title>Claude HUD: Building Real-Time Observability for Claude Code via the Statusline API</title>
+    <link href="https://pub.towardsai.net/claude-hud-building-real-time-observability-for-claude-code-via-the-statusline-api-b114b825d3ef?source=rss----98111c9905da---4" />
+    <id>https://pub.towardsai.net/claude-hud-building-real-time-observability-for-claude-code-via-the-statusline-api-b114b825d3ef?source=rss----98111c9905da---4</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>Claude HUD: Building Real-Time Observability for Claude Code via the Statusline API</summary>
     <category term="Main Story" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
   </entry>
   <entry>
-    <title>The Intel 8087 and Conditional Microcode Tests</title>
-    <link href="https://hackaday.com/2026/01/11/the-intel-8087-and-conditional-microcode-tests/" />
-    <id>https://hackaday.com/2026/01/11/the-intel-8087-and-conditional-microcode-tests/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>The Intel 8087 and Conditional Microcode Tests</summary>
+    <title>How to Stream the 2026 Golden Globes Online</title>
+    <link href="https://www.hollywoodreporter.com/tv/tv-news/watch-golden-globes-2026-online-free-cbs-livestream-awards-1236467190/" />
+    <id>https://www.hollywoodreporter.com/tv/tv-news/watch-golden-globes-2026-online-free-cbs-livestream-awards-1236467190/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>How to Stream the 2026 Golden Globes Online</summary>
     <category term="Main Story" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
   </entry>
   <entry>
-    <title>Watch Sara Bareilles Discuss Her Oscar Shortlisted Original Song for Ryan White&apos;s Doc &apos;Come See Me in the Good Light&apos;</title>
-    <link href="https://www.indiewire.com/news/events/indiewire-apple-sara-bareilles-event-1235172419/" />
-    <id>https://www.indiewire.com/news/events/indiewire-apple-sara-bareilles-event-1235172419/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>Watch Sara Bareilles Discuss Her Oscar Shortlisted Original Song for Ryan White&apos;s Doc &apos;Come See Me in the Good Light&apos;</summary>
+    <title>See Lucy Dacus and Chappell Roan Cover &apos;The Book of Love&apos; at Artists for Aid Benefit Concert</title>
+    <link href="https://www.rollingstone.com/music/music-news/lucy-dacus-chappell-roan-the-book-of-love-benefit-concert-1235497509/" />
+    <id>https://www.rollingstone.com/music/music-news/lucy-dacus-chappell-roan-the-book-of-love-benefit-concert-1235497509/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>See Lucy Dacus and Chappell Roan Cover &apos;The Book of Love&apos; at Artists for Aid Benefit Concert</summary>
     <category term="Main Story" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
   </entry>
   <entry>
-    <title>Wing to expand drone delivery to another 150 Walmart stores</title>
-    <link href="https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/" />
-    <id>https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>Wing to expand drone delivery to another 150 Walmart stores</summary>
+    <title>Vagueposting: Why 2026 Content Is All About Keeping You Confused</title>
+    <link href="https://www.rollingstone.com/culture/culture-features/vagueposting-meme-explained-1235497077/" />
+    <id>https://www.rollingstone.com/culture/culture-features/vagueposting-meme-explained-1235497077/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>Vagueposting: Why 2026 Content Is All About Keeping You Confused</summary>
     <category term="Main Story" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The crushing lyrics inscribed on Ian Curtis&apos; gravestone</title>
+    <link href="https://faroutmagazine.co.uk/the-crushing-lyrics-inscribed-on-ian-curtis-gravestone/" />
+    <id>https://faroutmagazine.co.uk/the-crushing-lyrics-inscribed-on-ian-curtis-gravestone/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>The crushing lyrics inscribed on Ian Curtis&apos; gravestone</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Nuclear startups are back in vogue with small reactors, and big challenges</title>
+    <link href="https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/" />
+    <id>https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>Nuclear startups are back in vogue with small reactors, and big challenges</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Claude HUD: Building Real-Time Observability for Claude Code via the Statusline API</title>
+    <link href="https://pub.towardsai.net/claude-hud-building-real-time-observability-for-claude-code-via-the-statusline-api-b114b825d3ef?source=rss----98111c9905da---4" />
+    <id>https://pub.towardsai.net/claude-hud-building-real-time-observability-for-claude-code-via-the-statusline-api-b114b825d3ef?source=rss----98111c9905da---4</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>Claude HUD: Building Real-Time Observability for Claude Code via the Statusline API</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>How to Stream the 2026 Golden Globes Online</title>
+    <link href="https://www.hollywoodreporter.com/tv/tv-news/watch-golden-globes-2026-online-free-cbs-livestream-awards-1236467190/" />
+    <id>https://www.hollywoodreporter.com/tv/tv-news/watch-golden-globes-2026-online-free-cbs-livestream-awards-1236467190/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>How to Stream the 2026 Golden Globes Online</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>See Lucy Dacus and Chappell Roan Cover &apos;The Book of Love&apos; at Artists for Aid Benefit Concert</title>
+    <link href="https://www.rollingstone.com/music/music-news/lucy-dacus-chappell-roan-the-book-of-love-benefit-concert-1235497509/" />
+    <id>https://www.rollingstone.com/music/music-news/lucy-dacus-chappell-roan-the-book-of-love-benefit-concert-1235497509/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>See Lucy Dacus and Chappell Roan Cover &apos;The Book of Love&apos; at Artists for Aid Benefit Concert</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Vagueposting: Why 2026 Content Is All About Keeping You Confused</title>
+    <link href="https://www.rollingstone.com/culture/culture-features/vagueposting-meme-explained-1235497077/" />
+    <id>https://www.rollingstone.com/culture/culture-features/vagueposting-meme-explained-1235497077/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>Vagueposting: Why 2026 Content Is All About Keeping You Confused</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The one Led Zeppelin song Jimmy Page said couldn&apos;t be replicated: &quot;That black hole&quot;</title>
+    <link href="https://faroutmagazine.co.uk/led-zeppelin-song-jimmy-page-said-couldnt-be-replicated/" />
+    <id>https://faroutmagazine.co.uk/led-zeppelin-song-jimmy-page-said-couldnt-be-replicated/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>The one Led Zeppelin song Jimmy Page said couldn&apos;t be replicated: &quot;That black hole&quot;</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>&apos;Industry&apos; Review: Season 4 Is a Remarkable Reboot That Will Blind You with Its Brilliance</title>
+    <link href="https://www.indiewire.com/criticism/shows/industry-season-4-review-hbo-1235171930/" />
+    <id>https://www.indiewire.com/criticism/shows/industry-season-4-review-hbo-1235171930/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>&apos;Industry&apos; Review: Season 4 Is a Remarkable Reboot That Will Blind You with Its Brilliance</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>A World Without Bowie – 10 Years On...</title>
+    <link href="https://www.gearnews.com/a-world-without-bowie-10-years-on/" />
+    <id>https://www.gearnews.com/a-world-without-bowie-10-years-on/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>A World Without Bowie – 10 Years On...</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Monero&apos;s XMR hits $500 for the first time since 2021 as rival Zcash fumbles</title>
+    <link href="https://cointelegraph.com/news/monero-xmr-hits-500-first-time-since-2021-zcash-fumbles?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
+    <id>https://cointelegraph.com/news/monero-xmr-hits-500-first-time-since-2021-zcash-fumbles?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>Monero&apos;s XMR hits $500 for the first time since 2021 as rival Zcash fumbles</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>X Aims to Roll out Smart Cashtags, Aiming to Clean up the Internet’s Messiest Money Talk</title>
+    <link href="https://news.bitcoin.com/x-aims-to-roll-out-smart-cashtags-aiming-to-clean-up-the-internets-messiest-money-talk/" />
+    <id>https://news.bitcoin.com/x-aims-to-roll-out-smart-cashtags-aiming-to-clean-up-the-internets-messiest-money-talk/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>X Aims to Roll out Smart Cashtags, Aiming to Clean up the Internet’s Messiest Money Talk</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>How Mel Gibson ruined his brother&apos;s acting career: &quot;I hate what he has become&quot;</title>
+    <link href="https://faroutmagazine.co.uk/mel-gibson-ruined-brothers-acting-career/" />
+    <id>https://faroutmagazine.co.uk/mel-gibson-ruined-brothers-acting-career/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>How Mel Gibson ruined his brother&apos;s acting career: &quot;I hate what he has become&quot;</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The record Björk hailed as &quot;one of the best albums ever&quot;</title>
+    <link href="https://faroutmagazine.co.uk/record-bjork-hailed-best-albums-ever/" />
+    <id>https://faroutmagazine.co.uk/record-bjork-hailed-best-albums-ever/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>The record Björk hailed as &quot;one of the best albums ever&quot;</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Poll: What&apos;s the Best Danny Boyle Movie?</title>
+    <link href="https://www.joblo.com/poll-whats-the-best-danny-boyle-movie/" />
+    <id>https://www.joblo.com/poll-whats-the-best-danny-boyle-movie/</id>
+    <updated>2026-01-11T16:29:04.195Z</updated>
+    <summary>Poll: What&apos;s the Best Danny Boyle Movie?</summary>
+    <category term="Music News" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
@@ -85,7 +239,7 @@
     <title>Celebrating Bob Weir: 10 of His Most Essential Musical Moments</title>
     <link href="https://variety.com/2026/music/obituaries-people-news/bob-weir-10-essential-moments-best-songs-grateful-dead-1236628279/" />
     <id>https://variety.com/2026/music/obituaries-people-news/bob-weir-10-essential-moments-best-songs-grateful-dead-1236628279/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Celebrating Bob Weir: 10 of His Most Essential Musical Moments</summary>
     <category term="Music News" />
     <author>
@@ -96,7 +250,7 @@
     <title>Meet SETA: Open Source Training Reinforcement Learning Environments for Terminal Agents with 400 Tasks and CAMEL Toolkit</title>
     <link href="https://www.marktechpost.com/2026/01/11/meet-seta-open-source-training-reinforcement-learning-environments-for-terminal-agents-with-400-tasks-and-camel-toolkit/" />
     <id>https://www.marktechpost.com/2026/01/11/meet-seta-open-source-training-reinforcement-learning-environments-for-terminal-agents-with-400-tasks-and-camel-toolkit/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Meet SETA: Open Source Training Reinforcement Learning Environments for Terminal Agents with 400 Tasks and CAMEL Toolkit</summary>
     <category term="Music News" />
     <author>
@@ -107,7 +261,7 @@
     <title>AI in 2026 will get smarter by getting constrained</title>
     <link href="https://pub.towardsai.net/ai-in-2026-will-get-smarter-by-getting-constrained-017667480e1f?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/ai-in-2026-will-get-smarter-by-getting-constrained-017667480e1f?source=rss----98111c9905da---4</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>AI in 2026 will get smarter by getting constrained</summary>
     <category term="Music News" />
     <author>
@@ -118,7 +272,7 @@
     <title>The Intel 8087 and Conditional Microcode Tests</title>
     <link href="https://hackaday.com/2026/01/11/the-intel-8087-and-conditional-microcode-tests/" />
     <id>https://hackaday.com/2026/01/11/the-intel-8087-and-conditional-microcode-tests/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>The Intel 8087 and Conditional Microcode Tests</summary>
     <category term="Music News" />
     <author>
@@ -129,7 +283,7 @@
     <title>Watch Sara Bareilles Discuss Her Oscar Shortlisted Original Song for Ryan White&apos;s Doc &apos;Come See Me in the Good Light&apos;</title>
     <link href="https://www.indiewire.com/news/events/indiewire-apple-sara-bareilles-event-1235172419/" />
     <id>https://www.indiewire.com/news/events/indiewire-apple-sara-bareilles-event-1235172419/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Watch Sara Bareilles Discuss Her Oscar Shortlisted Original Song for Ryan White&apos;s Doc &apos;Come See Me in the Good Light&apos;</summary>
     <category term="Music News" />
     <author>
@@ -140,7 +294,7 @@
     <title>Wing to expand drone delivery to another 150 Walmart stores</title>
     <link href="https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/" />
     <id>https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Wing to expand drone delivery to another 150 Walmart stores</summary>
     <category term="Music News" />
     <author>
@@ -151,7 +305,7 @@
     <title>How to watch &apos;Call the Midwife&apos; season 15 for *FREE* — stream popular drama online from anywhere</title>
     <link href="https://www.tomsguide.com/entertainment/streaming/watch-call-the-midwife-season-15" />
     <id>https://www.tomsguide.com/entertainment/streaming/watch-call-the-midwife-season-15</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>How to watch &apos;Call the Midwife&apos; season 15 for *FREE* — stream popular drama online from anywhere</summary>
     <category term="Music News" />
     <author>
@@ -162,7 +316,7 @@
     <title>One movie would make Cillian Murphy want to be an actor: &quot;I rented this film by mistake&quot;</title>
     <link href="https://faroutmagazine.co.uk/one-movie-mistake-made-cillian-murphy-want-to-be-an-actor/" />
     <id>https://faroutmagazine.co.uk/one-movie-mistake-made-cillian-murphy-want-to-be-an-actor/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>One movie would make Cillian Murphy want to be an actor: &quot;I rented this film by mistake&quot;</summary>
     <category term="Music News" />
     <author>
@@ -173,7 +327,7 @@
     <title>Billy Strings Pays Tribute to Bob Weir: &apos;Heaven&apos;s Choir Just Gained a Beautiful New Voice&apos;</title>
     <link href="https://www.rollingstone.com/music/music-news/billy-strings-tribute-bob-weir-grateful-dead-1235497503/" />
     <id>https://www.rollingstone.com/music/music-news/billy-strings-tribute-bob-weir-grateful-dead-1235497503/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Billy Strings Pays Tribute to Bob Weir: &apos;Heaven&apos;s Choir Just Gained a Beautiful New Voice&apos;</summary>
     <category term="Music News" />
     <author>
@@ -184,7 +338,7 @@
     <title>The movie ending Bruce Willis wants to erase from existence: &quot;You never want to see that&quot;</title>
     <link href="https://faroutmagazine.co.uk/movie-ending-bruce-willis-wants-erase-existence/" />
     <id>https://faroutmagazine.co.uk/movie-ending-bruce-willis-wants-erase-existence/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>The movie ending Bruce Willis wants to erase from existence: &quot;You never want to see that&quot;</summary>
     <category term="Music News" />
     <author>
@@ -195,7 +349,7 @@
     <title>Ethereum Eyes Censorship Resistance With Distributed Block Building Vision</title>
     <link href="https://news.bitcoin.com/ethereum-eyes-censorship-resistance-with-distributed-block-building-vision/" />
     <id>https://news.bitcoin.com/ethereum-eyes-censorship-resistance-with-distributed-block-building-vision/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Ethereum Eyes Censorship Resistance With Distributed Block Building Vision</summary>
     <category term="Music News" />
     <author>
@@ -206,7 +360,7 @@
     <title>IDK – LiFE 4 A LiFE (ft. Pusha T)</title>
     <link href="https://www.stereofox.com/idk-life-4-a-life-ft-pusha-t/" />
     <id>https://www.stereofox.com/idk-life-4-a-life-ft-pusha-t/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>IDK – LiFE 4 A LiFE (ft. Pusha T)</summary>
     <category term="Music News" />
     <author>
@@ -217,7 +371,7 @@
     <title>Bitcoin bear market still in play as power law sees $65K &apos;do-or-die&apos; price</title>
     <link href="https://cointelegraph.com/news/bitcoin-four-year-cycle-in-play-power-law-65k-retest?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
     <id>https://cointelegraph.com/news/bitcoin-four-year-cycle-in-play-power-law-65k-retest?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Bitcoin bear market still in play as power law sees $65K &apos;do-or-die&apos; price</summary>
     <category term="Music News" />
     <author>
@@ -228,7 +382,7 @@
     <title>Every Lorde album ranked from worst to best</title>
     <link href="https://faroutmagazine.co.uk/lorde-album-ranked-worst-to-best/" />
     <id>https://faroutmagazine.co.uk/lorde-album-ranked-worst-to-best/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Every Lorde album ranked from worst to best</summary>
     <category term="Music News" />
     <author>
@@ -239,7 +393,7 @@
     <title>The TV show Steven Spielberg hated with a passion: &quot;No one can cannibalise my films&quot;</title>
     <link href="https://faroutmagazine.co.uk/tv-show-steven-spielberg-hated-passion/" />
     <id>https://faroutmagazine.co.uk/tv-show-steven-spielberg-hated-passion/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>The TV show Steven Spielberg hated with a passion: &quot;No one can cannibalise my films&quot;</summary>
     <category term="Music News" />
     <author>
@@ -250,7 +404,7 @@
     <title>$1 Billion to Google. 15 AI Minds Lost. Apple’s Surrender Equation.</title>
     <link href="https://pub.towardsai.net/1-billion-to-google-15-ai-minds-lost-apples-surrender-equation-5ba4dbaf7406?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/1-billion-to-google-15-ai-minds-lost-apples-surrender-equation-5ba4dbaf7406?source=rss----98111c9905da---4</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>$1 Billion to Google. 15 AI Minds Lost. Apple’s Surrender Equation.</summary>
     <category term="Music News" />
     <author>
@@ -261,7 +415,7 @@
     <title>DeepSeek Sparse Attention: From O(L²) to Near-Linear O(L·n)</title>
     <link href="https://pub.towardsai.net/deepseek-sparse-attention-from-o-l%C2%B2-to-near-linear-o-l-n-6f755d49331f?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/deepseek-sparse-attention-from-o-l%C2%B2-to-near-linear-o-l-n-6f755d49331f?source=rss----98111c9905da---4</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>DeepSeek Sparse Attention: From O(L²) to Near-Linear O(L·n)</summary>
     <category term="Music News" />
     <author>
@@ -272,7 +426,7 @@
     <title>Who was the first Beatle to perform on &apos;Top of the Pops&apos;?</title>
     <link href="https://faroutmagazine.co.uk/the-first-beatle-to-perform-on-top-of-the-pops/" />
     <id>https://faroutmagazine.co.uk/the-first-beatle-to-perform-on-top-of-the-pops/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Who was the first Beatle to perform on &apos;Top of the Pops&apos;?</summary>
     <category term="Music News" />
     <author>
@@ -283,7 +437,7 @@
     <title>Doomsday Glacier Bombarded by Earthquakes</title>
     <link href="https://futurism.com/science-energy/doomsday-glacier-earthquake" />
     <id>https://futurism.com/science-energy/doomsday-glacier-earthquake</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Doomsday Glacier Bombarded by Earthquakes</summary>
     <category term="Music News" />
     <author>
@@ -294,7 +448,7 @@
     <title>The 2026 Roadmap: Three Major Transformations Foreseen by Global Consulting Giants</title>
     <link href="https://pub.towardsai.net/the-2026-roadmap-three-major-transformations-foreseen-by-global-consulting-giants-5b00d061ab5c?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/the-2026-roadmap-three-major-transformations-foreseen-by-global-consulting-giants-5b00d061ab5c?source=rss----98111c9905da---4</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>The 2026 Roadmap: Three Major Transformations Foreseen by Global Consulting Giants</summary>
     <category term="Music News" />
     <author>
@@ -305,7 +459,7 @@
     <title>Part2: Guide to Huggingface AutoModels** for Vision and Audio</title>
     <link href="https://pub.towardsai.net/part2-guide-to-huggingface-automodels-for-vision-and-audio-4b0c90f2255c?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/part2-guide-to-huggingface-automodels-for-vision-and-audio-4b0c90f2255c?source=rss----98111c9905da---4</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Part2: Guide to Huggingface AutoModels** for Vision and Audio</summary>
     <category term="Music News" />
     <author>
@@ -316,7 +470,7 @@
     <title>Particle Filters in Trading: Detecting Volatility Regime Shifts with Python</title>
     <link href="https://pub.towardsai.net/particle-filters-in-trading-detecting-volatility-regime-shifts-with-python-b116c2f93275?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/particle-filters-in-trading-detecting-volatility-regime-shifts-with-python-b116c2f93275?source=rss----98111c9905da---4</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Particle Filters in Trading: Detecting Volatility Regime Shifts with Python</summary>
     <category term="Music News" />
     <author>
@@ -327,7 +481,7 @@
     <title>Guide to Hugging Face AutoModelFor** Classes and Tokenizers</title>
     <link href="https://pub.towardsai.net/guide-to-hugging-face-automodelfor-classes-and-tokenizers-05d2a5b85210?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/guide-to-hugging-face-automodelfor-classes-and-tokenizers-05d2a5b85210?source=rss----98111c9905da---4</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Guide to Hugging Face AutoModelFor** Classes and Tokenizers</summary>
     <category term="Music News" />
     <author>
@@ -338,7 +492,7 @@
     <title>Beyond Gradient Descent: A Practical Guide to SGD, Momentum, RMSProp, and Adam (with Worked…</title>
     <link href="https://pub.towardsai.net/beyond-gradient-descent-a-practical-guide-to-sgd-momentum-rmsprop-and-adam-with-worked-688ecdddd616?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/beyond-gradient-descent-a-practical-guide-to-sgd-momentum-rmsprop-and-adam-with-worked-688ecdddd616?source=rss----98111c9905da---4</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Beyond Gradient Descent: A Practical Guide to SGD, Momentum, RMSProp, and Adam (with Worked…</summary>
     <category term="Music News" />
     <author>
@@ -349,7 +503,7 @@
     <title>TOON Prompting: Moving Past Natural Language and JSON to Token-Optimized Data</title>
     <link href="https://pub.towardsai.net/toon-prompting-moving-past-natural-language-and-json-to-token-optimized-data-2318aac6e8a8?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/toon-prompting-moving-past-natural-language-and-json-to-token-optimized-data-2318aac6e8a8?source=rss----98111c9905da---4</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>TOON Prompting: Moving Past Natural Language and JSON to Token-Optimized Data</summary>
     <category term="Music News" />
     <author>
@@ -360,162 +514,8 @@
     <title>The Metallica song Kirk Hammett always struggles to play live: &quot;I&apos;m liable to mess it up&quot;</title>
     <link href="https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/" />
     <id>https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>The Metallica song Kirk Hammett always struggles to play live: &quot;I&apos;m liable to mess it up&quot;</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The rock songs Sting dismissed as complete garbage: &quot;There’s a whole genre&quot;</title>
-    <link href="https://faroutmagazine.co.uk/the-rock-songs-sting-dismissed-as-complete-garbage/" />
-    <id>https://faroutmagazine.co.uk/the-rock-songs-sting-dismissed-as-complete-garbage/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>The rock songs Sting dismissed as complete garbage: &quot;There’s a whole genre&quot;</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>John Lydon revealed as surprise star on &apos;Masked Singer&apos;</title>
-    <link href="https://faroutmagazine.co.uk/john-lydon-revealed-as-surprise-star-on-masked-singer/" />
-    <id>https://faroutmagazine.co.uk/john-lydon-revealed-as-surprise-star-on-masked-singer/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>John Lydon revealed as surprise star on &apos;Masked Singer&apos;</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The one role Morgan Freeman compared to &quot;prostitution&quot;</title>
-    <link href="https://faroutmagazine.co.uk/role-morgan-freeman-compared-to-prostitution/" />
-    <id>https://faroutmagazine.co.uk/role-morgan-freeman-compared-to-prostitution/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>The one role Morgan Freeman compared to &quot;prostitution&quot;</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Venezuela Shock Rally, Maduro Removed, and More — Week in Review</title>
-    <link href="https://news.bitcoin.com/venezuela-shock-rally-maduro-removed-and-more-week-in-review/" />
-    <id>https://news.bitcoin.com/venezuela-shock-rally-maduro-removed-and-more-week-in-review/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>Venezuela Shock Rally, Maduro Removed, and More — Week in Review</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Paul Weller&apos;s attempt to write a modern version of &apos;Danny Boy&apos;</title>
-    <link href="https://faroutmagazine.co.uk/paul-weller-attempt-modern-danny-boy/" />
-    <id>https://faroutmagazine.co.uk/paul-weller-attempt-modern-danny-boy/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>Paul Weller&apos;s attempt to write a modern version of &apos;Danny Boy&apos;</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)</title>
-    <link href="https://www.wired.com/gallery/the-best-heat-protectants-for-hair/" />
-    <id>https://www.wired.com/gallery/the-best-heat-protectants-for-hair/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Here’s what happened in crypto today</title>
-    <link href="https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
-    <id>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>Here’s what happened in crypto today</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The SCSI Film Scanner Resurrection</title>
-    <link href="https://hackaday.com/2026/01/11/the-scsi-film-scanner-resurrection/" />
-    <id>https://hackaday.com/2026/01/11/the-scsi-film-scanner-resurrection/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>The SCSI Film Scanner Resurrection</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The singer David Bowie called &quot;a phoenix from the ashes&quot;</title>
-    <link href="https://faroutmagazine.co.uk/the-one-singer-david-bowie-called-a-phoenix-from-the-ashes/" />
-    <id>https://faroutmagazine.co.uk/the-one-singer-david-bowie-called-a-phoenix-from-the-ashes/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>The singer David Bowie called &quot;a phoenix from the ashes&quot;</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Rilo Kiley&apos;s Jenny Lewis marks 50th birthday by marrying her dog</title>
-    <link href="https://www.nme.com/news/music/rilo-kileys-jenny-lewis-marks-50th-birthday-by-marrying-her-dog-3922464?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=rilo-kileys-jenny-lewis-marks-50th-birthday-by-marrying-her-dog" />
-    <id>https://www.nme.com/news/music/rilo-kileys-jenny-lewis-marks-50th-birthday-by-marrying-her-dog-3922464?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=rilo-kileys-jenny-lewis-marks-50th-birthday-by-marrying-her-dog</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>Rilo Kiley&apos;s Jenny Lewis marks 50th birthday by marrying her dog</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The actor who refused to be the first James Bond villain: &quot;What could you have been thinking of?&quot;</title>
-    <link href="https://faroutmagazine.co.uk/actor-refused-first-james-bond-villain/" />
-    <id>https://faroutmagazine.co.uk/actor-refused-first-james-bond-villain/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>The actor who refused to be the first James Bond villain: &quot;What could you have been thinking of?&quot;</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Sony A7V Review: The Best Overall Mirrorless Camera</title>
-    <link href="https://www.wired.com/review/sony-a7v-mirrorless-camera/" />
-    <id>https://www.wired.com/review/sony-a7v-mirrorless-camera/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>Sony A7V Review: The Best Overall Mirrorless Camera</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>I asked ChatGPT to build a beginner workout plan — and it actually made me want to go to the gym</title>
-    <link href="https://www.tomsguide.com/ai/i-asked-chatgpt-to-build-a-beginner-workout-plan-and-it-actually-made-me-want-to-go-to-the-gym" />
-    <id>https://www.tomsguide.com/ai/i-asked-chatgpt-to-build-a-beginner-workout-plan-and-it-actually-made-me-want-to-go-to-the-gym</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>I asked ChatGPT to build a beginner workout plan — and it actually made me want to go to the gym</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Department of Homeland Security slams Billie Eilish&apos;s ICE post</title>
-    <link href="https://faroutmagazine.co.uk/department-of-homeland-security-slams-billie-eilishs-ice-post/" />
-    <id>https://faroutmagazine.co.uk/department-of-homeland-security-slams-billie-eilishs-ice-post/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
-    <summary>Department of Homeland Security slams Billie Eilish&apos;s ICE post</summary>
     <category term="Music News" />
     <author>
       <name>Fleshboogie Editorial</name>
@@ -525,7 +525,7 @@
     <title>Will &apos;Stranger Things&apos; ever return for season six?</title>
     <link href="https://www.nme.com/news/tv/will-stranger-things-ever-return-for-season-six-3922257?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=will-stranger-things-ever-return-for-season-six" />
     <id>https://www.nme.com/news/tv/will-stranger-things-ever-return-for-season-six-3922257?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=will-stranger-things-ever-return-for-season-six</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Will &apos;Stranger Things&apos; ever return for season six?</summary>
     <category term="Culture" />
     <author>
@@ -536,7 +536,7 @@
     <title>Téo Amo – Hold Somebody</title>
     <link href="https://www.stereofox.com/teo-amo-hold-somebody/" />
     <id>https://www.stereofox.com/teo-amo-hold-somebody/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Téo Amo – Hold Somebody</summary>
     <category term="Culture" />
     <author>
@@ -547,7 +547,7 @@
     <title>Watch Robyn&apos;s sensual performance of &apos;Sexistential&apos; on &apos;Colbert&apos;</title>
     <link href="https://www.nme.com/news/music/watch-robyn-sensual-performance-of-sexistential-on-colbert-3922234?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=watch-robyn-sensual-performance-of-sexistential-on-colbert" />
     <id>https://www.nme.com/news/music/watch-robyn-sensual-performance-of-sexistential-on-colbert-3922234?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=watch-robyn-sensual-performance-of-sexistential-on-colbert</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>Watch Robyn&apos;s sensual performance of &apos;Sexistential&apos; on &apos;Colbert&apos;</summary>
     <category term="Culture" />
     <author>
@@ -558,7 +558,7 @@
     <title>The Messthetics and James Brandon Lewis Reconvene for New Album and Tour</title>
     <link href="https://pitchfork.com/news/the-messthetics-and-james-brandon-lewis-reconvene-for-new-album-and-tour/" />
     <id>https://pitchfork.com/news/the-messthetics-and-james-brandon-lewis-reconvene-for-new-album-and-tour/</id>
-    <updated>2026-01-11T15:23:58.640Z</updated>
+    <updated>2026-01-11T16:29:04.195Z</updated>
     <summary>The Messthetics and James Brandon Lewis Reconvene for New Album and Tour</summary>
     <category term="Culture" />
     <author>
