@@ -1,11 +1,29 @@
 {
   "splash": {
-    "headline": "THE ONE ROLE MORGAN FREEMAN COMPARED TO \"PROSTITUTION\"",
-    "url": "https://faroutmagazine.co.uk/role-morgan-freeman-compared-to-prostitution/",
+    "headline": "THE METALLICA SONG KIRK HAMMETT ALWAYS STRUGGLES TO PLAY LIVE: \"I'M LIABLE TO MESS IT UP\"",
+    "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
+    {
+      "title": "The rock songs Sting dismissed as complete garbage: \"There’s a whole genre\"",
+      "url": "https://faroutmagazine.co.uk/the-rock-songs-sting-dismissed-as-complete-garbage/",
+      "timestamp": "13:00",
+      "pinned": false
+    },
+    {
+      "title": "John Lydon revealed as surprise star on 'Masked Singer'",
+      "url": "https://faroutmagazine.co.uk/john-lydon-revealed-as-surprise-star-on-masked-singer/",
+      "timestamp": "12:51",
+      "pinned": false
+    },
+    {
+      "title": "The one role Morgan Freeman compared to \"prostitution\"",
+      "url": "https://faroutmagazine.co.uk/role-morgan-freeman-compared-to-prostitution/",
+      "timestamp": "12:48",
+      "pinned": false
+    },
     {
       "title": "Paul Weller's attempt to write a modern version of 'Danny Boy'",
       "url": "https://faroutmagazine.co.uk/paul-weller-attempt-modern-danny-boy/",
@@ -16,24 +34,6 @@
       "title": "16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)",
       "url": "https://www.wired.com/gallery/the-best-heat-protectants-for-hair/",
       "timestamp": "12:30",
-      "pinned": false
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "12:19",
-      "pinned": false
-    },
-    {
-      "title": "The SCSI Film Scanner Resurrection",
-      "url": "https://hackaday.com/2026/01/11/the-scsi-film-scanner-resurrection/",
-      "timestamp": "12:00",
-      "pinned": false
-    },
-    {
-      "title": "The singer David Bowie called \"a phoenix from the ashes\"",
-      "url": "https://faroutmagazine.co.uk/the-one-singer-david-bowie-called-a-phoenix-from-the-ashes/",
-      "timestamp": "12:00",
       "pinned": false
     }
   ],
@@ -104,6 +104,24 @@
     }
   ],
   "automated": [
+    {
+      "title": "The Metallica song Kirk Hammett always struggles to play live: \"I'm liable to mess it up\"",
+      "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
+      "timestamp": "13:02",
+      "pubDate": "2026-01-11T13:02:33.000Z"
+    },
+    {
+      "title": "The rock songs Sting dismissed as complete garbage: \"There’s a whole genre\"",
+      "url": "https://faroutmagazine.co.uk/the-rock-songs-sting-dismissed-as-complete-garbage/",
+      "timestamp": "13:00",
+      "pubDate": "2026-01-11T13:00:00.000Z"
+    },
+    {
+      "title": "John Lydon revealed as surprise star on 'Masked Singer'",
+      "url": "https://faroutmagazine.co.uk/john-lydon-revealed-as-surprise-star-on-masked-singer/",
+      "timestamp": "12:51",
+      "pubDate": "2026-01-11T12:51:58.000Z"
+    },
     {
       "title": "The one role Morgan Freeman compared to \"prostitution\"",
       "url": "https://faroutmagazine.co.uk/role-morgan-freeman-compared-to-prostitution/",
@@ -325,41 +343,23 @@
       "url": "https://www.tomsguide.com/wellness/sleep-problems/the-4-7-8-breathing-method-doesnt-work-for-me-when-im-anxious-but-this-psychological-hack-always-helps-me-fall-asleep-in-minutes",
       "timestamp": "07:45",
       "pubDate": "2026-01-11T07:45:00.000Z"
-    },
-    {
-      "title": "Drew Barrymore names the greatest role she ever played: \"That's who I want to be\"",
-      "url": "https://faroutmagazine.co.uk/drew-barrymore-names-the-greatest-role-she-ever-played/",
-      "timestamp": "07:30",
-      "pubDate": "2026-01-11T07:30:00.000Z"
-    },
-    {
-      "title": "I drove the Genesis GV80 for a week — and it’s my favorite luxury 3-row SUV",
-      "url": "https://www.tomsguide.com/vehicle-tech/2026-genesis-gv80-review",
-      "timestamp": "07:15",
-      "pubDate": "2026-01-11T07:15:00.000Z"
-    },
-    {
-      "title": "Tennessee sends cease-and-desist letters to Kalshi, Polymarket, Crypto.com",
-      "url": "https://cointelegraph.com/news/tennessee-orders-kalshi-polymarket-crypto-com-halt-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "07:03",
-      "pubDate": "2026-01-11T07:03:33.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "The one role Morgan Freeman compared to \"prostitution\"",
-      "url": "https://faroutmagazine.co.uk/role-morgan-freeman-compared-to-prostitution/",
-      "timestamp": "12:48"
+      "title": "The Metallica song Kirk Hammett always struggles to play live: \"I'm liable to mess it up\"",
+      "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
+      "timestamp": "13:02"
     },
     {
-      "title": "Paul Weller's attempt to write a modern version of 'Danny Boy'",
-      "url": "https://faroutmagazine.co.uk/paul-weller-attempt-modern-danny-boy/",
-      "timestamp": "12:30"
+      "title": "The rock songs Sting dismissed as complete garbage: \"There’s a whole genre\"",
+      "url": "https://faroutmagazine.co.uk/the-rock-songs-sting-dismissed-as-complete-garbage/",
+      "timestamp": "13:00"
     },
     {
-      "title": "The singer David Bowie called \"a phoenix from the ashes\"",
-      "url": "https://faroutmagazine.co.uk/the-one-singer-david-bowie-called-a-phoenix-from-the-ashes/",
-      "timestamp": "12:00"
+      "title": "John Lydon revealed as surprise star on 'Masked Singer'",
+      "url": "https://faroutmagazine.co.uk/john-lydon-revealed-as-surprise-star-on-masked-singer/",
+      "timestamp": "12:51"
     },
     {
       "title": "Rilo Kiley's Jenny Lewis marks 50th birthday by marrying her dog",
@@ -447,5 +447,5 @@
       "timestamp": "16:05"
     }
   ],
-  "lastUpdated": "2026-01-11T12:48:57.444Z"
+  "lastUpdated": "2026-01-11T13:32:22.712Z"
 }

@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-11T12:49:00.462Z",
+  "curatedAt": "2026-01-11T13:32:25.725Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "THE ONE ROLE MORGAN FREEMAN COMPARED TO \"PROSTITUTION\"",
-      "url": "https://faroutmagazine.co.uk/role-morgan-freeman-compared-to-prostitution/",
-      "timestamp": "2026-01-11T12:48:57.444Z",
+      "title": "THE METALLICA SONG KIRK HAMMETT ALWAYS STRUGGLES TO PLAY LIVE: \"I'M LIABLE TO MESS IT UP\"",
+      "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
+      "timestamp": "2026-01-11T13:32:22.712Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
@@ -102,32 +102,32 @@
     ],
     "wildcard": [
       {
-        "title": "THE ONE ROLE MORGAN FREEMAN COMPARED TO \"PROSTITUTION\"",
-        "url": "https://faroutmagazine.co.uk/role-morgan-freeman-compared-to-prostitution/",
-        "timestamp": "2026-01-11T12:48:57.444Z",
+        "title": "THE METALLICA SONG KIRK HAMMETT ALWAYS STRUGGLES TO PLAY LIVE: \"I'M LIABLE TO MESS IT UP\"",
+        "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
+        "timestamp": "2026-01-11T13:32:22.712Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "THE ONE ROLE MORGAN FREEMAN COMPARED TO \"PROSTITUTION\"",
-      "url": "https://faroutmagazine.co.uk/role-morgan-freeman-compared-to-prostitution/",
-      "timestamp": "2026-01-11T12:48:57.444Z",
+      "title": "THE METALLICA SONG KIRK HAMMETT ALWAYS STRUGGLES TO PLAY LIVE: \"I'M LIABLE TO MESS IT UP\"",
+      "url": "https://faroutmagazine.co.uk/metallica-song-kirk-hammett-always-struggles-to-play-live/",
+      "timestamp": "2026-01-11T13:32:22.712Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     {
