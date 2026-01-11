@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "'HEATED RIVALRY' AUTHOR'S NEXT ILYA & SHANE BOOK SET FOR SEPTEMBER RELEASE",
-    "url": "https://deadline.com/2026/01/heated-rivalry-next-book-september-release-1236678983/",
+    "headline": "'INDUSTRY' SEASON 3 RECAP: WHAT TO REMEMBER BEFORE SEASON 4",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/industry-season-3-recap/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "‘Big Orange’ — Another Saylor Teaser Puts Markets on Watch for Strategy’s Next BTC Buy",
-      "url": "https://news.bitcoin.com/big-orange-another-saylor-teaser-puts-markets-on-watch-for-strategys-next-btc-buy/",
-      "timestamp": "17:05",
+      "title": "5 best new shows to stream this weekend on HBO Max, Netflix, Prime Video and more (Jan. 10-11)",
+      "url": "https://www.tomsguide.com/entertainment/streaming/5-best-new-shows-to-stream-this-weekend-on-hbo-max-netflix-prime-video-and-more-jan-10-11",
+      "timestamp": "18:21",
       "pinned": false
     },
     {
-      "title": "The one guitarist Eric Clapton said was impossible to duplicate",
-      "url": "https://faroutmagazine.co.uk/the-one-guitarist-eric-clapton-said-was-impossible-to-duplicate/",
-      "timestamp": "17:00",
+      "title": "The record-breaking movie Daniel Craig only made for the money: \"That does not turn me on\"",
+      "url": "https://faroutmagazine.co.uk/movie-daniel-craig-only-made-for-money/",
+      "timestamp": "18:15",
       "pinned": false
     },
     {
-      "title": "'The Night Manager' Review: Tom Hiddleston's Brooding Spy Moves to Amazon for a Second Season That Sizzles After a Sluggish Start",
-      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-night-manager-review-tom-hiddleston-amazon-1236469202/",
-      "timestamp": "17:00",
+      "title": "Wing's drone deliveries are coming to 150 more Walmarts",
+      "url": "https://www.engadget.com/transportation/wings-drone-deliveries-are-coming-to-150-more-walmarts-180708189.html?src=rss",
+      "timestamp": "18:07",
       "pinned": false
     },
     {
-      "title": "7 Feel-Good Movies on Prime Video to Stream Right Now",
-      "url": "https://www.thewrap.com/creative-content/what-to-watch/feel-good-movies-on-prime-video-now/",
-      "timestamp": "17:00",
+      "title": "5 Ways to Get the Best Out of LLM Inference",
+      "url": "https://pub.towardsai.net/5-ways-to-get-the-best-out-of-llm-inference-23c604351570?source=rss----98111c9905da---4",
+      "timestamp": "18:02",
       "pinned": false
     },
     {
-      "title": "How to watch Barcelona vs Real Madrid: El Clásico TV schedule, preview for Spanish Super Cup final clash",
-      "url": "https://www.tomsguide.com/entertainment/sports/watch-barcelona-vs-real-madrid-el-clasico-spanish-super-cup-final-2026-free",
-      "timestamp": "17:00",
+      "title": "A New Kind of Inductively-damped Compass",
+      "url": "https://hackaday.com/2026/01/11/a-new-kind-of-inductively-damped-compass/",
+      "timestamp": "18:00",
       "pinned": false
     }
   ],
@@ -105,6 +105,90 @@
   ],
   "automated": [
     {
+      "title": "'Industry' Season 3 Recap: What to Remember Before Season 4",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/industry-season-3-recap/",
+      "timestamp": "18:30",
+      "pubDate": "2026-01-11T18:30:00.000Z"
+    },
+    {
+      "title": "5 best new shows to stream this weekend on HBO Max, Netflix, Prime Video and more (Jan. 10-11)",
+      "url": "https://www.tomsguide.com/entertainment/streaming/5-best-new-shows-to-stream-this-weekend-on-hbo-max-netflix-prime-video-and-more-jan-10-11",
+      "timestamp": "18:21",
+      "pubDate": "2026-01-11T18:21:47.000Z"
+    },
+    {
+      "title": "The record-breaking movie Daniel Craig only made for the money: \"That does not turn me on\"",
+      "url": "https://faroutmagazine.co.uk/movie-daniel-craig-only-made-for-money/",
+      "timestamp": "18:15",
+      "pubDate": "2026-01-11T18:15:00.000Z"
+    },
+    {
+      "title": "Wing's drone deliveries are coming to 150 more Walmarts",
+      "url": "https://www.engadget.com/transportation/wings-drone-deliveries-are-coming-to-150-more-walmarts-180708189.html?src=rss",
+      "timestamp": "18:07",
+      "pubDate": "2026-01-11T18:07:09.000Z"
+    },
+    {
+      "title": "5 Ways to Get the Best Out of LLM Inference",
+      "url": "https://pub.towardsai.net/5-ways-to-get-the-best-out-of-llm-inference-23c604351570?source=rss----98111c9905da---4",
+      "timestamp": "18:02",
+      "pubDate": "2026-01-11T18:02:54.000Z"
+    },
+    {
+      "title": "A New Kind of Inductively-damped Compass",
+      "url": "https://hackaday.com/2026/01/11/a-new-kind-of-inductively-damped-compass/",
+      "timestamp": "18:00",
+      "pubDate": "2026-01-11T18:00:19.000Z"
+    },
+    {
+      "title": "Five songs from 1971 that will still be remembered in 2071",
+      "url": "https://faroutmagazine.co.uk/five-songs-from-1971-that-will-be-remembered-in-2071/",
+      "timestamp": "18:00",
+      "pubDate": "2026-01-11T18:00:00.000Z"
+    },
+    {
+      "title": "'The Night Manager' Season 2 Isn't Worth the Decade-Long Wait: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/the-night-manager-season-2-review-prime-video-1236626590/",
+      "timestamp": "18:00",
+      "pubDate": "2026-01-11T18:00:00.000Z"
+    },
+    {
+      "title": "Foo Fighters Play First Show of 2026: Set List and Video",
+      "url": "https://ultimateclassicrock.com/foo-fighters-first-2026-show-set-list-video/",
+      "timestamp": "17:59",
+      "pubDate": "2026-01-11T17:59:19.000Z"
+    },
+    {
+      "title": "Google removes AI Overviews for certain medical queries",
+      "url": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+      "timestamp": "17:56",
+      "pubDate": "2026-01-11T17:56:41.000Z"
+    },
+    {
+      "title": "Jennifer Lawrence explains why sex scenes with actors she doesn't know are \"preferable”",
+      "url": "https://www.nme.com/news/film/jennifer-lawrence-explains-why-sex-scenes-with-actors-she-doesnt-know-are-preferable-3922487?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jennifer-lawrence-explains-why-sex-scenes-with-actors-she-doesnt-know-are-preferable",
+      "timestamp": "17:49",
+      "pubDate": "2026-01-11T17:49:56.000Z"
+    },
+    {
+      "title": "The one singer John Lennon and Paul McCartney called better than everyone",
+      "url": "https://faroutmagazine.co.uk/the-one-singer-john-lennon-and-paul-mccartney-called-better-than-everyone/",
+      "timestamp": "17:45",
+      "pubDate": "2026-01-11T17:45:00.000Z"
+    },
+    {
+      "title": "Pamela Anderson Teases Role in Michael Cera’s Absurdist Comedy 'Love Is Not the Answer': 'I Got to Play a Really Interesting Woman'",
+      "url": "https://variety.com/2026/film/news/pamela-anderson-michael-cera-love-is-not-the-answer-1236628320/",
+      "timestamp": "17:45",
+      "pubDate": "2026-01-11T17:45:00.000Z"
+    },
+    {
+      "title": "The song Roy Orbison thought was a gift from God",
+      "url": "https://faroutmagazine.co.uk/song-roy-orbison-gift-god/",
+      "timestamp": "17:30",
+      "pubDate": "2026-01-11T17:30:00.000Z"
+    },
+    {
       "title": "'Heated Rivalry' Author's Next Ilya & Shane Book Set For September Release",
       "url": "https://deadline.com/2026/01/heated-rivalry-next-book-september-release-1236678983/",
       "timestamp": "17:16",
@@ -169,6 +253,12 @@
       "url": "https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/",
       "timestamp": "16:15",
       "pubDate": "2026-01-11T16:15:00.000Z"
+    },
+    {
+      "title": "Watch Lucy Dacus Cover The Magnetic Fields With Chappell Roan At Artists For Aid Benefit",
+      "url": "https://stereogum.com/2484832/watch-lucy-dacus-cover-the-magnetic-fields-with-chappell-roan-at-artists-for-aid-benefit/news/",
+      "timestamp": "16:10",
+      "pubDate": "2026-01-11T16:10:19.000Z"
     },
     {
       "title": "Claude HUD: Building Real-Time Observability for Claude Code via the Statusline API",
@@ -253,103 +343,33 @@
       "url": "https://www.marktechpost.com/2026/01/11/meet-seta-open-source-training-reinforcement-learning-environments-for-terminal-agents-with-400-tasks-and-camel-toolkit/",
       "timestamp": "15:12",
       "pubDate": "2026-01-11T15:12:24.000Z"
-    },
-    {
-      "title": "AI in 2026 will get smarter by getting constrained",
-      "url": "https://pub.towardsai.net/ai-in-2026-will-get-smarter-by-getting-constrained-017667480e1f?source=rss----98111c9905da---4",
-      "timestamp": "15:03",
-      "pubDate": "2026-01-11T15:03:52.000Z"
-    },
-    {
-      "title": "The Intel 8087 and Conditional Microcode Tests",
-      "url": "https://hackaday.com/2026/01/11/the-intel-8087-and-conditional-microcode-tests/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-11T15:00:56.000Z"
-    },
-    {
-      "title": "Watch Sara Bareilles Discuss Her Oscar Shortlisted Original Song for Ryan White's Doc 'Come See Me in the Good Light'",
-      "url": "https://www.indiewire.com/news/events/indiewire-apple-sara-bareilles-event-1235172419/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-11T15:00:00.000Z"
-    },
-    {
-      "title": "Wing to expand drone delivery to another 150 Walmart stores",
-      "url": "https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-11T15:00:00.000Z"
-    },
-    {
-      "title": "How to watch 'Call the Midwife' season 15 for *FREE* — stream popular drama online from anywhere",
-      "url": "https://www.tomsguide.com/entertainment/streaming/watch-call-the-midwife-season-15",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-11T15:00:00.000Z"
-    },
-    {
-      "title": "One movie would make Cillian Murphy want to be an actor: \"I rented this film by mistake\"",
-      "url": "https://faroutmagazine.co.uk/one-movie-mistake-made-cillian-murphy-want-to-be-an-actor/",
-      "timestamp": "14:49",
-      "pubDate": "2026-01-11T14:49:31.000Z"
-    },
-    {
-      "title": "Billy Strings Pays Tribute to Bob Weir: 'Heaven's Choir Just Gained a Beautiful New Voice'",
-      "url": "https://www.rollingstone.com/music/music-news/billy-strings-tribute-bob-weir-grateful-dead-1235497503/",
-      "timestamp": "14:47",
-      "pubDate": "2026-01-11T14:47:04.000Z"
-    },
-    {
-      "title": "The movie ending Bruce Willis wants to erase from existence: \"You never want to see that\"",
-      "url": "https://faroutmagazine.co.uk/movie-ending-bruce-willis-wants-erase-existence/",
-      "timestamp": "14:45",
-      "pubDate": "2026-01-11T14:45:00.000Z"
-    },
-    {
-      "title": "Ethereum Eyes Censorship Resistance With Distributed Block Building Vision",
-      "url": "https://news.bitcoin.com/ethereum-eyes-censorship-resistance-with-distributed-block-building-vision/",
-      "timestamp": "14:42",
-      "pubDate": "2026-01-11T14:42:10.000Z"
-    },
-    {
-      "title": "IDK – LiFE 4 A LiFE (ft. Pusha T)",
-      "url": "https://www.stereofox.com/idk-life-4-a-life-ft-pusha-t/",
-      "timestamp": "14:37",
-      "pubDate": "2026-01-11T14:37:54.000Z"
-    },
-    {
-      "title": "Bitcoin bear market still in play as power law sees $65K 'do-or-die' price",
-      "url": "https://cointelegraph.com/news/bitcoin-four-year-cycle-in-play-power-law-65k-retest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "14:37",
-      "pubDate": "2026-01-11T14:37:48.000Z"
-    },
-    {
-      "title": "Every Lorde album ranked from worst to best",
-      "url": "https://faroutmagazine.co.uk/lorde-album-ranked-worst-to-best/",
-      "timestamp": "14:30",
-      "pubDate": "2026-01-11T14:30:00.000Z"
-    },
-    {
-      "title": "The TV show Steven Spielberg hated with a passion: \"No one can cannibalise my films\"",
-      "url": "https://faroutmagazine.co.uk/tv-show-steven-spielberg-hated-passion/",
-      "timestamp": "14:15",
-      "pubDate": "2026-01-11T14:15:00.000Z"
-    },
-    {
-      "title": "$1 Billion to Google. 15 AI Minds Lost. Apple’s Surrender Equation.",
-      "url": "https://pub.towardsai.net/1-billion-to-google-15-ai-minds-lost-apples-surrender-equation-5ba4dbaf7406?source=rss----98111c9905da---4",
-      "timestamp": "14:02",
-      "pubDate": "2026-01-11T14:02:49.000Z"
-    },
-    {
-      "title": "DeepSeek Sparse Attention: From O(L²) to Near-Linear O(L·n)",
-      "url": "https://pub.towardsai.net/deepseek-sparse-attention-from-o-l%C2%B2-to-near-linear-o-l-n-6f755d49331f?source=rss----98111c9905da---4",
-      "timestamp": "14:02",
-      "pubDate": "2026-01-11T14:02:37.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "The one guitarist Eric Clapton said was impossible to duplicate",
-      "url": "https://faroutmagazine.co.uk/the-one-guitarist-eric-clapton-said-was-impossible-to-duplicate/",
-      "timestamp": "17:00"
+      "title": "Five songs from 1971 that will still be remembered in 2071",
+      "url": "https://faroutmagazine.co.uk/five-songs-from-1971-that-will-be-remembered-in-2071/",
+      "timestamp": "18:00"
+    },
+    {
+      "title": "Foo Fighters Play First Show of 2026: Set List and Video",
+      "url": "https://ultimateclassicrock.com/foo-fighters-first-2026-show-set-list-video/",
+      "timestamp": "17:59"
+    },
+    {
+      "title": "Jennifer Lawrence explains why sex scenes with actors she doesn't know are \"preferable”",
+      "url": "https://www.nme.com/news/film/jennifer-lawrence-explains-why-sex-scenes-with-actors-she-doesnt-know-are-preferable-3922487?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jennifer-lawrence-explains-why-sex-scenes-with-actors-she-doesnt-know-are-preferable",
+      "timestamp": "17:49"
+    },
+    {
+      "title": "The one singer John Lennon and Paul McCartney called better than everyone",
+      "url": "https://faroutmagazine.co.uk/the-one-singer-john-lennon-and-paul-mccartney-called-better-than-everyone/",
+      "timestamp": "17:45"
+    },
+    {
+      "title": "The song Roy Orbison thought was a gift from God",
+      "url": "https://faroutmagazine.co.uk/song-roy-orbison-gift-god/",
+      "timestamp": "17:30"
     },
     {
       "title": "Remembering Our Last Conversation With Bob Weir",
@@ -357,14 +377,9 @@
       "timestamp": "16:55"
     },
     {
-      "title": "The only \"perfect\" co-star Robin Williams ever worked with: \"Shit, I'd better act now\"",
-      "url": "https://faroutmagazine.co.uk/only-perfect-co-star-robin-williams-worked-with/",
-      "timestamp": "16:45"
-    },
-    {
-      "title": "The crushing lyrics inscribed on Ian Curtis' gravestone",
-      "url": "https://faroutmagazine.co.uk/the-crushing-lyrics-inscribed-on-ian-curtis-gravestone/",
-      "timestamp": "16:15"
+      "title": "Watch Lucy Dacus Cover The Magnetic Fields With Chappell Roan At Artists For Aid Benefit",
+      "url": "https://stereogum.com/2484832/watch-lucy-dacus-cover-the-magnetic-fields-with-chappell-roan-at-artists-for-aid-benefit/news/",
+      "timestamp": "16:10"
     },
     {
       "title": "See Lucy Dacus and Chappell Roan Cover 'The Book of Love' at Artists for Aid Benefit Concert",
@@ -407,11 +422,6 @@
       "timestamp": "22:01"
     },
     {
-      "title": "Nikki Glaser Wants To Do 'WAP' Karaoke With Teyana Taylor & Why She Wants to Host the Golden&#160;Globes",
-      "url": "https://www.billboard.com/video/nikki-glaser-wants-to-host-the-golden-globes/",
-      "timestamp": "17:00"
-    },
-    {
       "title": "Washington National Opera Leaving Kennedy Center After 55 Years",
       "url": "https://stereogum.com/2484773/washington-national-opera-leaving-kennedy-center-after-55-years/news/",
       "timestamp": "15:56"
@@ -427,11 +437,6 @@
       "timestamp": "13:59"
     },
     {
-      "title": "10 Years Ago: David Bowie Transforms Once More, Then Vanishes",
-      "url": "https://ultimateclassicrock.com/david-bowie-death-anniversary/",
-      "timestamp": "12:28"
-    },
-    {
       "title": "Meet ØWay, the Atlanta rap collective behind 2026’s first viral cypher",
       "url": "https://www.thefader.com/2026/01/09/oway-cypher-2026-tezzus-pz-young-thug",
       "timestamp": "20:45"
@@ -440,12 +445,7 @@
       "title": "What does copying aesthetics mean in the internet age?",
       "url": "https://www.thefader.com/2026/01/09/what-does-copying-creative-theft-mean-on-the-internet",
       "timestamp": "20:22"
-    },
-    {
-      "title": "How I Learned to Love Reading",
-      "url": "https://www.honest-broker.com/p/how-i-learned-to-love-reading",
-      "timestamp": "19:05"
     }
   ],
-  "lastUpdated": "2026-01-11T17:20:49.638Z"
+  "lastUpdated": "2026-01-11T18:34:08.031Z"
 }
