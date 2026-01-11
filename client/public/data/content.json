@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "THIS TEEN GIRL IS THE ACTION HERO WE NEED — WATCH BOTH OF HER MOVIES NOW ON NETFLIX",
-    "url": "https://www.tomsguide.com/entertainment/netflix/this-teen-girl-is-the-action-hero-we-need-watch-both-of-her-movies-now-on-netflix",
+    "headline": "WHICH ACTOR HAS STARRED IN THE MOST JAMES BOND MOVIES EVER?",
+    "url": "https://faroutmagazine.co.uk/which-actor-has-been-in-the-most-james-bond-movies/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "A Much Faster Mac On A Microcontroller",
-      "url": "https://hackaday.com/2026/01/11/a-much-faster-mac-on-a-microcontroller/",
-      "timestamp": "09:00",
+      "title": "'Pitch Perfect' is trending in Netflix's top 10 — here are 3 movies to watch next",
+      "url": "https://www.tomsguide.com/entertainment/streaming/pitch-perfect-is-trending-in-netflixs-top-10-here-are-3-movies-to-watch-next",
+      "timestamp": "10:15",
       "pinned": false
     },
     {
-      "title": "Donna Summer, the musical 'Hair', and the birth of disco: The audition that changed music",
-      "url": "https://faroutmagazine.co.uk/donna-summer-musical-hair-birth-of-disco/",
-      "timestamp": "09:00",
+      "title": "Jack Osbourne says Ozzy is visiting family members in identical dreams",
+      "url": "https://www.nme.com/news/music/jack-osbourne-says-ozzy-is-visiting-family-members-in-identical-dreams-3922433?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jack-osbourne-says-ozzy-is-visiting-family-members-in-identical-dreams",
+      "timestamp": "10:10",
       "pinned": false
     },
     {
-      "title": "Bird baths won't freeze over this winter if you add this $2 item",
-      "url": "https://www.tomsguide.com/home/gardening/bird-baths-wont-freeze-over-this-winter-if-you-add-this-usd2-item",
-      "timestamp": "09:00",
+      "title": "What was the final Beatles song recorded together by the whole band?",
+      "url": "https://faroutmagazine.co.uk/what-was-the-final-beatles-song-recorded-together-as-a-band/",
+      "timestamp": "10:06",
       "pinned": false
     },
     {
-      "title": "I’m a personal trainer who works with seniors — build lower body and core strength with these exercises you can do on your bed",
-      "url": "https://www.tomsguide.com/wellness/workouts/im-a-personal-trainer-who-works-with-seniors-build-lower-body-and-core-strength-with-these-exercises-you-can-do-on-your-bed",
-      "timestamp": "08:45",
+      "title": "Three guitar moments that prove Bob Weir's genius: \"That’s all I’m here for\"",
+      "url": "https://faroutmagazine.co.uk/three-guitar-moments-that-prove-bob-weirs-genius/",
+      "timestamp": "10:00",
       "pinned": false
     },
     {
-      "title": "Brazil's B3 to Expand Trading Hours for Crypto and Gold Futures",
-      "url": "https://news.bitcoin.com/brazils-b3-to-expand-trading-hours-for-crypto-and-gold-futures/",
-      "timestamp": "08:30",
+      "title": "Clean up your digital life in 2026 with these 7 easy steps",
+      "url": "https://www.tomsguide.com/computing/online-security/clean-up-your-digital-life-in-2026-with-these-7-easy-steps",
+      "timestamp": "09:45",
       "pinned": false
     }
   ],
@@ -104,6 +104,60 @@
     }
   ],
   "automated": [
+    {
+      "title": "Which actor has starred in the most James Bond movies ever?",
+      "url": "https://faroutmagazine.co.uk/which-actor-has-been-in-the-most-james-bond-movies/",
+      "timestamp": "10:16",
+      "pubDate": "2026-01-11T10:16:35.000Z"
+    },
+    {
+      "title": "'Pitch Perfect' is trending in Netflix's top 10 — here are 3 movies to watch next",
+      "url": "https://www.tomsguide.com/entertainment/streaming/pitch-perfect-is-trending-in-netflixs-top-10-here-are-3-movies-to-watch-next",
+      "timestamp": "10:15",
+      "pubDate": "2026-01-11T10:15:00.000Z"
+    },
+    {
+      "title": "Jack Osbourne says Ozzy is visiting family members in identical dreams",
+      "url": "https://www.nme.com/news/music/jack-osbourne-says-ozzy-is-visiting-family-members-in-identical-dreams-3922433?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jack-osbourne-says-ozzy-is-visiting-family-members-in-identical-dreams",
+      "timestamp": "10:10",
+      "pubDate": "2026-01-11T10:10:34.000Z"
+    },
+    {
+      "title": "What was the final Beatles song recorded together by the whole band?",
+      "url": "https://faroutmagazine.co.uk/what-was-the-final-beatles-song-recorded-together-as-a-band/",
+      "timestamp": "10:06",
+      "pubDate": "2026-01-11T10:06:50.000Z"
+    },
+    {
+      "title": "Three guitar moments that prove Bob Weir's genius: \"That’s all I’m here for\"",
+      "url": "https://faroutmagazine.co.uk/three-guitar-moments-that-prove-bob-weirs-genius/",
+      "timestamp": "10:00",
+      "pubDate": "2026-01-11T10:00:00.000Z"
+    },
+    {
+      "title": "Clean up your digital life in 2026 with these 7 easy steps",
+      "url": "https://www.tomsguide.com/computing/online-security/clean-up-your-digital-life-in-2026-with-these-7-easy-steps",
+      "timestamp": "09:45",
+      "pubDate": "2026-01-11T09:45:00.000Z"
+    },
+    {
+      "title": "Rhythmic genius: How to play guitar like Bob Weir",
+      "url": "https://faroutmagazine.co.uk/how-to-play-guitar-like-bob-weir/",
+      "timestamp": "09:40",
+      "pubDate": "2026-01-11T09:40:33.000Z"
+    },
+    {
+      "title": "Margot Robbie's favourite movie scores of all time: \"It gets me into reality\"",
+      "url": "https://faroutmagazine.co.uk/margot-robbie-favourite-film-scores-of-all-time/",
+      "timestamp": "09:30",
+      "pubDate": "2026-01-11T09:30:00.000Z"
+    },
+    {
+      "title": "The internet is obsessed with the Kodak Charmera and I finally got my hands on it: here's why it's charmed me too",
+      "url": "https://www.tomsguide.com/cameras-photography/kodak-charmera-first-impressions-opinion",
+      "timestamp": "09:30",
+      "pubDate": "2026-01-11T09:30:00.000Z"
+    },
     {
       "title": "This teen girl is the action hero we need — watch both of her movies now on Netflix",
       "url": "https://www.tomsguide.com/entertainment/netflix/this-teen-girl-is-the-action-hero-we-need-watch-both-of-her-movies-now-on-netflix",
@@ -289,77 +343,28 @@
       "url": "https://faroutmagazine.co.uk/the-movie-florence-pugh-was-told-not-to-make-because-shed-fail/",
       "timestamp": "03:30",
       "pubDate": "2026-01-11T03:30:00.000Z"
-    },
-    {
-      "title": "Trey Anastasio Remembers 'Sweet, Kind, Gentle Friend' Bob Weir",
-      "url": "https://www.rollingstone.com/music/music-news/trey-anastasio-pays-tribute-bob-weir-grateful-dead-1235497464/",
-      "timestamp": "03:12",
-      "pubDate": "2026-01-11T03:12:04.000Z"
-    },
-    {
-      "title": "ESP with EEG — No, Not That ESP!",
-      "url": "https://hackaday.com/2026/01/10/esp-with-eeg-no-not-that-esp/",
-      "timestamp": "03:00",
-      "pubDate": "2026-01-11T03:00:58.000Z"
-    },
-    {
-      "title": "It’s Happening: Ripple Says XRP Is the Heartbeat of the Internet of Value",
-      "url": "https://news.bitcoin.com/its-happening-ripple-says-xrp-is-the-heartbeat-of-the-internet-of-value/",
-      "timestamp": "02:30",
-      "pubDate": "2026-01-11T02:30:13.000Z"
-    },
-    {
-      "title": "Bob Weir: A Life in Photos",
-      "url": "https://www.rollingstone.com/music/music-pictures/bob-weir-photos-grateful-dead-1235497293/",
-      "timestamp": "02:27",
-      "pubDate": "2026-01-11T02:27:24.000Z"
-    },
-    {
-      "title": "Guy Moon Dies: Emmy-Nominated 'Fairly OddParents' Composer Was 63",
-      "url": "https://deadline.com/2026/01/guy-moon-dead-emmy-nominated-fairly-oddparents-composer-1236678690/",
-      "timestamp": "01:58",
-      "pubDate": "2026-01-11T01:58:16.000Z"
-    },
-    {
-      "title": "Bob Weir: 11 Essential Songs",
-      "url": "https://www.rollingstone.com/music/music-lists/bob-weir-grateful-dead-best-songs-1235497246/",
-      "timestamp": "01:50",
-      "pubDate": "2026-01-11T01:50:06.000Z"
-    },
-    {
-      "title": "Bitcoin ETFs Outpace Gold Adoption by 600% Two Years Into TradFi",
-      "url": "https://news.bitcoin.com/bitcoin-etfs-outpace-gold-adoption-by-600-two-years-into-tradfi/",
-      "timestamp": "01:30",
-      "pubDate": "2026-01-11T01:30:23.000Z"
-    },
-    {
-      "title": "The \"B-grade\" movie Cate Blanchett made for a laugh: \"Strange, weird thing\"",
-      "url": "https://faroutmagazine.co.uk/b-grade-movie-cate-blanchett-made-for-a-laugh/",
-      "timestamp": "01:30",
-      "pubDate": "2026-01-11T01:30:00.000Z"
-    },
-    {
-      "title": "Don Felder, Andy Cohen, and More Remember 'Impossibly Beautiful and Wildly Fiery' Bob Weir",
-      "url": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-death-tributes-reactions-1235497291/",
-      "timestamp": "01:05",
-      "pubDate": "2026-01-11T01:05:21.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "Donna Summer, the musical 'Hair', and the birth of disco: The audition that changed music",
-      "url": "https://faroutmagazine.co.uk/donna-summer-musical-hair-birth-of-disco/",
-      "timestamp": "09:00"
+      "title": "Jack Osbourne says Ozzy is visiting family members in identical dreams",
+      "url": "https://www.nme.com/news/music/jack-osbourne-says-ozzy-is-visiting-family-members-in-identical-dreams-3922433?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jack-osbourne-says-ozzy-is-visiting-family-members-in-identical-dreams",
+      "timestamp": "10:10"
     },
     {
-      "title": "Five albums from Factory Records that changed the world",
-      "url": "https://faroutmagazine.co.uk/five-albums-from-factory-records-that-changed-world/",
-      "timestamp": "08:00"
+      "title": "What was the final Beatles song recorded together by the whole band?",
+      "url": "https://faroutmagazine.co.uk/what-was-the-final-beatles-song-recorded-together-as-a-band/",
+      "timestamp": "10:06"
     },
     {
-      "title": "Drew Barrymore names the greatest role she ever played: \"That's who I want to be\"",
-      "url": "https://faroutmagazine.co.uk/drew-barrymore-names-the-greatest-role-she-ever-played/",
-      "timestamp": "07:30"
+      "title": "Three guitar moments that prove Bob Weir's genius: \"That’s all I’m here for\"",
+      "url": "https://faroutmagazine.co.uk/three-guitar-moments-that-prove-bob-weirs-genius/",
+      "timestamp": "10:00"
+    },
+    {
+      "title": "Rhythmic genius: How to play guitar like Bob Weir",
+      "url": "https://faroutmagazine.co.uk/how-to-play-guitar-like-bob-weir/",
+      "timestamp": "09:40"
     },
     {
       "title": "Don Was Remembers Bob Weir, His 'Fearless' Friend and&#160;Bandmate",
@@ -389,11 +394,6 @@
     {
       "title": "'Connections' answers and hints for today, January 11",
       "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=connections-answers-hints-groups-today",
-      "timestamp": "00:00"
-    },
-    {
-      "title": "Globle answer today – here’s the answer and hints for January 11",
-      "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globle-hint-answer-today",
       "timestamp": "00:00"
     },
     {
@@ -447,5 +447,5 @@
       "timestamp": "16:05"
     }
   ],
-  "lastUpdated": "2026-01-11T09:25:23.884Z"
+  "lastUpdated": "2026-01-11T10:25:31.782Z"
 }
