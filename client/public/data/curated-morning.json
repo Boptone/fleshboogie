@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-11T08:31:33.420Z",
+  "curatedAt": "2026-01-11T09:25:26.772Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "THE IPHONE FOLD’S RUMORED PRICE IS $2,400 — AND ANALYSTS SAY APPLE FANS WON’T BLINK",
-      "url": "https://www.tomsguide.com/phones/iphones/the-iphone-folds-rumored-price-is-usd2-400-and-analysts-say-apple-fans-wont-blink",
-      "timestamp": "2026-01-11T08:31:30.442Z",
+      "title": "THIS TEEN GIRL IS THE ACTION HERO WE NEED — WATCH BOTH OF HER MOVIES NOW ON NETFLIX",
+      "url": "https://www.tomsguide.com/entertainment/netflix/this-teen-girl-is-the-action-hero-we-need-watch-both-of-her-movies-now-on-netflix",
+      "timestamp": "2026-01-11T09:25:23.884Z",
       "source": "splash",
       "scores": {
-        "impact": 0.4,
-        "engagement": 0.6,
+        "impact": 0.5,
+        "engagement": 0.55,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5700000000000001
+        "composite": 0.595
       }
     },
     "deepDive": [
@@ -102,32 +102,32 @@
     ],
     "wildcard": [
       {
-        "title": "THE IPHONE FOLD’S RUMORED PRICE IS $2,400 — AND ANALYSTS SAY APPLE FANS WON’T BLINK",
-        "url": "https://www.tomsguide.com/phones/iphones/the-iphone-folds-rumored-price-is-usd2-400-and-analysts-say-apple-fans-wont-blink",
-        "timestamp": "2026-01-11T08:31:30.442Z",
+        "title": "THIS TEEN GIRL IS THE ACTION HERO WE NEED — WATCH BOTH OF HER MOVIES NOW ON NETFLIX",
+        "url": "https://www.tomsguide.com/entertainment/netflix/this-teen-girl-is-the-action-hero-we-need-watch-both-of-her-movies-now-on-netflix",
+        "timestamp": "2026-01-11T09:25:23.884Z",
         "source": "splash",
         "scores": {
-          "impact": 0.4,
-          "engagement": 0.6,
+          "impact": 0.5,
+          "engagement": 0.55,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5700000000000001
+          "composite": 0.595
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "THE IPHONE FOLD’S RUMORED PRICE IS $2,400 — AND ANALYSTS SAY APPLE FANS WON’T BLINK",
-      "url": "https://www.tomsguide.com/phones/iphones/the-iphone-folds-rumored-price-is-usd2-400-and-analysts-say-apple-fans-wont-blink",
-      "timestamp": "2026-01-11T08:31:30.442Z",
+      "title": "THIS TEEN GIRL IS THE ACTION HERO WE NEED — WATCH BOTH OF HER MOVIES NOW ON NETFLIX",
+      "url": "https://www.tomsguide.com/entertainment/netflix/this-teen-girl-is-the-action-hero-we-need-watch-both-of-her-movies-now-on-netflix",
+      "timestamp": "2026-01-11T09:25:23.884Z",
       "source": "splash",
       "scores": {
-        "impact": 0.4,
-        "engagement": 0.6,
+        "impact": 0.5,
+        "engagement": 0.55,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5700000000000001
+        "composite": 0.595
       }
     },
     {

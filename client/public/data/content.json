@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "THE IPHONE FOLD’S RUMORED PRICE IS $2,400 — AND ANALYSTS SAY APPLE FANS WON’T BLINK",
-    "url": "https://www.tomsguide.com/phones/iphones/the-iphone-folds-rumored-price-is-usd2-400-and-analysts-say-apple-fans-wont-blink",
+    "headline": "THIS TEEN GIRL IS THE ACTION HERO WE NEED — WATCH BOTH OF HER MOVIES NOW ON NETFLIX",
+    "url": "https://www.tomsguide.com/entertainment/netflix/this-teen-girl-is-the-action-hero-we-need-watch-both-of-her-movies-now-on-netflix",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Five albums from Factory Records that changed the world",
-      "url": "https://faroutmagazine.co.uk/five-albums-from-factory-records-that-changed-world/",
-      "timestamp": "08:00",
+      "title": "A Much Faster Mac On A Microcontroller",
+      "url": "https://hackaday.com/2026/01/11/a-much-faster-mac-on-a-microcontroller/",
+      "timestamp": "09:00",
       "pinned": false
     },
     {
-      "title": "The return of Prime Video's slick spy thriller series was worth the 10-year wait — 'The Night Manager' season 2 is gripping",
-      "url": "https://www.tomsguide.com/entertainment/prime-video/the-return-of-prime-videos-slick-spy-thriller-series-was-worth-the-10-year-wait-the-night-manager-season-2-is-gripping",
-      "timestamp": "08:00",
+      "title": "Donna Summer, the musical 'Hair', and the birth of disco: The audition that changed music",
+      "url": "https://faroutmagazine.co.uk/donna-summer-musical-hair-birth-of-disco/",
+      "timestamp": "09:00",
       "pinned": false
     },
     {
-      "title": "The 4 7 8 breathing method doesn’t work for me when I’m anxious — but this psychological hack always helps me fall asleep in minutes",
-      "url": "https://www.tomsguide.com/wellness/sleep-problems/the-4-7-8-breathing-method-doesnt-work-for-me-when-im-anxious-but-this-psychological-hack-always-helps-me-fall-asleep-in-minutes",
-      "timestamp": "07:45",
+      "title": "Bird baths won't freeze over this winter if you add this $2 item",
+      "url": "https://www.tomsguide.com/home/gardening/bird-baths-wont-freeze-over-this-winter-if-you-add-this-usd2-item",
+      "timestamp": "09:00",
       "pinned": false
     },
     {
-      "title": "Drew Barrymore names the greatest role she ever played: \"That's who I want to be\"",
-      "url": "https://faroutmagazine.co.uk/drew-barrymore-names-the-greatest-role-she-ever-played/",
-      "timestamp": "07:30",
+      "title": "I’m a personal trainer who works with seniors — build lower body and core strength with these exercises you can do on your bed",
+      "url": "https://www.tomsguide.com/wellness/workouts/im-a-personal-trainer-who-works-with-seniors-build-lower-body-and-core-strength-with-these-exercises-you-can-do-on-your-bed",
+      "timestamp": "08:45",
       "pinned": false
     },
     {
-      "title": "I drove the Genesis GV80 for a week — and it’s my favorite luxury 3-row SUV",
-      "url": "https://www.tomsguide.com/vehicle-tech/2026-genesis-gv80-review",
-      "timestamp": "07:15",
+      "title": "Brazil's B3 to Expand Trading Hours for Crypto and Gold Futures",
+      "url": "https://news.bitcoin.com/brazils-b3-to-expand-trading-hours-for-crypto-and-gold-futures/",
+      "timestamp": "08:30",
       "pinned": false
     }
   ],
@@ -104,6 +104,48 @@
     }
   ],
   "automated": [
+    {
+      "title": "This teen girl is the action hero we need — watch both of her movies now on Netflix",
+      "url": "https://www.tomsguide.com/entertainment/netflix/this-teen-girl-is-the-action-hero-we-need-watch-both-of-her-movies-now-on-netflix",
+      "timestamp": "09:15",
+      "pubDate": "2026-01-11T09:15:00.000Z"
+    },
+    {
+      "title": "A Much Faster Mac On A Microcontroller",
+      "url": "https://hackaday.com/2026/01/11/a-much-faster-mac-on-a-microcontroller/",
+      "timestamp": "09:00",
+      "pubDate": "2026-01-11T09:00:28.000Z"
+    },
+    {
+      "title": "Donna Summer, the musical 'Hair', and the birth of disco: The audition that changed music",
+      "url": "https://faroutmagazine.co.uk/donna-summer-musical-hair-birth-of-disco/",
+      "timestamp": "09:00",
+      "pubDate": "2026-01-11T09:00:00.000Z"
+    },
+    {
+      "title": "Bird baths won't freeze over this winter if you add this $2 item",
+      "url": "https://www.tomsguide.com/home/gardening/bird-baths-wont-freeze-over-this-winter-if-you-add-this-usd2-item",
+      "timestamp": "09:00",
+      "pubDate": "2026-01-11T09:00:00.000Z"
+    },
+    {
+      "title": "I’m a personal trainer who works with seniors — build lower body and core strength with these exercises you can do on your bed",
+      "url": "https://www.tomsguide.com/wellness/workouts/im-a-personal-trainer-who-works-with-seniors-build-lower-body-and-core-strength-with-these-exercises-you-can-do-on-your-bed",
+      "timestamp": "08:45",
+      "pubDate": "2026-01-11T08:45:00.000Z"
+    },
+    {
+      "title": "Brazil's B3 to Expand Trading Hours for Crypto and Gold Futures",
+      "url": "https://news.bitcoin.com/brazils-b3-to-expand-trading-hours-for-crypto-and-gold-futures/",
+      "timestamp": "08:30",
+      "pubDate": "2026-01-11T08:30:25.000Z"
+    },
+    {
+      "title": "The Richard Burton role Christopher Walken wasn't allowed to play: \"That's the way it goes\"",
+      "url": "https://faroutmagazine.co.uk/richard-burton-role-christopher-walken-wasnt-allowed-to-play/",
+      "timestamp": "08:30",
+      "pubDate": "2026-01-11T08:30:00.000Z"
+    },
     {
       "title": "The iPhone Fold’s rumored price is $2,400 — and analysts say Apple fans won’t blink",
       "url": "https://www.tomsguide.com/phones/iphones/the-iphone-folds-rumored-price-is-usd2-400-and-analysts-say-apple-fans-wont-blink",
@@ -301,51 +343,14 @@
       "url": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-death-tributes-reactions-1235497291/",
       "timestamp": "01:05",
       "pubDate": "2026-01-11T01:05:21.000Z"
-    },
-    {
-      "title": "The David Crosby song inspired by science fiction: \"Escaping on a boat\"",
-      "url": "https://faroutmagazine.co.uk/the-david-crosby-song-inspired-by-science-fiction/",
-      "timestamp": "01:00",
-      "pubDate": "2026-01-11T01:00:00.000Z"
-    },
-    {
-      "title": "XRP Is Being Positioned for Institutional Domination — Evernorth and Doppler Begin Building Treasury-Scale Liquidity",
-      "url": "https://news.bitcoin.com/xrp-is-being-positioned-for-institutional-domination-evernorth-and-doppler-begin-building-treasury-scale-liquidity/",
-      "timestamp": "00:30",
-      "pubDate": "2026-01-11T00:30:49.000Z"
-    },
-    {
-      "title": "Mel Brooks names the greatest mockumentary of all time: \"That movie's brilliant\"",
-      "url": "https://faroutmagazine.co.uk/mel-brooks-names-greatest-mockumentary-all-time/",
-      "timestamp": "00:30",
-      "pubDate": "2026-01-11T00:30:00.000Z"
-    },
-    {
-      "title": "How AI Is Reinventing Cognitive Behavioral Therapy (CBT): When Algorithms Learn to Listen",
-      "url": "https://pub.towardsai.net/how-ai-is-reinventing-cognitive-behavioral-therapy-cbt-when-algorithms-learn-to-listen-6e02311ed860?source=rss----98111c9905da---4",
-      "timestamp": "00:02",
-      "pubDate": "2026-01-11T00:02:48.000Z"
-    },
-    {
-      "title": "Today's Wordle answer and hints for #1667 on January 11",
-      "url": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=heres-the-wordle-answer-for-today",
-      "timestamp": "00:01",
-      "pubDate": "2026-01-11T00:01:34.000Z"
-    },
-    {
-      "title": "'Connections' answers and hints for today, January 11",
-      "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=connections-answers-hints-groups-today",
-      "timestamp": "00:00",
-      "pubDate": "2026-01-11T00:00:27.000Z"
-    },
-    {
-      "title": "A 1990s VNA Gets An LCD",
-      "url": "https://hackaday.com/2026/01/10/a-1990s-vna-gets-an-lcd/",
-      "timestamp": "00:00",
-      "pubDate": "2026-01-11T00:00:19.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "Donna Summer, the musical 'Hair', and the birth of disco: The audition that changed music",
+      "url": "https://faroutmagazine.co.uk/donna-summer-musical-hair-birth-of-disco/",
+      "timestamp": "09:00"
+    },
     {
       "title": "Five albums from Factory Records that changed the world",
       "url": "https://faroutmagazine.co.uk/five-albums-from-factory-records-that-changed-world/",
@@ -355,11 +360,6 @@
       "title": "Drew Barrymore names the greatest role she ever played: \"That's who I want to be\"",
       "url": "https://faroutmagazine.co.uk/drew-barrymore-names-the-greatest-role-she-ever-played/",
       "timestamp": "07:30"
-    },
-    {
-      "title": "The Baker Street Regulars: The band that formed after Big Star broke up",
-      "url": "https://faroutmagazine.co.uk/the-baker-street-regulars-band-formed-big-star-broke-up/",
-      "timestamp": "07:00"
     },
     {
       "title": "Don Was Remembers Bob Weir, His 'Fearless' Friend and&#160;Bandmate",
@@ -447,5 +447,5 @@
       "timestamp": "16:05"
     }
   ],
-  "lastUpdated": "2026-01-11T08:31:30.442Z"
+  "lastUpdated": "2026-01-11T09:25:23.884Z"
 }
