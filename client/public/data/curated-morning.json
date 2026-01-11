@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-11T19:18:51.828Z",
+  "curatedAt": "2026-01-11T20:27:45.637Z",
   "totalAnalyzed": 66,
   "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "LUCY DACUS JOINED BY CHAPPELL ROAN FOR 'THE BOOK OF LOVE' COVER AT ARTISTS FOR AID BENEFIT&#160;SHOW",
-      "url": "https://www.billboard.com/music/music-news/lucy-dacus-chappell-roan-book-of-love-cover-benefit-concert-1236152756/",
-      "timestamp": "2026-01-11T19:18:48.816Z",
+      "title": "BILL MURRAY NAMES THE GREATEST COMEDY MOVIE OF THE 21ST CENTURY: \"IT'S NOT EVEN CLOSE\"",
+      "url": "https://faroutmagazine.co.uk/bill-murray-names-greatest-comedy-movie-21st-century/",
+      "timestamp": "2026-01-11T20:27:42.707Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -31,29 +31,16 @@
         }
       },
       {
-        "title": "Ethereum treasury company BitMine crosses 1 million staked ETH milestone",
-        "url": "https://cointelegraph.com/news/ethereum-bitmine-1-million-staked-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "16:46",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
-        }
-      },
-      {
-        "title": "How to watch Barcelona vs Real Madrid: El Clásico TV schedule, preview for Spanish Super Cup final clash",
-        "url": "https://www.tomsguide.com/entertainment/sports/watch-barcelona-vs-real-madrid-el-clasico-spanish-super-cup-final-2026-free",
-        "timestamp": "17:00",
+        "title": "'The Night Manager' Season 2 Isn't Worth the Decade-Long Wait: TV Review",
+        "url": "https://variety.com/2026/tv/reviews/the-night-manager-season-2-review-prime-video-1236626590/",
+        "timestamp": "18:00",
         "source": "automated",
         "scores": {
           "impact": 0.55,
-          "engagement": 0.65,
+          "engagement": 0.6,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.4850000000000001
+          "composite": 0.4700000000000001
         }
       }
     ],
@@ -72,10 +59,23 @@
         }
       },
       {
+        "title": "One US location just banned CBDCs, but its new state token is doing something even more surprising",
+        "url": "https://cryptoslate.com/wyoming-frnt-state-seal-stablecoin-public-money-debate/",
+        "timestamp": "20:00",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.55,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.455
+        }
+      },
+      {
         "title": "'People We Meet On Vacation' Author On The Movie's Change That Feels \"So Earned\"",
         "url": "https://deadline.com/2026/01/people-we-meet-on-vacation-author-change-feels-earned-1236679014/",
         "timestamp": "18:53",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.5,
@@ -87,9 +87,9 @@
     ],
     "conversation": [
       {
-        "title": "LUCY DACUS JOINED BY CHAPPELL ROAN FOR 'THE BOOK OF LOVE' COVER AT ARTISTS FOR AID BENEFIT&#160;SHOW",
-        "url": "https://www.billboard.com/music/music-news/lucy-dacus-chappell-roan-book-of-love-cover-benefit-concert-1236152756/",
-        "timestamp": "2026-01-11T19:18:48.816Z",
+        "title": "BILL MURRAY NAMES THE GREATEST COMEDY MOVIE OF THE 21ST CENTURY: \"IT'S NOT EVEN CLOSE\"",
+        "url": "https://faroutmagazine.co.uk/bill-murray-names-greatest-comedy-movie-21st-century/",
+        "timestamp": "2026-01-11T20:27:42.707Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -115,9 +115,9 @@
     ],
     "wildcard": [
       {
-        "title": "LUCY DACUS JOINED BY CHAPPELL ROAN FOR 'THE BOOK OF LOVE' COVER AT ARTISTS FOR AID BENEFIT&#160;SHOW",
-        "url": "https://www.billboard.com/music/music-news/lucy-dacus-chappell-roan-book-of-love-cover-benefit-concert-1236152756/",
-        "timestamp": "2026-01-11T19:18:48.816Z",
+        "title": "BILL MURRAY NAMES THE GREATEST COMEDY MOVIE OF THE 21ST CENTURY: \"IT'S NOT EVEN CLOSE\"",
+        "url": "https://faroutmagazine.co.uk/bill-murray-names-greatest-comedy-movie-21st-century/",
+        "timestamp": "2026-01-11T20:27:42.707Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -131,9 +131,9 @@
   },
   "stories": [
     {
-      "title": "LUCY DACUS JOINED BY CHAPPELL ROAN FOR 'THE BOOK OF LOVE' COVER AT ARTISTS FOR AID BENEFIT&#160;SHOW",
-      "url": "https://www.billboard.com/music/music-news/lucy-dacus-chappell-roan-book-of-love-cover-benefit-concert-1236152756/",
-      "timestamp": "2026-01-11T19:18:48.816Z",
+      "title": "BILL MURRAY NAMES THE GREATEST COMEDY MOVIE OF THE 21ST CENTURY: \"IT'S NOT EVEN CLOSE\"",
+      "url": "https://faroutmagazine.co.uk/bill-murray-names-greatest-comedy-movie-21st-century/",
+      "timestamp": "2026-01-11T20:27:42.707Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -157,29 +157,16 @@
       }
     },
     {
-      "title": "Ethereum treasury company BitMine crosses 1 million staked ETH milestone",
-      "url": "https://cointelegraph.com/news/ethereum-bitmine-1-million-staked-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "16:46",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "How to watch Barcelona vs Real Madrid: El Clásico TV schedule, preview for Spanish Super Cup final clash",
-      "url": "https://www.tomsguide.com/entertainment/sports/watch-barcelona-vs-real-madrid-el-clasico-spanish-super-cup-final-2026-free",
-      "timestamp": "17:00",
+      "title": "'The Night Manager' Season 2 Isn't Worth the Decade-Long Wait: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/the-night-manager-season-2-review-prime-video-1236626590/",
+      "timestamp": "18:00",
       "source": "automated",
       "scores": {
         "impact": 0.55,
-        "engagement": 0.65,
+        "engagement": 0.6,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.4850000000000001
+        "composite": 0.4700000000000001
       }
     },
     {
@@ -196,10 +183,23 @@
       }
     },
     {
+      "title": "One US location just banned CBDCs, but its new state token is doing something even more surprising",
+      "url": "https://cryptoslate.com/wyoming-frnt-state-seal-stablecoin-public-money-debate/",
+      "timestamp": "20:00",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.55,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.455
+      }
+    },
+    {
       "title": "'People We Meet On Vacation' Author On The Movie's Change That Feels \"So Earned\"",
       "url": "https://deadline.com/2026/01/people-we-meet-on-vacation-author-change-feels-earned-1236679014/",
       "timestamp": "18:53",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.5,
