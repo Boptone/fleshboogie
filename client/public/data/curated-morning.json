@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-11T14:22:36.530Z",
+  "curatedAt": "2026-01-11T15:24:01.583Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "THE TV SHOW STEVEN SPIELBERG HATED WITH A PASSION: \"NO ONE CAN CANNIBALISE MY FILMS\"",
-      "url": "https://faroutmagazine.co.uk/tv-show-steven-spielberg-hated-passion/",
-      "timestamp": "2026-01-11T14:22:33.546Z",
+      "title": "CELEBRATING BOB WEIR: 10 OF HIS MOST ESSENTIAL MUSICAL MOMENTS",
+      "url": "https://variety.com/2026/music/obituaries-people-news/bob-weir-10-essential-moments-best-songs-grateful-dead-1236628279/",
+      "timestamp": "2026-01-11T15:23:58.640Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.6400000000000001
       }
     },
     "deepDive": [
@@ -28,6 +28,19 @@
           "timeliness": 0.2,
           "discovery": 0.3,
           "composite": 0.545
+        }
+      },
+      {
+        "title": "Every Lorde album ranked from worst to best",
+        "url": "https://faroutmagazine.co.uk/lorde-album-ranked-worst-to-best/",
+        "timestamp": "14:30",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.52
         }
       },
       {
@@ -59,20 +72,33 @@
         }
       },
       {
-        "title": "Emerging Vocalist Victoria Ibek is One to Watch in 2026",
-        "url": "https://www.spin.com/2026/01/emerging-vocalist-victoria-ibek-is-one-to-watch-in-2026/",
-        "timestamp": "16:05",
-        "source": "musicReleases",
+        "title": "Meet SETA: Open Source Training Reinforcement Learning Environments for Terminal Agents with 400 Tasks and CAMEL Toolkit",
+        "url": "https://www.marktechpost.com/2026/01/11/meet-seta-open-source-training-reinforcement-learning-environments-for-terminal-agents-with-400-tasks-and-camel-toolkit/",
+        "timestamp": "15:12",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.65,
+          "engagement": 0.6,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.48500000000000004
+          "composite": 0.47000000000000003
         }
       }
     ],
     "conversation": [
+      {
+        "title": "CELEBRATING BOB WEIR: 10 OF HIS MOST ESSENTIAL MUSICAL MOMENTS",
+        "url": "https://variety.com/2026/music/obituaries-people-news/bob-weir-10-essential-moments-best-songs-grateful-dead-1236628279/",
+        "timestamp": "2026-01-11T15:23:58.640Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.7,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.6400000000000001
+        }
+      },
       {
         "title": "TEED releases his new album 'Always With Me'",
         "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
@@ -85,49 +111,36 @@
           "discovery": 0.3,
           "composite": 0.545
         }
-      },
-      {
-        "title": "Meet ØWay, the Atlanta rap collective behind 2026’s first viral cypher",
-        "url": "https://www.thefader.com/2026/01/09/oway-cypher-2026-tezzus-pz-young-thug",
-        "timestamp": "20:45",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.75,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.515
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "THE TV SHOW STEVEN SPIELBERG HATED WITH A PASSION: \"NO ONE CAN CANNIBALISE MY FILMS\"",
-        "url": "https://faroutmagazine.co.uk/tv-show-steven-spielberg-hated-passion/",
-        "timestamp": "2026-01-11T14:22:33.546Z",
+        "title": "CELEBRATING BOB WEIR: 10 OF HIS MOST ESSENTIAL MUSICAL MOMENTS",
+        "url": "https://variety.com/2026/music/obituaries-people-news/bob-weir-10-essential-moments-best-songs-grateful-dead-1236628279/",
+        "timestamp": "2026-01-11T15:23:58.640Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.6400000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "THE TV SHOW STEVEN SPIELBERG HATED WITH A PASSION: \"NO ONE CAN CANNIBALISE MY FILMS\"",
-      "url": "https://faroutmagazine.co.uk/tv-show-steven-spielberg-hated-passion/",
-      "timestamp": "2026-01-11T14:22:33.546Z",
+      "title": "CELEBRATING BOB WEIR: 10 OF HIS MOST ESSENTIAL MUSICAL MOMENTS",
+      "url": "https://variety.com/2026/music/obituaries-people-news/bob-weir-10-essential-moments-best-songs-grateful-dead-1236628279/",
+      "timestamp": "2026-01-11T15:23:58.640Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.6400000000000001
       }
     },
     {
@@ -141,6 +154,19 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.545
+      }
+    },
+    {
+      "title": "Every Lorde album ranked from worst to best",
+      "url": "https://faroutmagazine.co.uk/lorde-album-ranked-worst-to-best/",
+      "timestamp": "14:30",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.52
       }
     },
     {
@@ -170,16 +196,16 @@
       }
     },
     {
-      "title": "Emerging Vocalist Victoria Ibek is One to Watch in 2026",
-      "url": "https://www.spin.com/2026/01/emerging-vocalist-victoria-ibek-is-one-to-watch-in-2026/",
-      "timestamp": "16:05",
-      "source": "musicReleases",
+      "title": "Meet SETA: Open Source Training Reinforcement Learning Environments for Terminal Agents with 400 Tasks and CAMEL Toolkit",
+      "url": "https://www.marktechpost.com/2026/01/11/meet-seta-open-source-training-reinforcement-learning-environments-for-terminal-agents-with-400-tasks-and-camel-toolkit/",
+      "timestamp": "15:12",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.65,
+        "engagement": 0.6,
         "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.48500000000000004
+        "composite": 0.47000000000000003
       }
     }
   ],
