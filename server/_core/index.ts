@@ -46,6 +46,16 @@ async function startServer() {
       createContext,
     })
   );
+  // Force production mode when running from dist folder
+  // Check the actual script path to detect if we're running the compiled version
+  const scriptPath = process.argv[1] || '';
+  const isCompiledDist = scriptPath.includes('/dist/index.js') || scriptPath.endsWith('/dist/index.js');
+  
+  if (isCompiledDist && process.env.NODE_ENV !== 'production') {
+    console.log('[Server] Detected compiled dist build, forcing NODE_ENV=production');
+    process.env.NODE_ENV = 'production';
+  }
+  
   // development mode uses Vite, production mode uses static files
   if (process.env.NODE_ENV === "development") {
     await setupVite(app, server);
