@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-11T05:29:04.173Z",
+  "curatedAt": "2026-01-11T06:37:21.318Z",
   "totalAnalyzed": 66,
-  "totalSelected": 3,
+  "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "I ADDED A 10X OPTICAL ZOOM TO MY IPHONE WITH THIS ATTACHABLE LENS — BUT IT HAS A MORE AMAZING TRICK UP ITS SLEEVE",
-      "url": "https://www.tomsguide.com/phones/iphones/i-added-a-10x-optical-zoom-to-my-iphone-with-this-attachable-lens-but-it-has-a-more-amazing-trick-up-its-sleeve",
-      "timestamp": "2026-01-11T05:29:01.169Z",
+      "title": "IT’S GOING TO BE A MASSIVE YEAR FOR SOME OF THE MOST ELEGANT-LOOKING TVS ON THE MARKET — HERE’S WHAT YOU NEED TO KNOW ABOUT 2026 LIFESTYLE TVS",
+      "url": "https://www.tomsguide.com/tvs/its-going-to-be-a-massive-year-for-some-of-the-most-elegant-looking-tvs-on-the-market-heres-what-you-need-to-know-about-2026-lifestyle-tvs",
+      "timestamp": "2026-01-11T06:37:18.310Z",
       "source": "splash",
       "scores": {
         "impact": 0.4,
-        "engagement": 0.7,
+        "engagement": 0.7999999999999999,
         "timeliness": 1,
-        "discovery": 0.3,
-        "composite": 0.6000000000000001
+        "discovery": 0.5,
+        "composite": 0.6500000000000001
       }
     },
     "deepDive": [
@@ -33,6 +33,19 @@
     ],
     "discovery": [
       {
+        "title": "IT’S GOING TO BE A MASSIVE YEAR FOR SOME OF THE MOST ELEGANT-LOOKING TVS ON THE MARKET — HERE’S WHAT YOU NEED TO KNOW ABOUT 2026 LIFESTYLE TVS",
+        "url": "https://www.tomsguide.com/tvs/its-going-to-be-a-massive-year-for-some-of-the-most-elegant-looking-tvs-on-the-market-heres-what-you-need-to-know-about-2026-lifestyle-tvs",
+        "timestamp": "2026-01-11T06:37:18.310Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.4,
+          "engagement": 0.7999999999999999,
+          "timeliness": 1,
+          "discovery": 0.5,
+          "composite": 0.6500000000000001
+        }
+      },
+      {
         "title": "Meet ØWay, the Atlanta rap collective behind 2026’s first viral cypher",
         "url": "https://www.thefader.com/2026/01/09/oway-cypher-2026-tezzus-pz-young-thug",
         "timestamp": "20:45",
@@ -44,20 +57,33 @@
           "discovery": 0.5,
           "composite": 0.515
         }
+      },
+      {
+        "title": "5 best movies like 'People We Meet on Vacation'",
+        "url": "https://www.tomsguide.com/entertainment/streaming/5-best-movies-like-people-we-meet-on-vacation",
+        "timestamp": "06:15",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.5000000000000001
+        }
       }
     ],
     "conversation": [
       {
-        "title": "I ADDED A 10X OPTICAL ZOOM TO MY IPHONE WITH THIS ATTACHABLE LENS — BUT IT HAS A MORE AMAZING TRICK UP ITS SLEEVE",
-        "url": "https://www.tomsguide.com/phones/iphones/i-added-a-10x-optical-zoom-to-my-iphone-with-this-attachable-lens-but-it-has-a-more-amazing-trick-up-its-sleeve",
-        "timestamp": "2026-01-11T05:29:01.169Z",
+        "title": "IT’S GOING TO BE A MASSIVE YEAR FOR SOME OF THE MOST ELEGANT-LOOKING TVS ON THE MARKET — HERE’S WHAT YOU NEED TO KNOW ABOUT 2026 LIFESTYLE TVS",
+        "url": "https://www.tomsguide.com/tvs/its-going-to-be-a-massive-year-for-some-of-the-most-elegant-looking-tvs-on-the-market-heres-what-you-need-to-know-about-2026-lifestyle-tvs",
+        "timestamp": "2026-01-11T06:37:18.310Z",
         "source": "splash",
         "scores": {
           "impact": 0.4,
-          "engagement": 0.7,
+          "engagement": 0.7999999999999999,
           "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6000000000000001
+          "discovery": 0.5,
+          "composite": 0.6500000000000001
         }
       },
       {
@@ -76,32 +102,32 @@
     ],
     "wildcard": [
       {
-        "title": "I ADDED A 10X OPTICAL ZOOM TO MY IPHONE WITH THIS ATTACHABLE LENS — BUT IT HAS A MORE AMAZING TRICK UP ITS SLEEVE",
-        "url": "https://www.tomsguide.com/phones/iphones/i-added-a-10x-optical-zoom-to-my-iphone-with-this-attachable-lens-but-it-has-a-more-amazing-trick-up-its-sleeve",
-        "timestamp": "2026-01-11T05:29:01.169Z",
+        "title": "IT’S GOING TO BE A MASSIVE YEAR FOR SOME OF THE MOST ELEGANT-LOOKING TVS ON THE MARKET — HERE’S WHAT YOU NEED TO KNOW ABOUT 2026 LIFESTYLE TVS",
+        "url": "https://www.tomsguide.com/tvs/its-going-to-be-a-massive-year-for-some-of-the-most-elegant-looking-tvs-on-the-market-heres-what-you-need-to-know-about-2026-lifestyle-tvs",
+        "timestamp": "2026-01-11T06:37:18.310Z",
         "source": "splash",
         "scores": {
           "impact": 0.4,
-          "engagement": 0.7,
+          "engagement": 0.7999999999999999,
           "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6000000000000001
+          "discovery": 0.5,
+          "composite": 0.6500000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "I ADDED A 10X OPTICAL ZOOM TO MY IPHONE WITH THIS ATTACHABLE LENS — BUT IT HAS A MORE AMAZING TRICK UP ITS SLEEVE",
-      "url": "https://www.tomsguide.com/phones/iphones/i-added-a-10x-optical-zoom-to-my-iphone-with-this-attachable-lens-but-it-has-a-more-amazing-trick-up-its-sleeve",
-      "timestamp": "2026-01-11T05:29:01.169Z",
+      "title": "IT’S GOING TO BE A MASSIVE YEAR FOR SOME OF THE MOST ELEGANT-LOOKING TVS ON THE MARKET — HERE’S WHAT YOU NEED TO KNOW ABOUT 2026 LIFESTYLE TVS",
+      "url": "https://www.tomsguide.com/tvs/its-going-to-be-a-massive-year-for-some-of-the-most-elegant-looking-tvs-on-the-market-heres-what-you-need-to-know-about-2026-lifestyle-tvs",
+      "timestamp": "2026-01-11T06:37:18.310Z",
       "source": "splash",
       "scores": {
         "impact": 0.4,
-        "engagement": 0.7,
+        "engagement": 0.7999999999999999,
         "timeliness": 1,
-        "discovery": 0.3,
-        "composite": 0.6000000000000001
+        "discovery": 0.5,
+        "composite": 0.6500000000000001
       }
     },
     {
@@ -128,6 +154,19 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.515
+      }
+    },
+    {
+      "title": "5 best movies like 'People We Meet on Vacation'",
+      "url": "https://www.tomsguide.com/entertainment/streaming/5-best-movies-like-people-we-meet-on-vacation",
+      "timestamp": "06:15",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.7,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.5000000000000001
       }
     }
   ],
