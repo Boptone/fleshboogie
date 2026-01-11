@@ -1015,4 +1015,4 @@
 - [x] Identify root cause of deployment error
 - [x] Fix the issue causing deployment to fail
 - [x] Test deployment locally
-- [ ] Save checkpoint with deployment fix
+- [x] Save checkpoint with deployment fix
