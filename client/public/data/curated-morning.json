@@ -1,35 +1,22 @@
 {
-  "curatedAt": "2026-01-12T11:24:28.080Z",
+  "curatedAt": "2026-01-12T12:55:33.974Z",
   "totalAnalyzed": 66,
   "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "I'VE BEEN TESTING THE VITURE BEAST AR GLASSES FOR WEEKS — HERE'S WHY I CAN'T REVIEW THEM YET",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/ive-been-testing-the-viture-beast-ar-glasses-for-weeks-heres-why-i-cant-review-them-yet",
-      "timestamp": "2026-01-12T11:24:25.091Z",
+      "title": "ROSE BYRNE’S PARTNER BOBBY CANNAVALE MISSED FIRST GOLDEN GLOBES WIN OF HER CAREER TO BUY EXOTIC LIZARD",
+      "url": "https://www.nme.com/news/film/rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard-3922648?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard",
+      "timestamp": "2026-01-12T12:55:30.970Z",
       "source": "splash",
       "scores": {
-        "impact": 0.55,
-        "engagement": 0.6,
+        "impact": 0.5,
+        "engagement": 0.55,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6300000000000001
+        "composite": 0.595
       }
     },
     "deepDive": [
-      {
-        "title": "I'VE BEEN TESTING THE VITURE BEAST AR GLASSES FOR WEEKS — HERE'S WHY I CAN'T REVIEW THEM YET",
-        "url": "https://www.tomsguide.com/computing/smart-glasses/ive-been-testing-the-viture-beast-ar-glasses-for-weeks-heres-why-i-cant-review-them-yet",
-        "timestamp": "2026-01-12T11:24:25.091Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.6,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6300000000000001
-        }
-      },
       {
         "title": "TEED releases his new album 'Always With Me'",
         "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
@@ -55,23 +42,22 @@
           "discovery": 0.3,
           "composite": 0.505
         }
-      }
-    ],
-    "discovery": [
+      },
       {
-        "title": "Meet the new biologists treating LLMs like aliens",
-        "url": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
-        "timestamp": "11:00",
+        "title": "Best Travel Cameras (2026), Tested and Reviewed",
+        "url": "https://www.wired.com/gallery/best-travel-cameras/",
+        "timestamp": "12:00",
         "source": "automated",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.55,
+          "impact": 0.55,
+          "engagement": 0.7,
           "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.455
+          "discovery": 0.3,
+          "composite": 0.5000000000000001
         }
       }
     ],
+    "discovery": [],
     "conversation": [
       {
         "title": "TEED releases his new album 'Always With Me'",
@@ -102,32 +88,32 @@
     ],
     "wildcard": [
       {
-        "title": "I'VE BEEN TESTING THE VITURE BEAST AR GLASSES FOR WEEKS — HERE'S WHY I CAN'T REVIEW THEM YET",
-        "url": "https://www.tomsguide.com/computing/smart-glasses/ive-been-testing-the-viture-beast-ar-glasses-for-weeks-heres-why-i-cant-review-them-yet",
-        "timestamp": "2026-01-12T11:24:25.091Z",
+        "title": "ROSE BYRNE’S PARTNER BOBBY CANNAVALE MISSED FIRST GOLDEN GLOBES WIN OF HER CAREER TO BUY EXOTIC LIZARD",
+        "url": "https://www.nme.com/news/film/rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard-3922648?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard",
+        "timestamp": "2026-01-12T12:55:30.970Z",
         "source": "splash",
         "scores": {
-          "impact": 0.55,
-          "engagement": 0.6,
+          "impact": 0.5,
+          "engagement": 0.55,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6300000000000001
+          "composite": 0.595
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "I'VE BEEN TESTING THE VITURE BEAST AR GLASSES FOR WEEKS — HERE'S WHY I CAN'T REVIEW THEM YET",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/ive-been-testing-the-viture-beast-ar-glasses-for-weeks-heres-why-i-cant-review-them-yet",
-      "timestamp": "2026-01-12T11:24:25.091Z",
+      "title": "ROSE BYRNE’S PARTNER BOBBY CANNAVALE MISSED FIRST GOLDEN GLOBES WIN OF HER CAREER TO BUY EXOTIC LIZARD",
+      "url": "https://www.nme.com/news/film/rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard-3922648?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard",
+      "timestamp": "2026-01-12T12:55:30.970Z",
       "source": "splash",
       "scores": {
-        "impact": 0.55,
-        "engagement": 0.6,
+        "impact": 0.5,
+        "engagement": 0.55,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6300000000000001
+        "composite": 0.595
       }
     },
     {
@@ -157,16 +143,16 @@
       }
     },
     {
-      "title": "Meet the new biologists treating LLMs like aliens",
-      "url": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
-      "timestamp": "11:00",
+      "title": "Best Travel Cameras (2026), Tested and Reviewed",
+      "url": "https://www.wired.com/gallery/best-travel-cameras/",
+      "timestamp": "12:00",
       "source": "automated",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.55,
+        "impact": 0.55,
+        "engagement": 0.7,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.455
+        "discovery": 0.3,
+        "composite": 0.5000000000000001
       }
     }
   ],

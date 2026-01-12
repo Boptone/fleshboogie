@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "I'VE BEEN TESTING THE VITURE BEAST AR GLASSES FOR WEEKS — HERE'S WHY I CAN'T REVIEW THEM YET",
-    "url": "https://www.tomsguide.com/computing/smart-glasses/ive-been-testing-the-viture-beast-ar-glasses-for-weeks-heres-why-i-cant-review-them-yet",
+    "headline": "ROSE BYRNE’S PARTNER BOBBY CANNAVALE MISSED FIRST GOLDEN GLOBES WIN OF HER CAREER TO BUY EXOTIC LIZARD",
+    "url": "https://www.nme.com/news/film/rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard-3922648?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Google pulls AI Overviews on some health queries after claims they mislead users",
-      "url": "https://www.tomsguide.com/ai/google-pulls-ai-overviews-on-some-health-queries-after-claims-they-mislead-users",
-      "timestamp": "11:20",
+      "title": "Prime Video top 10 movies — here's the 3 I'd stream this week (Jan. 12-18)",
+      "url": "https://www.tomsguide.com/entertainment/prime-video/prime-video-top-10-movies-heres-the-3-id-stream-this-week-jan-12-18-2026",
+      "timestamp": "12:46",
       "pinned": false
     },
     {
-      "title": "Golden Globes 2026 winners: full list and where to watch them",
-      "url": "https://www.tomsguide.com/entertainment/streaming/golden-globes-2026-winners-full-list-and-where-to-watch-them",
-      "timestamp": "11:19",
+      "title": "Golden Globes 2026: Hans Zimmer slams decision to cut 'Best Original Score' from live broadcast",
+      "url": "https://faroutmagazine.co.uk/golden-globes-2026-hans-zimmer-slams-cut-best-original-score-broadcast/",
+      "timestamp": "12:44",
       "pinned": false
     },
     {
-      "title": "Streamer Spend To Top $100B For First Time In 2026 – Report",
-      "url": "https://deadline.com/2026/01/streamer-spend-landmark-figure-2026-ampere-analysis-1236680312/",
-      "timestamp": "11:17",
+      "title": "Golden Globes 2026: Jean Smart claims US is \"at a turning point\" that she finds \"very concerning\"",
+      "url": "https://faroutmagazine.co.uk/golden-globes-2026-jean-smart-us-turning-point-very-concerning/",
+      "timestamp": "12:41",
       "pinned": false
     },
     {
-      "title": "Deeperfect releases Artist Series FLOWFAT sample pack",
-      "url": "https://rekkerd.org/deeperfect-releases-artist-series-flowfat-sample-pack/",
-      "timestamp": "11:04",
+      "title": "Audio Blast updates Drum Blaster drum instrument to v1.2",
+      "url": "https://rekkerd.org/audio-blast-updates-drum-blaster-drum-instrument-to-v1-2/",
+      "timestamp": "12:40",
       "pinned": false
     },
     {
-      "title": "'Happy Valley' BBC Studios Label Lookout Point Taps 'Conclave' Producer Juliette Howell as CEO",
-      "url": "https://variety.com/2026/tv/news/happy-valley-label-lookout-point-conclave-producer-juliette-howell-ceo-1236629209/",
-      "timestamp": "11:03",
+      "title": "ETFs Recap: Bitcoin and Ether Bleed as Solana and XRP Hold Firm",
+      "url": "https://news.bitcoin.com/etfs-recap-bitcoin-and-ether-bleed-as-solana-and-xrp-hold-firm/",
+      "timestamp": "12:30",
       "pinned": false
     }
   ],
@@ -105,6 +105,168 @@
   ],
   "automated": [
     {
+      "title": "Rose Byrne’s partner Bobby Cannavale missed first Golden Globes win of her career to buy exotic lizard",
+      "url": "https://www.nme.com/news/film/rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard-3922648?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard",
+      "timestamp": "12:53",
+      "pubDate": "2026-01-12T12:53:32.000Z"
+    },
+    {
+      "title": "Prime Video top 10 movies — here's the 3 I'd stream this week (Jan. 12-18)",
+      "url": "https://www.tomsguide.com/entertainment/prime-video/prime-video-top-10-movies-heres-the-3-id-stream-this-week-jan-12-18-2026",
+      "timestamp": "12:46",
+      "pubDate": "2026-01-12T12:46:03.000Z"
+    },
+    {
+      "title": "Golden Globes 2026: Hans Zimmer slams decision to cut 'Best Original Score' from live broadcast",
+      "url": "https://faroutmagazine.co.uk/golden-globes-2026-hans-zimmer-slams-cut-best-original-score-broadcast/",
+      "timestamp": "12:44",
+      "pubDate": "2026-01-12T12:44:36.000Z"
+    },
+    {
+      "title": "Golden Globes 2026: Jean Smart claims US is \"at a turning point\" that she finds \"very concerning\"",
+      "url": "https://faroutmagazine.co.uk/golden-globes-2026-jean-smart-us-turning-point-very-concerning/",
+      "timestamp": "12:41",
+      "pubDate": "2026-01-12T12:41:49.000Z"
+    },
+    {
+      "title": "Audio Blast updates Drum Blaster drum instrument to v1.2",
+      "url": "https://rekkerd.org/audio-blast-updates-drum-blaster-drum-instrument-to-v1-2/",
+      "timestamp": "12:40",
+      "pubDate": "2026-01-12T12:40:13.000Z"
+    },
+    {
+      "title": "ETFs Recap: Bitcoin and Ether Bleed as Solana and XRP Hold Firm",
+      "url": "https://news.bitcoin.com/etfs-recap-bitcoin-and-ether-bleed-as-solana-and-xrp-hold-firm/",
+      "timestamp": "12:30",
+      "pubDate": "2026-01-12T12:30:16.000Z"
+    },
+    {
+      "title": "Christopher Lloyd names his favourite 'Back to the Future' movie",
+      "url": "https://faroutmagazine.co.uk/christopher-lloyd-names-his-favourite-back-to-the-future-movie/",
+      "timestamp": "12:30",
+      "pubDate": "2026-01-12T12:30:00.000Z"
+    },
+    {
+      "title": "I’ve always wanted a keyboard with a computer inside and HP finally made one I’d want to use",
+      "url": "https://www.tomsguide.com/computing/ive-always-wanted-a-keyboard-with-a-computer-inside-and-hp-finally-made-one-id-want-to-use",
+      "timestamp": "12:30",
+      "pubDate": "2026-01-12T12:30:00.000Z"
+    },
+    {
+      "title": "70 economists urge EU to ‘let the public interest prevail’ on digital euro",
+      "url": "https://cointelegraph.com/news/70-economists-eu-lawmakers-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "12:29",
+      "pubDate": "2026-01-12T12:29:10.000Z"
+    },
+    {
+      "title": "‘Mardaani 3’ Trailer: Rani Mukerji Returns For The Third Instalment Of Yash Raj’s Cop Series",
+      "url": "https://deadline.com/2026/01/mardaani-3-trailer-rani-mukerji-yash-raj-1236680514/",
+      "timestamp": "12:17",
+      "pubDate": "2026-01-12T12:17:20.000Z"
+    },
+    {
+      "title": "Watch Sombr's tender cover of Phoebe Bridgers' 'Motion Sickness'",
+      "url": "https://www.nme.com/news/music/watch-sombrs-tender-cover-of-phoebe-bridgers-motion-sickness-3922610?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=watch-sombrs-tender-cover-of-phoebe-bridgers-motion-sickness",
+      "timestamp": "12:12",
+      "pubDate": "2026-01-12T12:12:54.000Z"
+    },
+    {
+      "title": "LLMs, MCPs, and Agents in Decision Intelligence",
+      "url": "https://pub.towardsai.net/llms-mcps-and-agents-in-decision-intelligence-9e0b473068ad?source=rss----98111c9905da---4",
+      "timestamp": "12:02",
+      "pubDate": "2026-01-12T12:02:55.000Z"
+    },
+    {
+      "title": "Billie Piper, Johnny Flynn, Luke Thompson, Monica Dolan, Juliet Stevenson, Joe Locke, Adeel Akhtar & More Join Andrew Scott & Olivia Colman In Studiocanal's Ian Charleson Film 'Elsinore'",
+      "url": "https://deadline.com/2026/01/billie-piper-luke-thompson-joe-locke-andrew-scott-elsinore-1236680370/",
+      "timestamp": "12:01",
+      "pubDate": "2026-01-12T12:01:55.000Z"
+    },
+    {
+      "title": "George Clooney calls Quentin Tarantino \"cruel\", defends Paul Dano and Owen Wilson",
+      "url": "https://www.nme.com/news/film/george-clooney-calls-quentin-tarantino-cruel-defends-paul-dano-and-owen-wilson-3922626?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=george-clooney-calls-quentin-tarantino-cruel-defends-paul-dano-and-owen-wilson",
+      "timestamp": "12:01",
+      "pubDate": "2026-01-12T12:01:12.000Z"
+    },
+    {
+      "title": "Dubai free zone shifts crypto token vetting to licensed companies",
+      "url": "https://cointelegraph.com/news/dubai-difc-dfsa-crypto-token-suitability-rule-change?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-12T12:00:59.000Z"
+    },
+    {
+      "title": "High-Tech Trailer Brings Water Home",
+      "url": "https://hackaday.com/2026/01/12/high-tech-trailer-brings-water-home/",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-12T12:00:32.000Z"
+    },
+    {
+      "title": "The album that changed Dave Gahan's life: \"It made me feel like I belonged to something\"",
+      "url": "https://faroutmagazine.co.uk/album-changed-dave-gahan-life-2/",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-12T12:00:00.000Z"
+    },
+    {
+      "title": "Best Travel Cameras (2026), Tested and Reviewed",
+      "url": "https://www.wired.com/gallery/best-travel-cameras/",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-12T12:00:00.000Z"
+    },
+    {
+      "title": "I ran 40 miles in the Adidas Evo SL ATR and it’s my go-to daily trainer for the winter",
+      "url": "https://www.tomsguide.com/wellness/running/adidas-evo-sl-atr-review",
+      "timestamp": "11:59",
+      "pubDate": "2026-01-12T11:59:38.000Z"
+    },
+    {
+      "title": "EJAE remembers K-Pop industry rejecting her for a decade as 'Golden' wins Best Song at Golden Globes: ‘Never Give Up’",
+      "url": "https://www.nme.com/news/music/ejae-remembers-k-pop-industry-rejecting-her-for-a-decade-as-golden-wins-best-song-at-golden-globes-never-give-up-3922634?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ejae-remembers-k-pop-industry-rejecting-her-for-a-decade-as-golden-wins-best-song-at-golden-globes-never-give-up",
+      "timestamp": "11:54",
+      "pubDate": "2026-01-12T11:54:02.000Z"
+    },
+    {
+      "title": "IKEA quietly released a budget-friendly microwave with this one premium feature",
+      "url": "https://www.tomsguide.com/home/kitchen-dining/ikea-quietly-released-a-budget-friendly-microwave-with-this-one-premium-feature",
+      "timestamp": "11:52",
+      "pubDate": "2026-01-12T11:52:20.000Z"
+    },
+    {
+      "title": "I can't stop listening to these $700 earbuds — but I'll never take them out of the house",
+      "url": "https://www.tomsguide.com/audio/earbuds/i-cant-stop-listening-to-these-usd700-earbuds-but-ill-never-take-them-out-of-the-house",
+      "timestamp": "11:41",
+      "pubDate": "2026-01-12T11:41:16.000Z"
+    },
+    {
+      "title": "Asus ROG Zephyrus G14 with Intel Panther Lake (and no Nvidia GPU) was real and we saw it — here's what happened",
+      "url": "https://www.tomsguide.com/computing/gaming-laptops/asus-rog-zephyrus-g14-with-intel-panther-lake-and-no-nvidia-gpu-was-real-and-we-saw-it-heres-what-happened",
+      "timestamp": "11:35",
+      "pubDate": "2026-01-12T11:35:45.000Z"
+    },
+    {
+      "title": "Bitcoin traders are bracing for a Fed \"credibility shock\" that hinges on one critical date this month",
+      "url": "https://cryptoslate.com/bitcoin-traders-are-bracing-for-a-fed-credibility-shock-that-hinges-on-one-critical-date-this-month/",
+      "timestamp": "11:35",
+      "pubDate": "2026-01-12T11:35:44.000Z"
+    },
+    {
+      "title": "10 Best Pet Cameras (2026), Tested With Our Pets",
+      "url": "https://www.wired.com/gallery/best-pet-cameras/",
+      "timestamp": "11:34",
+      "pubDate": "2026-01-12T11:34:00.000Z"
+    },
+    {
+      "title": "Golden Globes 2026: Nikki Glaser pays subtle tribute to Rob Reiner",
+      "url": "https://faroutmagazine.co.uk/golden-globes-2026-nikki-glaser-subtle-tribute-rob-reiner/",
+      "timestamp": "11:33",
+      "pubDate": "2026-01-12T11:33:04.000Z"
+    },
+    {
+      "title": "Is Marty Supreme the inner voice of Timothée Chalamet's ambition?",
+      "url": "https://faroutmagazine.co.uk/marty-supreme-inner-voice-timothee-chalamet-ambition/",
+      "timestamp": "11:30",
+      "pubDate": "2026-01-12T11:30:00.000Z"
+    },
+    {
       "title": "I've been testing the Viture Beast AR glasses for weeks — here's why I can't review them yet",
       "url": "https://www.tomsguide.com/computing/smart-glasses/ive-been-testing-the-viture-beast-ar-glasses-for-weeks-heres-why-i-cant-review-them-yet",
       "timestamp": "11:22",
@@ -127,6 +289,18 @@
       "url": "https://deadline.com/2026/01/streamer-spend-landmark-figure-2026-ampere-analysis-1236680312/",
       "timestamp": "11:17",
       "pubDate": "2026-01-12T11:17:36.000Z"
+    },
+    {
+      "title": "10 Breakthrough Technologies 2026",
+      "url": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/",
+      "timestamp": "11:15",
+      "pubDate": "2026-01-12T11:15:00.000Z"
+    },
+    {
+      "title": "Why some “breakthrough” technologies don’t work out",
+      "url": "https://www.technologyreview.com/2026/01/12/1130726/opinion-breakthrough-technology-failures-flops/",
+      "timestamp": "11:15",
+      "pubDate": "2026-01-12T11:15:00.000Z"
     },
     {
       "title": "Deeperfect releases Artist Series FLOWFAT sample pack",
@@ -169,217 +343,43 @@
       "url": "https://www.tomsguide.com/wellness/fitness/bye-bye-treadmill-ive-been-walking-at-different-times-of-the-day-to-boost-mood-sleep-and-metabolism-the-result-has-been-incredible",
       "timestamp": "11:00",
       "pubDate": "2026-01-12T11:00:00.000Z"
-    },
-    {
-      "title": "Good technology should change the world",
-      "url": "https://www.technologyreview.com/2026/01/12/1129770/editors-letter-january-2026/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-12T11:00:00.000Z"
-    },
-    {
-      "title": "Meet the new biologists treating LLMs like aliens",
-      "url": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-12T11:00:00.000Z"
-    },
-    {
-      "title": "How next-generation nuclear reactors break out of the 20th-century blueprint",
-      "url": "https://www.technologyreview.com/2026/01/12/1129797/next-generation-nuclear-reactors-power-energy/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-12T11:00:00.000Z"
-    },
-    {
-      "title": "Hyperscale AI data centers: 10 Breakthrough Technologies 2026",
-      "url": "https://www.technologyreview.com/2026/01/12/1129982/hyperscale-ai-data-centers-energy-usage-2026-breakthrough-technology/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-12T11:00:00.000Z"
-    },
-    {
-      "title": "Sodium-ion batteries: 10 Breakthrough Technologies 2026",
-      "url": "https://www.technologyreview.com/2026/01/12/1129991/sodium-ion-batteries-2026-breakthrough-technology/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-12T11:00:00.000Z"
-    },
-    {
-      "title": "Mechanistic interpretability: 10 Breakthrough Technologies 2026",
-      "url": "https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-12T11:00:00.000Z"
-    },
-    {
-      "title": "Next-gen nuclear: 10 Breakthrough Technologies 2026",
-      "url": "https://www.technologyreview.com/2026/01/12/1130006/next-gen-nuclear-reactors-power-energy-2026-breakthrough-technology/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-12T11:00:00.000Z"
-    },
-    {
-      "title": "Embryo scoring: 10 Breakthrough Technologies 2026",
-      "url": "https://www.technologyreview.com/2026/01/12/1130011/embryo-scoring-genetic-testing-2026-breakthrough-technology/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-12T11:00:00.000Z"
-    },
-    {
-      "title": "AI companions: 10 Breakthrough Technologies 2026",
-      "url": "https://www.technologyreview.com/2026/01/12/1130018/ai-companions-chatbots-relationships-2026-breakthrough-technology/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-12T11:00:00.000Z"
-    },
-    {
-      "title": "Golden Globes 2026: Owen Cooper makes history with victory at ceremony",
-      "url": "https://faroutmagazine.co.uk/golden-globes-2026-owen-cooper-history-victory/",
-      "timestamp": "10:31",
-      "pubDate": "2026-01-12T10:31:15.000Z"
-    },
-    {
-      "title": "Is Bitcoin Too Public to Become Central‑Bank Money?",
-      "url": "https://news.bitcoin.com/is-bitcoin-too-public-to-become-central%e2%80%91bank-money/",
-      "timestamp": "10:30",
-      "pubDate": "2026-01-12T10:30:31.000Z"
-    },
-    {
-      "title": "The movie that changed Jenna Ortega's life: \"What is this world?\"",
-      "url": "https://faroutmagazine.co.uk/the-movie-that-changed-jenna-ortegas-life/",
-      "timestamp": "10:30",
-      "pubDate": "2026-01-12T10:30:00.000Z"
-    },
-    {
-      "title": "I just rewatched this fantasy movie from my childhood on Disney+ — and it's still a heartbreaking watch",
-      "url": "https://www.tomsguide.com/entertainment/disney-plus/i-just-rewatched-this-fantasy-movie-from-my-childhood-on-disney-and-its-still-a-heartbreaking-watch",
-      "timestamp": "10:30",
-      "pubDate": "2026-01-12T10:30:00.000Z"
-    },
-    {
-      "title": "'Conclave' Producer Juliette Howell Named CEO of BBC Studios' 'Happy Valley' Maker Lookout Point",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/conclave-producer-juliette-howell-named-ceo-lookout-point-1236470823/",
-      "timestamp": "10:17",
-      "pubDate": "2026-01-12T10:17:16.000Z"
-    },
-    {
-      "title": "Triumph Audio releases Kev's Drum Kit (Kontakt & Wav sample pack)",
-      "url": "https://rekkerd.org/triumph-audio-releases-kevs-drum-kit-kontakt-wav-sample-pack/",
-      "timestamp": "10:11",
-      "pubDate": "2026-01-12T10:11:57.000Z"
-    },
-    {
-      "title": "‘Baldur’s Gate 3’ isn’t coming to Nintendo Switch 2",
-      "url": "https://www.nme.com/news/gaming-news/baldurs-gate-3-nintendo-switch-2-release-port-3922593?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=baldurs-gate-3-nintendo-switch-2-release-port",
-      "timestamp": "10:11",
-      "pubDate": "2026-01-12T10:11:31.000Z"
-    },
-    {
-      "title": "Hans Zimmer criticises Golden Globes for not airing Original Score category: ‘Don’t ignore them, you don’t have a movie without them’",
-      "url": "https://www.nme.com/news/film/hans-zimmer-criticises-golden-globes-for-not-airing-original-score-category-dont-ignore-them-you-dont-have-a-movie-without-them-3922587?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hans-zimmer-criticises-golden-globes-for-not-airing-original-score-category-dont-ignore-them-you-dont-have-a-movie-without-them",
-      "timestamp": "10:09",
-      "pubDate": "2026-01-12T10:09:36.000Z"
-    },
-    {
-      "title": "The best laptop power banks for 2026",
-      "url": "https://www.engadget.com/computing/accessories/best-laptop-power-bank-120040388.html?src=rss",
-      "timestamp": "10:01",
-      "pubDate": "2026-01-12T10:01:26.000Z"
-    },
-    {
-      "title": "'Sherwood' & 'Conclave' Producer Juliette Howell Exiting House Productions After A Decade To Head Up Lookout Point",
-      "url": "https://deadline.com/2026/01/juliette-howell-exits-house-productions-lookout-point-ceo-1236680308/",
-      "timestamp": "10:01",
-      "pubDate": "2026-01-12T10:01:10.000Z"
-    },
-    {
-      "title": "Destin Conrad: Tiny Desk Concert",
-      "url": "https://www.npr.org/2026/01/12/g-s1-104909/destin-conrad-tiny-desk-concert",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-12T10:00:00.000Z"
-    },
-    {
-      "title": "The one song that always makes Phil Collins weep: \"Just the best\"",
-      "url": "https://faroutmagazine.co.uk/song-that-always-makes-phil-collins-weep/",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-12T10:00:00.000Z"
-    },
-    {
-      "title": "Does the Oneisall Air Purifier actually work on pet hair? I tried it with my shedding dog",
-      "url": "https://www.tomsguide.com/home/air-purifiers/oneisall-pet-air-purifier-review",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-12T10:00:00.000Z"
-    },
-    {
-      "title": "The maker of Pebble thinks way beyond than watches",
-      "url": "https://www.fastcompany.com/91472461/pebble-watch-gadget-ces?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-12T10:00:00.000Z"
-    },
-    {
-      "title": "The rock singer Steven Tyler thinks is out of everybody's league: \"They were the best\"",
-      "url": "https://faroutmagazine.co.uk/singer-steven-tyler-thinks-is-out-of-everybodys-league/",
-      "timestamp": "09:50",
-      "pubDate": "2026-01-12T09:50:12.000Z"
-    },
-    {
-      "title": "Golden Globes 2026: Stephen Graham confirms 'Adolescence' series two following victory",
-      "url": "https://faroutmagazine.co.uk/golden-globes-2026-stephen-graham-confirms-adolescence-series-two/",
-      "timestamp": "09:49",
-      "pubDate": "2026-01-12T09:49:26.000Z"
-    },
-    {
-      "title": "Timothée Chalamet says previous losses make Golden Globe win for ‘Marty Supreme’ \"that much sweeter\"",
-      "url": "https://www.nme.com/news/film/timothee-chalamet-says-previous-losses-make-golden-globe-win-for-marty-supreme-that-much-sweeter-3922557?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=timothee-chalamet-says-previous-losses-make-golden-globe-win-for-marty-supreme-that-much-sweeter",
-      "timestamp": "09:41",
-      "pubDate": "2026-01-12T09:41:23.000Z"
-    },
-    {
-      "title": "TRM Reports Record $158 Billion Illicit Crypto Flows in 2025",
-      "url": "https://news.bitcoin.com/trm-reports-record-158-billion-illicit-crypto-flows-in-2025/",
-      "timestamp": "09:30",
-      "pubDate": "2026-01-12T09:30:35.000Z"
-    },
-    {
-      "title": "Cardinals immerse us in ‘Cigarette smoke in a Brooklyn dive bar, 1984’ in exclusive playlist to accompany The Cover",
-      "url": "https://www.nme.com/news/music/cardinals-the-cover-playlist-3922524?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cardinals-the-cover-playlist",
-      "timestamp": "09:30",
-      "pubDate": "2026-01-12T09:30:22.000Z"
-    },
-    {
-      "title": "How to connect AirPods to Apple TV",
-      "url": "https://www.tomsguide.com/audio/airpods/how-to-connect-airpods-to-apple-tv",
-      "timestamp": "09:30",
-      "pubDate": "2026-01-12T09:30:00.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "Far Out 40: Inspiring indie songs more effective than New Year's resolutions",
-      "url": "https://faroutmagazine.co.uk/far-out-40-inspiring-indie-songs-more-effective-than-new-years-resolutions/",
-      "timestamp": "11:00"
+      "title": "Rose Byrne’s partner Bobby Cannavale missed first Golden Globes win of her career to buy exotic lizard",
+      "url": "https://www.nme.com/news/film/rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard-3922648?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard",
+      "timestamp": "12:53"
     },
     {
-      "title": "Golden Globes 2026: Owen Cooper makes history with victory at ceremony",
-      "url": "https://faroutmagazine.co.uk/golden-globes-2026-owen-cooper-history-victory/",
-      "timestamp": "10:31"
+      "title": "Golden Globes 2026: Hans Zimmer slams decision to cut 'Best Original Score' from live broadcast",
+      "url": "https://faroutmagazine.co.uk/golden-globes-2026-hans-zimmer-slams-cut-best-original-score-broadcast/",
+      "timestamp": "12:44"
     },
     {
-      "title": "‘Baldur’s Gate 3’ isn’t coming to Nintendo Switch 2",
-      "url": "https://www.nme.com/news/gaming-news/baldurs-gate-3-nintendo-switch-2-release-port-3922593?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=baldurs-gate-3-nintendo-switch-2-release-port",
-      "timestamp": "10:11"
+      "title": "Golden Globes 2026: Jean Smart claims US is \"at a turning point\" that she finds \"very concerning\"",
+      "url": "https://faroutmagazine.co.uk/golden-globes-2026-jean-smart-us-turning-point-very-concerning/",
+      "timestamp": "12:41"
+    },
+    {
+      "title": "Watch Sombr's tender cover of Phoebe Bridgers' 'Motion Sickness'",
+      "url": "https://www.nme.com/news/music/watch-sombrs-tender-cover-of-phoebe-bridgers-motion-sickness-3922610?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=watch-sombrs-tender-cover-of-phoebe-bridgers-motion-sickness",
+      "timestamp": "12:12"
+    },
+    {
+      "title": "George Clooney calls Quentin Tarantino \"cruel\", defends Paul Dano and Owen Wilson",
+      "url": "https://www.nme.com/news/film/george-clooney-calls-quentin-tarantino-cruel-defends-paul-dano-and-owen-wilson-3922626?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=george-clooney-calls-quentin-tarantino-cruel-defends-paul-dano-and-owen-wilson",
+      "timestamp": "12:01"
+    },
+    {
+      "title": "The album that changed Dave Gahan's life: \"It made me feel like I belonged to something\"",
+      "url": "https://faroutmagazine.co.uk/album-changed-dave-gahan-life-2/",
+      "timestamp": "12:00"
     },
     {
       "title": "Destin Conrad: Tiny Desk Concert",
       "url": "https://www.npr.org/2026/01/12/g-s1-104909/destin-conrad-tiny-desk-concert",
       "timestamp": "10:00"
-    },
-    {
-      "title": "The one song that always makes Phil Collins weep: \"Just the best\"",
-      "url": "https://faroutmagazine.co.uk/song-that-always-makes-phil-collins-weep/",
-      "timestamp": "10:00"
-    },
-    {
-      "title": "Timothée Chalamet says previous losses make Golden Globe win for ‘Marty Supreme’ \"that much sweeter\"",
-      "url": "https://www.nme.com/news/film/timothee-chalamet-says-previous-losses-make-golden-globe-win-for-marty-supreme-that-much-sweeter-3922557?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=timothee-chalamet-says-previous-losses-make-golden-globe-win-for-marty-supreme-that-much-sweeter",
-      "timestamp": "09:41"
-    },
-    {
-      "title": "Cardinals immerse us in ‘Cigarette smoke in a Brooklyn dive bar, 1984’ in exclusive playlist to accompany The Cover",
-      "url": "https://www.nme.com/news/music/cardinals-the-cover-playlist-3922524?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cardinals-the-cover-playlist",
-      "timestamp": "09:30"
     },
     {
       "title": "ICMP Appoints Execs to APAC Regional, Industry Metrics Expert&#160;Groups",
@@ -447,5 +447,5 @@
       "timestamp": "22:01"
     }
   ],
-  "lastUpdated": "2026-01-12T11:24:25.091Z"
+  "lastUpdated": "2026-01-12T12:55:30.970Z"
 }
