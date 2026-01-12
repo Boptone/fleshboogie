@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-12T02:05:11.588Z",
+  "curatedAt": "2026-01-12T04:12:44.340Z",
   "totalAnalyzed": 66,
   "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "JEAN SMART IMPLORES “LET’S ALL DO THE RIGHT THING” AFTER GOLDEN GLOBES WIN",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-golden-globes-best-tv-comedy-actress-jean-smart-hacks-1236470101/",
-      "timestamp": "2026-01-12T02:05:08.572Z",
+      "title": "'THE PITT' WINS BEST TV DRAMA AT 2026 GOLDEN GLOBES, THANK THE 'REAL HEROES' HEALTHCARE WORKERS",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-pitt-noah-wyle-golden-globe-best-television-drama-1235497183/",
+      "timestamp": "2026-01-12T04:12:41.368Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6400000000000001
       }
     },
     "deepDive": [
@@ -29,24 +29,50 @@
           "discovery": 0.3,
           "composite": 0.545
         }
+      },
+      {
+        "title": "Chet Faker Expands ‘A Love for Strangers’ Tour With New Australia&#160;Dates",
+        "url": "https://www.billboard.com/music/concerts/chet-faker-australian-headline-shows-love-for-strangers-world-tour-1236153009/",
+        "timestamp": "03:57",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.505
+        }
       }
     ],
     "discovery": [
       {
-        "title": "'Abbott Elementary's Chris Perfetti Teases Character's Backstory: \"We Get To Meet Some Of The People That Make Jacob The Way He Is\"",
-        "url": "https://deadline.com/2026/01/abbott-elementary-chris-perfetti-jacob-backstory-1236679133/",
-        "timestamp": "23:13",
-        "source": "automated",
+        "title": "Meet ØWay, the Atlanta rap collective behind 2026’s first viral cypher",
+        "url": "https://www.thefader.com/2026/01/09/oway-cypher-2026-tezzus-pz-young-thug",
+        "timestamp": "20:45",
+        "source": "musicReleases",
         "scores": {
-          "impact": 0.4,
-          "engagement": 0.5,
+          "impact": 0.5,
+          "engagement": 0.75,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.4000000000000001
+          "composite": 0.515
         }
       }
     ],
     "conversation": [
+      {
+        "title": "'THE PITT' WINS BEST TV DRAMA AT 2026 GOLDEN GLOBES, THANK THE 'REAL HEROES' HEALTHCARE WORKERS",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-pitt-noah-wyle-golden-globe-best-television-drama-1235497183/",
+        "timestamp": "2026-01-12T04:12:41.368Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.7,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.6400000000000001
+        }
+      },
       {
         "title": "TEED releases his new album 'Always With Me'",
         "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
@@ -59,49 +85,36 @@
           "discovery": 0.3,
           "composite": 0.545
         }
-      },
-      {
-        "title": "What was the worst number one from 1981?",
-        "url": "https://faroutmagazine.co.uk/worst-number-one-1981/",
-        "timestamp": "00:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.8999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.54
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "JEAN SMART IMPLORES “LET’S ALL DO THE RIGHT THING” AFTER GOLDEN GLOBES WIN",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-golden-globes-best-tv-comedy-actress-jean-smart-hacks-1236470101/",
-        "timestamp": "2026-01-12T02:05:08.572Z",
+        "title": "'THE PITT' WINS BEST TV DRAMA AT 2026 GOLDEN GLOBES, THANK THE 'REAL HEROES' HEALTHCARE WORKERS",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-pitt-noah-wyle-golden-globe-best-television-drama-1235497183/",
+        "timestamp": "2026-01-12T04:12:41.368Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.6400000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "JEAN SMART IMPLORES “LET’S ALL DO THE RIGHT THING” AFTER GOLDEN GLOBES WIN",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-golden-globes-best-tv-comedy-actress-jean-smart-hacks-1236470101/",
-      "timestamp": "2026-01-12T02:05:08.572Z",
+      "title": "'THE PITT' WINS BEST TV DRAMA AT 2026 GOLDEN GLOBES, THANK THE 'REAL HEROES' HEALTHCARE WORKERS",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-pitt-noah-wyle-golden-globe-best-television-drama-1235497183/",
+      "timestamp": "2026-01-12T04:12:41.368Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6400000000000001
       }
     },
     {
@@ -118,29 +131,29 @@
       }
     },
     {
-      "title": "'Abbott Elementary's Chris Perfetti Teases Character's Backstory: \"We Get To Meet Some Of The People That Make Jacob The Way He Is\"",
-      "url": "https://deadline.com/2026/01/abbott-elementary-chris-perfetti-jacob-backstory-1236679133/",
-      "timestamp": "23:13",
+      "title": "Chet Faker Expands ‘A Love for Strangers’ Tour With New Australia&#160;Dates",
+      "url": "https://www.billboard.com/music/concerts/chet-faker-australian-headline-shows-love-for-strangers-world-tour-1236153009/",
+      "timestamp": "03:57",
       "source": "automated",
       "scores": {
-        "impact": 0.4,
-        "engagement": 0.5,
+        "impact": 0.6,
+        "engagement": 0.65,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.4000000000000001
+        "discovery": 0.3,
+        "composite": 0.505
       }
     },
     {
-      "title": "What was the worst number one from 1981?",
-      "url": "https://faroutmagazine.co.uk/worst-number-one-1981/",
-      "timestamp": "00:00",
-      "source": "automated",
+      "title": "Meet ØWay, the Atlanta rap collective behind 2026’s first viral cypher",
+      "url": "https://www.thefader.com/2026/01/09/oway-cypher-2026-tezzus-pz-young-thug",
+      "timestamp": "20:45",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.8999999999999999,
+        "engagement": 0.75,
         "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.54
+        "discovery": 0.5,
+        "composite": 0.515
       }
     }
   ],
