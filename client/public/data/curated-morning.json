@@ -1,33 +1,33 @@
 {
-  "curatedAt": "2026-01-12T10:29:58.744Z",
+  "curatedAt": "2026-01-12T11:24:28.080Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "'CONCLAVE' PRODUCER JULIETTE HOWELL NAMED CEO OF BBC STUDIOS' 'HAPPY VALLEY' MAKER LOOKOUT POINT",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/conclave-producer-juliette-howell-named-ceo-lookout-point-1236470823/",
-      "timestamp": "2026-01-12T10:29:55.770Z",
+      "title": "I'VE BEEN TESTING THE VITURE BEAST AR GLASSES FOR WEEKS — HERE'S WHY I CAN'T REVIEW THEM YET",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/ive-been-testing-the-viture-beast-ar-glasses-for-weeks-heres-why-i-cant-review-them-yet",
+      "timestamp": "2026-01-12T11:24:25.091Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
+        "impact": 0.55,
         "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.6300000000000001
       }
     },
     "deepDive": [
       {
-        "title": "Netflix new releases — 7 shows and movies you need to stream this week (Jan. 12-18)",
-        "url": "https://www.tomsguide.com/entertainment/netflix/new-netflix-shows-and-movies-january-12-18-2026",
-        "timestamp": "07:00",
-        "source": "automated",
+        "title": "I'VE BEEN TESTING THE VITURE BEAST AR GLASSES FOR WEEKS — HERE'S WHY I CAN'T REVIEW THEM YET",
+        "url": "https://www.tomsguide.com/computing/smart-glasses/ive-been-testing-the-viture-beast-ar-glasses-for-weeks-heres-why-i-cant-review-them-yet",
+        "timestamp": "2026-01-12T11:24:25.091Z",
+        "source": "splash",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
+          "impact": 0.55,
+          "engagement": 0.6,
+          "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.55
+          "composite": 0.6300000000000001
         }
       },
       {
@@ -44,48 +44,35 @@
         }
       },
       {
-        "title": "How grief fueled The Flaming Lips’ breakthrough album, ‘The Soft Bulletin’: “There’s a big void”",
-        "url": "https://faroutmagazine.co.uk/how-grief-fueled-the-flaming-lips-soft-bulletin/",
-        "timestamp": "09:00",
-        "source": "automated",
+        "title": "K-Pop Group ITZY Set 2026 Australia and New Zealand Arena&#160;Tour",
+        "url": "https://www.billboard.com/music/concerts/itzy-australia-new-ealand-tour-1236153075/",
+        "timestamp": "05:27",
+        "source": "musicReleases",
         "scores": {
-          "impact": 0.7,
-          "engagement": 0.6,
+          "impact": 0.6,
+          "engagement": 0.65,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.53
+          "composite": 0.505
         }
       }
     ],
     "discovery": [
       {
-        "title": "I discovered this color-coded kitchen towel organization system on TikTok and it's genius",
-        "url": "https://www.tomsguide.com/home/i-discovered-this-color-coded-kitchen-towel-organization-system-on-tiktok-and-its-genius",
-        "timestamp": "07:15",
+        "title": "Meet the new biologists treating LLMs like aliens",
+        "url": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
+        "timestamp": "11:00",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.55,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.44
+          "composite": 0.455
         }
       }
     ],
     "conversation": [
-      {
-        "title": "Netflix new releases — 7 shows and movies you need to stream this week (Jan. 12-18)",
-        "url": "https://www.tomsguide.com/entertainment/netflix/new-netflix-shows-and-movies-january-12-18-2026",
-        "timestamp": "07:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.55
-        }
-      },
       {
         "title": "TEED releases his new album 'Always With Me'",
         "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
@@ -98,49 +85,49 @@
           "discovery": 0.3,
           "composite": 0.545
         }
+      },
+      {
+        "title": "K-Pop Group ITZY Set 2026 Australia and New Zealand Arena&#160;Tour",
+        "url": "https://www.billboard.com/music/concerts/itzy-australia-new-ealand-tour-1236153075/",
+        "timestamp": "05:27",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.505
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "'CONCLAVE' PRODUCER JULIETTE HOWELL NAMED CEO OF BBC STUDIOS' 'HAPPY VALLEY' MAKER LOOKOUT POINT",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/conclave-producer-juliette-howell-named-ceo-lookout-point-1236470823/",
-        "timestamp": "2026-01-12T10:29:55.770Z",
+        "title": "I'VE BEEN TESTING THE VITURE BEAST AR GLASSES FOR WEEKS — HERE'S WHY I CAN'T REVIEW THEM YET",
+        "url": "https://www.tomsguide.com/computing/smart-glasses/ive-been-testing-the-viture-beast-ar-glasses-for-weeks-heres-why-i-cant-review-them-yet",
+        "timestamp": "2026-01-12T11:24:25.091Z",
         "source": "splash",
         "scores": {
-          "impact": 0.5,
+          "impact": 0.55,
           "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.6300000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "'CONCLAVE' PRODUCER JULIETTE HOWELL NAMED CEO OF BBC STUDIOS' 'HAPPY VALLEY' MAKER LOOKOUT POINT",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/conclave-producer-juliette-howell-named-ceo-lookout-point-1236470823/",
-      "timestamp": "2026-01-12T10:29:55.770Z",
+      "title": "I'VE BEEN TESTING THE VITURE BEAST AR GLASSES FOR WEEKS — HERE'S WHY I CAN'T REVIEW THEM YET",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/ive-been-testing-the-viture-beast-ar-glasses-for-weeks-heres-why-i-cant-review-them-yet",
+      "timestamp": "2026-01-12T11:24:25.091Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
+        "impact": 0.55,
         "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
-      }
-    },
-    {
-      "title": "Netflix new releases — 7 shows and movies you need to stream this week (Jan. 12-18)",
-      "url": "https://www.tomsguide.com/entertainment/netflix/new-netflix-shows-and-movies-january-12-18-2026",
-      "timestamp": "07:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.7999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.55
+        "composite": 0.6300000000000001
       }
     },
     {
@@ -157,29 +144,29 @@
       }
     },
     {
-      "title": "How grief fueled The Flaming Lips’ breakthrough album, ‘The Soft Bulletin’: “There’s a big void”",
-      "url": "https://faroutmagazine.co.uk/how-grief-fueled-the-flaming-lips-soft-bulletin/",
-      "timestamp": "09:00",
-      "source": "automated",
+      "title": "K-Pop Group ITZY Set 2026 Australia and New Zealand Arena&#160;Tour",
+      "url": "https://www.billboard.com/music/concerts/itzy-australia-new-ealand-tour-1236153075/",
+      "timestamp": "05:27",
+      "source": "musicReleases",
       "scores": {
-        "impact": 0.7,
-        "engagement": 0.6,
+        "impact": 0.6,
+        "engagement": 0.65,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.53
+        "composite": 0.505
       }
     },
     {
-      "title": "I discovered this color-coded kitchen towel organization system on TikTok and it's genius",
-      "url": "https://www.tomsguide.com/home/i-discovered-this-color-coded-kitchen-towel-organization-system-on-tiktok-and-its-genius",
-      "timestamp": "07:15",
+      "title": "Meet the new biologists treating LLMs like aliens",
+      "url": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
+      "timestamp": "11:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.55,
         "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.44
+        "composite": 0.455
       }
     }
   ],
