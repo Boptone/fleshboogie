@@ -1,64 +1,91 @@
 {
-  "curatedAt": "2026-01-12T17:27:24.327Z",
+  "curatedAt": "2026-01-12T18:38:31.829Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "CATE BLANCHETT, COCO FRANCINI, DR. STACY L. SMITH & USC ANNENBERG INCLUSION INITIATIVE SET SECOND CYCLE OF PROOF OF CONCEPT ACCELERATOR",
-      "url": "https://deadline.com/2026/01/proof-of-concept-accelerator-sets-second-cycle-1236680779/",
-      "timestamp": "2026-01-12T17:27:21.376Z",
+      "title": "HOW NURSE JOHN WENT FROM FRONTLINE NURSE TO GLOBAL COMEDY HEADLINER IN FIVE YEARS — COMEDY MEANS BUSINESS PODCAST",
+      "url": "https://deadline.com/2026/01/nurse-john-logan-watkins-comedy-means-business-podcast-interview-1236680834/",
+      "timestamp": "2026-01-12T18:38:28.875Z",
       "source": "splash",
       "scores": {
-        "impact": 0.4,
-        "engagement": 0.5,
+        "impact": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.54
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
       {
-        "title": "Black Label Society's New Album to Feature Ozzy Osbourne Tribute",
-        "url": "https://ultimateclassicrock.com/black-label-society-engines-of-demolition/",
-        "timestamp": "15:21",
-        "source": "musicReleases",
+        "title": "A$AP Rocky Releases 'Don't Be Dumb' Single 'Helicopter$' Ahead of Album's Arrival:&#160;Listen",
+        "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-new-song-helicopters-espn-college-football-ad-1236153126/",
+        "timestamp": "17:47",
+        "source": "automated",
         "scores": {
-          "impact": 0.65,
+          "impact": 0.7,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.545
+        }
+      },
+      {
+        "title": "Zach Bryan releases acoustic version of new album, 'With Heaven On Top'",
+        "url": "https://faroutmagazine.co.uk/zach-bryan-releases-acoustic-version-new-album-with-heaven-on-top/",
+        "timestamp": "17:35",
+        "source": "automated",
+        "scores": {
+          "impact": 0.7,
           "engagement": 0.55,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.4950000000000001
+          "composite": 0.515
         }
       },
       {
-        "title": "30 Major Rock Albums Turning 30 in 2026",
-        "url": "https://ultimateclassicrock.com/1996-albums/",
-        "timestamp": "16:53",
-        "source": "automated",
+        "title": "Figure Skater Alysa Liu Debuts Mind-Boggling Lady Gaga Routine Just Weeks Before Winter&#160;Olympics",
+        "url": "https://www.billboard.com/music/music-news/alysa-liu-debuts-lady-gaga-skating-routine-before-olympics-1236153263/",
+        "timestamp": "18:26",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
           "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
-        }
-      },
-      {
-        "title": "Introducing: Duetti and Billboard's Music Finance&#160;Index",
-        "url": "https://www.billboard.com/pro/introducing-duetti-billboard-music-finance-index/",
-        "timestamp": "16:02",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
+          "discovery": 0.5,
+          "composite": 0.51
         }
       }
     ],
-    "discovery": [],
+    "discovery": [
+      {
+        "title": "Figure Skater Alysa Liu Debuts Mind-Boggling Lady Gaga Routine Just Weeks Before Winter&#160;Olympics",
+        "url": "https://www.billboard.com/music/music-news/alysa-liu-debuts-lady-gaga-skating-routine-before-olympics-1236153263/",
+        "timestamp": "18:26",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.51
+        }
+      }
+    ],
     "conversation": [
+      {
+        "title": "A$AP Rocky Releases 'Don't Be Dumb' Single 'Helicopter$' Ahead of Album's Arrival:&#160;Listen",
+        "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-new-song-helicopters-espn-college-football-ad-1236153126/",
+        "timestamp": "17:47",
+        "source": "automated",
+        "scores": {
+          "impact": 0.7,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.545
+        }
+      },
       {
         "title": "Here's what Foo Fighters played at their first show of 2026, while paying tribute to absent Pat Smear",
         "url": "https://www.nme.com/news/music/foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage-3922680?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage",
@@ -71,88 +98,75 @@
           "discovery": 0.3,
           "composite": 0.525
         }
-      },
-      {
-        "title": "How one word from Alfred Hitchcock sparked a 40-year mystery: \"I hadn’t a clue what he meant\"",
-        "url": "https://faroutmagazine.co.uk/how-one-word-from-alfred-hitchcock-sparked-a-40-year-mystery/",
-        "timestamp": "17:15",
-        "source": "mainColumn",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.51
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "CATE BLANCHETT, COCO FRANCINI, DR. STACY L. SMITH & USC ANNENBERG INCLUSION INITIATIVE SET SECOND CYCLE OF PROOF OF CONCEPT ACCELERATOR",
-        "url": "https://deadline.com/2026/01/proof-of-concept-accelerator-sets-second-cycle-1236680779/",
-        "timestamp": "2026-01-12T17:27:21.376Z",
+        "title": "HOW NURSE JOHN WENT FROM FRONTLINE NURSE TO GLOBAL COMEDY HEADLINER IN FIVE YEARS — COMEDY MEANS BUSINESS PODCAST",
+        "url": "https://deadline.com/2026/01/nurse-john-logan-watkins-comedy-means-business-podcast-interview-1236680834/",
+        "timestamp": "2026-01-12T18:38:28.875Z",
         "source": "splash",
         "scores": {
-          "impact": 0.4,
-          "engagement": 0.5,
+          "impact": 0.5,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.54
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "CATE BLANCHETT, COCO FRANCINI, DR. STACY L. SMITH & USC ANNENBERG INCLUSION INITIATIVE SET SECOND CYCLE OF PROOF OF CONCEPT ACCELERATOR",
-      "url": "https://deadline.com/2026/01/proof-of-concept-accelerator-sets-second-cycle-1236680779/",
-      "timestamp": "2026-01-12T17:27:21.376Z",
+      "title": "HOW NURSE JOHN WENT FROM FRONTLINE NURSE TO GLOBAL COMEDY HEADLINER IN FIVE YEARS — COMEDY MEANS BUSINESS PODCAST",
+      "url": "https://deadline.com/2026/01/nurse-john-logan-watkins-comedy-means-business-podcast-interview-1236680834/",
+      "timestamp": "2026-01-12T18:38:28.875Z",
       "source": "splash",
       "scores": {
-        "impact": 0.4,
-        "engagement": 0.5,
+        "impact": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.54
+        "composite": 0.6100000000000001
       }
     },
     {
-      "title": "Black Label Society's New Album to Feature Ozzy Osbourne Tribute",
-      "url": "https://ultimateclassicrock.com/black-label-society-engines-of-demolition/",
-      "timestamp": "15:21",
-      "source": "musicReleases",
+      "title": "A$AP Rocky Releases 'Don't Be Dumb' Single 'Helicopter$' Ahead of Album's Arrival:&#160;Listen",
+      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-new-song-helicopters-espn-college-football-ad-1236153126/",
+      "timestamp": "17:47",
+      "source": "automated",
       "scores": {
-        "impact": 0.65,
+        "impact": 0.7,
+        "engagement": 0.65,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.545
+      }
+    },
+    {
+      "title": "Zach Bryan releases acoustic version of new album, 'With Heaven On Top'",
+      "url": "https://faroutmagazine.co.uk/zach-bryan-releases-acoustic-version-new-album-with-heaven-on-top/",
+      "timestamp": "17:35",
+      "source": "automated",
+      "scores": {
+        "impact": 0.7,
         "engagement": 0.55,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.4950000000000001
+        "composite": 0.515
       }
     },
     {
-      "title": "30 Major Rock Albums Turning 30 in 2026",
-      "url": "https://ultimateclassicrock.com/1996-albums/",
-      "timestamp": "16:53",
-      "source": "automated",
+      "title": "Figure Skater Alysa Liu Debuts Mind-Boggling Lady Gaga Routine Just Weeks Before Winter&#160;Olympics",
+      "url": "https://www.billboard.com/music/music-news/alysa-liu-debuts-lady-gaga-skating-routine-before-olympics-1236153263/",
+      "timestamp": "18:26",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
         "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "Introducing: Duetti and Billboard's Music Finance&#160;Index",
-      "url": "https://www.billboard.com/pro/introducing-duetti-billboard-music-finance-index/",
-      "timestamp": "16:02",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
+        "discovery": 0.5,
+        "composite": 0.51
       }
     },
     {
@@ -166,19 +180,6 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.525
-      }
-    },
-    {
-      "title": "How one word from Alfred Hitchcock sparked a 40-year mystery: \"I hadn’t a clue what he meant\"",
-      "url": "https://faroutmagazine.co.uk/how-one-word-from-alfred-hitchcock-sparked-a-40-year-mystery/",
-      "timestamp": "17:15",
-      "source": "mainColumn",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.7999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.51
       }
     }
   ],
