@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-12T09:37:13.551Z",
+  "curatedAt": "2026-01-12T10:29:58.744Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "TRM REPORTS RECORD $158 BILLION ILLICIT CRYPTO FLOWS IN 2025",
-      "url": "https://news.bitcoin.com/trm-reports-record-158-billion-illicit-crypto-flows-in-2025/",
-      "timestamp": "2026-01-12T09:37:10.539Z",
+      "title": "'CONCLAVE' PRODUCER JULIETTE HOWELL NAMED CEO OF BBC STUDIOS' 'HAPPY VALLEY' MAKER LOOKOUT POINT",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/conclave-producer-juliette-howell-named-ceo-lookout-point-1236470823/",
+      "timestamp": "2026-01-12T10:29:55.770Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -59,19 +59,6 @@
     ],
     "discovery": [
       {
-        "title": "Sweden’s Göteborg Film Festival Introduces Lie Detector",
-        "url": "https://variety.com/2026/film/global/goteborg-festival-lie-detector-test-focus-truth-1236628342/",
-        "timestamp": "06:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.5,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.48000000000000004
-        }
-      },
-      {
         "title": "I discovered this color-coded kitchen towel organization system on TikTok and it's genius",
         "url": "https://www.tomsguide.com/home/i-discovered-this-color-coded-kitchen-towel-organization-system-on-tiktok-and-its-genius",
         "timestamp": "07:15",
@@ -115,9 +102,9 @@
     ],
     "wildcard": [
       {
-        "title": "TRM REPORTS RECORD $158 BILLION ILLICIT CRYPTO FLOWS IN 2025",
-        "url": "https://news.bitcoin.com/trm-reports-record-158-billion-illicit-crypto-flows-in-2025/",
-        "timestamp": "2026-01-12T09:37:10.539Z",
+        "title": "'CONCLAVE' PRODUCER JULIETTE HOWELL NAMED CEO OF BBC STUDIOS' 'HAPPY VALLEY' MAKER LOOKOUT POINT",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/conclave-producer-juliette-howell-named-ceo-lookout-point-1236470823/",
+        "timestamp": "2026-01-12T10:29:55.770Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -131,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "TRM REPORTS RECORD $158 BILLION ILLICIT CRYPTO FLOWS IN 2025",
-      "url": "https://news.bitcoin.com/trm-reports-record-158-billion-illicit-crypto-flows-in-2025/",
-      "timestamp": "2026-01-12T09:37:10.539Z",
+      "title": "'CONCLAVE' PRODUCER JULIETTE HOWELL NAMED CEO OF BBC STUDIOS' 'HAPPY VALLEY' MAKER LOOKOUT POINT",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/conclave-producer-juliette-howell-named-ceo-lookout-point-1236470823/",
+      "timestamp": "2026-01-12T10:29:55.770Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -180,19 +167,6 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.53
-      }
-    },
-    {
-      "title": "Sweden’s Göteborg Film Festival Introduces Lie Detector",
-      "url": "https://variety.com/2026/film/global/goteborg-festival-lie-detector-test-focus-truth-1236628342/",
-      "timestamp": "06:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.5,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.48000000000000004
       }
     },
     {
