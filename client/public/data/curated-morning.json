@@ -1,22 +1,35 @@
 {
-  "curatedAt": "2026-01-12T13:45:50.739Z",
+  "curatedAt": "2026-01-12T14:30:03.087Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "HERE'S WHAT FOO FIGHTERS PLAYED AT THEIR FIRST SHOW OF 2026, WHILE PAYING TRIBUTE TO ABSENT PAT SMEAR",
-      "url": "https://www.nme.com/news/music/foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage-3922680?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage",
-      "timestamp": "2026-01-12T13:45:47.835Z",
+      "title": "GÖTEBORG TO HOST AUDIENCE LIE DETECTORS AS PART OF LIVE FESTIVAL EXPERIMENT",
+      "url": "https://deadline.com/2026/01/goteborg-audience-lie-detector-festival-experiment-1236680559/",
+      "timestamp": "2026-01-12T14:30:00.085Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.85,
+        "impact": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.685
+        "composite": 0.6200000000000001
       }
     },
     "deepDive": [
+      {
+        "title": "Is Spotify down? Live updates on the music streaming outage",
+        "url": "https://www.tomsguide.com/entertainment/live/is-spotify-down-live-updates-on-the-music-streaming-outage",
+        "timestamp": "13:49",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.505
+        }
+      },
       {
         "title": "K-Pop Group ITZY Set 2026 Australia and New Zealand Arena&#160;Tour",
         "url": "https://www.billboard.com/music/concerts/itzy-australia-new-ealand-tour-1236153075/",
@@ -31,45 +44,32 @@
         }
       },
       {
-        "title": "Best Travel Cameras (2026), Tested and Reviewed",
-        "url": "https://www.wired.com/gallery/best-travel-cameras/",
-        "timestamp": "12:00",
+        "title": "Julianne Moore Joins Oscar-Shortlisted Film 'Two People Exchanging Saliva' as Executive Producer Alongside Isabelle Huppert (EXCLUSIVE)",
+        "url": "https://variety.com/2026/film/global/julianne-moore-oscar-people-exchanging-saliva-exec-producer-1236629280/",
+        "timestamp": "14:00",
         "source": "automated",
         "scores": {
-          "impact": 0.55,
-          "engagement": 0.7,
+          "impact": 0.65,
+          "engagement": 0.55,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.5000000000000001
-        }
-      },
-      {
-        "title": "1996's 20 Biggest Rock Tours",
-        "url": "https://ultimateclassicrock.com/biggest-1996-rock-tours/",
-        "timestamp": "13:14",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
+          "composite": 0.4950000000000001
         }
       }
     ],
     "discovery": [],
     "conversation": [
       {
-        "title": "HERE'S WHAT FOO FIGHTERS PLAYED AT THEIR FIRST SHOW OF 2026, WHILE PAYING TRIBUTE TO ABSENT PAT SMEAR",
+        "title": "Here's what Foo Fighters played at their first show of 2026, while paying tribute to absent Pat Smear",
         "url": "https://www.nme.com/news/music/foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage-3922680?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage",
-        "timestamp": "2026-01-12T13:45:47.835Z",
-        "source": "splash",
+        "timestamp": "13:38",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.85,
-          "timeliness": 1,
+          "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.685
+          "composite": 0.525
         }
       },
       {
@@ -88,32 +88,45 @@
     ],
     "wildcard": [
       {
-        "title": "HERE'S WHAT FOO FIGHTERS PLAYED AT THEIR FIRST SHOW OF 2026, WHILE PAYING TRIBUTE TO ABSENT PAT SMEAR",
-        "url": "https://www.nme.com/news/music/foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage-3922680?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage",
-        "timestamp": "2026-01-12T13:45:47.835Z",
+        "title": "GÖTEBORG TO HOST AUDIENCE LIE DETECTORS AS PART OF LIVE FESTIVAL EXPERIMENT",
+        "url": "https://deadline.com/2026/01/goteborg-audience-lie-detector-festival-experiment-1236680559/",
+        "timestamp": "2026-01-12T14:30:00.085Z",
         "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.85,
+          "impact": 0.6,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.685
+          "composite": 0.6200000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "HERE'S WHAT FOO FIGHTERS PLAYED AT THEIR FIRST SHOW OF 2026, WHILE PAYING TRIBUTE TO ABSENT PAT SMEAR",
-      "url": "https://www.nme.com/news/music/foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage-3922680?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage",
-      "timestamp": "2026-01-12T13:45:47.835Z",
+      "title": "GÖTEBORG TO HOST AUDIENCE LIE DETECTORS AS PART OF LIVE FESTIVAL EXPERIMENT",
+      "url": "https://deadline.com/2026/01/goteborg-audience-lie-detector-festival-experiment-1236680559/",
+      "timestamp": "2026-01-12T14:30:00.085Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.85,
+        "impact": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.685
+        "composite": 0.6200000000000001
+      }
+    },
+    {
+      "title": "Is Spotify down? Live updates on the music streaming outage",
+      "url": "https://www.tomsguide.com/entertainment/live/is-spotify-down-live-updates-on-the-music-streaming-outage",
+      "timestamp": "13:49",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.65,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.505
       }
     },
     {
@@ -130,29 +143,29 @@
       }
     },
     {
-      "title": "Best Travel Cameras (2026), Tested and Reviewed",
-      "url": "https://www.wired.com/gallery/best-travel-cameras/",
-      "timestamp": "12:00",
+      "title": "Julianne Moore Joins Oscar-Shortlisted Film 'Two People Exchanging Saliva' as Executive Producer Alongside Isabelle Huppert (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/julianne-moore-oscar-people-exchanging-saliva-exec-producer-1236629280/",
+      "timestamp": "14:00",
       "source": "automated",
       "scores": {
-        "impact": 0.55,
-        "engagement": 0.7,
+        "impact": 0.65,
+        "engagement": 0.55,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.5000000000000001
+        "composite": 0.4950000000000001
       }
     },
     {
-      "title": "1996's 20 Biggest Rock Tours",
-      "url": "https://ultimateclassicrock.com/biggest-1996-rock-tours/",
-      "timestamp": "13:14",
+      "title": "Here's what Foo Fighters played at their first show of 2026, while paying tribute to absent Pat Smear",
+      "url": "https://www.nme.com/news/music/foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage-3922680?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage",
+      "timestamp": "13:38",
       "source": "automated",
       "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
+        "impact": 0.5,
+        "engagement": 0.85,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.49
+        "composite": 0.525
       }
     },
     {
