@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-12T04:12:44.340Z",
+  "curatedAt": "2026-01-12T05:33:09.623Z",
   "totalAnalyzed": 66,
-  "totalSelected": 4,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "'THE PITT' WINS BEST TV DRAMA AT 2026 GOLDEN GLOBES, THANK THE 'REAL HEROES' HEALTHCARE WORKERS",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-pitt-noah-wyle-golden-globe-best-television-drama-1235497183/",
-      "timestamp": "2026-01-12T04:12:41.368Z",
+      "title": "INDRIVE TURNS TO ADS AND GROCERIES TO DIVERSIFY REVENUE",
+      "url": "https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/",
+      "timestamp": "2026-01-12T05:33:06.640Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
@@ -31,10 +31,23 @@
         }
       },
       {
+        "title": "K-Pop Group ITZY Set 2026 Australia and New Zealand Arena&#160;Tour",
+        "url": "https://www.billboard.com/music/concerts/itzy-australia-new-ealand-tour-1236153075/",
+        "timestamp": "05:27",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.505
+        }
+      },
+      {
         "title": "Chet Faker Expands ‘A Love for Strangers’ Tour With New Australia&#160;Dates",
         "url": "https://www.billboard.com/music/concerts/chet-faker-australian-headline-shows-love-for-strangers-world-tour-1236153009/",
         "timestamp": "03:57",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.65,
@@ -61,19 +74,6 @@
     ],
     "conversation": [
       {
-        "title": "'THE PITT' WINS BEST TV DRAMA AT 2026 GOLDEN GLOBES, THANK THE 'REAL HEROES' HEALTHCARE WORKERS",
-        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-pitt-noah-wyle-golden-globe-best-television-drama-1235497183/",
-        "timestamp": "2026-01-12T04:12:41.368Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6400000000000001
-        }
-      },
-      {
         "title": "TEED releases his new album 'Always With Me'",
         "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
         "timestamp": "22:01",
@@ -85,36 +85,49 @@
           "discovery": 0.3,
           "composite": 0.545
         }
+      },
+      {
+        "title": "The Best, Worst, and Most WTF Moments of the 2026 Golden Globes",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/golden-globes-2026-best-worst-moments-1235497676/",
+        "timestamp": "05:10",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.9,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.54
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "'THE PITT' WINS BEST TV DRAMA AT 2026 GOLDEN GLOBES, THANK THE 'REAL HEROES' HEALTHCARE WORKERS",
-        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-pitt-noah-wyle-golden-globe-best-television-drama-1235497183/",
-        "timestamp": "2026-01-12T04:12:41.368Z",
+        "title": "INDRIVE TURNS TO ADS AND GROCERIES TO DIVERSIFY REVENUE",
+        "url": "https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/",
+        "timestamp": "2026-01-12T05:33:06.640Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6400000000000001
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "'THE PITT' WINS BEST TV DRAMA AT 2026 GOLDEN GLOBES, THANK THE 'REAL HEROES' HEALTHCARE WORKERS",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-pitt-noah-wyle-golden-globe-best-television-drama-1235497183/",
-      "timestamp": "2026-01-12T04:12:41.368Z",
+      "title": "INDRIVE TURNS TO ADS AND GROCERIES TO DIVERSIFY REVENUE",
+      "url": "https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/",
+      "timestamp": "2026-01-12T05:33:06.640Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.5800000000000001
       }
     },
     {
@@ -131,10 +144,23 @@
       }
     },
     {
+      "title": "K-Pop Group ITZY Set 2026 Australia and New Zealand Arena&#160;Tour",
+      "url": "https://www.billboard.com/music/concerts/itzy-australia-new-ealand-tour-1236153075/",
+      "timestamp": "05:27",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.65,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.505
+      }
+    },
+    {
       "title": "Chet Faker Expands ‘A Love for Strangers’ Tour With New Australia&#160;Dates",
       "url": "https://www.billboard.com/music/concerts/chet-faker-australian-headline-shows-love-for-strangers-world-tour-1236153009/",
       "timestamp": "03:57",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.65,
@@ -154,6 +180,19 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.515
+      }
+    },
+    {
+      "title": "The Best, Worst, and Most WTF Moments of the 2026 Golden Globes",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/golden-globes-2026-best-worst-moments-1235497676/",
+      "timestamp": "05:10",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.9,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.54
       }
     }
   ],
