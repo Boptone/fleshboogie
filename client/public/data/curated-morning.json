@@ -1,22 +1,35 @@
 {
-  "curatedAt": "2026-01-12T05:33:09.623Z",
+  "curatedAt": "2026-01-12T06:42:20.483Z",
   "totalAnalyzed": 66,
   "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "INDRIVE TURNS TO ADS AND GROCERIES TO DIVERSIFY REVENUE",
-      "url": "https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/",
-      "timestamp": "2026-01-12T05:33:06.640Z",
+      "title": "TRACKTION RELEASES RETRO LEGENDS EXPANSION FOR HORIZEN (UPDATED TO V2.7)",
+      "url": "https://rekkerd.org/tracktion-releases-retro-legends-expansion-for-horizen-updated-to-v2-7/",
+      "timestamp": "2026-01-12T06:42:17.520Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
+        "impact": 0.6,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.65
       }
     },
     "deepDive": [
+      {
+        "title": "TRACKTION RELEASES RETRO LEGENDS EXPANSION FOR HORIZEN (UPDATED TO V2.7)",
+        "url": "https://rekkerd.org/tracktion-releases-retro-legends-expansion-for-horizen-updated-to-v2-7/",
+        "timestamp": "2026-01-12T06:42:17.520Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.65
+        }
+      },
       {
         "title": "TEED releases his new album 'Always With Me'",
         "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
@@ -34,20 +47,7 @@
         "title": "K-Pop Group ITZY Set 2026 Australia and New Zealand Arena&#160;Tour",
         "url": "https://www.billboard.com/music/concerts/itzy-australia-new-ealand-tour-1236153075/",
         "timestamp": "05:27",
-        "source": "mainColumn",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.505
-        }
-      },
-      {
-        "title": "Chet Faker Expands ‘A Love for Strangers’ Tour With New Australia&#160;Dates",
-        "url": "https://www.billboard.com/music/concerts/chet-faker-australian-headline-shows-love-for-strangers-world-tour-1236153009/",
-        "timestamp": "03:57",
-        "source": "musicReleases",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.65,
@@ -70,6 +70,19 @@
           "discovery": 0.5,
           "composite": 0.515
         }
+      },
+      {
+        "title": "Sweden’s Göteborg Film Festival Introduces Lie Detector",
+        "url": "https://variety.com/2026/film/global/goteborg-festival-lie-detector-test-focus-truth-1236628342/",
+        "timestamp": "06:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.5,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.48000000000000004
+        }
       }
     ],
     "conversation": [
@@ -90,7 +103,7 @@
         "title": "The Best, Worst, and Most WTF Moments of the 2026 Golden Globes",
         "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/golden-globes-2026-best-worst-moments-1235497676/",
         "timestamp": "05:10",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.9,
@@ -102,32 +115,32 @@
     ],
     "wildcard": [
       {
-        "title": "INDRIVE TURNS TO ADS AND GROCERIES TO DIVERSIFY REVENUE",
-        "url": "https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/",
-        "timestamp": "2026-01-12T05:33:06.640Z",
+        "title": "TRACKTION RELEASES RETRO LEGENDS EXPANSION FOR HORIZEN (UPDATED TO V2.7)",
+        "url": "https://rekkerd.org/tracktion-releases-retro-legends-expansion-for-horizen-updated-to-v2-7/",
+        "timestamp": "2026-01-12T06:42:17.520Z",
         "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.5,
+          "impact": 0.6,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.65
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "INDRIVE TURNS TO ADS AND GROCERIES TO DIVERSIFY REVENUE",
-      "url": "https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/",
-      "timestamp": "2026-01-12T05:33:06.640Z",
+      "title": "TRACKTION RELEASES RETRO LEGENDS EXPANSION FOR HORIZEN (UPDATED TO V2.7)",
+      "url": "https://rekkerd.org/tracktion-releases-retro-legends-expansion-for-horizen-updated-to-v2-7/",
+      "timestamp": "2026-01-12T06:42:17.520Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
+        "impact": 0.6,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.65
       }
     },
     {
@@ -147,20 +160,7 @@
       "title": "K-Pop Group ITZY Set 2026 Australia and New Zealand Arena&#160;Tour",
       "url": "https://www.billboard.com/music/concerts/itzy-australia-new-ealand-tour-1236153075/",
       "timestamp": "05:27",
-      "source": "mainColumn",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.65,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.505
-      }
-    },
-    {
-      "title": "Chet Faker Expands ‘A Love for Strangers’ Tour With New Australia&#160;Dates",
-      "url": "https://www.billboard.com/music/concerts/chet-faker-australian-headline-shows-love-for-strangers-world-tour-1236153009/",
-      "timestamp": "03:57",
-      "source": "musicReleases",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.65,
@@ -183,10 +183,23 @@
       }
     },
     {
+      "title": "Sweden’s Göteborg Film Festival Introduces Lie Detector",
+      "url": "https://variety.com/2026/film/global/goteborg-festival-lie-detector-test-focus-truth-1236628342/",
+      "timestamp": "06:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.5,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.48000000000000004
+      }
+    },
+    {
       "title": "The Best, Worst, and Most WTF Moments of the 2026 Golden Globes",
       "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/golden-globes-2026-best-worst-moments-1235497676/",
       "timestamp": "05:10",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.9,
