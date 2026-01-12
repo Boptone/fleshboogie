@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-11T23:23:17.570Z",
+  "curatedAt": "2026-01-12T02:05:11.588Z",
   "totalAnalyzed": 66,
-  "totalSelected": 7,
+  "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "X PLANS ‘SMART CASHTAGS’ TO LINK CRYPTO AND STOCK TICKERS TO LIVE PRICES",
-      "url": "https://decrypt.co/354215/x-smart-cashtags-link-crypto-stock-tickers-live-prices",
-      "timestamp": "2026-01-11T23:23:14.595Z",
+      "title": "JEAN SMART IMPLORES “LET’S ALL DO THE RIGHT THING” AFTER GOLDEN GLOBES WIN",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-golden-globes-best-tv-comedy-actress-jean-smart-hacks-1236470101/",
+      "timestamp": "2026-01-12T02:05:08.572Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -29,53 +29,14 @@
           "discovery": 0.3,
           "composite": 0.545
         }
-      },
-      {
-        "title": "The album Neil Peart said Rush would never make: \"We would see it as a sacrifice\"",
-        "url": "https://faroutmagazine.co.uk/album-neil-peart-said-rush-would-never-make/",
-        "timestamp": "21:30",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
-        }
-      },
-      {
-        "title": "'Sirt' Wins FIPRESCI Prize For Best Film At Palm Springs Film Festival — Full Winners List",
-        "url": "https://deadline.com/2026/01/sirat-best-film-palm-springs-international-film-festival-1236679047/",
-        "timestamp": "21:19",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
-        }
       }
     ],
     "discovery": [
       {
-        "title": "One US location just banned CBDCs, but its new state token is doing something even more surprising",
-        "url": "https://cryptoslate.com/wyoming-frnt-state-seal-stablecoin-public-money-debate/",
-        "timestamp": "20:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.55,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.455
-        }
-      },
-      {
         "title": "'Abbott Elementary's Chris Perfetti Teases Character's Backstory: \"We Get To Meet Some Of The People That Make Jacob The Way He Is\"",
         "url": "https://deadline.com/2026/01/abbott-elementary-chris-perfetti-jacob-backstory-1236679133/",
         "timestamp": "23:13",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.4,
           "engagement": 0.5,
@@ -100,9 +61,9 @@
         }
       },
       {
-        "title": "What was the best-selling song in 1973?",
-        "url": "https://faroutmagazine.co.uk/what-was-the-best-selling-song-in-1973/",
-        "timestamp": "20:30",
+        "title": "What was the worst number one from 1981?",
+        "url": "https://faroutmagazine.co.uk/worst-number-one-1981/",
+        "timestamp": "00:00",
         "source": "automated",
         "scores": {
           "impact": 0.5,
@@ -115,9 +76,9 @@
     ],
     "wildcard": [
       {
-        "title": "X PLANS ‘SMART CASHTAGS’ TO LINK CRYPTO AND STOCK TICKERS TO LIVE PRICES",
-        "url": "https://decrypt.co/354215/x-smart-cashtags-link-crypto-stock-tickers-live-prices",
-        "timestamp": "2026-01-11T23:23:14.595Z",
+        "title": "JEAN SMART IMPLORES “LET’S ALL DO THE RIGHT THING” AFTER GOLDEN GLOBES WIN",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-golden-globes-best-tv-comedy-actress-jean-smart-hacks-1236470101/",
+        "timestamp": "2026-01-12T02:05:08.572Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -131,9 +92,9 @@
   },
   "stories": [
     {
-      "title": "X PLANS ‘SMART CASHTAGS’ TO LINK CRYPTO AND STOCK TICKERS TO LIVE PRICES",
-      "url": "https://decrypt.co/354215/x-smart-cashtags-link-crypto-stock-tickers-live-prices",
-      "timestamp": "2026-01-11T23:23:14.595Z",
+      "title": "JEAN SMART IMPLORES “LET’S ALL DO THE RIGHT THING” AFTER GOLDEN GLOBES WIN",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-golden-globes-best-tv-comedy-actress-jean-smart-hacks-1236470101/",
+      "timestamp": "2026-01-12T02:05:08.572Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -157,49 +118,10 @@
       }
     },
     {
-      "title": "The album Neil Peart said Rush would never make: \"We would see it as a sacrifice\"",
-      "url": "https://faroutmagazine.co.uk/album-neil-peart-said-rush-would-never-make/",
-      "timestamp": "21:30",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "'Sirt' Wins FIPRESCI Prize For Best Film At Palm Springs Film Festival — Full Winners List",
-      "url": "https://deadline.com/2026/01/sirat-best-film-palm-springs-international-film-festival-1236679047/",
-      "timestamp": "21:19",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "One US location just banned CBDCs, but its new state token is doing something even more surprising",
-      "url": "https://cryptoslate.com/wyoming-frnt-state-seal-stablecoin-public-money-debate/",
-      "timestamp": "20:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.55,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.455
-      }
-    },
-    {
       "title": "'Abbott Elementary's Chris Perfetti Teases Character's Backstory: \"We Get To Meet Some Of The People That Make Jacob The Way He Is\"",
       "url": "https://deadline.com/2026/01/abbott-elementary-chris-perfetti-jacob-backstory-1236679133/",
       "timestamp": "23:13",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.4,
         "engagement": 0.5,
@@ -209,9 +131,9 @@
       }
     },
     {
-      "title": "What was the best-selling song in 1973?",
-      "url": "https://faroutmagazine.co.uk/what-was-the-best-selling-song-in-1973/",
-      "timestamp": "20:30",
+      "title": "What was the worst number one from 1981?",
+      "url": "https://faroutmagazine.co.uk/worst-number-one-1981/",
+      "timestamp": "00:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,
