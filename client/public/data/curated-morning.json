@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-12T20:29:46.394Z",
+  "curatedAt": "2026-01-12T21:25:58.976Z",
   "totalAnalyzed": 66,
-  "totalSelected": 8,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "THE NIGHTMARES BENEATH THE SURFACE OF \"DREAMWORLDS\"",
-      "url": "https://hyperallergic.com/the-nightmares-beneath-the-surface-of-dreamworlds/",
-      "timestamp": "2026-01-12T20:29:43.383Z",
+      "title": "BITMINE ETH HOLDINGS CLIMB TO 4.1M AS CHAIRMAN SEEKS TO EXPAND CRYPTO STRATEGY",
+      "url": "https://cointelegraph.com/news/bitmine-eth-holdings-chairman-expand-crypto-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "2026-01-12T21:25:56.072Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
@@ -21,7 +21,7 @@
         "title": "My Chemical Romance delay first show of 2026 world tour",
         "url": "https://www.nme.com/news/music/my-chemical-romance-delay-first-show-of-2026-world-tour-3922742?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-chemical-romance-delay-first-show-of-2026-world-tour",
         "timestamp": "19:29",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.75,
@@ -44,9 +44,9 @@
         }
       },
       {
-        "title": "‘Stranger Things’ Finale Buzz Boosts Djo’s ‘End of Beginning’ to No. 1 on Billboard Global&#160;200",
-        "url": "https://www.billboard.com/music/chart-beat/djo-end-of-beginning-global-200-number-one-1236153401/",
-        "timestamp": "19:53",
+        "title": "Renegade Audio releases Dub Pack Series Vol. 21: Zion Dub",
+        "url": "https://rekkerd.org/renegade-audio-releases-dub-pack-series-vol-21-zion-dub/",
+        "timestamp": "20:58",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -58,32 +58,6 @@
       }
     ],
     "discovery": [
-      {
-        "title": "R&B/Hip-Hop Fresh Picks of the Week: Chief Keef, Max B, Jill Scott&#160;& More",
-        "url": "https://www.billboard.com/lists/rb-hip-hop-music-fresh-picks-chief-keef-max-b-jill-scott/",
-        "timestamp": "19:03",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.47000000000000003
-        }
-      },
-      {
-        "title": "John Mayer Pays Tribute to Bob Weir: \"I’ll Meet You in the Music\"",
-        "url": "https://www.hollywoodreporter.com/music/music-news/john-mayer-mickey-hart-bob-weir-tributes-1236470967/",
-        "timestamp": "18:44",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.5,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.44
-        }
-      },
       {
         "title": "Band Of Horses Find 'Time' To Revisit Beloved Debut LP",
         "url": "https://www.spin.com/2026/01/band-of-horses-debut-album-anniversary/",
@@ -100,10 +74,23 @@
     ],
     "conversation": [
       {
+        "title": "What was the best-selling song of 1966?",
+        "url": "https://faroutmagazine.co.uk/best-selling-song-of-1966/",
+        "timestamp": "21:00",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.8999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.54
+        }
+      },
+      {
         "title": "My Chemical Romance delay first show of 2026 world tour",
         "url": "https://www.nme.com/news/music/my-chemical-romance-delay-first-show-of-2026-world-tour-3922742?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-chemical-romance-delay-first-show-of-2026-world-tour",
         "timestamp": "19:29",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.75,
@@ -111,56 +98,43 @@
           "discovery": 0.3,
           "composite": 0.535
         }
-      },
-      {
-        "title": "Worried about missing jury duty? Two inmates exploited those fears to steal over $450,000 using vishing from behind bars",
-        "url": "https://www.tomsguide.com/computing/online-security/worried-about-missing-jury-duty-two-inmates-exploited-those-fears-to-steal-over-usd450-000-using-vishing-from-behind-bars",
-        "timestamp": "19:55",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.51
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "THE NIGHTMARES BENEATH THE SURFACE OF \"DREAMWORLDS\"",
-        "url": "https://hyperallergic.com/the-nightmares-beneath-the-surface-of-dreamworlds/",
-        "timestamp": "2026-01-12T20:29:43.383Z",
+        "title": "BITMINE ETH HOLDINGS CLIMB TO 4.1M AS CHAIRMAN SEEKS TO EXPAND CRYPTO STRATEGY",
+        "url": "https://cointelegraph.com/news/bitmine-eth-holdings-chairman-expand-crypto-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "2026-01-12T21:25:56.072Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "THE NIGHTMARES BENEATH THE SURFACE OF \"DREAMWORLDS\"",
-      "url": "https://hyperallergic.com/the-nightmares-beneath-the-surface-of-dreamworlds/",
-      "timestamp": "2026-01-12T20:29:43.383Z",
+      "title": "BITMINE ETH HOLDINGS CLIMB TO 4.1M AS CHAIRMAN SEEKS TO EXPAND CRYPTO STRATEGY",
+      "url": "https://cointelegraph.com/news/bitmine-eth-holdings-chairman-expand-crypto-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "2026-01-12T21:25:56.072Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     {
       "title": "My Chemical Romance delay first show of 2026 world tour",
       "url": "https://www.nme.com/news/music/my-chemical-romance-delay-first-show-of-2026-world-tour-3922742?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-chemical-romance-delay-first-show-of-2026-world-tour",
       "timestamp": "19:29",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.75,
@@ -183,9 +157,9 @@
       }
     },
     {
-      "title": "‘Stranger Things’ Finale Buzz Boosts Djo’s ‘End of Beginning’ to No. 1 on Billboard Global&#160;200",
-      "url": "https://www.billboard.com/music/chart-beat/djo-end-of-beginning-global-200-number-one-1236153401/",
-      "timestamp": "19:53",
+      "title": "Renegade Audio releases Dub Pack Series Vol. 21: Zion Dub",
+      "url": "https://rekkerd.org/renegade-audio-releases-dub-pack-series-vol-21-zion-dub/",
+      "timestamp": "20:58",
       "source": "automated",
       "scores": {
         "impact": 0.6,
@@ -193,32 +167,6 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.49
-      }
-    },
-    {
-      "title": "R&B/Hip-Hop Fresh Picks of the Week: Chief Keef, Max B, Jill Scott&#160;& More",
-      "url": "https://www.billboard.com/lists/rb-hip-hop-music-fresh-picks-chief-keef-max-b-jill-scott/",
-      "timestamp": "19:03",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.47000000000000003
-      }
-    },
-    {
-      "title": "John Mayer Pays Tribute to Bob Weir: \"I’ll Meet You in the Music\"",
-      "url": "https://www.hollywoodreporter.com/music/music-news/john-mayer-mickey-hart-bob-weir-tributes-1236470967/",
-      "timestamp": "18:44",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.44
       }
     },
     {
@@ -235,16 +183,16 @@
       }
     },
     {
-      "title": "Worried about missing jury duty? Two inmates exploited those fears to steal over $450,000 using vishing from behind bars",
-      "url": "https://www.tomsguide.com/computing/online-security/worried-about-missing-jury-duty-two-inmates-exploited-those-fears-to-steal-over-usd450-000-using-vishing-from-behind-bars",
-      "timestamp": "19:55",
-      "source": "automated",
+      "title": "What was the best-selling song of 1966?",
+      "url": "https://faroutmagazine.co.uk/best-selling-song-of-1966/",
+      "timestamp": "21:00",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7999999999999999,
+        "engagement": 0.8999999999999999,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.51
+        "composite": 0.54
       }
     }
   ],
