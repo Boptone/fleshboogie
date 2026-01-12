@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "HOW NURSE JOHN WENT FROM FRONTLINE NURSE TO GLOBAL COMEDY HEADLINER IN FIVE YEARS — COMEDY MEANS BUSINESS PODCAST",
-    "url": "https://deadline.com/2026/01/nurse-john-logan-watkins-comedy-means-business-podcast-interview-1236680834/",
+    "headline": "AMAZON SAYS 97% OF ITS DEVICES CAN SUPPORT ALEXA+",
+    "url": "https://techcrunch.com/2026/01/12/amazon-says-97-of-its-devices-can-support-alexa/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Apply for IDSVA’s Low-Residency PhD in Visual Arts: Philosophy, Aesthetics, and Art Theory",
-      "url": "https://hyperallergic.com/apply-for-idsvas-low-residency-phd-in-visual-arts-philosophy-aesthetics-and-art-theory/",
-      "timestamp": "18:30",
+      "title": "Leonardo DiCaprio's four favourite actors: \"He was, dare I say it, the best\"",
+      "url": "https://faroutmagazine.co.uk/leonardo-dicaprios-four-favourite-actors-dare-say-best/",
+      "timestamp": "19:15",
       "pinned": false
     },
     {
-      "title": "The one band George Martin regretted working with the most: \"I once had a flirtation\"",
-      "url": "https://faroutmagazine.co.uk/the-one-band-george-martin-regretted-working-with-the-most/",
-      "timestamp": "18:30",
+      "title": "How Research Helped the Animators of ‘Zootopia 2’ Create Its New Worlds",
+      "url": "https://variety.com/2026/artisans/artists/zootopia-2-animators-create-new-worlds-1236626864/",
+      "timestamp": "19:15",
       "pinned": false
     },
     {
-      "title": "World Liberty Markets Goes Live, Giving USD1 a Lending and Borrowing Use Case",
-      "url": "https://news.bitcoin.com/world-liberty-markets-goes-live-giving-usd1-a-lending-and-borrowing-use-case/",
-      "timestamp": "18:29",
+      "title": "Bitcoin ‘OG whales’ sell $286M, but odds of $100K BTC remain high",
+      "url": "https://cointelegraph.com/news/bitcoin-whales-sell-dollar286m-but-odds-of-dollar100k-btc-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "19:15",
       "pinned": false
     },
     {
-      "title": "Asteroid Behaving Strangely",
-      "url": "https://futurism.com/space/asteroid-behaving-strangely",
-      "timestamp": "18:26",
+      "title": "Barbara Lawrence, Longtime Talent Manager, Dies at 82",
+      "url": "https://variety.com/2026/biz/news/barbara-lawrence-dead-talent-manager-1236629591/",
+      "timestamp": "19:14",
       "pinned": false
     },
     {
-      "title": "Figure Skater Alysa Liu Debuts Mind-Boggling Lady Gaga Routine Just Weeks Before Winter&#160;Olympics",
-      "url": "https://www.billboard.com/music/music-news/alysa-liu-debuts-lady-gaga-skating-routine-before-olympics-1236153263/",
-      "timestamp": "18:26",
+      "title": "R&B/Hip-Hop Fresh Picks of the Week: Chief Keef, Max B, Jill Scott&#160;& More",
+      "url": "https://www.billboard.com/lists/rb-hip-hop-music-fresh-picks-chief-keef-max-b-jill-scott/",
+      "timestamp": "19:03",
       "pinned": false
     }
   ],
@@ -104,6 +104,90 @@
     }
   ],
   "automated": [
+    {
+      "title": "Amazon says 97% of its devices can support Alexa+",
+      "url": "https://techcrunch.com/2026/01/12/amazon-says-97-of-its-devices-can-support-alexa/",
+      "timestamp": "19:20",
+      "pubDate": "2026-01-12T19:20:05.000Z"
+    },
+    {
+      "title": "Leonardo DiCaprio's four favourite actors: \"He was, dare I say it, the best\"",
+      "url": "https://faroutmagazine.co.uk/leonardo-dicaprios-four-favourite-actors-dare-say-best/",
+      "timestamp": "19:15",
+      "pubDate": "2026-01-12T19:15:00.000Z"
+    },
+    {
+      "title": "How Research Helped the Animators of ‘Zootopia 2’ Create Its New Worlds",
+      "url": "https://variety.com/2026/artisans/artists/zootopia-2-animators-create-new-worlds-1236626864/",
+      "timestamp": "19:15",
+      "pubDate": "2026-01-12T19:15:00.000Z"
+    },
+    {
+      "title": "Bitcoin ‘OG whales’ sell $286M, but odds of $100K BTC remain high",
+      "url": "https://cointelegraph.com/news/bitcoin-whales-sell-dollar286m-but-odds-of-dollar100k-btc-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "19:15",
+      "pubDate": "2026-01-12T19:15:00.000Z"
+    },
+    {
+      "title": "Barbara Lawrence, Longtime Talent Manager, Dies at 82",
+      "url": "https://variety.com/2026/biz/news/barbara-lawrence-dead-talent-manager-1236629591/",
+      "timestamp": "19:14",
+      "pubDate": "2026-01-12T19:14:05.000Z"
+    },
+    {
+      "title": "R&B/Hip-Hop Fresh Picks of the Week: Chief Keef, Max B, Jill Scott&#160;& More",
+      "url": "https://www.billboard.com/lists/rb-hip-hop-music-fresh-picks-chief-keef-max-b-jill-scott/",
+      "timestamp": "19:03",
+      "pubDate": "2026-01-12T19:03:28.000Z"
+    },
+    {
+      "title": "Mitchell Johnson: Two San Francisco Exhibitions of Large-Scale Paintings",
+      "url": "https://hyperallergic.com/mitchell-johnson-two-san-francisco-exhibitions-of-large-scale-paintings/",
+      "timestamp": "19:00",
+      "pubDate": "2026-01-12T19:00:37.000Z"
+    },
+    {
+      "title": "The one singer Dave Grohl said deserved everything they got",
+      "url": "https://faroutmagazine.co.uk/the-one-singer-dave-grohl-said-deserved-everything/",
+      "timestamp": "19:00",
+      "pubDate": "2026-01-12T19:00:00.000Z"
+    },
+    {
+      "title": "Jesse Plemons describes Alejandro González Iñárritu/Tom Cruise movie Digger as a modern Dr. Strangelove",
+      "url": "https://www.joblo.com/digger-strangelove/",
+      "timestamp": "18:59",
+      "pubDate": "2026-01-12T18:59:23.000Z"
+    },
+    {
+      "title": "Us Weekly Editor-in-Chief Dan Wakeford Steps Down to Editor-at-Large Role",
+      "url": "https://www.thewrap.com/media-platforms/journalism/dan-wakeford-steps-down-us-weekly-editor-in-chief/",
+      "timestamp": "18:49",
+      "pubDate": "2026-01-12T18:49:23.000Z"
+    },
+    {
+      "title": "When James Cameron almost bludgeoned Harvey Weinstein with an Oscar: \"It was self-defence\"",
+      "url": "https://faroutmagazine.co.uk/when-james-cameron-almost-bludgeoned-harvey-weinstein-with-an-oscar/",
+      "timestamp": "18:45",
+      "pubDate": "2026-01-12T18:45:00.000Z"
+    },
+    {
+      "title": "John Mayer Pays Tribute to Bob Weir: \"I’ll Meet You in the Music\"",
+      "url": "https://www.hollywoodreporter.com/music/music-news/john-mayer-mickey-hart-bob-weir-tributes-1236470967/",
+      "timestamp": "18:44",
+      "pubDate": "2026-01-12T18:44:38.000Z"
+    },
+    {
+      "title": "Kill Ugly Pop: A Guide to Lip Cream",
+      "url": "https://daily.bandcamp.com/lists/lip-cream-guide",
+      "timestamp": "18:42",
+      "pubDate": "2026-01-12T18:42:14.000Z"
+    },
+    {
+      "title": "Apple Taps Google&#39;s Gemini to Power AI Models After &#39;Apple Intelligence&#39; Stumbles",
+      "url": "https://decrypt.co/354283/apple-taps-googles-gemini-power-ai-models-apple-intelligence-stumbles",
+      "timestamp": "18:39",
+      "pubDate": "2026-01-12T18:39:21.000Z"
+    },
     {
       "title": "How Nurse John Went From Frontline Nurse To Global Comedy Headliner In Five Years — Comedy Means Business Podcast",
       "url": "https://deadline.com/2026/01/nurse-john-logan-watkins-comedy-means-business-podcast-interview-1236680834/",
@@ -184,7 +268,7 @@
     },
     {
       "title": "One Last Adventure – The Making of Stranger Things Season 5 TV Review: A solid behind-the-scenes farewell",
-      "url": "https://www.joblo.com/one-last-adventure-the-making-of-stranger-things-season-5-tv-review-is-a-solid-behind-the-scenes-farewell/",
+      "url": "https://www.joblo.com/one-last-adventure-review/",
       "timestamp": "18:21",
       "pubDate": "2026-01-12T18:21:42.000Z"
     },
@@ -259,102 +343,33 @@
       "url": "https://faroutmagazine.co.uk/one-bassist-geddy-lee-said-was-better-than-paul-mccartney/",
       "timestamp": "18:00",
       "pubDate": "2026-01-12T18:00:00.000Z"
-    },
-    {
-      "title": "Pluto TV to Host Free 'Survivor' Marathon Ahead of Season 50 Premiere",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/survivor-stream-for-free-pluto-tv/",
-      "timestamp": "18:00",
-      "pubDate": "2026-01-12T18:00:00.000Z"
-    },
-    {
-      "title": "Best Desktop Effects for Synths",
-      "url": "https://www.gearnews.com/desktop-effects-for-synths/",
-      "timestamp": "18:00",
-      "pubDate": "2026-01-12T18:00:00.000Z"
-    },
-    {
-      "title": "Vitamin C may protect fertility against harmful chemical",
-      "url": "https://www.futurity.org/vitamin-c-fertility-potassium-perchlorate-3319522-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=vitamin-c-fertility-potassium-perchlorate-3319522-2",
-      "timestamp": "17:56",
-      "pubDate": "2026-01-12T17:56:32.000Z"
-    },
-    {
-      "title": "E.U. sets new conditions for Chinese EV imports to resolve dispute",
-      "url": "https://www.fastcompany.com/91472943/eu-sets-new-conditions-chinese-ev-imports?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
-      "timestamp": "17:55",
-      "pubDate": "2026-01-12T17:55:28.000Z"
-    },
-    {
-      "title": "George R.R. Martin Teases More 'Knight of the Seven Kingdoms' Stories to Come: 'If I Have the Time'",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/george-rr-martin-more-dunk-and-egg-books-knight-seven-kingdoms-podcast-hbo/",
-      "timestamp": "17:51",
-      "pubDate": "2026-01-12T17:51:16.000Z"
-    },
-    {
-      "title": "A$AP Rocky Releases 'Don't Be Dumb' Single 'Helicopter$' Ahead of Album's Arrival:&#160;Listen",
-      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-new-song-helicopters-espn-college-football-ad-1236153126/",
-      "timestamp": "17:47",
-      "pubDate": "2026-01-12T17:47:42.000Z"
-    },
-    {
-      "title": "Developers have made $550 billion on Apple's App Store since 2008",
-      "url": "https://techcrunch.com/2026/01/12/developers-have-made-550-billion-on-apples-app-store-since-2008/",
-      "timestamp": "17:39",
-      "pubDate": "2026-01-12T17:39:25.000Z"
-    },
-    {
-      "title": "'Die My Love,' 'Marty Supreme' and 'Sinners' Among British Society of Cinematographers Feature Film Nominees",
-      "url": "https://variety.com/2026/artisans/news/british-society-of-cinematographers-feature-film-nominations-1236629589/",
-      "timestamp": "17:37",
-      "pubDate": "2026-01-12T17:37:36.000Z"
-    },
-    {
-      "title": "Which Paul McCartney solo songs were actually intended for The Beatles?",
-      "url": "https://faroutmagazine.co.uk/which-paul-mccartney-solo-songs-were-originally-for-the-beatles/",
-      "timestamp": "17:36",
-      "pubDate": "2026-01-12T17:36:54.000Z"
-    },
-    {
-      "title": "Zach Bryan releases acoustic version of new album, 'With Heaven On Top'",
-      "url": "https://faroutmagazine.co.uk/zach-bryan-releases-acoustic-version-new-album-with-heaven-on-top/",
-      "timestamp": "17:35",
-      "pubDate": "2026-01-12T17:35:09.000Z"
-    },
-    {
-      "title": "Matt Kwasniewski-Kelvin, guitarist for rock band Black Midi, dies aged 26",
-      "url": "https://www.theguardian.com/music/2026/jan/12/matt-kwasniewski-kelvin-guitarist-for-rock-band-black-midi-dies-aged-26",
-      "timestamp": "17:33",
-      "pubDate": "2026-01-12T17:33:43.000Z"
-    },
-    {
-      "title": "'Pretty in Pink' Will Return to Theaters Ahead of Its 40th Anniversary",
-      "url": "https://variety.com/2026/film/news/pretty-in-pink-40th-anniversary-fathom-1236626816/",
-      "timestamp": "17:30",
-      "pubDate": "2026-01-12T17:30:00.000Z"
-    },
-    {
-      "title": "'Heated Rivalry' season 2: Everything we know so far",
-      "url": "https://www.tomsguide.com/entertainment/streaming/heated-rivalry-season-2",
-      "timestamp": "17:29",
-      "pubDate": "2026-01-12T17:29:52.000Z"
-    },
-    {
-      "title": "Culinary Cowboy Show 'Twisted Skillet' Leads RFD-TV's 2026 Slate",
-      "url": "https://deadline.com/2026/01/rfd-tv-2026-program-slate-twisted-skillet-1236680742/",
-      "timestamp": "17:29",
-      "pubDate": "2026-01-12T17:29:42.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "The one band George Martin regretted working with the most: \"I once had a flirtation\"",
-      "url": "https://faroutmagazine.co.uk/the-one-band-george-martin-regretted-working-with-the-most/",
-      "timestamp": "18:30"
+      "title": "Leonardo DiCaprio's four favourite actors: \"He was, dare I say it, the best\"",
+      "url": "https://faroutmagazine.co.uk/leonardo-dicaprios-four-favourite-actors-dare-say-best/",
+      "timestamp": "19:15"
     },
     {
-      "title": "Who did Bob Dylan write ‘Visions of Johanna’ about?",
-      "url": "https://faroutmagazine.co.uk/who-did-bob-dylan-write-visions-of-johanna-about/",
-      "timestamp": "18:23"
+      "title": "R&B/Hip-Hop Fresh Picks of the Week: Chief Keef, Max B, Jill Scott&#160;& More",
+      "url": "https://www.billboard.com/lists/rb-hip-hop-music-fresh-picks-chief-keef-max-b-jill-scott/",
+      "timestamp": "19:03"
+    },
+    {
+      "title": "The one singer Dave Grohl said deserved everything they got",
+      "url": "https://faroutmagazine.co.uk/the-one-singer-dave-grohl-said-deserved-everything/",
+      "timestamp": "19:00"
+    },
+    {
+      "title": "When James Cameron almost bludgeoned Harvey Weinstein with an Oscar: \"It was self-defence\"",
+      "url": "https://faroutmagazine.co.uk/when-james-cameron-almost-bludgeoned-harvey-weinstein-with-an-oscar/",
+      "timestamp": "18:45"
+    },
+    {
+      "title": "Kill Ugly Pop: A Guide to Lip Cream",
+      "url": "https://daily.bandcamp.com/lists/lip-cream-guide",
+      "timestamp": "18:42"
     },
     {
       "title": "Billboard's Music Industry Events&#160;Calendar",
@@ -365,16 +380,6 @@
       "title": "The Golden Globes #BeGood pins: Who was wearing them and why",
       "url": "https://www.thefader.com/2026/01/12/the-golden-globes-be-good",
       "timestamp": "18:08"
-    },
-    {
-      "title": "Black Label Society to pay tribute to Ozzy Osbourne on new album",
-      "url": "https://faroutmagazine.co.uk/new-black-label-society-album-features-tribute-ozzy-osbourne/",
-      "timestamp": "18:02"
-    },
-    {
-      "title": "A$AP Rocky Releases 'Don't Be Dumb' Single 'Helicopter$' Ahead of Album's Arrival:&#160;Listen",
-      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-new-song-helicopters-espn-college-football-ad-1236153126/",
-      "timestamp": "17:47"
     },
     {
       "title": "Matt Kwasniewski-Kelvin, guitarist for rock band Black Midi, dies aged 26",
@@ -417,16 +422,6 @@
       "timestamp": "15:55"
     },
     {
-      "title": "Morrissey Plays a Smith Classic for the First Time in 29 Years",
-      "url": "https://www.rollingstone.com/music/music-news/morrissey-smith-classic-first-time-29-years-1235498088/",
-      "timestamp": "15:29"
-    },
-    {
-      "title": "Zach Bryan Releases Acoustic Version of ‘With Heaven on Top’ So He Doesn’t ‘Have to Hear Everyone Whine’",
-      "url": "https://www.rollingstone.com/music/music-news/zach-bryan-drops-acoustic-version-of-with-heaven-on-top-1235497688/",
-      "timestamp": "15:22"
-    },
-    {
       "title": "Black Label Society's New Album to Feature Ozzy Osbourne Tribute",
       "url": "https://ultimateclassicrock.com/black-label-society-engines-of-demolition/",
       "timestamp": "15:21"
@@ -445,7 +440,12 @@
       "title": "Here's what Foo Fighters played at their first show of 2026, while paying tribute to absent Pat Smear",
       "url": "https://www.nme.com/news/music/foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage-3922680?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage",
       "timestamp": "13:38"
+    },
+    {
+      "title": "1996's 20 Biggest Rock Tours",
+      "url": "https://ultimateclassicrock.com/biggest-1996-rock-tours/",
+      "timestamp": "13:14"
     }
   ],
-  "lastUpdated": "2026-01-12T18:38:28.875Z"
+  "lastUpdated": "2026-01-12T19:23:47.495Z"
 }
