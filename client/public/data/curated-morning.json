@@ -1,33 +1,33 @@
 {
-  "curatedAt": "2026-01-12T06:42:20.483Z",
+  "curatedAt": "2026-01-12T07:31:06.139Z",
   "totalAnalyzed": 66,
   "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "TRACKTION RELEASES RETRO LEGENDS EXPANSION FOR HORIZEN (UPDATED TO V2.7)",
-      "url": "https://rekkerd.org/tracktion-releases-retro-legends-expansion-for-horizen-updated-to-v2-7/",
-      "timestamp": "2026-01-12T06:42:17.520Z",
+      "title": "I DISCOVERED THIS COLOR-CODED KITCHEN TOWEL ORGANIZATION SYSTEM ON TIKTOK AND IT'S GENIUS",
+      "url": "https://www.tomsguide.com/home/i-discovered-this-color-coded-kitchen-towel-organization-system-on-tiktok-and-its-genius",
+      "timestamp": "2026-01-12T07:31:03.166Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
+        "impact": 0.5,
+        "engagement": 0.5,
         "timeliness": 1,
-        "discovery": 0.3,
-        "composite": 0.65
+        "discovery": 0.5,
+        "composite": 0.6000000000000001
       }
     },
     "deepDive": [
       {
-        "title": "TRACKTION RELEASES RETRO LEGENDS EXPANSION FOR HORIZEN (UPDATED TO V2.7)",
-        "url": "https://rekkerd.org/tracktion-releases-retro-legends-expansion-for-horizen-updated-to-v2-7/",
-        "timestamp": "2026-01-12T06:42:17.520Z",
-        "source": "splash",
+        "title": "Netflix new releases — 7 shows and movies you need to stream this week (Jan. 12-18)",
+        "url": "https://www.tomsguide.com/entertainment/netflix/new-netflix-shows-and-movies-january-12-18-2026",
+        "timestamp": "07:00",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 1,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.65
+          "composite": 0.55
         }
       },
       {
@@ -59,6 +59,19 @@
     ],
     "discovery": [
       {
+        "title": "I DISCOVERED THIS COLOR-CODED KITCHEN TOWEL ORGANIZATION SYSTEM ON TIKTOK AND IT'S GENIUS",
+        "url": "https://www.tomsguide.com/home/i-discovered-this-color-coded-kitchen-towel-organization-system-on-tiktok-and-its-genius",
+        "timestamp": "2026-01-12T07:31:03.166Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.5,
+          "timeliness": 1,
+          "discovery": 0.5,
+          "composite": 0.6000000000000001
+        }
+      },
+      {
         "title": "Meet ØWay, the Atlanta rap collective behind 2026’s first viral cypher",
         "url": "https://www.thefader.com/2026/01/09/oway-cypher-2026-tezzus-pz-young-thug",
         "timestamp": "20:45",
@@ -87,6 +100,19 @@
     ],
     "conversation": [
       {
+        "title": "Netflix new releases — 7 shows and movies you need to stream this week (Jan. 12-18)",
+        "url": "https://www.tomsguide.com/entertainment/netflix/new-netflix-shows-and-movies-january-12-18-2026",
+        "timestamp": "07:00",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.55
+        }
+      },
+      {
         "title": "TEED releases his new album 'Always With Me'",
         "url": "https://www.npr.org/2026/01/10/nx-s1-5659256/teed-releases-his-new-album-always-with-me",
         "timestamp": "22:01",
@@ -98,49 +124,49 @@
           "discovery": 0.3,
           "composite": 0.545
         }
-      },
-      {
-        "title": "The Best, Worst, and Most WTF Moments of the 2026 Golden Globes",
-        "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/golden-globes-2026-best-worst-moments-1235497676/",
-        "timestamp": "05:10",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.9,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.54
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "TRACKTION RELEASES RETRO LEGENDS EXPANSION FOR HORIZEN (UPDATED TO V2.7)",
-        "url": "https://rekkerd.org/tracktion-releases-retro-legends-expansion-for-horizen-updated-to-v2-7/",
-        "timestamp": "2026-01-12T06:42:17.520Z",
+        "title": "I DISCOVERED THIS COLOR-CODED KITCHEN TOWEL ORGANIZATION SYSTEM ON TIKTOK AND IT'S GENIUS",
+        "url": "https://www.tomsguide.com/home/i-discovered-this-color-coded-kitchen-towel-organization-system-on-tiktok-and-its-genius",
+        "timestamp": "2026-01-12T07:31:03.166Z",
         "source": "splash",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
+          "impact": 0.5,
+          "engagement": 0.5,
           "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.65
+          "discovery": 0.5,
+          "composite": 0.6000000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "TRACKTION RELEASES RETRO LEGENDS EXPANSION FOR HORIZEN (UPDATED TO V2.7)",
-      "url": "https://rekkerd.org/tracktion-releases-retro-legends-expansion-for-horizen-updated-to-v2-7/",
-      "timestamp": "2026-01-12T06:42:17.520Z",
+      "title": "I DISCOVERED THIS COLOR-CODED KITCHEN TOWEL ORGANIZATION SYSTEM ON TIKTOK AND IT'S GENIUS",
+      "url": "https://www.tomsguide.com/home/i-discovered-this-color-coded-kitchen-towel-organization-system-on-tiktok-and-its-genius",
+      "timestamp": "2026-01-12T07:31:03.166Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
+        "impact": 0.5,
+        "engagement": 0.5,
         "timeliness": 1,
+        "discovery": 0.5,
+        "composite": 0.6000000000000001
+      }
+    },
+    {
+      "title": "Netflix new releases — 7 shows and movies you need to stream this week (Jan. 12-18)",
+      "url": "https://www.tomsguide.com/entertainment/netflix/new-netflix-shows-and-movies-january-12-18-2026",
+      "timestamp": "07:00",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7999999999999999,
+        "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.65
+        "composite": 0.55
       }
     },
     {
@@ -193,19 +219,6 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.48000000000000004
-      }
-    },
-    {
-      "title": "The Best, Worst, and Most WTF Moments of the 2026 Golden Globes",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/golden-globes-2026-best-worst-moments-1235497676/",
-      "timestamp": "05:10",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.9,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.54
       }
     }
   ],
