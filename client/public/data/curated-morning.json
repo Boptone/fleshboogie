@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-12T22:22:46.529Z",
+  "curatedAt": "2026-01-12T23:20:32.465Z",
   "totalAnalyzed": 66,
   "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "'POLE TO POLE WITH WILL SMITH:' HOW TO WATCH THE NAT GEO DOCUSERIES ONLINE",
-      "url": "https://variety.com/2026/shopping/news/pole-to-pole-with-will-smith-watch-nat-geo-series-online-1236628228/",
-      "timestamp": "2026-01-12T22:22:43.525Z",
+      "title": "PENSKE MEDIA SUES GOOGLE OVER ACCUSATION OF DIGITAL AD MARKET MANIPULATION",
+      "url": "https://www.thewrap.com/industry-news/public-policy-legal/penske-media-sues-google-digital-ad-market-monopoly/",
+      "timestamp": "2026-01-12T23:20:29.530Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.65,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.625
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
@@ -34,7 +34,7 @@
         "title": "‘Newport Beach Film Festival Honors,’ Featuring Variety’s 10 Actors to Watch, to Air Tonight on PBS SoCal",
         "url": "https://variety.com/2026/film/features/newport-beach-honors-variety-10-actors-to-watch-pbs-1236629798/",
         "timestamp": "22:07",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -87,19 +87,6 @@
     ],
     "conversation": [
       {
-        "title": "'POLE TO POLE WITH WILL SMITH:' HOW TO WATCH THE NAT GEO DOCUSERIES ONLINE",
-        "url": "https://variety.com/2026/shopping/news/pole-to-pole-with-will-smith-watch-nat-geo-series-online-1236628228/",
-        "timestamp": "2026-01-12T22:22:43.525Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.65,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.625
-        }
-      },
-      {
         "title": "What was the best-selling song of 1966?",
         "url": "https://faroutmagazine.co.uk/best-selling-song-of-1966/",
         "timestamp": "21:00",
@@ -111,36 +98,49 @@
           "discovery": 0.3,
           "composite": 0.54
         }
+      },
+      {
+        "title": "My Chemical Romance delay first show of 2026 world tour",
+        "url": "https://www.nme.com/news/music/my-chemical-romance-delay-first-show-of-2026-world-tour-3922742?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-chemical-romance-delay-first-show-of-2026-world-tour",
+        "timestamp": "19:29",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.75,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.535
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "'POLE TO POLE WITH WILL SMITH:' HOW TO WATCH THE NAT GEO DOCUSERIES ONLINE",
-        "url": "https://variety.com/2026/shopping/news/pole-to-pole-with-will-smith-watch-nat-geo-series-online-1236628228/",
-        "timestamp": "2026-01-12T22:22:43.525Z",
+        "title": "PENSKE MEDIA SUES GOOGLE OVER ACCUSATION OF DIGITAL AD MARKET MANIPULATION",
+        "url": "https://www.thewrap.com/industry-news/public-policy-legal/penske-media-sues-google-digital-ad-market-monopoly/",
+        "timestamp": "2026-01-12T23:20:29.530Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.65,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.625
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "'POLE TO POLE WITH WILL SMITH:' HOW TO WATCH THE NAT GEO DOCUSERIES ONLINE",
-      "url": "https://variety.com/2026/shopping/news/pole-to-pole-with-will-smith-watch-nat-geo-series-online-1236628228/",
-      "timestamp": "2026-01-12T22:22:43.525Z",
+      "title": "PENSKE MEDIA SUES GOOGLE OVER ACCUSATION OF DIGITAL AD MARKET MANIPULATION",
+      "url": "https://www.thewrap.com/industry-news/public-policy-legal/penske-media-sues-google-digital-ad-market-monopoly/",
+      "timestamp": "2026-01-12T23:20:29.530Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.65,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.625
+        "composite": 0.5800000000000001
       }
     },
     {
@@ -160,7 +160,7 @@
       "title": "‘Newport Beach Film Festival Honors,’ Featuring Variety’s 10 Actors to Watch, to Air Tonight on PBS SoCal",
       "url": "https://variety.com/2026/film/features/newport-beach-honors-variety-10-actors-to-watch-pbs-1236629798/",
       "timestamp": "22:07",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.7,

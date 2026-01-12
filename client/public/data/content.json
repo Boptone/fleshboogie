@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "'POLE TO POLE WITH WILL SMITH:' HOW TO WATCH THE NAT GEO DOCUSERIES ONLINE",
-    "url": "https://variety.com/2026/shopping/news/pole-to-pole-with-will-smith-watch-nat-geo-series-online-1236628228/",
+    "headline": "PENSKE MEDIA SUES GOOGLE OVER ACCUSATION OF DIGITAL AD MARKET MANIPULATION",
+    "url": "https://www.thewrap.com/industry-news/public-policy-legal/penske-media-sues-google-digital-ad-market-monopoly/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "'Hamnet' Also Won the Entire Weekend",
-      "url": "https://www.indiewire.com/awards/industry/hamnet-winner-golden-globes-2026-weekend-1235172772/",
-      "timestamp": "22:16",
+      "title": "Leonardo DiCaprio Really Wanted You to See His Rolex Daytona at the Golden Globes",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/leonardo-dicaprio-rolex-enjoyed-golden-globes-spotlight-1236471586/",
+      "timestamp": "23:10",
       "pinned": false
     },
     {
-      "title": "NewsNation’s Katie Pavlich on Leaving Fox News, Breaking Into Primetime and Booking 50 Cent",
-      "url": "https://www.thewrap.com/media-platforms/journalism/newsnation-katie-pavlich-interview-fox-news-exit/",
-      "timestamp": "22:15",
+      "title": "The AI Race in Early 2026: Nine Developments Shaping the Year",
+      "url": "https://pub.towardsai.net/the-ai-race-in-early-2026-nine-developments-shaping-the-year-ab0e6c4588ce?source=rss----98111c9905da---4",
+      "timestamp": "23:02",
       "pinned": false
     },
     {
-      "title": "How to Watch 'The Night Manager' Season 2 Online for Free",
-      "url": "https://variety.com/2026/shopping/news/how-to-watch-the-night-manager-online-free-1236629814/",
-      "timestamp": "22:09",
+      "title": "Beatriz González, Colombian Painter of Collective Memory, Dies at 93",
+      "url": "https://hyperallergic.com/beatriz-gonzalez-colombian-painter-of-collective-memory-dies-at-93/",
+      "timestamp": "23:02",
       "pinned": false
     },
     {
-      "title": "‘Newport Beach Film Festival Honors,’ Featuring Variety’s 10 Actors to Watch, to Air Tonight on PBS SoCal",
-      "url": "https://variety.com/2026/film/features/newport-beach-honors-variety-10-actors-to-watch-pbs-1236629798/",
-      "timestamp": "22:07",
+      "title": "Ian Rankin's favourite album of all time: \"Songs that defy categorisation\"",
+      "url": "https://faroutmagazine.co.uk/ian-rankin-favourite-album-of-all-time/",
+      "timestamp": "23:00",
       "pinned": false
     },
     {
-      "title": "Expert Flags Bail-ins, Asset Seizures and Gold Confiscation as Confidence in Banks Erodes",
-      "url": "https://news.bitcoin.com/expert-flags-bail-ins-asset-seizures-and-gold-confiscation-as-confidence-in-banks-erodes/",
-      "timestamp": "22:05",
+      "title": "50 Cent's Studio Plans $124 Million Investment In Louisiana Complex",
+      "url": "https://www.hollywoodreporter.com/business/business-news/50-cent-louisiana-complex-1236471782/",
+      "timestamp": "23:00",
       "pinned": false
     }
   ],
@@ -105,6 +105,72 @@
   ],
   "automated": [
     {
+      "title": "Penske Media Sues Google Over Accusation of Digital Ad Market Manipulation",
+      "url": "https://www.thewrap.com/industry-news/public-policy-legal/penske-media-sues-google-digital-ad-market-monopoly/",
+      "timestamp": "23:16",
+      "pubDate": "2026-01-12T23:16:50.000Z"
+    },
+    {
+      "title": "Leonardo DiCaprio Really Wanted You to See His Rolex Daytona at the Golden Globes",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/leonardo-dicaprio-rolex-enjoyed-golden-globes-spotlight-1236471586/",
+      "timestamp": "23:10",
+      "pubDate": "2026-01-12T23:10:35.000Z"
+    },
+    {
+      "title": "The AI Race in Early 2026: Nine Developments Shaping the Year",
+      "url": "https://pub.towardsai.net/the-ai-race-in-early-2026-nine-developments-shaping-the-year-ab0e6c4588ce?source=rss----98111c9905da---4",
+      "timestamp": "23:02",
+      "pubDate": "2026-01-12T23:02:53.000Z"
+    },
+    {
+      "title": "Beatriz González, Colombian Painter of Collective Memory, Dies at 93",
+      "url": "https://hyperallergic.com/beatriz-gonzalez-colombian-painter-of-collective-memory-dies-at-93/",
+      "timestamp": "23:02",
+      "pubDate": "2026-01-12T23:02:02.000Z"
+    },
+    {
+      "title": "Ian Rankin's favourite album of all time: \"Songs that defy categorisation\"",
+      "url": "https://faroutmagazine.co.uk/ian-rankin-favourite-album-of-all-time/",
+      "timestamp": "23:00",
+      "pubDate": "2026-01-12T23:00:00.000Z"
+    },
+    {
+      "title": "50 Cent's Studio Plans $124 Million Investment In Louisiana Complex",
+      "url": "https://www.hollywoodreporter.com/business/business-news/50-cent-louisiana-complex-1236471782/",
+      "timestamp": "23:00",
+      "pubDate": "2026-01-12T23:00:00.000Z"
+    },
+    {
+      "title": "YouTuber Cracks Coca-Cola&#39;s 139-Year-Old Secret Formula—Here &#39;s the Recipe",
+      "url": "https://decrypt.co/354308/youtuber-cracks-coca-colas-139-year-old-secret-formula",
+      "timestamp": "22:50",
+      "pubDate": "2026-01-12T22:50:11.000Z"
+    },
+    {
+      "title": "Golden Globes Producers on Song Choices, Color Commentary and That CBS News Joke",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-golden-globes-producers-interview-music-announcers-cbs-1236471620/",
+      "timestamp": "22:42",
+      "pubDate": "2026-01-12T22:42:40.000Z"
+    },
+    {
+      "title": "'What's the Word': KATSEYE x Pandora Drop New Line of Mini Charms for Eyecons & Everyone Else",
+      "url": "https://www.rollingstone.com/product-recommendations/style/katseye-pandora-mini-charms-where-to-buy-online-1235498297/",
+      "timestamp": "22:32",
+      "pubDate": "2026-01-12T22:32:34.000Z"
+    },
+    {
+      "title": "Remembering Yeison Jimenez: 5 Best Anthems From the Colombian Música Popular&#160;Star",
+      "url": "https://www.billboard.com/lists/yeison-jimenez-best-song-colombian-musica-popular-star/",
+      "timestamp": "22:32",
+      "pubDate": "2026-01-12T22:32:20.000Z"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "22:30",
+      "pubDate": "2026-01-12T22:30:07.000Z"
+    },
+    {
       "title": "'Pole to Pole With Will Smith:' How to Watch the Nat Geo Docuseries Online",
       "url": "https://variety.com/2026/shopping/news/pole-to-pole-with-will-smith-watch-nat-geo-series-online-1236628228/",
       "timestamp": "22:17",
@@ -155,6 +221,12 @@
     {
       "title": "The peculiar moment Roger Waters said his first solo album stood up for the porn industry",
       "url": "https://faroutmagazine.co.uk/roger-waters-first-solo-album-porn/",
+      "timestamp": "22:00",
+      "pubDate": "2026-01-12T22:00:00.000Z"
+    },
+    {
+      "title": "How Brain Waves Shape Your Sense of Self",
+      "url": "https://nautil.us/how-brain-waves-shape-your-sense-of-self-1261123/",
       "timestamp": "22:00",
       "pubDate": "2026-01-12T22:00:00.000Z"
     },
@@ -231,12 +303,6 @@
       "pubDate": "2026-01-12T21:02:49.000Z"
     },
     {
-      "title": "Hot 97 Names The Kid Mero as New Morning Show Host: Here's When He&#160;Starts",
-      "url": "https://www.billboard.com/music/rb-hip-hop/hot-97-the-kid-mero-morning-show-1236153407/",
-      "timestamp": "21:00",
-      "pubDate": "2026-01-12T21:00:18.000Z"
-    },
-    {
       "title": "The Distroless Linux Future May Be Coming",
       "url": "https://hackaday.com/2026/01/12/the-distroless-linux-future-may-be-coming/",
       "timestamp": "21:00",
@@ -245,6 +311,12 @@
     {
       "title": "What was the best-selling song of 1966?",
       "url": "https://faroutmagazine.co.uk/best-selling-song-of-1966/",
+      "timestamp": "21:00",
+      "pubDate": "2026-01-12T21:00:00.000Z"
+    },
+    {
+      "title": "Take a Look at the Hairy Mouthparts of a Queen Bee",
+      "url": "https://nautil.us/take-a-look-at-the-hairy-mouthparts-of-a-queen-bee-1261077/",
       "timestamp": "21:00",
       "pubDate": "2026-01-12T21:00:00.000Z"
     },
@@ -271,81 +343,19 @@
       "url": "https://faroutmagazine.co.uk/nicole-kidmans-five-greatest-movies-according-to-nicole-kidman/",
       "timestamp": "20:45",
       "pubDate": "2026-01-12T20:45:00.000Z"
-    },
-    {
-      "title": "3 ETH price charts predict a sharp move to $4K is brewing",
-      "url": "https://cointelegraph.com/news/3-eth-price-charts-predict-a-sharp-move-to-dollar4k-is-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "20:45",
-      "pubDate": "2026-01-12T20:45:00.000Z"
-    },
-    {
-      "title": "‘Hamnet’ Book Soars Back to Best-Sellers Chart Following Golden Globe Wins",
-      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/hamnet-book-where-to-buy-online-price-charts-1235498458/",
-      "timestamp": "20:35",
-      "pubDate": "2026-01-12T20:35:32.000Z"
-    },
-    {
-      "title": "'Queen of K-pop' BoA parts ways with SM Entertainment after 25 years",
-      "url": "https://www.nme.com/news/music/queen-of-k-pop-boa-parts-ways-with-sm-entertainment-after-25-years-3922746?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=queen-of-k-pop-boa-parts-ways-with-sm-entertainment-after-25-years",
-      "timestamp": "20:33",
-      "pubDate": "2026-01-12T20:33:16.000Z"
-    },
-    {
-      "title": "The classic Eagles album Don Henley called their peak: \"Height of our powers\"",
-      "url": "https://faroutmagazine.co.uk/classic-eagles-album-don-henley-called-their-peak/",
-      "timestamp": "20:30",
-      "pubDate": "2026-01-12T20:30:00.000Z"
-    },
-    {
-      "title": "The Nightmares Beneath the Surface of \"Dreamworlds\"",
-      "url": "https://hyperallergic.com/the-nightmares-beneath-the-surface-of-dreamworlds/",
-      "timestamp": "20:27",
-      "pubDate": "2026-01-12T20:27:00.000Z"
-    },
-    {
-      "title": "Dell revives its XPS laptops after a boneheaded rebranding",
-      "url": "https://www.engadget.com/computing/laptops/dell-revives-its-xps-laptops-after-a-boneheaded-rebranding-001028029.html?src=rss",
-      "timestamp": "20:25",
-      "pubDate": "2026-01-12T20:25:47.000Z"
-    },
-    {
-      "title": "CES 2026 proved the PC industry is hosed this year",
-      "url": "https://www.engadget.com/computing/ces-2026-proved-the-pc-industry-is-hosed-this-year-174500314.html?src=rss",
-      "timestamp": "20:25",
-      "pubDate": "2026-01-12T20:25:38.000Z"
-    },
-    {
-      "title": "Golden Globes 2026: Seen and Heard at Every Star-Studded Party",
-      "url": "https://www.hollywoodreporter.com/lists/golden-globes-2026-parties-heated-rivalry/",
-      "timestamp": "20:25",
-      "pubDate": "2026-01-12T20:25:00.000Z"
-    },
-    {
-      "title": "When Ben Affleck predicted the future of cinema with terrifying accuracy: \"They figured it out\"",
-      "url": "https://faroutmagazine.co.uk/when-ben-affleck-predicted-the-future-of-cinema/",
-      "timestamp": "20:15",
-      "pubDate": "2026-01-12T20:15:00.000Z"
-    },
-    {
-      "title": "'Bug' Broadway Review: A Riveting Carrie Coon Cuts To The Bone In Tracy Letts' Paranoid Fantasia",
-      "url": "https://deadline.com/2026/01/bug-broadway-review-carrie-coon-tracy-letts-1236680796/",
-      "timestamp": "20:11",
-      "pubDate": "2026-01-12T20:11:05.000Z"
-    },
-    {
-      "title": "Best Moments From the Golden Globes Pre-Show Red Carpet, From 'Heated Rivalry' Star Hudson Williams to Elle Fanning and More",
-      "url": "https://variety.com/2026/tv/news/best-moments-golden-globes-pre-show-red-carpet-1236629712/",
-      "timestamp": "20:06",
-      "pubDate": "2026-01-12T20:06:41.000Z"
-    },
-    {
-      "title": "David Wojnarowicz in the Age of Surveillance",
-      "url": "https://hyperallergic.com/david-wojnarowicz-in-the-age-of-surveillance/",
-      "timestamp": "20:06",
-      "pubDate": "2026-01-12T20:06:33.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "Ian Rankin's favourite album of all time: \"Songs that defy categorisation\"",
+      "url": "https://faroutmagazine.co.uk/ian-rankin-favourite-album-of-all-time/",
+      "timestamp": "23:00"
+    },
+    {
+      "title": "Remembering Yeison Jimenez: 5 Best Anthems From the Colombian Música Popular&#160;Star",
+      "url": "https://www.billboard.com/lists/yeison-jimenez-best-song-colombian-musica-popular-star/",
+      "timestamp": "22:32"
+    },
     {
       "title": "The peculiar moment Roger Waters said his first solo album stood up for the porn industry",
       "url": "https://faroutmagazine.co.uk/roger-waters-first-solo-album-porn/",
@@ -362,11 +372,6 @@
       "timestamp": "21:26"
     },
     {
-      "title": "Hot 97 Names The Kid Mero as New Morning Show Host: Here's When He&#160;Starts",
-      "url": "https://www.billboard.com/music/rb-hip-hop/hot-97-the-kid-mero-morning-show-1236153407/",
-      "timestamp": "21:00"
-    },
-    {
       "title": "What was the best-selling song of 1966?",
       "url": "https://faroutmagazine.co.uk/best-selling-song-of-1966/",
       "timestamp": "21:00"
@@ -375,11 +380,6 @@
       "title": "'Queen of K-pop' BoA parts ways with SM Entertainment after 25 years",
       "url": "https://www.nme.com/news/music/queen-of-k-pop-boa-parts-ways-with-sm-entertainment-after-25-years-3922746?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=queen-of-k-pop-boa-parts-ways-with-sm-entertainment-after-25-years",
       "timestamp": "20:33"
-    },
-    {
-      "title": "The classic Eagles album Don Henley called their peak: \"Height of our powers\"",
-      "url": "https://faroutmagazine.co.uk/classic-eagles-album-don-henley-called-their-peak/",
-      "timestamp": "20:30"
     },
     {
       "title": "Top 10 Bob Weir Songs",
@@ -447,5 +447,5 @@
       "timestamp": "14:30"
     }
   ],
-  "lastUpdated": "2026-01-12T22:22:43.525Z"
+  "lastUpdated": "2026-01-12T23:20:29.530Z"
 }
