@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "GÖTEBORG TO HOST AUDIENCE LIE DETECTORS AS PART OF LIVE FESTIVAL EXPERIMENT",
-    "url": "https://deadline.com/2026/01/goteborg-audience-lie-detector-festival-experiment-1236680559/",
+    "headline": "MORRISSEY PLAYS A SMITH CLASSIC FOR THE FIRST TIME IN 29 YEARS",
+    "url": "https://www.rollingstone.com/music/music-news/morrissey-smith-classic-first-time-29-years-1235498088/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Ralph L. Thomas, 'The Terry Fox Story' Director and Journalist, Dies at 86",
-      "url": "https://www.thewrap.com/creative-content/movies/ralph-thomas-dies-journalist-filmmaker-obit/",
-      "timestamp": "14:25",
+      "title": "Luminar lines up $22 million bidder for its lidar business",
+      "url": "https://techcrunch.com/2026/01/12/luminar-lines-up-22-million-bidder-for-its-lidar-business/",
+      "timestamp": "15:28",
       "pinned": false
     },
     {
-      "title": "Julia Louis-Dreyfus protests against ICE in New York: \"GET ICE OUT\"",
-      "url": "https://faroutmagazine.co.uk/julia-louis-dreyfus-protests-against-ice-in-new-york/",
-      "timestamp": "14:24",
+      "title": "Ethereum set for 95% copycat rally against Bitcoin",
+      "url": "https://cointelegraph.com/news/ethereum-set-for-95-percent-copycat-rally-against-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "15:24",
       "pinned": false
     },
     {
-      "title": "Post your questions for R&B star Jill Scott",
-      "url": "https://www.theguardian.com/culture/2026/jan/12/post-your-questions-for-jill-scott",
-      "timestamp": "14:21",
+      "title": "Akai MPC XL Leak: More Details and Features Revealed!",
+      "url": "https://www.gearnews.com/akai-mpc-xl-synth/",
+      "timestamp": "15:23",
       "pinned": false
     },
     {
-      "title": "Strategy makes biggest Bitcoin purchase since July 2025, adds $1.25B in BTC",
-      "url": "https://cointelegraph.com/news/strategy-adds-13627-bitcoin-1-25b-buy-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "14:14",
+      "title": "Zach Bryan Releases Acoustic Version of 'With Heaven on Top' So He Doesn't 'Have to Hear Everyone Whine'",
+      "url": "https://www.rollingstone.com/music/music-news/zach-bryan-drops-acoustic-version-of-with-heaven-on-top-1235497688/",
+      "timestamp": "15:22",
       "pinned": false
     },
     {
-      "title": "Split Screen Acquires Eliza Capai’s Brazilian Doc ‘The Fabulous Time Machine’ Ahead of Berlin Premiere (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/the-fabulous-time-machine-berlin-fesival-split-screen-1236628267/",
-      "timestamp": "14:13",
+      "title": "Black Label Society's New Album to Feature Ozzy Osbourne Tribute",
+      "url": "https://ultimateclassicrock.com/black-label-society-engines-of-demolition/",
+      "timestamp": "15:21",
       "pinned": false
     }
   ],
@@ -105,6 +105,174 @@
   ],
   "automated": [
     {
+      "title": "Morrissey Plays a Smith Classic for the First Time in 29 Years",
+      "url": "https://www.rollingstone.com/music/music-news/morrissey-smith-classic-first-time-29-years-1235498088/",
+      "timestamp": "15:29",
+      "pubDate": "2026-01-12T15:29:48.000Z"
+    },
+    {
+      "title": "Luminar lines up $22 million bidder for its lidar business",
+      "url": "https://techcrunch.com/2026/01/12/luminar-lines-up-22-million-bidder-for-its-lidar-business/",
+      "timestamp": "15:28",
+      "pubDate": "2026-01-12T15:28:16.000Z"
+    },
+    {
+      "title": "Ethereum set for 95% copycat rally against Bitcoin",
+      "url": "https://cointelegraph.com/news/ethereum-set-for-95-percent-copycat-rally-against-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "15:24",
+      "pubDate": "2026-01-12T15:24:28.000Z"
+    },
+    {
+      "title": "Akai MPC XL Leak: More Details and Features Revealed!",
+      "url": "https://www.gearnews.com/akai-mpc-xl-synth/",
+      "timestamp": "15:23",
+      "pubDate": "2026-01-12T15:23:55.000Z"
+    },
+    {
+      "title": "Zach Bryan Releases Acoustic Version of 'With Heaven on Top' So He Doesn't 'Have to Hear Everyone Whine'",
+      "url": "https://www.rollingstone.com/music/music-news/zach-bryan-drops-acoustic-version-of-with-heaven-on-top-1235497688/",
+      "timestamp": "15:22",
+      "pubDate": "2026-01-12T15:22:45.000Z"
+    },
+    {
+      "title": "Black Label Society's New Album to Feature Ozzy Osbourne Tribute",
+      "url": "https://ultimateclassicrock.com/black-label-society-engines-of-demolition/",
+      "timestamp": "15:21",
+      "pubDate": "2026-01-12T15:21:39.000Z"
+    },
+    {
+      "title": "The Golden Globes Gave Three Serious Films a Big Oscar Boost",
+      "url": "https://filmmakermagazine.com/133054-the-golden-globes-gave-three-serious-films-a-big-oscar-boost/",
+      "timestamp": "15:19",
+      "pubDate": "2026-01-12T15:19:55.000Z"
+    },
+    {
+      "title": "Jennifer Lawrence Admits She Nearly Went Cruella de Vil After a Dog Bit Her Son: 'I'm Gonna Take Out You and Your Whole F–kin' Family' &#124; Video",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/jennifer-lawrence-dog-bit-son-reaction/",
+      "timestamp": "15:15",
+      "pubDate": "2026-01-12T15:15:04.000Z"
+    },
+    {
+      "title": "What was the worst number one of 1977?",
+      "url": "https://faroutmagazine.co.uk/what-was-worst-number-one-of-1977/",
+      "timestamp": "15:15",
+      "pubDate": "2026-01-12T15:15:00.000Z"
+    },
+    {
+      "title": "How Childbearing Leaves Its Imprint on Mothers’ Biological Age",
+      "url": "https://nautil.us/how-childbearing-leaves-its-imprint-on-mothers-biological-age-1261006/",
+      "timestamp": "15:14",
+      "pubDate": "2026-01-12T15:14:45.000Z"
+    },
+    {
+      "title": "Julia Roberts confirms involvement in 'Ocean's 14' and admits she was \"surprised\" by script",
+      "url": "https://faroutmagazine.co.uk/julia-roberts-admits-surprised-script-oceans-14/",
+      "timestamp": "15:06",
+      "pubDate": "2026-01-12T15:06:13.000Z"
+    },
+    {
+      "title": "Why AI Needs a Sense of Caution",
+      "url": "https://pub.towardsai.net/why-ai-needs-a-sense-of-caution-545a6b097da5?source=rss----98111c9905da---4",
+      "timestamp": "15:03",
+      "pubDate": "2026-01-12T15:03:12.000Z"
+    },
+    {
+      "title": "Louis Tomlinson On Wanting to Be Great For His Son and the One Direction Songs He's Comfortable Singing At&#160;34",
+      "url": "https://www.billboard.com/music/pop/louis-tomlinson-billboard-cover-story-interview-1236151775/",
+      "timestamp": "15:01",
+      "pubDate": "2026-01-12T15:01:16.000Z"
+    },
+    {
+      "title": "Louis Tomlinson: Photos From the Billboard Cover&#160;Shoot",
+      "url": "https://www.billboard.com/photos/louis-tomlinson-photos-billboard-cover-shoot-1236151763/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-12T15:00:49.000Z"
+    },
+    {
+      "title": "Lena Waithe Sets Playwriting & Stage Acting Debut With Self-Penned 'trinity' At Baltimore Center Stage",
+      "url": "https://deadline.com/2026/01/lena-waithe-trinity-baltimore-center-stage-1236678995/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-12T15:00:00.000Z"
+    },
+    {
+      "title": "Louis Tomlinson Talks On the Creative Process For His Solo Album 'How Did I Get Here?,' & Reflects On His Time In One Direction &#124; Billboard In&#160;Conversation",
+      "url": "https://www.billboard.com/video/louis-tomlinson-talks-on-his-solo-album-how-did-i-get-here-and-reflects-on-his-time-in-one-direction/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-12T15:00:00.000Z"
+    },
+    {
+      "title": "Ibanez Layer Delayer: The Ultimate Shoegaze Delay?",
+      "url": "https://www.gearnews.com/ibanez-layer-delayer-guitar/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-12T15:00:00.000Z"
+    },
+    {
+      "title": "What was the metaverse?",
+      "url": "https://www.fastcompany.com/91467599/metaverse-zuckerberg-facebook-ai?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-12T15:00:00.000Z"
+    },
+    {
+      "title": "Cells Use ‘Bioelectricity’ To Coordinate and Make Group Decisions",
+      "url": "https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/",
+      "timestamp": "14:58",
+      "pubDate": "2026-01-12T14:58:22.000Z"
+    },
+    {
+      "title": "Gold, Silver Hit New Highs as Bitcoin Trades Flat Ahead of Key Macroeconomic Events",
+      "url": "https://decrypt.co/354236/gold-silver-hit-new-highs-as-bitcoin-trades-flat-ahead-of-key-macroeconomic-events",
+      "timestamp": "14:44",
+      "pubDate": "2026-01-12T14:44:10.000Z"
+    },
+    {
+      "title": "John Mayer Pays Heartfelt Tribute to Bob Weir: ‘I’ll Meet You in the Music’",
+      "url": "https://variety.com/2026/music/news/john-mayer-pays-tribute-to-bob-weir-grateful-dead-1236629337/",
+      "timestamp": "14:44",
+      "pubDate": "2026-01-12T14:44:02.000Z"
+    },
+    {
+      "title": "Destin Conrad Makes Tiny Desk Debut With ‘Love on Digital’ and ‘Whimsy’ Medley",
+      "url": "https://www.rollingstone.com/music/music-news/destin-conrad-npr-tiny-desk-1235498064/",
+      "timestamp": "14:40",
+      "pubDate": "2026-01-12T14:40:25.000Z"
+    },
+    {
+      "title": "Jersey Club Keeps on Moving",
+      "url": "https://daily.bandcamp.com/scene-report/jersey-club-music-on-bandcamp",
+      "timestamp": "14:39",
+      "pubDate": "2026-01-12T14:39:36.000Z"
+    },
+    {
+      "title": "‘A Useful Ghost’ Review: The Most Elegant Human-Vacuum Romance You’ll Ever Watch",
+      "url": "https://www.indiewire.com/criticism/movies/a-useful-ghost-review-1235124146/",
+      "timestamp": "14:38",
+      "pubDate": "2026-01-12T14:38:00.000Z"
+    },
+    {
+      "title": "Vibe coding is turning reporters into builders, and that’s a good thing for media",
+      "url": "https://www.fastcompany.com/91468215/vibe-coding-turning-reporters-into-builders-thats-good-thing-media?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
+      "timestamp": "14:36",
+      "pubDate": "2026-01-12T14:36:37.000Z"
+    },
+    {
+      "title": "French Int’l B.O. Rose 6% In 2025 To $317M With Animation; Luc Besson's 'Dracula' & Coproductions Leading The Way",
+      "url": "https://deadline.com/2026/01/french-international-box-office-6-percent-2025-317m-1236680524/",
+      "timestamp": "14:33",
+      "pubDate": "2026-01-12T14:33:00.000Z"
+    },
+    {
+      "title": "Dry Cleaning Dance Themselves Dirty",
+      "url": "https://www.spin.com/2026/01/dry-cleaning-dance-themselves-dirty/",
+      "timestamp": "14:30",
+      "pubDate": "2026-01-12T14:30:00.000Z"
+    },
+    {
+      "title": "What was the first heavy metal song to sell one million copies?",
+      "url": "https://faroutmagazine.co.uk/first-heavy-metal-song-to-sell-one-million-copies/",
+      "timestamp": "14:30",
+      "pubDate": "2026-01-12T14:30:00.000Z"
+    },
+    {
       "title": "Göteborg To Host Audience Lie Detectors As Part Of Live Festival Experiment",
       "url": "https://deadline.com/2026/01/goteborg-audience-lie-detector-festival-experiment-1236680559/",
       "timestamp": "14:28",
@@ -148,7 +316,7 @@
     },
     {
       "title": "Why The Talented Mr. Ripley is Matt Damon's Darkest Role",
-      "url": "https://www.joblo.com/why-the-talented-mr-ripley-is-matt-damons-darkest-role/",
+      "url": "https://www.joblo.com/the-talented-mr-ripley-matt-damon/",
       "timestamp": "14:06",
       "pubDate": "2026-01-12T14:06:43.000Z"
     },
@@ -175,196 +343,73 @@
       "url": "https://news.bitcoin.com/saylors-strategy-stacks-13627-more-btc-as-bitcoin-hoard-nears-690k/",
       "timestamp": "14:00",
       "pubDate": "2026-01-12T14:00:04.000Z"
-    },
-    {
-      "title": "The songwriter Iggy Pop said was out of everyone’s league",
-      "url": "https://faroutmagazine.co.uk/the-songwriter-iggy-pop-said-was-out-of-everyones-league/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-12T14:00:00.000Z"
-    },
-    {
-      "title": "Julianne Moore Joins Oscar-Shortlisted Film 'Two People Exchanging Saliva' as Executive Producer Alongside Isabelle Huppert (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/julianne-moore-oscar-people-exchanging-saliva-exec-producer-1236629280/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-12T14:00:00.000Z"
-    },
-    {
-      "title": "3 hotel quality mattress toppers that turn your bed into a five-star stay — from $169",
-      "url": "https://www.tomsguide.com/mattresses/mattress-toppers/3-hotel-quality-mattress-toppers-that-turn-your-bed-into-a-five-star-stay-from-usd169",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-12T14:00:00.000Z"
-    },
-    {
-      "title": "20 Years Of MacBook Pro: How Apple's Power Laptop Became a Design Icon",
-      "url": "https://www.gearnews.com/20-years-macbook-pro-apple-tech/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-12T14:00:00.000Z"
-    },
-    {
-      "title": "George Clooney responds to Quentin Tarantino's criticisms of Paul Dano, Matthew Lillard and Owen Wilson",
-      "url": "https://www.joblo.com/george-clooney-responds-tarantino/",
-      "timestamp": "13:57",
-      "pubDate": "2026-01-12T13:57:42.000Z"
-    },
-    {
-      "title": "Is Spotify down? Live updates on the music streaming outage",
-      "url": "https://www.tomsguide.com/entertainment/live/is-spotify-down-live-updates-on-the-music-streaming-outage",
-      "timestamp": "13:49",
-      "pubDate": "2026-01-12T13:49:03.000Z"
-    },
-    {
-      "title": "Bank of Italy models Ethereum risks if ETH value collapsed",
-      "url": "https://cointelegraph.com/news/bank-of-italy-ethereum-security-ether-price-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "13:46",
-      "pubDate": "2026-01-12T13:46:23.000Z"
-    },
-    {
-      "title": "Here's what Foo Fighters played at their first show of 2026, while paying tribute to absent Pat Smear",
-      "url": "https://www.nme.com/news/music/foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage-3922680?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage",
-      "timestamp": "13:38",
-      "pubDate": "2026-01-12T13:38:36.000Z"
-    },
-    {
-      "title": "I just wore the future of smart glasses — and it blows away Meta Ray-Ban Display",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/i-just-wore-the-future-of-smart-glasses-and-it-blows-away-meta-ray-ban-display",
-      "timestamp": "13:37",
-      "pubDate": "2026-01-12T13:37:25.000Z"
-    },
-    {
-      "title": "Standard Chartered said to plan crypto brokerage, trims ETH forecast",
-      "url": "https://cointelegraph.com/news/standard-chartered-crypto-prime-brokerage-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "13:36",
-      "pubDate": "2026-01-12T13:36:41.000Z"
-    },
-    {
-      "title": "Get Apple's 25W MagSafe charger for only $30 right now",
-      "url": "https://www.engadget.com/deals/get-apples-25w-magsafe-charger-for-only-30-right-now-141707104.html?src=rss",
-      "timestamp": "13:36",
-      "pubDate": "2026-01-12T13:36:26.000Z"
-    },
-    {
-      "title": "George Clooney backs Paul Dano and Owen Wilson following \"cruel\" Quentin Tarantino criticism",
-      "url": "https://faroutmagazine.co.uk/george-clooney-backs-paul-dano-owen-wilson-quentin-tarantino-criticism/",
-      "timestamp": "13:32",
-      "pubDate": "2026-01-12T13:32:59.000Z"
-    },
-    {
-      "title": "Charts Don’t Lie: Bitcoin's Next Move Could Rewrite the Crypto Playbook",
-      "url": "https://news.bitcoin.com/charts-dont-lie-bitcoins-next-move-could-rewrite-the-crypto-playbook/",
-      "timestamp": "13:30",
-      "pubDate": "2026-01-12T13:30:52.000Z"
-    },
-    {
-      "title": "Golden Globes 2026: Chalamets Only Love You When They’re Chalameting",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/golden-globes-2026-nikki-glaser-review-1235498040/",
-      "timestamp": "13:30",
-      "pubDate": "2026-01-12T13:30:28.000Z"
-    },
-    {
-      "title": "What was the first number one movie of the 1990s?",
-      "url": "https://faroutmagazine.co.uk/first-number-one-movie-of-the-1990s/",
-      "timestamp": "13:30",
-      "pubDate": "2026-01-12T13:30:00.000Z"
-    },
-    {
-      "title": "Los Lobos sue Sony Music and Sony Pictures over royalties",
-      "url": "https://musically.com/2026/01/12/los-lobos-sue-sony-music-and-sony-pictures-over-royalties/",
-      "timestamp": "13:30",
-      "pubDate": "2026-01-12T13:30:00.000Z"
-    },
-    {
-      "title": "Instagram denies data breach of 17 million users after password reset email wave — here's what to do next",
-      "url": "https://www.tomsguide.com/computing/online-security/instagram-denies-data-breach-after-password-reset-email-wave-heres-what-to-do-next",
-      "timestamp": "13:23",
-      "pubDate": "2026-01-12T13:23:09.000Z"
-    },
-    {
-      "title": "Morning Minute: a16z Raises $15B, Targets AI &#038; Crypto",
-      "url": "https://decrypt.co/354228/morning-minute-a16z-raises-15b-targets-ai-crypto",
-      "timestamp": "13:23",
-      "pubDate": "2026-01-12T13:23:08.000Z"
-    },
-    {
-      "title": "1996's 20 Biggest Rock Tours",
-      "url": "https://ultimateclassicrock.com/biggest-1996-rock-tours/",
-      "timestamp": "13:14",
-      "pubDate": "2026-01-12T13:14:57.000Z"
-    },
-    {
-      "title": "The Download: introducing this year's 10 Breakthrough Technologies",
-      "url": "https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/",
-      "timestamp": "13:10",
-      "pubDate": "2026-01-12T13:10:00.000Z"
-    },
-    {
-      "title": "Federated Learning Explained: A Deep Technical Dive (And How Poets Can Actually Use It)",
-      "url": "https://pub.towardsai.net/federated-learning-explained-a-deep-technical-dive-and-how-poets-can-actually-use-it-2db13dff953f?source=rss----98111c9905da---4",
-      "timestamp": "13:02",
-      "pubDate": "2026-01-12T13:02:53.000Z"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "12:57",
-      "pubDate": "2026-01-12T12:57:35.000Z"
-    },
-    {
-      "title": "Pilates expert reveals 3 essential moves to banish upper-body tension and improve posture",
-      "url": "https://www.tomsguide.com/wellness/fitness/pilates-expert-reveals-3-essential-moves-to-banish-upper-body-tension-and-improve-posture",
-      "timestamp": "12:57",
-      "pubDate": "2026-01-12T12:57:02.000Z"
-    },
-    {
-      "title": "Rose Byrne’s partner Bobby Cannavale missed first Golden Globes win of her career to buy exotic lizard",
-      "url": "https://www.nme.com/news/film/rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard-3922648?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rose-byrnes-partner-bobby-cannavale-missed-first-golden-globes-win-of-her-career-to-buy-exotic-lizard",
-      "timestamp": "12:53",
-      "pubDate": "2026-01-12T12:53:32.000Z"
-    },
-    {
-      "title": "Prime Video top 10 movies — here's the 3 I'd stream this week (Jan. 12-18)",
-      "url": "https://www.tomsguide.com/entertainment/prime-video/prime-video-top-10-movies-heres-the-3-id-stream-this-week-jan-12-18-2026",
-      "timestamp": "12:46",
-      "pubDate": "2026-01-12T12:46:03.000Z"
-    },
-    {
-      "title": "Golden Globes 2026: Hans Zimmer slams decision to cut 'Best Original Score' from live broadcast",
-      "url": "https://faroutmagazine.co.uk/golden-globes-2026-hans-zimmer-slams-cut-best-original-score-broadcast/",
-      "timestamp": "12:44",
-      "pubDate": "2026-01-12T12:44:36.000Z"
-    },
-    {
-      "title": "Golden Globes 2026: Jean Smart claims US is \"at a turning point\" that she finds \"very concerning\"",
-      "url": "https://faroutmagazine.co.uk/golden-globes-2026-jean-smart-us-turning-point-very-concerning/",
-      "timestamp": "12:41",
-      "pubDate": "2026-01-12T12:41:49.000Z"
-    },
-    {
-      "title": "Audio Blast updates Drum Blaster drum instrument to v1.2",
-      "url": "https://rekkerd.org/audio-blast-updates-drum-blaster-drum-instrument-to-v1-2/",
-      "timestamp": "12:40",
-      "pubDate": "2026-01-12T12:40:13.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "Julia Louis-Dreyfus protests against ICE in New York: \"GET ICE OUT\"",
-      "url": "https://faroutmagazine.co.uk/julia-louis-dreyfus-protests-against-ice-in-new-york/",
-      "timestamp": "14:24"
+      "title": "Morrissey Plays a Smith Classic for the First Time in 29 Years",
+      "url": "https://www.rollingstone.com/music/music-news/morrissey-smith-classic-first-time-29-years-1235498088/",
+      "timestamp": "15:29"
     },
     {
-      "title": "The songwriter Iggy Pop said was out of everyone’s league",
-      "url": "https://faroutmagazine.co.uk/the-songwriter-iggy-pop-said-was-out-of-everyones-league/",
-      "timestamp": "14:00"
+      "title": "Zach Bryan Releases Acoustic Version of 'With Heaven on Top' So He Doesn't 'Have to Hear Everyone Whine'",
+      "url": "https://www.rollingstone.com/music/music-news/zach-bryan-drops-acoustic-version-of-with-heaven-on-top-1235497688/",
+      "timestamp": "15:22"
+    },
+    {
+      "title": "Black Label Society's New Album to Feature Ozzy Osbourne Tribute",
+      "url": "https://ultimateclassicrock.com/black-label-society-engines-of-demolition/",
+      "timestamp": "15:21"
+    },
+    {
+      "title": "What was the worst number one of 1977?",
+      "url": "https://faroutmagazine.co.uk/what-was-worst-number-one-of-1977/",
+      "timestamp": "15:15"
+    },
+    {
+      "title": "Julia Roberts confirms involvement in 'Ocean's 14' and admits she was \"surprised\" by script",
+      "url": "https://faroutmagazine.co.uk/julia-roberts-admits-surprised-script-oceans-14/",
+      "timestamp": "15:06"
+    },
+    {
+      "title": "Louis Tomlinson On Wanting to Be Great For His Son and the One Direction Songs He's Comfortable Singing At&#160;34",
+      "url": "https://www.billboard.com/music/pop/louis-tomlinson-billboard-cover-story-interview-1236151775/",
+      "timestamp": "15:01"
+    },
+    {
+      "title": "Louis Tomlinson: Photos From the Billboard Cover&#160;Shoot",
+      "url": "https://www.billboard.com/photos/louis-tomlinson-photos-billboard-cover-shoot-1236151763/",
+      "timestamp": "15:00"
+    },
+    {
+      "title": "Louis Tomlinson Talks On the Creative Process For His Solo Album 'How Did I Get Here?,' & Reflects On His Time In One Direction &#124; Billboard In&#160;Conversation",
+      "url": "https://www.billboard.com/video/louis-tomlinson-talks-on-his-solo-album-how-did-i-get-here-and-reflects-on-his-time-in-one-direction/",
+      "timestamp": "15:00"
+    },
+    {
+      "title": "Destin Conrad Makes Tiny Desk Debut With ‘Love on Digital’ and ‘Whimsy’ Medley",
+      "url": "https://www.rollingstone.com/music/music-news/destin-conrad-npr-tiny-desk-1235498064/",
+      "timestamp": "14:40"
+    },
+    {
+      "title": "Jersey Club Keeps on Moving",
+      "url": "https://daily.bandcamp.com/scene-report/jersey-club-music-on-bandcamp",
+      "timestamp": "14:39"
+    },
+    {
+      "title": "Dry Cleaning Dance Themselves Dirty",
+      "url": "https://www.spin.com/2026/01/dry-cleaning-dance-themselves-dirty/",
+      "timestamp": "14:30"
+    },
+    {
+      "title": "What was the first heavy metal song to sell one million copies?",
+      "url": "https://faroutmagazine.co.uk/first-heavy-metal-song-to-sell-one-million-copies/",
+      "timestamp": "14:30"
     },
     {
       "title": "Here's what Foo Fighters played at their first show of 2026, while paying tribute to absent Pat Smear",
       "url": "https://www.nme.com/news/music/foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage-3922680?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage",
       "timestamp": "13:38"
-    },
-    {
-      "title": "George Clooney backs Paul Dano and Owen Wilson following \"cruel\" Quentin Tarantino criticism",
-      "url": "https://faroutmagazine.co.uk/george-clooney-backs-paul-dano-owen-wilson-quentin-tarantino-criticism/",
-      "timestamp": "13:32"
     },
     {
       "title": "1996's 20 Biggest Rock Tours",
@@ -387,31 +432,6 @@
       "timestamp": "10:00"
     },
     {
-      "title": "ICMP Appoints Execs to APAC Regional, Industry Metrics Expert&#160;Groups",
-      "url": "https://www.billboard.com/pro/icmp-apac-regional-industry-metrics-expert-groups/",
-      "timestamp": "09:00"
-    },
-    {
-      "title": "John Mayer Remembers Bob Weir: 'Thanks for Letting Me Ride Alongside You'",
-      "url": "https://www.rollingstone.com/music/music-news/john-mayer-bob-weir-tribute-dead-and-company-1235498027/",
-      "timestamp": "08:57"
-    },
-    {
-      "title": "Mickey Hart Pays Tribute to Bob Weir: 'a Little Brother to Me for Almost Sixty Years'",
-      "url": "https://www.rollingstone.com/music/music-news/mickey-hart-bob-weir-tribute-1235497996/",
-      "timestamp": "08:14"
-    },
-    {
-      "title": "Jack Osbourne Says Ozzy Osbourne Is Visiting Family Members in Their&#160;Dreams",
-      "url": "https://www.billboard.com/music/music-news/jack-osbourne-ozzy-osbourne-dreams-1236153077/",
-      "timestamp": "08:02"
-    },
-    {
-      "title": "K-Pop Group ITZY Set 2026 Australia and New Zealand Arena&#160;Tour",
-      "url": "https://www.billboard.com/music/concerts/itzy-australia-new-ealand-tour-1236153075/",
-      "timestamp": "05:27"
-    },
-    {
       "title": "Andrew Clements, Guardian’s classical music critic, dies aged 75",
       "url": "https://www.theguardian.com/music/2026/jan/12/andrew-clements-guardians-classical-music-critic-dies-aged-75",
       "timestamp": "00:01"
@@ -425,27 +445,7 @@
       "title": "Sombr Covrs Phoebe Bridgrs",
       "url": "https://stereogum.com/2484831/sombr-covrs-phoebe-bridgrs/news/",
       "timestamp": "20:03"
-    },
-    {
-      "title": "Foo Fighters Play First Show of 2026: Set List and Video",
-      "url": "https://ultimateclassicrock.com/foo-fighters-first-2026-show-set-list-video/",
-      "timestamp": "17:59"
-    },
-    {
-      "title": "Lucy Dacus & Chappell Roan Cover The Magnetic Fields At Artists For Aid Benefit",
-      "url": "https://stereogum.com/2484832/watch-lucy-dacus-cover-the-magnetic-fields-with-chappell-roan-at-artists-for-aid-benefit/news/",
-      "timestamp": "16:10"
-    },
-    {
-      "title": "IDK – LiFE 4 A LiFE (ft. Pusha T)",
-      "url": "https://www.stereofox.com/idk-life-4-a-life-ft-pusha-t/",
-      "timestamp": "14:37"
-    },
-    {
-      "title": "Trey Anastasio On Bob Weir: 'Your Spirit Lives On Forever'",
-      "url": "https://www.spin.com/2026/01/trey-anastasio-bob-weir-tributes/",
-      "timestamp": "00:25"
     }
   ],
-  "lastUpdated": "2026-01-12T14:30:00.085Z"
+  "lastUpdated": "2026-01-12T15:30:26.830Z"
 }
