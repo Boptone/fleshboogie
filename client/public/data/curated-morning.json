@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-12T16:32:07.369Z",
+  "curatedAt": "2026-01-12T17:27:24.327Z",
   "totalAnalyzed": 66,
-  "totalSelected": 8,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "CHASING THE COCA-COLA RECIPE",
-      "url": "https://hackaday.com/2026/01/12/chasing-the-coca-cola-recipe/",
-      "timestamp": "2026-01-12T16:32:04.354Z",
+      "title": "CATE BLANCHETT, COCO FRANCINI, DR. STACY L. SMITH & USC ANNENBERG INCLUSION INITIATIVE SET SECOND CYCLE OF PROOF OF CONCEPT ACCELERATOR",
+      "url": "https://deadline.com/2026/01/proof-of-concept-accelerator-sets-second-cycle-1236680779/",
+      "timestamp": "2026-01-12T17:27:21.376Z",
       "source": "splash",
       "scores": {
         "impact": 0.4,
@@ -21,7 +21,7 @@
         "title": "Black Label Society's New Album to Feature Ozzy Osbourne Tribute",
         "url": "https://ultimateclassicrock.com/black-label-society-engines-of-demolition/",
         "timestamp": "15:21",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.65,
           "engagement": 0.55,
@@ -31,23 +31,23 @@
         }
       },
       {
+        "title": "30 Major Rock Albums Turning 30 in 2026",
+        "url": "https://ultimateclassicrock.com/1996-albums/",
+        "timestamp": "16:53",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.49
+        }
+      },
+      {
         "title": "Introducing: Duetti and Billboard's Music Finance&#160;Index",
         "url": "https://www.billboard.com/pro/introducing-duetti-billboard-music-finance-index/",
         "timestamp": "16:02",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
-        }
-      },
-      {
-        "title": "Eplex7 DSP releases Psylead SX4 virtual instrument",
-        "url": "https://rekkerd.org/eplex7-dsp-releases-psylead-sx4-virtual-instrument/",
-        "timestamp": "15:36",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
@@ -57,48 +57,8 @@
         }
       }
     ],
-    "discovery": [
-      {
-        "title": "John Mayer Pays Poignant Tribute To Bob Weir: \"I'll Meet You In The Music\"",
-        "url": "https://deadline.com/2026/01/john-mayer-bob-weir-tribute-grateful-dead-1236680601/",
-        "timestamp": "15:54",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.5,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.44
-        }
-      },
-      {
-        "title": "Okmog introduces Gyrator X physics-driven equalizer effect plugin",
-        "url": "https://rekkerd.org/okmog-introduces-gyrator-x-physics-driven-equalizer-effect-plugin/",
-        "timestamp": "15:45",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.5,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.44
-        }
-      }
-    ],
+    "discovery": [],
     "conversation": [
-      {
-        "title": "What was the worst number one of 1977?",
-        "url": "https://faroutmagazine.co.uk/what-was-worst-number-one-of-1977/",
-        "timestamp": "15:15",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.8999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.54
-        }
-      },
       {
         "title": "Here's what Foo Fighters played at their first show of 2026, while paying tribute to absent Pat Smear",
         "url": "https://www.nme.com/news/music/foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage-3922680?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-first-show-of-2026-pat-smear-tribute-setlist-footage",
@@ -111,13 +71,26 @@
           "discovery": 0.3,
           "composite": 0.525
         }
+      },
+      {
+        "title": "How one word from Alfred Hitchcock sparked a 40-year mystery: \"I hadn’t a clue what he meant\"",
+        "url": "https://faroutmagazine.co.uk/how-one-word-from-alfred-hitchcock-sparked-a-40-year-mystery/",
+        "timestamp": "17:15",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.51
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "CHASING THE COCA-COLA RECIPE",
-        "url": "https://hackaday.com/2026/01/12/chasing-the-coca-cola-recipe/",
-        "timestamp": "2026-01-12T16:32:04.354Z",
+        "title": "CATE BLANCHETT, COCO FRANCINI, DR. STACY L. SMITH & USC ANNENBERG INCLUSION INITIATIVE SET SECOND CYCLE OF PROOF OF CONCEPT ACCELERATOR",
+        "url": "https://deadline.com/2026/01/proof-of-concept-accelerator-sets-second-cycle-1236680779/",
+        "timestamp": "2026-01-12T17:27:21.376Z",
         "source": "splash",
         "scores": {
           "impact": 0.4,
@@ -131,9 +104,9 @@
   },
   "stories": [
     {
-      "title": "CHASING THE COCA-COLA RECIPE",
-      "url": "https://hackaday.com/2026/01/12/chasing-the-coca-cola-recipe/",
-      "timestamp": "2026-01-12T16:32:04.354Z",
+      "title": "CATE BLANCHETT, COCO FRANCINI, DR. STACY L. SMITH & USC ANNENBERG INCLUSION INITIATIVE SET SECOND CYCLE OF PROOF OF CONCEPT ACCELERATOR",
+      "url": "https://deadline.com/2026/01/proof-of-concept-accelerator-sets-second-cycle-1236680779/",
+      "timestamp": "2026-01-12T17:27:21.376Z",
       "source": "splash",
       "scores": {
         "impact": 0.4,
@@ -147,7 +120,7 @@
       "title": "Black Label Society's New Album to Feature Ozzy Osbourne Tribute",
       "url": "https://ultimateclassicrock.com/black-label-society-engines-of-demolition/",
       "timestamp": "15:21",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.65,
         "engagement": 0.55,
@@ -157,68 +130,29 @@
       }
     },
     {
+      "title": "30 Major Rock Albums Turning 30 in 2026",
+      "url": "https://ultimateclassicrock.com/1996-albums/",
+      "timestamp": "16:53",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.49
+      }
+    },
+    {
       "title": "Introducing: Duetti and Billboard's Music Finance&#160;Index",
       "url": "https://www.billboard.com/pro/introducing-duetti-billboard-music-finance-index/",
       "timestamp": "16:02",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.49
-      }
-    },
-    {
-      "title": "Eplex7 DSP releases Psylead SX4 virtual instrument",
-      "url": "https://rekkerd.org/eplex7-dsp-releases-psylead-sx4-virtual-instrument/",
-      "timestamp": "15:36",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "John Mayer Pays Poignant Tribute To Bob Weir: \"I'll Meet You In The Music\"",
-      "url": "https://deadline.com/2026/01/john-mayer-bob-weir-tribute-grateful-dead-1236680601/",
-      "timestamp": "15:54",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.44
-      }
-    },
-    {
-      "title": "Okmog introduces Gyrator X physics-driven equalizer effect plugin",
-      "url": "https://rekkerd.org/okmog-introduces-gyrator-x-physics-driven-equalizer-effect-plugin/",
-      "timestamp": "15:45",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.44
-      }
-    },
-    {
-      "title": "What was the worst number one of 1977?",
-      "url": "https://faroutmagazine.co.uk/what-was-worst-number-one-of-1977/",
-      "timestamp": "15:15",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.8999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.54
       }
     },
     {
@@ -232,6 +166,19 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.525
+      }
+    },
+    {
+      "title": "How one word from Alfred Hitchcock sparked a 40-year mystery: \"I hadn’t a clue what he meant\"",
+      "url": "https://faroutmagazine.co.uk/how-one-word-from-alfred-hitchcock-sparked-a-40-year-mystery/",
+      "timestamp": "17:15",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.7999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.51
       }
     }
   ],
