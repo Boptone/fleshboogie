@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "headline": "CHASING THE COCA-COLA RECIPE",
+      "url": "https://hackaday.com/2026/01/12/chasing-the-coca-cola-recipe/",
+      "date": "2026-01-12T16:32:04.389Z"
+    },
+    {
       "headline": "MORRISSEY PLAYS A SMITH CLASSIC FOR THE FIRST TIME IN 29 YEARS",
       "url": "https://www.rollingstone.com/music/music-news/morrissey-smith-classic-first-time-29-years-1235498088/",
       "date": "2026-01-12T15:30:26.865Z"
@@ -276,5 +281,5 @@
       "date": "2026-01-06T22:20:25.062Z"
     }
   ],
-  "lastUpdated": "2026-01-12T15:30:26.865Z"
+  "lastUpdated": "2026-01-12T16:32:04.389Z"
 }
