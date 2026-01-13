@@ -1,39 +1,26 @@
 {
-  "curatedAt": "2026-01-13T15:30:29.538Z",
+  "curatedAt": "2026-01-13T16:36:59.081Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "WHO WAS ‘MICHELLE’ IN THE BEATLES SONG?",
-      "url": "https://faroutmagazine.co.uk/who-was-michelle-in-the-beatles-song/",
-      "timestamp": "2026-01-13T15:30:26.569Z",
+      "title": "GREAT TRAINS, NOT SO GREAT AI CHATBOT SECURITY",
+      "url": "https://hackaday.com/2026/01/13/great-trains-not-so-great-ai-chatbot-security/",
+      "timestamp": "2026-01-13T16:36:56.069Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
       {
-        "title": "My Chemical Romance Delay First Show of the Black Parade 2026 Tour",
-        "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
-        "timestamp": "07:21",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.75,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.535
-        }
-      },
-      {
-        "title": "BTS Reveals World Tour Dates, Including Four L.A. Shows",
-        "url": "https://variety.com/2026/music/news/bts-world-tour-dates-2026-27-1236630132/",
-        "timestamp": "15:15",
+        "title": "Here's How You Can Score Tickets to TWICE's This Is For World&#160;Tour",
+        "url": "https://www.billboard.com/culture/product-recommendations/twice-tickets-this-is-for-world-tour-shop-online-1236093315/",
+        "timestamp": "15:33",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -44,78 +31,65 @@
         }
       },
       {
-        "title": "Adrien Brody And Tessa Thompson To Make Broadway Debuts In Wrongful Conviction Drama 'The Fear Of 13'",
-        "url": "https://deadline.com/2026/01/adrien-brody-tessa-thompson-broadway-the-fear-of-13-1236681152/",
-        "timestamp": "15:00",
+        "title": "James Taylor Sets Massive 2-Leg 2026 U.S. Tour",
+        "url": "https://ultimateclassicrock.com/james-taylor-2026-tour/",
+        "timestamp": "15:58",
         "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
           "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.51
+          "discovery": 0.3,
+          "composite": 0.49
+        }
+      },
+      {
+        "title": "Mitski teases new album by clearing Instagram and sharing phone line",
+        "url": "https://www.nme.com/news/music/mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line-3922957?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line",
+        "timestamp": "16:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.55,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.4750000000000001
         }
       }
     ],
     "discovery": [
       {
-        "title": "Adrien Brody And Tessa Thompson To Make Broadway Debuts In Wrongful Conviction Drama 'The Fear Of 13'",
-        "url": "https://deadline.com/2026/01/adrien-brody-tessa-thompson-broadway-the-fear-of-13-1236681152/",
-        "timestamp": "15:00",
-        "source": "automated",
+        "title": "Eddie Vedder Plots Debut Japanese Solo Tour",
+        "url": "https://www.spin.com/2026/01/eddie-vedder-japan-tour/",
+        "timestamp": "05:30",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.6,
+          "engagement": 0.5,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.51
+          "composite": 0.48000000000000004
         }
       },
       {
-        "title": "The fourth Avengers: Doomsday teaser has been released and features our first look at new crossover characters meeting",
-        "url": "https://www.joblo.com/fourth-avengers-doomsday-teaser/",
-        "timestamp": "14:41",
-        "source": "automated",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.49000000000000005
-        }
-      },
-      {
-        "title": "Wakandans Meet the Fantastic 4 in New 'Avengers: Doomsday' Teaser &#124; Video",
-        "url": "https://www.thewrap.com/creative-content/movies/avengers-doomsday-wakanda-fantastic-four-trailer/",
-        "timestamp": "14:32",
-        "source": "automated",
+        "title": "Meet Mark Dixon, Boston’s One-Time Secret Singer",
+        "url": "https://ultimateclassicrock.com/boston-band-secret-singer/",
+        "timestamp": "14:12",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.65,
+          "engagement": 0.6,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.48500000000000004
+          "composite": 0.47000000000000003
         }
       }
     ],
     "conversation": [
       {
-        "title": "My Chemical Romance Delay First Show of the Black Parade 2026 Tour",
-        "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
-        "timestamp": "07:21",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.75,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.535
-        }
-      },
-      {
-        "title": "BTS Reveals World Tour Dates, Including Four L.A. Shows",
-        "url": "https://variety.com/2026/music/news/bts-world-tour-dates-2026-27-1236630132/",
-        "timestamp": "15:15",
+        "title": "Here's How You Can Score Tickets to TWICE's This Is For World&#160;Tour",
+        "url": "https://www.billboard.com/culture/product-recommendations/twice-tickets-this-is-for-world-tour-shop-online-1236093315/",
+        "timestamp": "15:33",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -124,55 +98,55 @@
           "discovery": 0.3,
           "composite": 0.52
         }
+      },
+      {
+        "title": "Why Your Power BI Report is Slow: A 10-Minute Performance Audit",
+        "url": "https://pub.towardsai.net/why-your-power-bi-report-is-slow-a-10-minute-performance-audit-850d3bd8201b?source=rss----98111c9905da---4",
+        "timestamp": "16:02",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.4800000000000001
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "WHO WAS ‘MICHELLE’ IN THE BEATLES SONG?",
-        "url": "https://faroutmagazine.co.uk/who-was-michelle-in-the-beatles-song/",
-        "timestamp": "2026-01-13T15:30:26.569Z",
+        "title": "GREAT TRAINS, NOT SO GREAT AI CHATBOT SECURITY",
+        "url": "https://hackaday.com/2026/01/13/great-trains-not-so-great-ai-chatbot-security/",
+        "timestamp": "2026-01-13T16:36:56.069Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "WHO WAS ‘MICHELLE’ IN THE BEATLES SONG?",
-      "url": "https://faroutmagazine.co.uk/who-was-michelle-in-the-beatles-song/",
-      "timestamp": "2026-01-13T15:30:26.569Z",
+      "title": "GREAT TRAINS, NOT SO GREAT AI CHATBOT SECURITY",
+      "url": "https://hackaday.com/2026/01/13/great-trains-not-so-great-ai-chatbot-security/",
+      "timestamp": "2026-01-13T16:36:56.069Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
     {
-      "title": "My Chemical Romance Delay First Show of the Black Parade 2026 Tour",
-      "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
-      "timestamp": "07:21",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.75,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.535
-      }
-    },
-    {
-      "title": "BTS Reveals World Tour Dates, Including Four L.A. Shows",
-      "url": "https://variety.com/2026/music/news/bts-world-tour-dates-2026-27-1236630132/",
-      "timestamp": "15:15",
+      "title": "Here's How You Can Score Tickets to TWICE's This Is For World&#160;Tour",
+      "url": "https://www.billboard.com/culture/product-recommendations/twice-tickets-this-is-for-world-tour-shop-online-1236093315/",
+      "timestamp": "15:33",
       "source": "automated",
       "scores": {
         "impact": 0.6,
@@ -183,42 +157,68 @@
       }
     },
     {
-      "title": "Adrien Brody And Tessa Thompson To Make Broadway Debuts In Wrongful Conviction Drama 'The Fear Of 13'",
-      "url": "https://deadline.com/2026/01/adrien-brody-tessa-thompson-broadway-the-fear-of-13-1236681152/",
-      "timestamp": "15:00",
+      "title": "James Taylor Sets Massive 2-Leg 2026 U.S. Tour",
+      "url": "https://ultimateclassicrock.com/james-taylor-2026-tour/",
+      "timestamp": "15:58",
       "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.51
+        "discovery": 0.3,
+        "composite": 0.49
       }
     },
     {
-      "title": "The fourth Avengers: Doomsday teaser has been released and features our first look at new crossover characters meeting",
-      "url": "https://www.joblo.com/fourth-avengers-doomsday-teaser/",
-      "timestamp": "14:41",
+      "title": "Mitski teases new album by clearing Instagram and sharing phone line",
+      "url": "https://www.nme.com/news/music/mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line-3922957?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line",
+      "timestamp": "16:00",
       "source": "automated",
       "scores": {
-        "impact": 0.55,
+        "impact": 0.6,
+        "engagement": 0.55,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.4750000000000001
+      }
+    },
+    {
+      "title": "Eddie Vedder Plots Debut Japanese Solo Tour",
+      "url": "https://www.spin.com/2026/01/eddie-vedder-japan-tour/",
+      "timestamp": "05:30",
+      "source": "musicReleases",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.5,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.48000000000000004
+      }
+    },
+    {
+      "title": "Meet Mark Dixon, Boston’s One-Time Secret Singer",
+      "url": "https://ultimateclassicrock.com/boston-band-secret-singer/",
+      "timestamp": "14:12",
+      "source": "musicReleases",
+      "scores": {
+        "impact": 0.5,
         "engagement": 0.6,
         "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.49000000000000005
+        "composite": 0.47000000000000003
       }
     },
     {
-      "title": "Wakandans Meet the Fantastic 4 in New 'Avengers: Doomsday' Teaser &#124; Video",
-      "url": "https://www.thewrap.com/creative-content/movies/avengers-doomsday-wakanda-fantastic-four-trailer/",
-      "timestamp": "14:32",
+      "title": "Why Your Power BI Report is Slow: A 10-Minute Performance Audit",
+      "url": "https://pub.towardsai.net/why-your-power-bi-report-is-slow-a-10-minute-performance-audit-850d3bd8201b?source=rss----98111c9905da---4",
+      "timestamp": "16:02",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.65,
+        "engagement": 0.7,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.48500000000000004
+        "discovery": 0.3,
+        "composite": 0.4800000000000001
       }
     }
   ],

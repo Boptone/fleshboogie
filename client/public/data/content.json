@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "WHO WAS ‘MICHELLE’ IN THE BEATLES SONG?",
-    "url": "https://faroutmagazine.co.uk/who-was-michelle-in-the-beatles-song/",
+    "headline": "GREAT TRAINS, NOT SO GREAT AI CHATBOT SECURITY",
+    "url": "https://hackaday.com/2026/01/13/great-trains-not-so-great-ai-chatbot-security/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Remember Don Lemon on CNN's New Year's Eve? Now He's Celebrating on His Own",
-      "url": "https://variety.com/2026/tv/news/don-lemon-new-years-eve-creator-media-cnn-1236630137/",
-      "timestamp": "15:28",
+      "title": "Andre Agassi Docuseries Coming to Apple TV",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/andre-agassi-docuseries-apple-tv-1236472274/",
+      "timestamp": "16:30",
       "pinned": false
     },
     {
-      "title": "Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work",
-      "url": "https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/",
-      "timestamp": "15:24",
+      "title": "The band Eric Clapton thought were out of everybody's league: \"The kings\"",
+      "url": "https://faroutmagazine.co.uk/band-eric-clapton-thought-were-out-of-everybody-league/",
+      "timestamp": "16:30",
       "pinned": false
     },
     {
-      "title": "Bruce Campbell should star in the BadAsstronauts movie",
-      "url": "https://www.joblo.com/bruce-campbell-badasstronauts/",
-      "timestamp": "15:22",
+      "title": "The songs Bob Dylan wanted to fail miserably: \"To me it was a joke\"",
+      "url": "https://faroutmagazine.co.uk/the-songs-bob-dylan-wanted-to-fail-miserably/",
+      "timestamp": "16:29",
       "pinned": false
     },
     {
-      "title": "TAI #187: OpenAI’s Health Push and the Real State of LLMs in Medicine",
-      "url": "https://pub.towardsai.net/tai-187-openais-health-push-and-the-real-state-of-llms-in-medicine-f2cfd8504156?source=rss----98111c9905da---4",
-      "timestamp": "15:20",
+      "title": "India reportedly tells quick-commerce firms to drop 10-minute delivery promise",
+      "url": "https://techcrunch.com/2026/01/13/india-reportedly-tells-quick-commerce-firms-to-drop-10-minute-delivery-promise/",
+      "timestamp": "16:27",
       "pinned": false
     },
     {
-      "title": "Apple Creator Studio: New Subscription for Creatives with Logic, Final Cut, and Pixelmator Pro",
-      "url": "https://www.gearnews.com/apple-creator-studio-tech/",
-      "timestamp": "15:18",
+      "title": "Kelly Reichardt to Be Honored at Visions du Réel as 'The Mastermind' Screens",
+      "url": "https://variety.com/2026/film/global/kelly-reichardt-visions-du-reel-1236630213/",
+      "timestamp": "16:26",
       "pinned": false
     }
   ],
@@ -105,6 +105,216 @@
   ],
   "automated": [
     {
+      "title": "Great Trains, Not So Great AI Chatbot Security",
+      "url": "https://hackaday.com/2026/01/13/great-trains-not-so-great-ai-chatbot-security/",
+      "timestamp": "16:30",
+      "pubDate": "2026-01-13T16:30:31.000Z"
+    },
+    {
+      "title": "Andre Agassi Docuseries Coming to Apple TV",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/andre-agassi-docuseries-apple-tv-1236472274/",
+      "timestamp": "16:30",
+      "pubDate": "2026-01-13T16:30:23.000Z"
+    },
+    {
+      "title": "The band Eric Clapton thought were out of everybody's league: \"The kings\"",
+      "url": "https://faroutmagazine.co.uk/band-eric-clapton-thought-were-out-of-everybody-league/",
+      "timestamp": "16:30",
+      "pubDate": "2026-01-13T16:30:00.000Z"
+    },
+    {
+      "title": "The songs Bob Dylan wanted to fail miserably: \"To me it was a joke\"",
+      "url": "https://faroutmagazine.co.uk/the-songs-bob-dylan-wanted-to-fail-miserably/",
+      "timestamp": "16:29",
+      "pubDate": "2026-01-13T16:29:46.000Z"
+    },
+    {
+      "title": "India reportedly tells quick-commerce firms to drop 10-minute delivery promise",
+      "url": "https://techcrunch.com/2026/01/13/india-reportedly-tells-quick-commerce-firms-to-drop-10-minute-delivery-promise/",
+      "timestamp": "16:27",
+      "pubDate": "2026-01-13T16:27:46.000Z"
+    },
+    {
+      "title": "Kelly Reichardt to Be Honored at Visions du Réel as 'The Mastermind' Screens",
+      "url": "https://variety.com/2026/film/global/kelly-reichardt-visions-du-reel-1236630213/",
+      "timestamp": "16:26",
+      "pubDate": "2026-01-13T16:26:48.000Z"
+    },
+    {
+      "title": "Rupert Neve Designs OptoFET: 2 Flexible Compression Flavours in 1",
+      "url": "https://www.gearnews.com/rupert-neve-designs-optofet-studio/",
+      "timestamp": "16:25",
+      "pubDate": "2026-01-13T16:25:20.000Z"
+    },
+    {
+      "title": "ElevenLabs CEO says the voice AI startup crossed $330 million ARR last year",
+      "url": "https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/",
+      "timestamp": "16:15",
+      "pubDate": "2026-01-13T16:15:22.000Z"
+    },
+    {
+      "title": "Bitcoin-gold correlation signals at least 50% BTC price gains by March",
+      "url": "https://cointelegraph.com/news/bitcoin-gold-correlation-signals-at-least-50-btc-price-gains-by-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "16:15",
+      "pubDate": "2026-01-13T16:15:00.000Z"
+    },
+    {
+      "title": "Prime Video Nordics Regional Manager Andreas Hjertø Stepping Down After Five Years",
+      "url": "https://deadline.com/2026/01/prime-video-nordics-andreas-hjerto-stepping-down-1236681582/",
+      "timestamp": "16:13",
+      "pubDate": "2026-01-13T16:13:07.000Z"
+    },
+    {
+      "title": "CZ’s YZi Labs invests in trading terminal as DeFi execution takes priority",
+      "url": "https://cointelegraph.com/news/yzi-labs-investment-genius-cross-chain-trading-terminal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "16:12",
+      "pubDate": "2026-01-13T16:12:14.000Z"
+    },
+    {
+      "title": "Why Your Power BI Report is Slow: A 10-Minute Performance Audit",
+      "url": "https://pub.towardsai.net/why-your-power-bi-report-is-slow-a-10-minute-performance-audit-850d3bd8201b?source=rss----98111c9905da---4",
+      "timestamp": "16:02",
+      "pubDate": "2026-01-13T16:02:54.000Z"
+    },
+    {
+      "title": "Demystifying the QR Decomposition",
+      "url": "https://pub.towardsai.net/demystifying-the-qr-decomposition-d108b9056e75?source=rss----98111c9905da---4",
+      "timestamp": "16:02",
+      "pubDate": "2026-01-13T16:02:53.000Z"
+    },
+    {
+      "title": "Crypto Bill Draft Grants XRP, Solana and Dogecoin Same Legal Status as Bitcoin",
+      "url": "https://decrypt.co/354411/crypto-bill-draft-grants-xrp-solana-and-dogecoin-same-legal-status-as-bitcoin",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-13T16:00:51.000Z"
+    },
+    {
+      "title": "Mitski teases new album by clearing Instagram and sharing phone line",
+      "url": "https://www.nme.com/news/music/mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line-3922957?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-13T16:00:08.000Z"
+    },
+    {
+      "title": "The Tool song Maynard James Keenan sorely regrets: \"It was kind of a dick joke\"",
+      "url": "https://faroutmagazine.co.uk/tool-song-maynard-james-keenan-sorely-regrets/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-13T16:00:00.000Z"
+    },
+    {
+      "title": "‘Are You The One?’ Producer Lighthearted Entertainment Acquired By Blink49 Studios",
+      "url": "https://deadline.com/2026/01/lighthearted-entertainment-acquired-blink49-studios-1236681031/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-13T16:00:00.000Z"
+    },
+    {
+      "title": "'Wicked' Films Helmer Jon M. Chu Set For Career Honor From Art Directors Guild",
+      "url": "https://deadline.com/2026/01/jon-m-chu-art-directors-guild-2026-career-award-wicked-for-good-1236681146/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-13T16:00:00.000Z"
+    },
+    {
+      "title": "Scorsese, Coppola, 'West Side Story,' and More New York Stories Headline Film Forum's Tenement Film Series — Watch the Trailer",
+      "url": "https://www.indiewire.com/news/trailers/film-forum-tenement-movie-series-1235172801/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-13T16:00:00.000Z"
+    },
+    {
+      "title": "Aldrich Museum Names Artists for First-Ever Decennial",
+      "url": "https://hyperallergic.com/aldrich-contemporary-names-artists-for-first-ever-decennial/",
+      "timestamp": "15:59",
+      "pubDate": "2026-01-13T15:59:48.000Z"
+    },
+    {
+      "title": "James Taylor Sets Massive 2-Leg 2026 U.S. Tour",
+      "url": "https://ultimateclassicrock.com/james-taylor-2026-tour/",
+      "timestamp": "15:58",
+      "pubDate": "2026-01-13T15:58:26.000Z"
+    },
+    {
+      "title": "Harry Styles Promised He Would Return 'When the Time Is Right.' Is That Moment Here?",
+      "url": "https://www.rollingstone.com/music/music-features/harry-styles-comeback-hints-1235498492/",
+      "timestamp": "15:57",
+      "pubDate": "2026-01-13T15:57:04.000Z"
+    },
+    {
+      "title": "Scott Adams Dies: Controversial 'Dilbert' Cartoonist Was 68",
+      "url": "https://deadline.com/2026/01/scott-adams-dead-1236681562/",
+      "timestamp": "15:50",
+      "pubDate": "2026-01-13T15:50:06.000Z"
+    },
+    {
+      "title": "Bill Skarsgard was reluctant to return for It: Welcome to Derry",
+      "url": "https://www.joblo.com/it-welcome-to-derry-reluctance/",
+      "timestamp": "15:49",
+      "pubDate": "2026-01-13T15:49:30.000Z"
+    },
+    {
+      "title": "Banijay, All3Media Owner RedBird IMI in Advanced Talks to Merge TV Production Businesses &#124; Report",
+      "url": "https://www.thewrap.com/industry-news/business/banijay-all3media-redbird-imi-production-unit-merger/",
+      "timestamp": "15:48",
+      "pubDate": "2026-01-13T15:48:29.000Z"
+    },
+    {
+      "title": "Scott Adams, ‘Dilbert’ Cartoonist, Dies at 68",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/scott-adams-dilbert-cartoonist-dies/",
+      "timestamp": "15:47",
+      "pubDate": "2026-01-13T15:47:34.000Z"
+    },
+    {
+      "title": "The singer that made Chuck Berry want to leave rock and roll: \"I'd have been ecstatic\"",
+      "url": "https://faroutmagazine.co.uk/the-singer-that-made-chuck-berry-want-to-leave-rock-and-roll/",
+      "timestamp": "15:45",
+      "pubDate": "2026-01-13T15:45:00.000Z"
+    },
+    {
+      "title": "JustWatch Hires Former HBO Max Executive Quentin Carbonell (EXCLUSIVE)",
+      "url": "https://variety.com/2026/streaming/news/justwatch-hbo-max-executive-quentin-carbonell-1236629914/",
+      "timestamp": "15:45",
+      "pubDate": "2026-01-13T15:45:00.000Z"
+    },
+    {
+      "title": "Scott Adams, Creator of the ‘Dilbert’ Comic Strip, Dies at 68",
+      "url": "https://www.hollywoodreporter.com/news/general-news/scott-adams-dead-dilbert-comic-strip-1236472244/",
+      "timestamp": "15:38",
+      "pubDate": "2026-01-13T15:38:47.000Z"
+    },
+    {
+      "title": "Scott Adams, 'Dilbert' Creator, Dies at 68",
+      "url": "https://variety.com/2026/artisans/people-news/scott-adams-dead-dilbert-creator-1236630162/",
+      "timestamp": "15:36",
+      "pubDate": "2026-01-13T15:36:30.000Z"
+    },
+    {
+      "title": "What the NFT Paris cancellation says about the current state of the NFT market",
+      "url": "https://cointelegraph.com/news/what-the-nft-paris-cancellation-says-about-the-current-state-of-the-nft-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "15:34",
+      "pubDate": "2026-01-13T15:34:42.000Z"
+    },
+    {
+      "title": "Here's How You Can Score Tickets to TWICE's This Is For World&#160;Tour",
+      "url": "https://www.billboard.com/culture/product-recommendations/twice-tickets-this-is-for-world-tour-shop-online-1236093315/",
+      "timestamp": "15:33",
+      "pubDate": "2026-01-13T15:33:14.000Z"
+    },
+    {
+      "title": "What “Primate” and Other Slasher Monkey Movies Get Wrong",
+      "url": "https://nautil.us/what-primate-and-other-slasher-monkey-movies-get-wrong-1261281/",
+      "timestamp": "15:32",
+      "pubDate": "2026-01-13T15:32:27.000Z"
+    },
+    {
+      "title": "'This is going to be a challenging year': Framework just raised the price of its desktops by up to $460 due to RAM crisis, and it will go higher",
+      "url": "https://www.tomsguide.com/computing/desktop-computers/this-is-going-to-be-a-challenging-year-framework-just-raised-the-price-of-its-desktops-by-up-to-usd460-due-to-ram-crisis-and-it-will-go-higher",
+      "timestamp": "15:30",
+      "pubDate": "2026-01-13T15:30:37.000Z"
+    },
+    {
+      "title": "The two singers Tom Waits said were out of everybody's league: \"I go crazy\"",
+      "url": "https://faroutmagazine.co.uk/singers-tom-waits-said-were-out-of-everybodys-league/",
+      "timestamp": "15:30",
+      "pubDate": "2026-01-13T15:30:00.000Z"
+    },
+    {
       "title": "Who was ‘Michelle’ in The Beatles song?",
       "url": "https://faroutmagazine.co.uk/who-was-michelle-in-the-beatles-song/",
       "timestamp": "15:28",
@@ -133,228 +343,38 @@
       "url": "https://pub.towardsai.net/tai-187-openais-health-push-and-the-real-state-of-llms-in-medicine-f2cfd8504156?source=rss----98111c9905da---4",
       "timestamp": "15:20",
       "pubDate": "2026-01-13T15:20:59.000Z"
-    },
-    {
-      "title": "Apple Creator Studio: New Subscription for Creatives with Logic, Final Cut, and Pixelmator Pro",
-      "url": "https://www.gearnews.com/apple-creator-studio-tech/",
-      "timestamp": "15:18",
-      "pubDate": "2026-01-13T15:18:28.000Z"
-    },
-    {
-      "title": "“Real True Empowerment Is Your Own Prep”: Carolyn Michelle, Back To One, Episode 375",
-      "url": "https://filmmakermagazine.com/133065-real-true-empowerment-is-your-own-prep-carolyn-michelle-back-to-one-episode-375/",
-      "timestamp": "15:16",
-      "pubDate": "2026-01-13T15:16:21.000Z"
-    },
-    {
-      "title": "BTS Reveals World Tour Dates, Including Four L.A. Shows",
-      "url": "https://variety.com/2026/music/news/bts-world-tour-dates-2026-27-1236630132/",
-      "timestamp": "15:15",
-      "pubDate": "2026-01-13T15:15:52.000Z"
-    },
-    {
-      "title": "The \"perfect story\" Will Smith refused to tell: \"I wanted to make that movie so badly\"",
-      "url": "https://faroutmagazine.co.uk/the-perfect-story-will-smith-refused-to-tell/",
-      "timestamp": "15:15",
-      "pubDate": "2026-01-13T15:15:00.000Z"
-    },
-    {
-      "title": "Chris Cuomo Returning To SiriusXM With New Morning Show",
-      "url": "https://deadline.com/2026/01/chris-cuomo-siriusxm-morning-show-1236681540/",
-      "timestamp": "15:14",
-      "pubDate": "2026-01-13T15:14:31.000Z"
-    },
-    {
-      "title": "'The Girl with the Dragon Tattoo' TV Series on the Way From Sky",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-girl-with-the-dragon-tattoo-tv-show-1236472177/",
-      "timestamp": "15:04",
-      "pubDate": "2026-01-13T15:04:45.000Z"
-    },
-    {
-      "title": "The classic rock legend Dave Grohl and Elton John agreed was \"irreplacable\"",
-      "url": "https://faroutmagazine.co.uk/classic-rock-legend-dave-grohl-elton-john-agreed-was-irreplacable/",
-      "timestamp": "15:04",
-      "pubDate": "2026-01-13T15:04:24.000Z"
-    },
-    {
-      "title": "‘Avengers: Doomsday’ Teaser Reveals The Return Of Fantastic Four & M'Baku As King Of Wakanda",
-      "url": "https://deadline.com/2026/01/avengers-doomsday-teaser-fantastic-four-mbaku-wakanda-1236681547/",
-      "timestamp": "15:02",
-      "pubDate": "2026-01-13T15:02:37.000Z"
-    },
-    {
-      "title": "Nvidia CEO Says Everyone Should Stop Being So Negative About AI",
-      "url": "https://futurism.com/artificial-intelligence/nvidia-ceo-stop-being-negative-ai",
-      "timestamp": "15:01",
-      "pubDate": "2026-01-13T15:01:00.000Z"
-    },
-    {
-      "title": "Ask Hackaday: Do You Curb Shop Components?",
-      "url": "https://hackaday.com/2026/01/13/ask-hackaday-do-you-curb-shop-components/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-13T15:00:12.000Z"
-    },
-    {
-      "title": "Patti Smith: Still Blazing After 50 Years of ‘Horses’",
-      "url": "https://www.spin.com/2026/01/patti-smith-still-blazing-after-50-years-of-horses/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-13T15:00:00.000Z"
-    },
-    {
-      "title": "The band so good it confused Roger Daltrey: \"Totally alien\"",
-      "url": "https://faroutmagazine.co.uk/band-confused-roger-daltrey/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-13T15:00:00.000Z"
-    },
-    {
-      "title": "Apple Serves Up Andre Agassi Docuseries From Director Chris Smith",
-      "url": "https://deadline.com/2026/01/andre-agassi-docuseries-apple-chris-smith-1236677909/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-13T15:00:00.000Z"
-    },
-    {
-      "title": "Adrien Brody And Tessa Thompson To Make Broadway Debuts In Wrongful Conviction Drama 'The Fear Of 13'",
-      "url": "https://deadline.com/2026/01/adrien-brody-tessa-thompson-broadway-the-fear-of-13-1236681152/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-13T15:00:00.000Z"
-    },
-    {
-      "title": "Adrien Brody, Tessa Thompson to Make Broadway Debuts This Spring",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/adrien-brody-tessa-thompson-broadway-debuts-the-fear-of-13-1236471870/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-13T15:00:00.000Z"
-    },
-    {
-      "title": "iConnectivity PlayAUDIO2U: The Flagship Live Audio/MIDI Interface",
-      "url": "https://www.gearnews.com/iconnectivity-playaudio2u-live/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-13T15:00:00.000Z"
-    },
-    {
-      "title": "'The Girl With the Dragon Tattoo' Drama Series in the Works at Sky",
-      "url": "https://www.thewrap.com/media-platforms/tv/the-girl-with-the-dragon-tattoo-series-sky/",
-      "timestamp": "14:59",
-      "pubDate": "2026-01-13T14:59:18.000Z"
-    },
-    {
-      "title": "Chris Cuomo Sets Live Morning Show at SiriusXM",
-      "url": "https://www.thewrap.com/media-platforms/journalism/chris-cuomo-mornings-live-morning-show-siriusxm-potus/",
-      "timestamp": "14:51",
-      "pubDate": "2026-01-13T14:51:28.000Z"
-    },
-    {
-      "title": "X was down — here's what happened in the massive global outage",
-      "url": "https://www.tomsguide.com/news/live/x-down-january-13-2026",
-      "timestamp": "14:49",
-      "pubDate": "2026-01-13T14:49:36.000Z"
-    },
-    {
-      "title": "Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill",
-      "url": "https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/",
-      "timestamp": "14:48",
-      "pubDate": "2026-01-13T14:48:07.000Z"
-    },
-    {
-      "title": "Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill",
-      "url": "https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/",
-      "timestamp": "14:48",
-      "pubDate": "2026-01-13T14:48:07.000Z"
-    },
-    {
-      "title": "The movie Albert Brooks wants to delete from history: \"I can't stand the way it ends\"",
-      "url": "https://faroutmagazine.co.uk/the-movie-albert-brooks-wants-to-delete-from-history/",
-      "timestamp": "14:45",
-      "pubDate": "2026-01-13T14:45:00.000Z"
-    },
-    {
-      "title": "FabFilter Pro-C 3 is Coming: The Next Big Compressor is Likely About to be Released!",
-      "url": "https://www.gearnews.com/fabfilter-pro-c-3-studio/",
-      "timestamp": "14:44",
-      "pubDate": "2026-01-13T14:44:20.000Z"
-    },
-    {
-      "title": "The fourth Avengers: Doomsday teaser has been released and features our first look at new crossover characters meeting",
-      "url": "https://www.joblo.com/fourth-avengers-doomsday-teaser/",
-      "timestamp": "14:41",
-      "pubDate": "2026-01-13T14:41:57.000Z"
-    },
-    {
-      "title": "‘Wicked’ Leads U.K. Home Entertainment Market to Record $7.6 Billion in 2025",
-      "url": "https://variety.com/2026/film/news/wicked-uk-home-entertainment-market-2025-1236630088/",
-      "timestamp": "14:39",
-      "pubDate": "2026-01-13T14:39:14.000Z"
-    },
-    {
-      "title": "Barry Manilow Sets Rescheduled Tour Dates Month After Revealing Cancer Diagnosis",
-      "url": "https://deadline.com/2026/01/barry-manilow-tour-dates-1236681505/",
-      "timestamp": "14:35",
-      "pubDate": "2026-01-13T14:35:14.000Z"
-    },
-    {
-      "title": "Chandler Limited REDD Mixing System: Mix Like The Beatles",
-      "url": "https://www.gearnews.com/chandler-limited-redd-mixing-system-studio/",
-      "timestamp": "14:34",
-      "pubDate": "2026-01-13T14:34:06.000Z"
-    },
-    {
-      "title": "Wakandans Meet the Fantastic 4 in New 'Avengers: Doomsday' Teaser &#124; Video",
-      "url": "https://www.thewrap.com/creative-content/movies/avengers-doomsday-wakanda-fantastic-four-trailer/",
-      "timestamp": "14:32",
-      "pubDate": "2026-01-13T14:32:02.000Z"
-    },
-    {
-      "title": "Anker's Solix E10 battery backup can power your entire house in a blackout",
-      "url": "https://www.engadget.com/home/ankers-solix-e10-battery-backup-can-power-your-entire-house-in-a-blackout-143040115.html?src=rss",
-      "timestamp": "14:30",
-      "pubDate": "2026-01-13T14:30:40.000Z"
-    },
-    {
-      "title": "The Faint's Todd Fink on ‘Agenda Suicide’ and the Art of Not Playing It Safe",
-      "url": "https://www.spin.com/2026/01/the-faints-todd-fink-on-agenda-suicide-and-the-art-of-not-playing-it-safe/",
-      "timestamp": "14:30",
-      "pubDate": "2026-01-13T14:30:00.000Z"
-    },
-    {
-      "title": "The best band Rush ever toured with, according to Geddy Lee",
-      "url": "https://faroutmagazine.co.uk/best-band-rush-has-ever-toured-with-according-to-geddy-lee/",
-      "timestamp": "14:30",
-      "pubDate": "2026-01-13T14:30:00.000Z"
-    },
-    {
-      "title": "New Museum in NYC to Reopen in March",
-      "url": "https://hyperallergic.com/new-museum-in-nyc-to-reopen-in-march/",
-      "timestamp": "14:29",
-      "pubDate": "2026-01-13T14:29:25.000Z"
-    },
-    {
-      "title": "Sky Making 'Girl With The Dragon Tattoo' TV Series",
-      "url": "https://deadline.com/2026/01/sky-girl-with-the-dragon-tattoo-tv-series-1236681522/",
-      "timestamp": "14:27",
-      "pubDate": "2026-01-13T14:27:12.000Z"
-    },
-    {
-      "title": "CES 2026: The year AI got serious",
-      "url": "https://www.fastcompany.com/91473348/ces-2026-the-year-ai-got-serious-ces-ai-technology-trends?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
-      "timestamp": "14:27",
-      "pubDate": "2026-01-13T14:27:00.000Z"
-    },
-    {
-      "title": "Orlando Bloom names the movie that saved his career: \"It was a dream, really\"",
-      "url": "https://faroutmagazine.co.uk/orlando-bloom-names-movie-that-saved-his-career/",
-      "timestamp": "14:19",
-      "pubDate": "2026-01-13T14:19:21.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "Who was ‘Michelle’ in The Beatles song?",
-      "url": "https://faroutmagazine.co.uk/who-was-michelle-in-the-beatles-song/",
-      "timestamp": "15:28"
+      "title": "The band Eric Clapton thought were out of everybody's league: \"The kings\"",
+      "url": "https://faroutmagazine.co.uk/band-eric-clapton-thought-were-out-of-everybody-league/",
+      "timestamp": "16:30"
     },
     {
-      "title": "The classic rock legend Dave Grohl and Elton John agreed was \"irreplacable\"",
-      "url": "https://faroutmagazine.co.uk/classic-rock-legend-dave-grohl-elton-john-agreed-was-irreplacable/",
-      "timestamp": "15:04"
+      "title": "The songs Bob Dylan wanted to fail miserably: \"To me it was a joke\"",
+      "url": "https://faroutmagazine.co.uk/the-songs-bob-dylan-wanted-to-fail-miserably/",
+      "timestamp": "16:29"
+    },
+    {
+      "title": "Mitski teases new album by clearing Instagram and sharing phone line",
+      "url": "https://www.nme.com/news/music/mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line-3922957?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line",
+      "timestamp": "16:00"
+    },
+    {
+      "title": "The Tool song Maynard James Keenan sorely regrets: \"It was kind of a dick joke\"",
+      "url": "https://faroutmagazine.co.uk/tool-song-maynard-james-keenan-sorely-regrets/",
+      "timestamp": "16:00"
+    },
+    {
+      "title": "James Taylor Sets Massive 2-Leg 2026 U.S. Tour",
+      "url": "https://ultimateclassicrock.com/james-taylor-2026-tour/",
+      "timestamp": "15:58"
+    },
+    {
+      "title": "Here's How You Can Score Tickets to TWICE's This Is For World&#160;Tour",
+      "url": "https://www.billboard.com/culture/product-recommendations/twice-tickets-this-is-for-world-tour-shop-online-1236093315/",
+      "timestamp": "15:33"
     },
     {
       "title": "Patti Smith: Still Blazing After 50 Years of ‘Horses’",
@@ -362,9 +382,9 @@
       "timestamp": "15:00"
     },
     {
-      "title": "The band so good it confused Roger Daltrey: \"Totally alien\"",
-      "url": "https://faroutmagazine.co.uk/band-confused-roger-daltrey/",
-      "timestamp": "15:00"
+      "title": "Former NewJeans member Danielle says she \"fought till the end\" to stay with band – while MrBeast considers buying them",
+      "url": "https://www.nme.com/news/music/former-newjeans-member-danielle-says-she-fought-till-the-end-to-stay-with-band-while-mrbeast-pleas-to-buy-them-3922938?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=former-newjeans-member-danielle-says-she-fought-till-the-end-to-stay-with-band-while-mrbeast-pleas-to-buy-them",
+      "timestamp": "14:52"
     },
     {
       "title": "The Faint's Todd Fink on ‘Agenda Suicide’ and the Art of Not Playing It Safe",
@@ -397,6 +417,11 @@
       "timestamp": "13:13"
     },
     {
+      "title": "There's a new highest grossing actress of all time, dethroning Scarlett Johansson",
+      "url": "https://www.nme.com/news/film/theres-a-new-highest-grossing-actress-of-all-time-dethroning-scarlett-johansson-3922911?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=theres-a-new-highest-grossing-actress-of-all-time-dethroning-scarlett-johansson",
+      "timestamp": "13:10"
+    },
+    {
       "title": "Hannah Lew – Another Twilight",
       "url": "https://www.gorillavsbear.net/hannah-lew-another-twilight/",
       "timestamp": "12:47"
@@ -407,24 +432,9 @@
       "timestamp": "09:07"
     },
     {
-      "title": "My Chemical Romance Delay First Show of the Black Parade 2026 Tour",
-      "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
-      "timestamp": "07:21"
-    },
-    {
-      "title": "A$AP Rocky Says New 'Helicopter$' Video Is 'JUST GENERATIONAL'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-helicopter-video-not-ai-generated-1236153909/",
-      "timestamp": "07:12"
-    },
-    {
       "title": "Eddie Vedder Plots Debut Japanese Solo Tour",
       "url": "https://www.spin.com/2026/01/eddie-vedder-japan-tour/",
       "timestamp": "05:30"
-    },
-    {
-      "title": "Here Are All the Artists Who’ve Collaborated With Beyoncé on Her Solo Studio&#160;Albums",
-      "url": "https://www.billboard.com/photos/beyonce-features-collaborators-1235120014/",
-      "timestamp": "00:00"
     },
     {
       "title": "Cat Power Celebrates First Gold Record",
@@ -432,20 +442,10 @@
       "timestamp": "22:10"
     },
     {
-      "title": "Top 10 Bob Weir Songs",
-      "url": "https://ultimateclassicrock.com/bob-weir-songs/",
-      "timestamp": "19:41"
-    },
-    {
       "title": "Kill Ugly Pop: A Guide to Lip Cream",
       "url": "https://daily.bandcamp.com/lists/lip-cream-guide",
       "timestamp": "18:42"
-    },
-    {
-      "title": "The Golden Globes #BeGood pins: Who was wearing them and why",
-      "url": "https://www.thefader.com/2026/01/12/the-golden-globes-be-good",
-      "timestamp": "18:08"
     }
   ],
-  "lastUpdated": "2026-01-13T15:30:26.569Z"
+  "lastUpdated": "2026-01-13T16:36:56.069Z"
 }
