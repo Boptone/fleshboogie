@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-13T13:44:26.797Z",
+  "curatedAt": "2026-01-13T14:29:58.290Z",
   "totalAnalyzed": 66,
   "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "BITCOIN&#39;S FOUR-YEAR CYCLE BROKEN: VANECK",
-      "url": "https://decrypt.co/354389/bitcoins-four-year-cycle-broken-vaneck",
-      "timestamp": "2026-01-13T13:44:23.783Z",
+      "title": "NEW MUSEUM IN NYC TO REOPEN IN MARCH",
+      "url": "https://hyperallergic.com/new-museum-in-nyc-to-reopen-in-march/",
+      "timestamp": "2026-01-13T14:29:55.352Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.55,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.595
       }
     },
     "deepDive": [
@@ -72,16 +72,16 @@
         }
       },
       {
-        "title": "My friend spotted a mouse in her bedroom, and there could be a surprising reason why",
-        "url": "https://www.tomsguide.com/home/my-friend-spotted-a-mouse-in-her-bedroom-and-there-could-be-a-surprising-reason-why",
-        "timestamp": "11:34",
-        "source": "automated",
+        "title": "Band Of Horses Find 'Time' To Revisit Beloved Debut LP",
+        "url": "https://www.spin.com/2026/01/band-of-horses-debut-album-anniversary/",
+        "timestamp": "17:24",
+        "source": "musicReleases",
         "scores": {
-          "impact": 0.4,
-          "engagement": 0.6,
+          "impact": 0.5,
+          "engagement": 0.5,
           "timeliness": 0.2,
-          "discovery": 0.7,
-          "composite": 0.45
+          "discovery": 0.5,
+          "composite": 0.44
         }
       }
     ],
@@ -100,9 +100,9 @@
         }
       },
       {
-        "title": "The Best 40 Songs of 1966",
-        "url": "https://ultimateclassicrock.com/iconic-songs-1966/",
-        "timestamp": "13:30",
+        "title": "What Is Venice AI? The Privacy-Focused Chatbot",
+        "url": "https://decrypt.co/resources/what-is-venice-ai-the-privacy-focused-chatbot",
+        "timestamp": "14:16",
         "source": "mainColumn",
         "scores": {
           "impact": 0.5,
@@ -115,32 +115,32 @@
     ],
     "wildcard": [
       {
-        "title": "BITCOIN&#39;S FOUR-YEAR CYCLE BROKEN: VANECK",
-        "url": "https://decrypt.co/354389/bitcoins-four-year-cycle-broken-vaneck",
-        "timestamp": "2026-01-13T13:44:23.783Z",
+        "title": "NEW MUSEUM IN NYC TO REOPEN IN MARCH",
+        "url": "https://hyperallergic.com/new-museum-in-nyc-to-reopen-in-march/",
+        "timestamp": "2026-01-13T14:29:55.352Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.55,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.595
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "BITCOIN&#39;S FOUR-YEAR CYCLE BROKEN: VANECK",
-      "url": "https://decrypt.co/354389/bitcoins-four-year-cycle-broken-vaneck",
-      "timestamp": "2026-01-13T13:44:23.783Z",
+      "title": "NEW MUSEUM IN NYC TO REOPEN IN MARCH",
+      "url": "https://hyperallergic.com/new-museum-in-nyc-to-reopen-in-march/",
+      "timestamp": "2026-01-13T14:29:55.352Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.55,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.595
       }
     },
     {
@@ -196,22 +196,22 @@
       }
     },
     {
-      "title": "My friend spotted a mouse in her bedroom, and there could be a surprising reason why",
-      "url": "https://www.tomsguide.com/home/my-friend-spotted-a-mouse-in-her-bedroom-and-there-could-be-a-surprising-reason-why",
-      "timestamp": "11:34",
-      "source": "automated",
+      "title": "Band Of Horses Find 'Time' To Revisit Beloved Debut LP",
+      "url": "https://www.spin.com/2026/01/band-of-horses-debut-album-anniversary/",
+      "timestamp": "17:24",
+      "source": "musicReleases",
       "scores": {
-        "impact": 0.4,
-        "engagement": 0.6,
+        "impact": 0.5,
+        "engagement": 0.5,
         "timeliness": 0.2,
-        "discovery": 0.7,
-        "composite": 0.45
+        "discovery": 0.5,
+        "composite": 0.44
       }
     },
     {
-      "title": "The Best 40 Songs of 1966",
-      "url": "https://ultimateclassicrock.com/iconic-songs-1966/",
-      "timestamp": "13:30",
+      "title": "What Is Venice AI? The Privacy-Focused Chatbot",
+      "url": "https://decrypt.co/resources/what-is-venice-ai-the-privacy-focused-chatbot",
+      "timestamp": "14:16",
       "source": "mainColumn",
       "scores": {
         "impact": 0.5,
