@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-13T16:36:59.081Z",
+  "curatedAt": "2026-01-13T17:30:02.763Z",
   "totalAnalyzed": 66,
-  "totalSelected": 7,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "GREAT TRAINS, NOT SO GREAT AI CHATBOT SECURITY",
-      "url": "https://hackaday.com/2026/01/13/great-trains-not-so-great-ai-chatbot-security/",
-      "timestamp": "2026-01-13T16:36:56.069Z",
+      "title": "A$AP ROCKY BAILS ON HIS REDDIT AMA & CALLS MODERATORS 'CLOWNS'",
+      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-cancels-reddit-ama-moderators-clowns-1236154020/",
+      "timestamp": "2026-01-13T17:29:59.743Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -18,9 +18,9 @@
     },
     "deepDive": [
       {
-        "title": "Here's How You Can Score Tickets to TWICE's This Is For World&#160;Tour",
-        "url": "https://www.billboard.com/culture/product-recommendations/twice-tickets-this-is-for-world-tour-shop-online-1236093315/",
-        "timestamp": "15:33",
+        "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
+        "url": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
+        "timestamp": "17:14",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -31,46 +31,33 @@
         }
       },
       {
-        "title": "James Taylor Sets Massive 2-Leg 2026 U.S. Tour",
-        "url": "https://ultimateclassicrock.com/james-taylor-2026-tour/",
-        "timestamp": "15:58",
+        "title": "Slamdance Festival Reveals 2026 Lineup, Its Second in Los Angeles",
+        "url": "https://www.indiewire.com/news/festivals/slamdance-festival-reveals-2026-lineup-1235172812/",
+        "timestamp": "17:00",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.6,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.49
+          "composite": 0.52
         }
       },
       {
-        "title": "Mitski teases new album by clearing Instagram and sharing phone line",
-        "url": "https://www.nme.com/news/music/mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line-3922957?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line",
-        "timestamp": "16:00",
+        "title": "Best Service releases Eduardo Tarilonte’s Dark ERA 2",
+        "url": "https://rekkerd.org/best-service-releases-eduardo-tarilontes-dark-era-2/",
+        "timestamp": "16:49",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.55,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.4750000000000001
+          "composite": 0.52
         }
       }
     ],
     "discovery": [
-      {
-        "title": "Eddie Vedder Plots Debut Japanese Solo Tour",
-        "url": "https://www.spin.com/2026/01/eddie-vedder-japan-tour/",
-        "timestamp": "05:30",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.5,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.48000000000000004
-        }
-      },
       {
         "title": "Meet Mark Dixon, Boston’s One-Time Secret Singer",
         "url": "https://ultimateclassicrock.com/boston-band-secret-singer/",
@@ -87,9 +74,9 @@
     ],
     "conversation": [
       {
-        "title": "Here's How You Can Score Tickets to TWICE's This Is For World&#160;Tour",
-        "url": "https://www.billboard.com/culture/product-recommendations/twice-tickets-this-is-for-world-tour-shop-online-1236093315/",
-        "timestamp": "15:33",
+        "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
+        "url": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
+        "timestamp": "17:14",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -100,24 +87,24 @@
         }
       },
       {
-        "title": "Why Your Power BI Report is Slow: A 10-Minute Performance Audit",
-        "url": "https://pub.towardsai.net/why-your-power-bi-report-is-slow-a-10-minute-performance-audit-850d3bd8201b?source=rss----98111c9905da---4",
-        "timestamp": "16:02",
+        "title": "Slamdance Festival Reveals 2026 Lineup, Its Second in Los Angeles",
+        "url": "https://www.indiewire.com/news/festivals/slamdance-festival-reveals-2026-lineup-1235172812/",
+        "timestamp": "17:00",
         "source": "automated",
         "scores": {
-          "impact": 0.5,
+          "impact": 0.6,
           "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.4800000000000001
+          "composite": 0.52
         }
       }
     ],
     "wildcard": [
       {
-        "title": "GREAT TRAINS, NOT SO GREAT AI CHATBOT SECURITY",
-        "url": "https://hackaday.com/2026/01/13/great-trains-not-so-great-ai-chatbot-security/",
-        "timestamp": "2026-01-13T16:36:56.069Z",
+        "title": "A$AP ROCKY BAILS ON HIS REDDIT AMA & CALLS MODERATORS 'CLOWNS'",
+        "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-cancels-reddit-ama-moderators-clowns-1236154020/",
+        "timestamp": "2026-01-13T17:29:59.743Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -131,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "GREAT TRAINS, NOT SO GREAT AI CHATBOT SECURITY",
-      "url": "https://hackaday.com/2026/01/13/great-trains-not-so-great-ai-chatbot-security/",
-      "timestamp": "2026-01-13T16:36:56.069Z",
+      "title": "A$AP ROCKY BAILS ON HIS REDDIT AMA & CALLS MODERATORS 'CLOWNS'",
+      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-cancels-reddit-ama-moderators-clowns-1236154020/",
+      "timestamp": "2026-01-13T17:29:59.743Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -144,9 +131,9 @@
       }
     },
     {
-      "title": "Here's How You Can Score Tickets to TWICE's This Is For World&#160;Tour",
-      "url": "https://www.billboard.com/culture/product-recommendations/twice-tickets-this-is-for-world-tour-shop-online-1236093315/",
-      "timestamp": "15:33",
+      "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
+      "url": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
+      "timestamp": "17:14",
       "source": "automated",
       "scores": {
         "impact": 0.6,
@@ -157,42 +144,29 @@
       }
     },
     {
-      "title": "James Taylor Sets Massive 2-Leg 2026 U.S. Tour",
-      "url": "https://ultimateclassicrock.com/james-taylor-2026-tour/",
-      "timestamp": "15:58",
+      "title": "Slamdance Festival Reveals 2026 Lineup, Its Second in Los Angeles",
+      "url": "https://www.indiewire.com/news/festivals/slamdance-festival-reveals-2026-lineup-1235172812/",
+      "timestamp": "17:00",
       "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.6,
+        "engagement": 0.7,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.49
+        "composite": 0.52
       }
     },
     {
-      "title": "Mitski teases new album by clearing Instagram and sharing phone line",
-      "url": "https://www.nme.com/news/music/mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line-3922957?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line",
-      "timestamp": "16:00",
+      "title": "Best Service releases Eduardo Tarilonte’s Dark ERA 2",
+      "url": "https://rekkerd.org/best-service-releases-eduardo-tarilontes-dark-era-2/",
+      "timestamp": "16:49",
       "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.55,
+        "engagement": 0.7,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.4750000000000001
-      }
-    },
-    {
-      "title": "Eddie Vedder Plots Debut Japanese Solo Tour",
-      "url": "https://www.spin.com/2026/01/eddie-vedder-japan-tour/",
-      "timestamp": "05:30",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.5,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.48000000000000004
+        "composite": 0.52
       }
     },
     {
@@ -206,19 +180,6 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.47000000000000003
-      }
-    },
-    {
-      "title": "Why Your Power BI Report is Slow: A 10-Minute Performance Audit",
-      "url": "https://pub.towardsai.net/why-your-power-bi-report-is-slow-a-10-minute-performance-audit-850d3bd8201b?source=rss----98111c9905da---4",
-      "timestamp": "16:02",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.4800000000000001
       }
     }
   ],
