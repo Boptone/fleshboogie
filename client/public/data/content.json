@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "'IT ENDS WITH US' & 'REGRETTING YOU' AUTHOR COLLEEN HOOVER REVEALS CANCER DIAGNOSIS",
-    "url": "https://deadline.com/2026/01/it-ends-with-us-regretting-you-colleen-hoover-cancer-diagnosis-1236681361/",
+    "headline": "BINANCE: CRYPTO BREAKS OUT OF RETAIL ERA AS INSTITUTIONS LOCK IN LONG-TERM EXPOSURE",
+    "url": "https://news.bitcoin.com/binance-crypto-breaks-out-of-retail-era-as-institutions-lock-in-long-term-exposure/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Meta to cut 10% of metaverse arm this week amid AI push: Report",
-      "url": "https://cointelegraph.com/news/meta-cut-10-percent-metaverse-arm-this-week-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "03:01",
+      "title": "Building an Embedding-Based Surface Defect Detection System for Factories Using Qdrant",
+      "url": "https://pub.towardsai.net/building-an-embedding-based-surface-defect-detection-system-for-factories-using-qdrant-d7794476e411?source=rss----98111c9905da---4",
+      "timestamp": "04:29",
       "pinned": false
     },
     {
-      "title": "Electronic Nose Sniffs out Mold",
-      "url": "https://hackaday.com/2026/01/12/electronic-nose-sniffs-out-mold/",
-      "timestamp": "03:00",
+      "title": "GARCH Volatility Modeling with Python: Risk-Adjusted Position Sizing",
+      "url": "https://pub.towardsai.net/garch-volatility-modeling-with-python-risk-adjusted-position-sizing-fa21bdd28131?source=rss----98111c9905da---4",
+      "timestamp": "04:29",
       "pinned": false
     },
     {
-      "title": "This gold standard sleep hygiene rule is helping me to beat winter fatigue and feel energized every morning — here’s how you can use it too",
-      "url": "https://www.tomsguide.com/wellness/sleep/this-gold-standard-sleep-hygiene-rule-is-helping-me-beat-winter-fatigue",
-      "timestamp": "03:00",
+      "title": "Duffer Brothers Started Filming 'Stranger Things' Final Episode Without A Finished Script: \"We Don't Even Fully Know What's Going On\"",
+      "url": "https://deadline.com/2026/01/duffer-brothers-started-filming-stranger-things-final-episode-script-1236681369/",
+      "timestamp": "04:20",
       "pinned": false
     },
     {
-      "title": "Gold and Silver Explode to Record Highs as Fed Independence Fears Ignite Safe-Haven Panic",
-      "url": "https://news.bitcoin.com/gold-and-silver-explode-to-record-highs-as-fed-independence-fears-ignite-safe-haven-panic/",
-      "timestamp": "02:30",
+      "title": "Teaching an AI to Fly Rockets",
+      "url": "https://pub.towardsai.net/teaching-an-ai-to-fly-rockets-6e2e756496ed?source=rss----98111c9905da---4",
+      "timestamp": "04:17",
       "pinned": false
     },
     {
-      "title": "The one singer Eddie Vedder called his musical guiding light",
-      "url": "https://faroutmagazine.co.uk/the-one-singer-eddie-vedder-called-his-musical-guiding-light/",
-      "timestamp": "02:30",
+      "title": "Bob Dylan is guiding Cameron Winter into a new chapter: \"He's a dude\"",
+      "url": "https://faroutmagazine.co.uk/bob-dylan-is-guiding-cameron-winter-into-a-new-chapter-hes-a-dude/",
+      "timestamp": "04:00",
       "pinned": false
     }
   ],
@@ -104,6 +104,60 @@
     }
   ],
   "automated": [
+    {
+      "title": "Binance: Crypto Breaks out of Retail Era as Institutions Lock in Long-Term Exposure",
+      "url": "https://news.bitcoin.com/binance-crypto-breaks-out-of-retail-era-as-institutions-lock-in-long-term-exposure/",
+      "timestamp": "04:30",
+      "pubDate": "2026-01-13T04:30:48.000Z"
+    },
+    {
+      "title": "Building an Embedding-Based Surface Defect Detection System for Factories Using Qdrant",
+      "url": "https://pub.towardsai.net/building-an-embedding-based-surface-defect-detection-system-for-factories-using-qdrant-d7794476e411?source=rss----98111c9905da---4",
+      "timestamp": "04:29",
+      "pubDate": "2026-01-13T04:29:40.000Z"
+    },
+    {
+      "title": "GARCH Volatility Modeling with Python: Risk-Adjusted Position Sizing",
+      "url": "https://pub.towardsai.net/garch-volatility-modeling-with-python-risk-adjusted-position-sizing-fa21bdd28131?source=rss----98111c9905da---4",
+      "timestamp": "04:29",
+      "pubDate": "2026-01-13T04:29:13.000Z"
+    },
+    {
+      "title": "Duffer Brothers Started Filming 'Stranger Things' Final Episode Without A Finished Script: \"We Don't Even Fully Know What's Going On\"",
+      "url": "https://deadline.com/2026/01/duffer-brothers-started-filming-stranger-things-final-episode-script-1236681369/",
+      "timestamp": "04:20",
+      "pubDate": "2026-01-13T04:20:43.000Z"
+    },
+    {
+      "title": "Teaching an AI to Fly Rockets",
+      "url": "https://pub.towardsai.net/teaching-an-ai-to-fly-rockets-6e2e756496ed?source=rss----98111c9905da---4",
+      "timestamp": "04:17",
+      "pubDate": "2026-01-13T04:17:05.000Z"
+    },
+    {
+      "title": "Bob Dylan is guiding Cameron Winter into a new chapter: \"He's a dude\"",
+      "url": "https://faroutmagazine.co.uk/bob-dylan-is-guiding-cameron-winter-into-a-new-chapter-hes-a-dude/",
+      "timestamp": "04:00",
+      "pubDate": "2026-01-13T04:00:00.000Z"
+    },
+    {
+      "title": "'Tell Me Lies' Season 3 Episode Release Guide: When Do New Episodes Air?",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/tell-me-lies-season-3-episode-release-schedule/",
+      "timestamp": "04:00",
+      "pubDate": "2026-01-13T04:00:00.000Z"
+    },
+    {
+      "title": "The Complete Guide to Structured RAG: Building AI Systems That Actually Work",
+      "url": "https://pub.towardsai.net/the-complete-guide-to-structured-rag-building-ai-systems-that-actually-work-48483c5dfb89?source=rss----98111c9905da---4",
+      "timestamp": "03:41",
+      "pubDate": "2026-01-13T03:41:27.000Z"
+    },
+    {
+      "title": "Why Your AI Agent Fails After Some Steps (And How Deep Agents Fix It)",
+      "url": "https://pub.towardsai.net/why-your-ai-agent-fails-after-some-steps-and-how-deep-agents-fix-it-48b5a2f550c9?source=rss----98111c9905da---4",
+      "timestamp": "03:40",
+      "pubDate": "2026-01-13T03:40:43.000Z"
+    },
     {
       "title": "'It Ends With Us' & 'Regretting You' Author Colleen Hoover Reveals Cancer Diagnosis",
       "url": "https://deadline.com/2026/01/it-ends-with-us-regretting-you-colleen-hoover-cancer-diagnosis-1236681361/",
@@ -289,63 +343,14 @@
       "url": "https://deadline.com/2026/01/little-dot-studios-names-us-managing-directors-1236680817/",
       "timestamp": "00:01",
       "pubDate": "2026-01-13T00:01:00.000Z"
-    },
-    {
-      "title": "'Connections' answers and hints for today, January 13",
-      "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=connections-answers-hints-groups-today",
-      "timestamp": "00:00",
-      "pubDate": "2026-01-13T00:00:27.000Z"
-    },
-    {
-      "title": "Globle answer today – here’s the answer and hints for January 13",
-      "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globle-hint-answer-today",
-      "timestamp": "00:00",
-      "pubDate": "2026-01-13T00:00:17.000Z"
-    },
-    {
-      "title": "Framed answer today – here’s the solution for January 13",
-      "url": "https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=framed-answer-today",
-      "timestamp": "00:00",
-      "pubDate": "2026-01-13T00:00:09.000Z"
-    },
-    {
-      "title": "Here Are All the Artists Who’ve Collaborated With Beyoncé on Her Solo Studio&#160;Albums",
-      "url": "https://www.billboard.com/photos/beyonce-features-collaborators-1235120014/",
-      "timestamp": "00:00",
-      "pubDate": "2026-01-13T00:00:04.000Z"
-    },
-    {
-      "title": "Hands-on with Bee, Amazon's latest AI wearable",
-      "url": "https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/",
-      "timestamp": "00:00",
-      "pubDate": "2026-01-13T00:00:00.000Z"
-    },
-    {
-      "title": "How ‘Stranger Things’ Star Nell Fisher Stepped Into a Leading Role Just in Time for the Final Season",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/stranger-things-season-5-nell-fisher-holly-interview/",
-      "timestamp": "23:48",
-      "pubDate": "2026-01-12T23:48:46.000Z"
-    },
-    {
-      "title": "Framework increases Desktop prices by up to $460 due to RAM crisis",
-      "url": "https://www.engadget.com/computing/framework-increases-desktop-prices-by-up-to-460-due-to-ram-crisis-234827145.html?src=rss",
-      "timestamp": "23:48",
-      "pubDate": "2026-01-12T23:48:27.000Z"
-    },
-    {
-      "title": "Megyn Kelly Flames Amy Poehler as ‘Embarrassing and Disrespectful’ After Golden Globes Best Podcast Win &#124; Video",
-      "url": "https://www.thewrap.com/culture-lifestyle/culture/megyn-kelly-slams-amy-poehler-golden-globe-podcast-win/",
-      "timestamp": "23:43",
-      "pubDate": "2026-01-12T23:43:51.000Z"
-    },
-    {
-      "title": "Boots Riley Sets Film Adaptation of Post-Apocalyptic 'Simpsons' Play",
-      "url": "https://www.thewrap.com/creative-content/movies/boots-riley-announces-film-adaptation-simpsons-play/",
-      "timestamp": "23:43",
-      "pubDate": "2026-01-12T23:43:43.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "Bob Dylan is guiding Cameron Winter into a new chapter: \"He's a dude\"",
+      "url": "https://faroutmagazine.co.uk/bob-dylan-is-guiding-cameron-winter-into-a-new-chapter-hes-a-dude/",
+      "timestamp": "04:00"
+    },
     {
       "title": "The one singer Eddie Vedder called his musical guiding light",
       "url": "https://faroutmagazine.co.uk/the-one-singer-eddie-vedder-called-his-musical-guiding-light/",
@@ -355,11 +360,6 @@
       "title": "The moment Frank Sinatra finally called his daughter Nancy a “star”",
       "url": "https://faroutmagazine.co.uk/the-moment-frank-sinatra-finally-called-his-daughter-nancy-a-star/",
       "timestamp": "01:30"
-    },
-    {
-      "title": "The one Eagles member that left Joe Walsh speechless",
-      "url": "https://faroutmagazine.co.uk/the-one-eagles-member-that-left-joe-walsh-speechless/",
-      "timestamp": "00:30"
     },
     {
       "title": "A$AP Rocky Dangles From 'Helicopter' Over Raging City in New Video",
@@ -390,11 +390,6 @@
       "title": "Remembering Yeison Jimenez: 5 Best Anthems From the Colombian Música Popular&#160;Star",
       "url": "https://www.billboard.com/lists/yeison-jimenez-best-song-colombian-musica-popular-star/",
       "timestamp": "22:32"
-    },
-    {
-      "title": "Cat Power Celebrates First Gold Record",
-      "url": "https://stereogum.com/2484987/cat-power-celebrates-first-gold-record/news/",
-      "timestamp": "22:10"
     },
     {
       "title": "Top 10 Bob Weir Songs",
@@ -445,7 +440,12 @@
       "title": "Black Label Society's New Album to Feature Ozzy Osbourne Tribute",
       "url": "https://ultimateclassicrock.com/black-label-society-engines-of-demolition/",
       "timestamp": "15:21"
+    },
+    {
+      "title": "Jersey Club Keeps on Moving",
+      "url": "https://daily.bandcamp.com/scene-report/jersey-club-music-on-bandcamp",
+      "timestamp": "14:39"
     }
   ],
-  "lastUpdated": "2026-01-13T03:42:54.806Z"
+  "lastUpdated": "2026-01-13T04:43:27.903Z"
 }
