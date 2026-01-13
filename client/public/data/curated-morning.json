@@ -1,33 +1,33 @@
 {
-  "curatedAt": "2026-01-13T07:28:33.980Z",
+  "curatedAt": "2026-01-13T08:36:12.304Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 8,
   "newsletter": {
     "leadStory": {
-      "title": "MY CHEMICAL ROMANCE DELAY FIRST SHOW OF THE BLACK PARADE 2026 TOUR",
-      "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
-      "timestamp": "2026-01-13T07:28:30.963Z",
+      "title": "VANECK: GOLD TO REACH $184K IF ADOPTED AS BROAD MONEY",
+      "url": "https://news.bitcoin.com/vaneck-gold-to-reach-184k-if-adopted-as-broad-money/",
+      "timestamp": "2026-01-13T08:36:09.310Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
-        "engagement": 0.75,
+        "impact": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6950000000000001
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
       {
-        "title": "MY CHEMICAL ROMANCE DELAY FIRST SHOW OF THE BLACK PARADE 2026 TOUR",
+        "title": "My Chemical Romance Delay First Show of the Black Parade 2026 Tour",
         "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
-        "timestamp": "2026-01-13T07:28:30.963Z",
-        "source": "splash",
+        "timestamp": "07:21",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.75,
-          "timeliness": 1,
+          "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.6950000000000001
+          "composite": 0.535
         }
       },
       {
@@ -72,19 +72,6 @@
         }
       },
       {
-        "title": "Colleen Barstow, Theater Owner and Independent Cinema Advocate, Dies at 64",
-        "url": "https://www.hollywoodreporter.com/business/business-news/colleen-barstow-dead-nebraska-theater-owner-cinema-united-1236471964/",
-        "timestamp": "02:04",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.47000000000000003
-        }
-      },
-      {
         "title": "Band Of Horses Find 'Time' To Revisit Beloved Debut LP",
         "url": "https://www.spin.com/2026/01/band-of-horses-debut-album-anniversary/",
         "timestamp": "17:24",
@@ -96,30 +83,43 @@
           "discovery": 0.5,
           "composite": 0.44
         }
+      },
+      {
+        "title": "Connor Storrie Says He Was “Already Planning on Getting A New Job” Before ‘Heated Rivalry’ Blew Up on ’Late Night’ Debut",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-star-connor-storrie-late-night-seth-meyers-1236472000/",
+        "timestamp": "07:11",
+        "source": "automated",
+        "scores": {
+          "impact": 0.4,
+          "engagement": 0.55,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.4150000000000001
+        }
       }
     ],
     "conversation": [
       {
-        "title": "MY CHEMICAL ROMANCE DELAY FIRST SHOW OF THE BLACK PARADE 2026 TOUR",
+        "title": "My Chemical Romance Delay First Show of the Black Parade 2026 Tour",
         "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
-        "timestamp": "2026-01-13T07:28:30.963Z",
-        "source": "splash",
+        "timestamp": "07:21",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.75,
-          "timeliness": 1,
+          "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.6950000000000001
+          "composite": 0.535
         }
       },
       {
-        "title": "'Tell Me Lies' Drops Surprise Episode With Season 3 Premiere (Exclusive)",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/tell-me-lies-surprise-third-episode-season-3-premiere-1236466787/",
-        "timestamp": "05:00",
+        "title": "5 best shows like 'His & Hers' to stream after the Netflix miniseries",
+        "url": "https://www.tomsguide.com/entertainment/streaming/5-best-shows-like-his-and-hers",
+        "timestamp": "07:30",
         "source": "automated",
         "scores": {
-          "impact": 0.65,
-          "engagement": 0.65,
+          "impact": 0.5,
+          "engagement": 0.85,
           "timeliness": 0.2,
           "discovery": 0.3,
           "composite": 0.525
@@ -128,32 +128,45 @@
     ],
     "wildcard": [
       {
-        "title": "MY CHEMICAL ROMANCE DELAY FIRST SHOW OF THE BLACK PARADE 2026 TOUR",
-        "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
-        "timestamp": "2026-01-13T07:28:30.963Z",
+        "title": "VANECK: GOLD TO REACH $184K IF ADOPTED AS BROAD MONEY",
+        "url": "https://news.bitcoin.com/vaneck-gold-to-reach-184k-if-adopted-as-broad-money/",
+        "timestamp": "2026-01-13T08:36:09.310Z",
         "source": "splash",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.75,
+          "impact": 0.5,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6950000000000001
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "MY CHEMICAL ROMANCE DELAY FIRST SHOW OF THE BLACK PARADE 2026 TOUR",
-      "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
-      "timestamp": "2026-01-13T07:28:30.963Z",
+      "title": "VANECK: GOLD TO REACH $184K IF ADOPTED AS BROAD MONEY",
+      "url": "https://news.bitcoin.com/vaneck-gold-to-reach-184k-if-adopted-as-broad-money/",
+      "timestamp": "2026-01-13T08:36:09.310Z",
       "source": "splash",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.6,
+        "timeliness": 1,
+        "discovery": 0.3,
+        "composite": 0.6100000000000001
+      }
+    },
+    {
+      "title": "My Chemical Romance Delay First Show of the Black Parade 2026 Tour",
+      "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
+      "timestamp": "07:21",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.75,
-        "timeliness": 1,
+        "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.6950000000000001
+        "composite": 0.535
       }
     },
     {
@@ -196,19 +209,6 @@
       }
     },
     {
-      "title": "Colleen Barstow, Theater Owner and Independent Cinema Advocate, Dies at 64",
-      "url": "https://www.hollywoodreporter.com/business/business-news/colleen-barstow-dead-nebraska-theater-owner-cinema-united-1236471964/",
-      "timestamp": "02:04",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.47000000000000003
-      }
-    },
-    {
       "title": "Band Of Horses Find 'Time' To Revisit Beloved Debut LP",
       "url": "https://www.spin.com/2026/01/band-of-horses-debut-album-anniversary/",
       "timestamp": "17:24",
@@ -219,6 +219,32 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.44
+      }
+    },
+    {
+      "title": "Connor Storrie Says He Was “Already Planning on Getting A New Job” Before ‘Heated Rivalry’ Blew Up on ’Late Night’ Debut",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-star-connor-storrie-late-night-seth-meyers-1236472000/",
+      "timestamp": "07:11",
+      "source": "automated",
+      "scores": {
+        "impact": 0.4,
+        "engagement": 0.55,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.4150000000000001
+      }
+    },
+    {
+      "title": "5 best shows like 'His & Hers' to stream after the Netflix miniseries",
+      "url": "https://www.tomsguide.com/entertainment/streaming/5-best-shows-like-his-and-hers",
+      "timestamp": "07:30",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.85,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.525
       }
     }
   ],

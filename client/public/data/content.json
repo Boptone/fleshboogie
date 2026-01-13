@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "MY CHEMICAL ROMANCE DELAY FIRST SHOW OF THE BLACK PARADE 2026 TOUR",
-    "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
+    "headline": "VANECK: GOLD TO REACH $184K IF ADOPTED AS BROAD MONEY",
+    "url": "https://news.bitcoin.com/vaneck-gold-to-reach-184k-if-adopted-as-broad-money/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "I used Perplexity to build a smart reading list — here’s what it recommended",
-      "url": "https://www.tomsguide.com/ai/i-used-perplexity-to-build-a-smart-reading-list-heres-what-it-recommended",
-      "timestamp": "07:15",
+      "title": "I just went hands-on with the Aivela Ring Pro — and it could be the next best thing to an ‘Apple Ring’",
+      "url": "https://www.tomsguide.com/wellness/smart-rings/i-just-went-hands-on-with-the-aivela-ring-pro-and-it-could-be-the-next-best-thing-to-an-apple-ring",
+      "timestamp": "08:30",
       "pinned": false
     },
     {
-      "title": "A$AP Rocky Says New 'Helicopter$' Video Is 'JUST GENERATIONAL'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-helicopter-video-not-ai-generated-1236153909/",
-      "timestamp": "07:12",
+      "title": "The Beatles songs John Lennon thought they completely ruined: \"We just couldn't sing it\"",
+      "url": "https://faroutmagazine.co.uk/beatles-songs-john-lennon-thought-they-destroyed/",
+      "timestamp": "08:13",
       "pinned": false
     },
     {
-      "title": "Connor Storrie Says He Was “Already Planning on Getting A New Job” Before ‘Heated Rivalry’ Blew Up on ’Late Night’ Debut",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-star-connor-storrie-late-night-seth-meyers-1236472000/",
-      "timestamp": "07:11",
+      "title": "The daring moment for which Axl Rose kept The Rolling Stones waiting for three hours",
+      "url": "https://faroutmagazine.co.uk/the-daring-moment-axl-rose-kept-the-rolling-stones-waiting-for-three-hours/",
+      "timestamp": "08:00",
       "pinned": false
     },
     {
-      "title": "Micro RGB TVs are finally here, but they have a long way to go before they dethrone OLEDs",
-      "url": "https://www.tomsguide.com/tvs/micro-rgb-tvs-are-finally-here-but-they-have-a-long-way-to-go-before-they-dethrone-oleds",
-      "timestamp": "07:00",
+      "title": "Is your phone listening to you? Here's how to test it",
+      "url": "https://www.tomsguide.com/phones/is-your-phone-listening-to-you-heres-how-to-test-it",
+      "timestamp": "08:00",
       "pinned": false
     },
     {
-      "title": "A16z Reveals Three Crypto Predictions for 2026",
-      "url": "https://news.bitcoin.com/a16z-reveals-three-crypto-predictions-for-2026/",
-      "timestamp": "06:30",
+      "title": "UK Lawmakers Push Starmer to Ban Crypto Donations Amid Foreign Interference Fears",
+      "url": "https://news.bitcoin.com/uk-lawmakers-push-starmer-to-ban-crypto-donations-amid-foreign-interference-fears/",
+      "timestamp": "07:30",
       "pinned": false
     }
   ],
@@ -104,6 +104,54 @@
     }
   ],
   "automated": [
+    {
+      "title": "Vaneck: Gold to Reach $184K if Adopted as Broad Money",
+      "url": "https://news.bitcoin.com/vaneck-gold-to-reach-184k-if-adopted-as-broad-money/",
+      "timestamp": "08:30",
+      "pubDate": "2026-01-13T08:30:02.000Z"
+    },
+    {
+      "title": "I just went hands-on with the Aivela Ring Pro — and it could be the next best thing to an ‘Apple Ring’",
+      "url": "https://www.tomsguide.com/wellness/smart-rings/i-just-went-hands-on-with-the-aivela-ring-pro-and-it-could-be-the-next-best-thing-to-an-apple-ring",
+      "timestamp": "08:30",
+      "pubDate": "2026-01-13T08:30:00.000Z"
+    },
+    {
+      "title": "The Beatles songs John Lennon thought they completely ruined: \"We just couldn't sing it\"",
+      "url": "https://faroutmagazine.co.uk/beatles-songs-john-lennon-thought-they-destroyed/",
+      "timestamp": "08:13",
+      "pubDate": "2026-01-13T08:13:50.000Z"
+    },
+    {
+      "title": "The daring moment for which Axl Rose kept The Rolling Stones waiting for three hours",
+      "url": "https://faroutmagazine.co.uk/the-daring-moment-axl-rose-kept-the-rolling-stones-waiting-for-three-hours/",
+      "timestamp": "08:00",
+      "pubDate": "2026-01-13T08:00:00.000Z"
+    },
+    {
+      "title": "Is your phone listening to you? Here's how to test it",
+      "url": "https://www.tomsguide.com/phones/is-your-phone-listening-to-you-heres-how-to-test-it",
+      "timestamp": "08:00",
+      "pubDate": "2026-01-13T08:00:00.000Z"
+    },
+    {
+      "title": "UK Lawmakers Push Starmer to Ban Crypto Donations Amid Foreign Interference Fears",
+      "url": "https://news.bitcoin.com/uk-lawmakers-push-starmer-to-ban-crypto-donations-amid-foreign-interference-fears/",
+      "timestamp": "07:30",
+      "pubDate": "2026-01-13T07:30:53.000Z"
+    },
+    {
+      "title": "5 best shows like 'His & Hers' to stream after the Netflix miniseries",
+      "url": "https://www.tomsguide.com/entertainment/streaming/5-best-shows-like-his-and-hers",
+      "timestamp": "07:30",
+      "pubDate": "2026-01-13T07:30:00.000Z"
+    },
+    {
+      "title": "Paul Mescal says fans “will benefit from knowing as little as possible” ahead of new Beatles biopics",
+      "url": "https://www.nme.com/news/music/paul-mescal-says-fans-will-benefit-from-knowing-as-little-as-possible-ahead-of-new-beatles-biopics-3922763?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=paul-mescal-says-fans-will-benefit-from-knowing-as-little-as-possible-ahead-of-new-beatles-biopics",
+      "timestamp": "07:27",
+      "pubDate": "2026-01-13T07:27:57.000Z"
+    },
     {
       "title": "My Chemical Romance Delay First Show of the Black Parade 2026 Tour",
       "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
@@ -295,57 +343,24 @@
       "url": "https://faroutmagazine.co.uk/the-one-singer-eddie-vedder-called-his-musical-guiding-light/",
       "timestamp": "02:30",
       "pubDate": "2026-01-13T02:30:00.000Z"
-    },
-    {
-      "title": "Colleen Barstow, Theater Owner and Independent Cinema Advocate, Dies at 64",
-      "url": "https://www.hollywoodreporter.com/business/business-news/colleen-barstow-dead-nebraska-theater-owner-cinema-united-1236471964/",
-      "timestamp": "02:04",
-      "pubDate": "2026-01-13T02:04:26.000Z"
-    },
-    {
-      "title": "Ethereum must pass 'walkaway test' to endure for 100 years: Buterin",
-      "url": "https://cointelegraph.com/news/ethereum-must-pass-walkaway-test-vitalik-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "02:04",
-      "pubDate": "2026-01-13T02:04:16.000Z"
-    },
-    {
-      "title": "The movie Naomi Watts knew was doomed: \"You have to go down with the sinking ship\"",
-      "url": "https://faroutmagazine.co.uk/movie-naomi-watts-knew-was-doomed/",
-      "timestamp": "02:00",
-      "pubDate": "2026-01-13T02:00:00.000Z"
-    },
-    {
-      "title": "Megyn Kelly Slams Amy Poehler After Golden Globes Best Podcast Win: \"Embarrassing and Disrespectful\"",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/megyn-kelly-slams-amy-poehler-golden-globes-best-podcast-win-1236471946/",
-      "timestamp": "01:54",
-      "pubDate": "2026-01-13T01:54:39.000Z"
-    },
-    {
-      "title": "Circuit Bending The Talk 'N Learn Alphabet",
-      "url": "https://www.synthtopia.com/content/2026/01/12/circuit-bending-the-talk-n-learn-alphabet/",
-      "timestamp": "01:42",
-      "pubDate": "2026-01-13T01:42:30.000Z"
-    },
-    {
-      "title": "‘28 Years Later: The Bone Temple' Director Nia DaCosta On Upping The Sequel's Gore, Assessing 'The Marvels' Aftermath – Crew Call Podcast",
-      "url": "https://deadline.com/2026/01/28-years-later-bone-temple-nia-dacosta-interview-1236681261/",
-      "timestamp": "01:33",
-      "pubDate": "2026-01-13T01:33:23.000Z"
-    },
-    {
-      "title": "Elijah Wood Acknowledges Rumored 'Lord of the Rings' Return: 'A Wizard Is to Be Trusted'",
-      "url": "https://www.thewrap.com/creative-content/movies/elijah-wood-rumored-lord-of-the-rings-return/",
-      "timestamp": "01:33",
-      "pubDate": "2026-01-13T01:33:00.000Z"
-    },
-    {
-      "title": "Is Fed Crisis Setting Bitcoin up for Major Price Surge?",
-      "url": "https://news.bitcoin.com/is-fed-crisis-setting-bitcoin-up-for-major-price-surge/",
-      "timestamp": "01:30",
-      "pubDate": "2026-01-13T01:30:49.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "The Beatles songs John Lennon thought they completely ruined: \"We just couldn't sing it\"",
+      "url": "https://faroutmagazine.co.uk/beatles-songs-john-lennon-thought-they-destroyed/",
+      "timestamp": "08:13"
+    },
+    {
+      "title": "The daring moment for which Axl Rose kept The Rolling Stones waiting for three hours",
+      "url": "https://faroutmagazine.co.uk/the-daring-moment-axl-rose-kept-the-rolling-stones-waiting-for-three-hours/",
+      "timestamp": "08:00"
+    },
+    {
+      "title": "Paul Mescal says fans “will benefit from knowing as little as possible” ahead of new Beatles biopics",
+      "url": "https://www.nme.com/news/music/paul-mescal-says-fans-will-benefit-from-knowing-as-little-as-possible-ahead-of-new-beatles-biopics-3922763?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=paul-mescal-says-fans-will-benefit-from-knowing-as-little-as-possible-ahead-of-new-beatles-biopics",
+      "timestamp": "07:27"
+    },
     {
       "title": "My Chemical Romance Delay First Show of the Black Parade 2026 Tour",
       "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
@@ -367,16 +382,6 @@
       "timestamp": "04:00"
     },
     {
-      "title": "The one singer Eddie Vedder called his musical guiding light",
-      "url": "https://faroutmagazine.co.uk/the-one-singer-eddie-vedder-called-his-musical-guiding-light/",
-      "timestamp": "02:30"
-    },
-    {
-      "title": "The moment Frank Sinatra finally called his daughter Nancy a “star”",
-      "url": "https://faroutmagazine.co.uk/the-moment-frank-sinatra-finally-called-his-daughter-nancy-a-star/",
-      "timestamp": "01:30"
-    },
-    {
       "title": "A$AP Rocky Dangles From 'Helicopter' Over Raging City in New Video",
       "url": "https://www.rollingstone.com/music/music-news/asap-rocky-helicopter-video-dont-be-dumb-album-1235498620/",
       "timestamp": "00:27"
@@ -389,11 +394,6 @@
     {
       "title": "'Connections' answers and hints for today, January 13",
       "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=connections-answers-hints-groups-today",
-      "timestamp": "00:00"
-    },
-    {
-      "title": "Globle answer today – here’s the answer and hints for January 13",
-      "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globle-hint-answer-today",
       "timestamp": "00:00"
     },
     {
@@ -447,5 +447,5 @@
       "timestamp": "16:53"
     }
   ],
-  "lastUpdated": "2026-01-13T07:28:30.963Z"
+  "lastUpdated": "2026-01-13T08:36:09.310Z"
 }
