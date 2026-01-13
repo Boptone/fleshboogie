@@ -1,22 +1,35 @@
 {
-  "curatedAt": "2026-01-13T17:30:02.763Z",
+  "curatedAt": "2026-01-13T18:36:20.710Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "A$AP ROCKY BAILS ON HIS REDDIT AMA & CALLS MODERATORS 'CLOWNS'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-cancels-reddit-ama-moderators-clowns-1236154020/",
-      "timestamp": "2026-01-13T17:29:59.743Z",
+      "title": "ARLO PARKS DANCES TO A NEW BEAT ON THIRD LP",
+      "url": "https://www.spin.com/2026/01/arlo-parks-new-album/",
+      "timestamp": "2026-01-13T18:36:17.714Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.55,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.595
       }
     },
     "deepDive": [
+      {
+        "title": "How to watch Newcastle vs Man City: free streams, TV channels & preview for Carabao Cup 2025-26 semi-final",
+        "url": "https://www.tomsguide.com/entertainment/sports/watch-newcastle-vs-man-city-carabao-cup-semi-final-2025-26-free",
+        "timestamp": "18:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.55,
+          "engagement": 0.85,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.545
+        }
+      },
       {
         "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
         "url": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
@@ -31,33 +44,46 @@
         }
       },
       {
-        "title": "Slamdance Festival Reveals 2026 Lineup, Its Second in Los Angeles",
-        "url": "https://www.indiewire.com/news/festivals/slamdance-festival-reveals-2026-lineup-1235172812/",
-        "timestamp": "17:00",
+        "title": "Fleetwood Mac's 'Landslide' Debuts on Hot 100 More Than 50 Years After Its&#160;Release",
+        "url": "https://www.billboard.com/music/chart-beat/fleetwood-mac-landslide-hot-100-debut-50-years-later-1236154035/",
+        "timestamp": "17:36",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.7,
+          "engagement": 0.6,
           "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.52
-        }
-      },
-      {
-        "title": "Best Service releases Eduardo Tarilonte’s Dark ERA 2",
-        "url": "https://rekkerd.org/best-service-releases-eduardo-tarilontes-dark-era-2/",
-        "timestamp": "16:49",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.52
+          "discovery": 0.5,
+          "composite": 0.51
         }
       }
     ],
     "discovery": [
+      {
+        "title": "Fleetwood Mac's 'Landslide' Debuts on Hot 100 More Than 50 Years After Its&#160;Release",
+        "url": "https://www.billboard.com/music/chart-beat/fleetwood-mac-landslide-hot-100-debut-50-years-later-1236154035/",
+        "timestamp": "17:36",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.51
+        }
+      },
+      {
+        "title": "'People We Meet on Vacation' Jumps to Top of Bestseller Lists Following Netflix Adaptation",
+        "url": "https://variety.com/2026/shopping/news/people-we-meet-on-vacation-book-buy-online-1236630312/",
+        "timestamp": "18:11",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.47000000000000003
+        }
+      },
       {
         "title": "Meet Mark Dixon, Boston’s One-Time Secret Singer",
         "url": "https://ultimateclassicrock.com/boston-band-secret-singer/",
@@ -74,22 +100,22 @@
     ],
     "conversation": [
       {
-        "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
-        "url": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
-        "timestamp": "17:14",
+        "title": "How to watch Newcastle vs Man City: free streams, TV channels & preview for Carabao Cup 2025-26 semi-final",
+        "url": "https://www.tomsguide.com/entertainment/sports/watch-newcastle-vs-man-city-carabao-cup-semi-final-2025-26-free",
+        "timestamp": "18:00",
         "source": "automated",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
+          "impact": 0.55,
+          "engagement": 0.85,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.52
+          "composite": 0.545
         }
       },
       {
-        "title": "Slamdance Festival Reveals 2026 Lineup, Its Second in Los Angeles",
-        "url": "https://www.indiewire.com/news/festivals/slamdance-festival-reveals-2026-lineup-1235172812/",
-        "timestamp": "17:00",
+        "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
+        "url": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
+        "timestamp": "17:14",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -102,32 +128,45 @@
     ],
     "wildcard": [
       {
-        "title": "A$AP ROCKY BAILS ON HIS REDDIT AMA & CALLS MODERATORS 'CLOWNS'",
-        "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-cancels-reddit-ama-moderators-clowns-1236154020/",
-        "timestamp": "2026-01-13T17:29:59.743Z",
+        "title": "ARLO PARKS DANCES TO A NEW BEAT ON THIRD LP",
+        "url": "https://www.spin.com/2026/01/arlo-parks-new-album/",
+        "timestamp": "2026-01-13T18:36:17.714Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.55,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.595
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "A$AP ROCKY BAILS ON HIS REDDIT AMA & CALLS MODERATORS 'CLOWNS'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-cancels-reddit-ama-moderators-clowns-1236154020/",
-      "timestamp": "2026-01-13T17:29:59.743Z",
+      "title": "ARLO PARKS DANCES TO A NEW BEAT ON THIRD LP",
+      "url": "https://www.spin.com/2026/01/arlo-parks-new-album/",
+      "timestamp": "2026-01-13T18:36:17.714Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.55,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.595
+      }
+    },
+    {
+      "title": "How to watch Newcastle vs Man City: free streams, TV channels & preview for Carabao Cup 2025-26 semi-final",
+      "url": "https://www.tomsguide.com/entertainment/sports/watch-newcastle-vs-man-city-carabao-cup-semi-final-2025-26-free",
+      "timestamp": "18:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.55,
+        "engagement": 0.85,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.545
       }
     },
     {
@@ -144,29 +183,29 @@
       }
     },
     {
-      "title": "Slamdance Festival Reveals 2026 Lineup, Its Second in Los Angeles",
-      "url": "https://www.indiewire.com/news/festivals/slamdance-festival-reveals-2026-lineup-1235172812/",
-      "timestamp": "17:00",
+      "title": "Fleetwood Mac's 'Landslide' Debuts on Hot 100 More Than 50 Years After Its&#160;Release",
+      "url": "https://www.billboard.com/music/chart-beat/fleetwood-mac-landslide-hot-100-debut-50-years-later-1236154035/",
+      "timestamp": "17:36",
       "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.7,
+        "engagement": 0.6,
         "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.52
+        "discovery": 0.5,
+        "composite": 0.51
       }
     },
     {
-      "title": "Best Service releases Eduardo Tarilonte’s Dark ERA 2",
-      "url": "https://rekkerd.org/best-service-releases-eduardo-tarilontes-dark-era-2/",
-      "timestamp": "16:49",
+      "title": "'People We Meet on Vacation' Jumps to Top of Bestseller Lists Following Netflix Adaptation",
+      "url": "https://variety.com/2026/shopping/news/people-we-meet-on-vacation-book-buy-online-1236630312/",
+      "timestamp": "18:11",
       "source": "automated",
       "scores": {
-        "impact": 0.6,
-        "engagement": 0.7,
+        "impact": 0.5,
+        "engagement": 0.6,
         "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.52
+        "discovery": 0.5,
+        "composite": 0.47000000000000003
       }
     },
     {
