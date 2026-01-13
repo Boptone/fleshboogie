@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-13T09:32:18.790Z",
+  "curatedAt": "2026-01-13T10:29:02.543Z",
   "totalAnalyzed": 66,
-  "totalSelected": 8,
+  "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "VELAFI SECURES $20 MILLION SERIES B TO EXPAND STABLECOIN INFRASTRUCTURE",
-      "url": "https://news.bitcoin.com/velafi-secures-20-million-series-b-to-expand-stablecoin-infrastructure/",
-      "timestamp": "2026-01-13T09:32:15.801Z",
+      "title": "'PORTOBELLO' TRAILER TEASES THE FALL OF THE KING OF 1980S TV IN FIRST ITALIAN HBO MAX ORIGINAL",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-portobello-trailer-series-first-italian-original-1236469608/",
+      "timestamp": "2026-01-13T10:28:59.531Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.65,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.625
       }
     },
     "deepDive": [
@@ -72,9 +72,9 @@
         }
       },
       {
-        "title": "ISOVOX introduces IsoBooth portable isolation booth",
-        "url": "https://rekkerd.org/isovox-introduces-isobooth-portable-isolation-booth/",
-        "timestamp": "09:30",
+        "title": "Everything You Need to Know About Importing a Chinese Smartphone",
+        "url": "https://www.wired.com/story/tips-on-importing-a-chinese-smartphone/",
+        "timestamp": "10:00",
         "source": "mainColumn",
         "scores": {
           "impact": 0.5,
@@ -85,10 +85,10 @@
         }
       },
       {
-        "title": "Band Of Horses Find 'Time' To Revisit Beloved Debut LP",
-        "url": "https://www.spin.com/2026/01/band-of-horses-debut-album-anniversary/",
-        "timestamp": "17:24",
-        "source": "musicReleases",
+        "title": "ISOVOX introduces IsoBooth portable isolation booth",
+        "url": "https://rekkerd.org/isovox-introduces-isobooth-portable-isolation-booth/",
+        "timestamp": "09:30",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.5,
@@ -99,6 +99,19 @@
       }
     ],
     "conversation": [
+      {
+        "title": "'PORTOBELLO' TRAILER TEASES THE FALL OF THE KING OF 1980S TV IN FIRST ITALIAN HBO MAX ORIGINAL",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-portobello-trailer-series-first-italian-original-1236469608/",
+        "timestamp": "2026-01-13T10:28:59.531Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.65,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.625
+        }
+      },
       {
         "title": "My Chemical Romance Delay First Show of the Black Parade 2026 Tour",
         "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
@@ -111,49 +124,36 @@
           "discovery": 0.3,
           "composite": 0.535
         }
-      },
-      {
-        "title": "5 best shows like 'His & Hers' to stream after the Netflix miniseries",
-        "url": "https://www.tomsguide.com/entertainment/streaming/5-best-shows-like-his-and-hers",
-        "timestamp": "07:30",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.85,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.525
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "VELAFI SECURES $20 MILLION SERIES B TO EXPAND STABLECOIN INFRASTRUCTURE",
-        "url": "https://news.bitcoin.com/velafi-secures-20-million-series-b-to-expand-stablecoin-infrastructure/",
-        "timestamp": "2026-01-13T09:32:15.801Z",
+        "title": "'PORTOBELLO' TRAILER TEASES THE FALL OF THE KING OF 1980S TV IN FIRST ITALIAN HBO MAX ORIGINAL",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-portobello-trailer-series-first-italian-original-1236469608/",
+        "timestamp": "2026-01-13T10:28:59.531Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.65,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.625
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "VELAFI SECURES $20 MILLION SERIES B TO EXPAND STABLECOIN INFRASTRUCTURE",
-      "url": "https://news.bitcoin.com/velafi-secures-20-million-series-b-to-expand-stablecoin-infrastructure/",
-      "timestamp": "2026-01-13T09:32:15.801Z",
+      "title": "'PORTOBELLO' TRAILER TEASES THE FALL OF THE KING OF 1980S TV IN FIRST ITALIAN HBO MAX ORIGINAL",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-portobello-trailer-series-first-italian-original-1236469608/",
+      "timestamp": "2026-01-13T10:28:59.531Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.65,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.625
       }
     },
     {
@@ -209,9 +209,9 @@
       }
     },
     {
-      "title": "ISOVOX introduces IsoBooth portable isolation booth",
-      "url": "https://rekkerd.org/isovox-introduces-isobooth-portable-isolation-booth/",
-      "timestamp": "09:30",
+      "title": "Everything You Need to Know About Importing a Chinese Smartphone",
+      "url": "https://www.wired.com/story/tips-on-importing-a-chinese-smartphone/",
+      "timestamp": "10:00",
       "source": "mainColumn",
       "scores": {
         "impact": 0.5,
@@ -222,29 +222,16 @@
       }
     },
     {
-      "title": "Band Of Horses Find 'Time' To Revisit Beloved Debut LP",
-      "url": "https://www.spin.com/2026/01/band-of-horses-debut-album-anniversary/",
-      "timestamp": "17:24",
-      "source": "musicReleases",
+      "title": "ISOVOX introduces IsoBooth portable isolation booth",
+      "url": "https://rekkerd.org/isovox-introduces-isobooth-portable-isolation-booth/",
+      "timestamp": "09:30",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.5,
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.44
-      }
-    },
-    {
-      "title": "5 best shows like 'His & Hers' to stream after the Netflix miniseries",
-      "url": "https://www.tomsguide.com/entertainment/streaming/5-best-shows-like-his-and-hers",
-      "timestamp": "07:30",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.85,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.525
       }
     }
   ],

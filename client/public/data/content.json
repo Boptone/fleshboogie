@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "VELAFI SECURES $20 MILLION SERIES B TO EXPAND STABLECOIN INFRASTRUCTURE",
-    "url": "https://news.bitcoin.com/velafi-secures-20-million-series-b-to-expand-stablecoin-infrastructure/",
+    "headline": "'PORTOBELLO' TRAILER TEASES THE FALL OF THE KING OF 1980S TV IN FIRST ITALIAN HBO MAX ORIGINAL",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-portobello-trailer-series-first-italian-original-1236469608/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "ISOVOX introduces IsoBooth portable isolation booth",
-      "url": "https://rekkerd.org/isovox-introduces-isobooth-portable-isolation-booth/",
-      "timestamp": "09:30",
+      "title": "Netflix top 10 shows — here’s the 3 to binge-watch this week (Jan. 13-19)",
+      "url": "https://www.tomsguide.com/entertainment/netflix/netflix-top-10-shows-heres-the-3-to-binge-watch-this-week-jan-13-19",
+      "timestamp": "10:26",
       "pinned": false
     },
     {
-      "title": "5 flower seeds to sow in January for a colorful summer garden",
-      "url": "https://www.tomsguide.com/home/gardening/5-flower-seeds-to-sow-in-january-for-a-colorful-summer-garden",
-      "timestamp": "09:30",
+      "title": "The best streaming devices for 2026",
+      "url": "https://www.engadget.com/entertainment/streaming/best-streaming-devices-media-players-123021395.html?src=rss",
+      "timestamp": "10:01",
       "pinned": false
     },
     {
-      "title": "Solana Policy Institute urges SEC to exempt DeFi developers from exchange rules",
-      "url": "https://cointelegraph.com/news/solana-policy-institute-sec-defi-developer-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "09:18",
+      "title": "Everything You Need to Know About Importing a Chinese Smartphone",
+      "url": "https://www.wired.com/story/tips-on-importing-a-chinese-smartphone/",
+      "timestamp": "10:00",
       "pinned": false
     },
     {
-      "title": "Positive Grid updates BIAS X guitar tone platform to v1.2",
-      "url": "https://rekkerd.org/positive-grid-updates-bias-x-guitar-tone-platform-to-v1-2/",
-      "timestamp": "09:10",
+      "title": "'I have very tight hips, but doing this stretch every day has helped to improve my mobility'",
+      "url": "https://www.tomsguide.com/wellness/fitness/i-have-very-tight-hips-but-doing-this-stretch-every-day-has-helped-to-improve-my-mobility",
+      "timestamp": "10:00",
       "pinned": false
     },
     {
-      "title": "Shir Shani – DIGI DIGI (ft. NAWEH)",
-      "url": "https://www.stereofox.com/shir-shani-digi-digi-ft-naweh/",
-      "timestamp": "09:07",
+      "title": "The next hot career: Mining engineering",
+      "url": "https://www.fastcompany.com/91471471/mining-engineer-hot-career-path-metals-minerals-college-columbia-university-colorado-rare-earth-china?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
+      "timestamp": "10:00",
       "pinned": false
     }
   ],
@@ -104,6 +104,48 @@
     }
   ],
   "automated": [
+    {
+      "title": "'Portobello' Trailer Teases the Fall of the King of 1980s TV in First Italian HBO Max Original",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-portobello-trailer-series-first-italian-original-1236469608/",
+      "timestamp": "10:27",
+      "pubDate": "2026-01-13T10:27:44.000Z"
+    },
+    {
+      "title": "Netflix top 10 shows — here’s the 3 to binge-watch this week (Jan. 13-19)",
+      "url": "https://www.tomsguide.com/entertainment/netflix/netflix-top-10-shows-heres-the-3-to-binge-watch-this-week-jan-13-19",
+      "timestamp": "10:26",
+      "pubDate": "2026-01-13T10:26:20.000Z"
+    },
+    {
+      "title": "The best streaming devices for 2026",
+      "url": "https://www.engadget.com/entertainment/streaming/best-streaming-devices-media-players-123021395.html?src=rss",
+      "timestamp": "10:01",
+      "pubDate": "2026-01-13T10:01:26.000Z"
+    },
+    {
+      "title": "Everything You Need to Know About Importing a Chinese Smartphone",
+      "url": "https://www.wired.com/story/tips-on-importing-a-chinese-smartphone/",
+      "timestamp": "10:00",
+      "pubDate": "2026-01-13T10:00:00.000Z"
+    },
+    {
+      "title": "'I have very tight hips, but doing this stretch every day has helped to improve my mobility'",
+      "url": "https://www.tomsguide.com/wellness/fitness/i-have-very-tight-hips-but-doing-this-stretch-every-day-has-helped-to-improve-my-mobility",
+      "timestamp": "10:00",
+      "pubDate": "2026-01-13T10:00:00.000Z"
+    },
+    {
+      "title": "The next hot career: Mining engineering",
+      "url": "https://www.fastcompany.com/91471471/mining-engineer-hot-career-path-metals-minerals-college-columbia-university-colorado-rare-earth-china?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
+      "timestamp": "10:00",
+      "pubDate": "2026-01-13T10:00:00.000Z"
+    },
+    {
+      "title": "Paul Mescal wants people to know \"as little as possible\" about The Beatles before watching biopics",
+      "url": "https://faroutmagazine.co.uk/paul-mescal-little-possible-beatles-biopics/",
+      "timestamp": "09:58",
+      "pubDate": "2026-01-13T09:58:49.000Z"
+    },
     {
       "title": "VelaFi Secures $20 Million Series B to Expand Stablecoin Infrastructure",
       "url": "https://news.bitcoin.com/velafi-secures-20-million-series-b-to-expand-stablecoin-infrastructure/",
@@ -255,7 +297,7 @@
       "pubDate": "2026-01-13T06:30:00.000Z"
     },
     {
-      "title": "VanEck: Clarity will turn Q1 into a ‘risk-on’ quarter for investors",
+      "title": "VanEck says policy clarity could make Q1 a ‘risk-on’ quarter",
       "url": "https://cointelegraph.com/news/clearer-fiscal-and-monetary-signals-risk-on-outlook-q1-vaneck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "timestamp": "06:18",
       "pubDate": "2026-01-13T06:18:25.000Z"
@@ -301,51 +343,14 @@
       "url": "https://pub.towardsai.net/10-rag-improvements-that-could-make-your-rag-advanced-a-complete-guide-d055204b3557?source=rss----98111c9905da---4",
       "timestamp": "04:34",
       "pubDate": "2026-01-13T04:34:36.000Z"
-    },
-    {
-      "title": "The Multi-Agent Playbook: 6 Agent Patterns for AI-Developers (With Examples)",
-      "url": "https://pub.towardsai.net/7-multi-agent-patterns-every-developer-needs-in-2026-and-how-to-pick-the-right-one-e8edcd99c96a?source=rss----98111c9905da---4",
-      "timestamp": "04:34",
-      "pubDate": "2026-01-13T04:34:10.000Z"
-    },
-    {
-      "title": "Binance: Crypto Breaks out of Retail Era as Institutions Lock in Long-Term Exposure",
-      "url": "https://news.bitcoin.com/binance-crypto-breaks-out-of-retail-era-as-institutions-lock-in-long-term-exposure/",
-      "timestamp": "04:30",
-      "pubDate": "2026-01-13T04:30:48.000Z"
-    },
-    {
-      "title": "Building an Embedding-Based Surface Defect Detection System for Factories Using Qdrant",
-      "url": "https://pub.towardsai.net/building-an-embedding-based-surface-defect-detection-system-for-factories-using-qdrant-d7794476e411?source=rss----98111c9905da---4",
-      "timestamp": "04:29",
-      "pubDate": "2026-01-13T04:29:40.000Z"
-    },
-    {
-      "title": "GARCH Volatility Modeling with Python: Risk-Adjusted Position Sizing",
-      "url": "https://pub.towardsai.net/garch-volatility-modeling-with-python-risk-adjusted-position-sizing-fa21bdd28131?source=rss----98111c9905da---4",
-      "timestamp": "04:29",
-      "pubDate": "2026-01-13T04:29:13.000Z"
-    },
-    {
-      "title": "Duffer Brothers Started Filming 'Stranger Things' Final Episode Without A Finished Script: \"We Don't Even Fully Know What's Going On\"",
-      "url": "https://deadline.com/2026/01/duffer-brothers-started-filming-stranger-things-final-episode-script-1236681369/",
-      "timestamp": "04:20",
-      "pubDate": "2026-01-13T04:20:43.000Z"
-    },
-    {
-      "title": "Teaching an AI to Fly Rockets",
-      "url": "https://pub.towardsai.net/teaching-an-ai-to-fly-rockets-6e2e756496ed?source=rss----98111c9905da---4",
-      "timestamp": "04:17",
-      "pubDate": "2026-01-13T04:17:05.000Z"
-    },
-    {
-      "title": "Bob Dylan is guiding Cameron Winter into a new chapter: \"He's a dude\"",
-      "url": "https://faroutmagazine.co.uk/bob-dylan-is-guiding-cameron-winter-into-a-new-chapter-hes-a-dude/",
-      "timestamp": "04:00",
-      "pubDate": "2026-01-13T04:00:00.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "Paul Mescal wants people to know \"as little as possible\" about The Beatles before watching biopics",
+      "url": "https://faroutmagazine.co.uk/paul-mescal-little-possible-beatles-biopics/",
+      "timestamp": "09:58"
+    },
     {
       "title": "Shir Shani – DIGI DIGI (ft. NAWEH)",
       "url": "https://www.stereofox.com/shir-shani-digi-digi-ft-naweh/",
@@ -360,11 +365,6 @@
       "title": "The cover song that always disappointed Paul Simon: \"Didn't really add anything\"",
       "url": "https://faroutmagazine.co.uk/cover-song-that-always-disappointed-paul-simon/",
       "timestamp": "08:40"
-    },
-    {
-      "title": "The Beatles songs John Lennon thought they completely ruined: \"We just couldn't sing it\"",
-      "url": "https://faroutmagazine.co.uk/beatles-songs-john-lennon-thought-they-destroyed/",
-      "timestamp": "08:13"
     },
     {
       "title": "Paul Mescal says fans “will benefit from knowing as little as possible” ahead of new Beatles biopics",
@@ -447,5 +447,5 @@
       "timestamp": "17:11"
     }
   ],
-  "lastUpdated": "2026-01-13T09:32:15.801Z"
+  "lastUpdated": "2026-01-13T10:28:59.531Z"
 }
