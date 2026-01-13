@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "A16Z REVEALS THREE CRYPTO PREDICTIONS FOR 2026",
-    "url": "https://news.bitcoin.com/a16z-reveals-three-crypto-predictions-for-2026/",
+    "headline": "MY CHEMICAL ROMANCE DELAY FIRST SHOW OF THE BLACK PARADE 2026 TOUR",
+    "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "I'm an audio editor — here are the headphones, earbuds and speakers that I actually use",
-      "url": "https://www.tomsguide.com/audio/headphones/im-an-audio-editor-here-are-the-headphones-earbuds-and-speakers-that-i-actually-use",
+      "title": "I used Perplexity to build a smart reading list — here’s what it recommended",
+      "url": "https://www.tomsguide.com/ai/i-used-perplexity-to-build-a-smart-reading-list-heres-what-it-recommended",
+      "timestamp": "07:15",
+      "pinned": false
+    },
+    {
+      "title": "A$AP Rocky Says New 'Helicopter$' Video Is 'JUST GENERATIONAL'",
+      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-helicopter-video-not-ai-generated-1236153909/",
+      "timestamp": "07:12",
+      "pinned": false
+    },
+    {
+      "title": "Connor Storrie Says He Was “Already Planning on Getting A New Job” Before ‘Heated Rivalry’ Blew Up on ’Late Night’ Debut",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-star-connor-storrie-late-night-seth-meyers-1236472000/",
+      "timestamp": "07:11",
+      "pinned": false
+    },
+    {
+      "title": "Micro RGB TVs are finally here, but they have a long way to go before they dethrone OLEDs",
+      "url": "https://www.tomsguide.com/tvs/micro-rgb-tvs-are-finally-here-but-they-have-a-long-way-to-go-before-they-dethrone-oleds",
+      "timestamp": "07:00",
+      "pinned": false
+    },
+    {
+      "title": "A16z Reveals Three Crypto Predictions for 2026",
+      "url": "https://news.bitcoin.com/a16z-reveals-three-crypto-predictions-for-2026/",
       "timestamp": "06:30",
-      "pinned": false
-    },
-    {
-      "title": "VanEck: Clarity will turn Q1 into a ‘risk-on’ quarter for investors",
-      "url": "https://cointelegraph.com/news/clearer-fiscal-and-monetary-signals-risk-on-outlook-q1-vaneck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "06:18",
-      "pinned": false
-    },
-    {
-      "title": "Jumping 50 times as soon as you wake up is the TikTok trend going viral — and it claims to boost energy, mood and metabolism",
-      "url": "https://www.tomsguide.com/wellness/fitness/jumping-50-times-as-soon-as-you-wake-up-is-the-tiktok-trend-going-viral-and-it-claims-to-boost-energy-mood-and-metabolism",
-      "timestamp": "06:00",
-      "pinned": false
-    },
-    {
-      "title": "Court temporarily stops Tennessee from taking action against Kalshi",
-      "url": "https://cointelegraph.com/news/court-temporarily-stops-tennessee-taking-action-against-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "05:35",
-      "pinned": false
-    },
-    {
-      "title": "From Surge to Shutdown: Dubai Blocks Privacy Coins in 2026",
-      "url": "https://news.bitcoin.com/from-surge-to-shutdown-dubai-blocks-privacy-coins-in-2026/",
-      "timestamp": "05:30",
       "pinned": false
     }
   ],
@@ -104,6 +104,36 @@
     }
   ],
   "automated": [
+    {
+      "title": "My Chemical Romance Delay First Show of the Black Parade 2026 Tour",
+      "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
+      "timestamp": "07:21",
+      "pubDate": "2026-01-13T07:21:30.000Z"
+    },
+    {
+      "title": "I used Perplexity to build a smart reading list — here’s what it recommended",
+      "url": "https://www.tomsguide.com/ai/i-used-perplexity-to-build-a-smart-reading-list-heres-what-it-recommended",
+      "timestamp": "07:15",
+      "pubDate": "2026-01-13T07:15:00.000Z"
+    },
+    {
+      "title": "A$AP Rocky Says New 'Helicopter$' Video Is 'JUST GENERATIONAL'",
+      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-helicopter-video-not-ai-generated-1236153909/",
+      "timestamp": "07:12",
+      "pubDate": "2026-01-13T07:12:43.000Z"
+    },
+    {
+      "title": "Connor Storrie Says He Was “Already Planning on Getting A New Job” Before ‘Heated Rivalry’ Blew Up on ’Late Night’ Debut",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-star-connor-storrie-late-night-seth-meyers-1236472000/",
+      "timestamp": "07:11",
+      "pubDate": "2026-01-13T07:11:30.000Z"
+    },
+    {
+      "title": "Micro RGB TVs are finally here, but they have a long way to go before they dethrone OLEDs",
+      "url": "https://www.tomsguide.com/tvs/micro-rgb-tvs-are-finally-here-but-they-have-a-long-way-to-go-before-they-dethrone-oleds",
+      "timestamp": "07:00",
+      "pubDate": "2026-01-13T07:00:00.000Z"
+    },
     {
       "title": "A16z Reveals Three Crypto Predictions for 2026",
       "url": "https://news.bitcoin.com/a16z-reveals-three-crypto-predictions-for-2026/",
@@ -313,39 +343,19 @@
       "url": "https://news.bitcoin.com/is-fed-crisis-setting-bitcoin-up-for-major-price-surge/",
       "timestamp": "01:30",
       "pubDate": "2026-01-13T01:30:49.000Z"
-    },
-    {
-      "title": "The moment Frank Sinatra finally called his daughter Nancy a “star”",
-      "url": "https://faroutmagazine.co.uk/the-moment-frank-sinatra-finally-called-his-daughter-nancy-a-star/",
-      "timestamp": "01:30",
-      "pubDate": "2026-01-13T01:30:00.000Z"
-    },
-    {
-      "title": "Philippine Theater Star Lhorvie Nuevo-Tadioan Lands Title Role in Sonny Calvento's 'Mother Maybe' (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/lhorvie-nuevo-tadioan-mother-maybe-1236629464/",
-      "timestamp": "01:00",
-      "pubDate": "2026-01-13T01:00:00.000Z"
-    },
-    {
-      "title": "A Billion-Year-Old Piece of Sky Locked Within Ancient Salt Crystals",
-      "url": "https://nautil.us/a-billion-year-old-piece-of-sky-locked-within-ancient-salt-crystals-1261168/",
-      "timestamp": "01:00",
-      "pubDate": "2026-01-13T01:00:00.000Z"
-    },
-    {
-      "title": "Dinner at Noma's Los Angeles Residency Will Cost $1500",
-      "url": "https://variety.com/2026/scene/food/noma-los-angeles-dinner-reservations-1500-dollars-1236629883/",
-      "timestamp": "00:58",
-      "pubDate": "2026-01-13T00:58:01.000Z"
-    },
-    {
-      "title": "Apple TV Boasts New Record for Monthly Engagement With 36% Increase in Viewership",
-      "url": "https://www.thewrap.com/media-platforms/streaming/apple-tv-boasts-monthly-engagement-record-increased-viewership/",
-      "timestamp": "00:49",
-      "pubDate": "2026-01-13T00:49:49.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "My Chemical Romance Delay First Show of the Black Parade 2026 Tour",
+      "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-2026-tour-delay-1235498661/",
+      "timestamp": "07:21"
+    },
+    {
+      "title": "A$AP Rocky Says New 'Helicopter$' Video Is 'JUST GENERATIONAL'",
+      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-helicopter-video-not-ai-generated-1236153909/",
+      "timestamp": "07:12"
+    },
     {
       "title": "Eddie Vedder Plots Debut Japanese Solo Tour",
       "url": "https://www.spin.com/2026/01/eddie-vedder-japan-tour/",
@@ -435,17 +445,7 @@
       "title": "30 Major Rock Albums Turning 30 in 2026",
       "url": "https://ultimateclassicrock.com/1996-albums/",
       "timestamp": "16:53"
-    },
-    {
-      "title": "Luca – something about u (ft. solaene)",
-      "url": "https://www.stereofox.com/luca-something-about-u-ft-solaene/",
-      "timestamp": "16:33"
-    },
-    {
-      "title": "Morrissey Sang The Smiths' Music Industry Polemic For The First Time In 29 Years",
-      "url": "https://stereogum.com/2484920/morrissey-sang-the-smiths-music-industry-polemic-for-the-first-time-in-29-years/news/",
-      "timestamp": "16:17"
     }
   ],
-  "lastUpdated": "2026-01-13T06:39:47.051Z"
+  "lastUpdated": "2026-01-13T07:28:30.963Z"
 }
