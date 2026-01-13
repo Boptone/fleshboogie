@@ -1,52 +1,52 @@
 {
-  "curatedAt": "2026-01-13T19:23:52.906Z",
+  "curatedAt": "2026-01-13T20:30:21.398Z",
   "totalAnalyzed": 66,
-  "totalSelected": 8,
+  "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "AMMOBIA SAYS IT HAS REINVENTED A CENTURY-OLD TECHNOLOGY",
-      "url": "https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/",
-      "timestamp": "2026-01-13T19:23:49.949Z",
+      "title": "'TRAITORS' STAR PORSHA WILLIAMS ON THE TRUTH ABOUT THE 'REAL HOUSEWIVES' ALLIANCE AND HER SEASON 4 FATE: \"VERY DIRTY\"",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/traitors-porsha-williams-houswives-alliance-interview-1236468416/",
+      "timestamp": "2026-01-13T20:30:18.504Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6400000000000001
       }
     },
     "deepDive": [
       {
-        "title": "ABBA Scores Its First No. 1 on Billboard Dance Chart in Half a Century Thanks to 'Gold: Greatest&#160;Hits'",
-        "url": "https://www.billboard.com/music/chart-beat/abba-gold-greatest-hits-number-1-top-dance-albums-chart-1236154054/",
-        "timestamp": "18:40",
+        "title": "Ana Mena Talks About Her New Tattoo & How She Would Describe Spanish Music &#124; Billboard&#160;News",
+        "url": "https://www.billboard.com/video/ana-mena-talks-new-tattoo-spanish-music/",
+        "timestamp": "20:08",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.55
+        }
+      },
+      {
+        "title": "BTS World Tour: The 'biggest global K-pop tour of all time' to span 79 shows across 34 regions",
+        "url": "https://www.musicbusinessworldwide.com/bts-world-tour-the-biggest-global-k-pop-tour-of-all-time-to-span-79-shows-across-34-regions/",
+        "timestamp": "19:46",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.75,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.535
-        }
-      },
-      {
-        "title": "PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink",
-        "url": "https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink",
-        "timestamp": "18:12",
-        "source": "automated",
-        "scores": {
-          "impact": 0.55,
           "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.5000000000000001
+          "composite": 0.52
         }
       },
       {
-        "title": "Signed: Morrissey Returns to Sire for 14th Album; Manuel Turizo Re-Ups With SESAC&#160;Latina",
-        "url": "https://www.billboard.com/lists/morrissey-signs-sire-new-album-music-artist-deals/",
-        "timestamp": "18:40",
+        "title": "Madison Beer's Locket Tour Dates for North America & Europe Revealed: 'Can't Believe This Is&#160;Real'",
+        "url": "https://www.billboard.com/music/music-news/madison-beer-locket-tour-dates-1236154185/",
+        "timestamp": "20:02",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -59,22 +59,22 @@
     ],
     "discovery": [
       {
-        "title": "Turn your bedroom into a luxury hotel suite: 9 products to create your own sleep sanctuary, starting from $30",
-        "url": "https://www.tomsguide.com/mattresses/pillows-bedding/turn-your-bedroom-into-a-luxury-hotel-suite-9-products-to-create-your-own-sleep-sanctuary-starting-from-usd30",
-        "timestamp": "19:00",
+        "title": "'Stranger Things 5&#8242; Becomes Netflix's No. 6 Most Popular English-Language Series of All Time, ‘His & Hers' Debuts at No. 1",
+        "url": "https://variety.com/2026/tv/news/stranger-things-5-his-and-hers-1236630378/",
+        "timestamp": "20:00",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.47000000000000003
+          "composite": 0.5000000000000001
         }
       },
       {
-        "title": "'People We Meet on Vacation' Jumps to Top of Bestseller Lists Following Netflix Adaptation",
-        "url": "https://variety.com/2026/shopping/news/people-we-meet-on-vacation-book-buy-online-1236630312/",
-        "timestamp": "18:11",
+        "title": "Emily Henry's 'People We Meet on Vacation' Lands 17.2 Million Views Over Netflix Opening Weekend",
+        "url": "https://variety.com/2026/film/news/people-we-meet-on-vacation-ratings-netflix-movie-1236630279/",
+        "timestamp": "20:00",
         "source": "automated",
         "scores": {
           "impact": 0.5,
@@ -100,92 +100,92 @@
     ],
     "conversation": [
       {
-        "title": "ABBA Scores Its First No. 1 on Billboard Dance Chart in Half a Century Thanks to 'Gold: Greatest&#160;Hits'",
-        "url": "https://www.billboard.com/music/chart-beat/abba-gold-greatest-hits-number-1-top-dance-albums-chart-1236154054/",
-        "timestamp": "18:40",
-        "source": "automated",
+        "title": "'TRAITORS' STAR PORSHA WILLIAMS ON THE TRUTH ABOUT THE 'REAL HOUSEWIVES' ALLIANCE AND HER SEASON 4 FATE: \"VERY DIRTY\"",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/traitors-porsha-williams-houswives-alliance-interview-1236468416/",
+        "timestamp": "2026-01-13T20:30:18.504Z",
+        "source": "splash",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.75,
-          "timeliness": 0.2,
+          "impact": 0.5,
+          "engagement": 0.7,
+          "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.535
+          "composite": 0.6400000000000001
         }
       },
       {
-        "title": "Why did Christian Bale's co-stars hate working with him?: \"I was the worst actor they’d ever seen”",
-        "url": "https://faroutmagazine.co.uk/why-did-christian-bales-co-stars-hate-working-with-him/",
-        "timestamp": "19:07",
+        "title": "Ana Mena Talks About Her New Tattoo & How She Would Describe Spanish Music &#124; Billboard&#160;News",
+        "url": "https://www.billboard.com/video/ana-mena-talks-new-tattoo-spanish-music/",
+        "timestamp": "20:08",
         "source": "mainColumn",
         "scores": {
-          "impact": 0.5,
+          "impact": 0.6,
           "engagement": 0.7999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.51
+          "composite": 0.55
         }
       }
     ],
     "wildcard": [
       {
-        "title": "AMMOBIA SAYS IT HAS REINVENTED A CENTURY-OLD TECHNOLOGY",
-        "url": "https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/",
-        "timestamp": "2026-01-13T19:23:49.949Z",
+        "title": "'TRAITORS' STAR PORSHA WILLIAMS ON THE TRUTH ABOUT THE 'REAL HOUSEWIVES' ALLIANCE AND HER SEASON 4 FATE: \"VERY DIRTY\"",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/traitors-porsha-williams-houswives-alliance-interview-1236468416/",
+        "timestamp": "2026-01-13T20:30:18.504Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.6400000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "AMMOBIA SAYS IT HAS REINVENTED A CENTURY-OLD TECHNOLOGY",
-      "url": "https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/",
-      "timestamp": "2026-01-13T19:23:49.949Z",
+      "title": "'TRAITORS' STAR PORSHA WILLIAMS ON THE TRUTH ABOUT THE 'REAL HOUSEWIVES' ALLIANCE AND HER SEASON 4 FATE: \"VERY DIRTY\"",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/traitors-porsha-williams-houswives-alliance-interview-1236468416/",
+      "timestamp": "2026-01-13T20:30:18.504Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6400000000000001
       }
     },
     {
-      "title": "ABBA Scores Its First No. 1 on Billboard Dance Chart in Half a Century Thanks to 'Gold: Greatest&#160;Hits'",
-      "url": "https://www.billboard.com/music/chart-beat/abba-gold-greatest-hits-number-1-top-dance-albums-chart-1236154054/",
-      "timestamp": "18:40",
+      "title": "Ana Mena Talks About Her New Tattoo & How She Would Describe Spanish Music &#124; Billboard&#160;News",
+      "url": "https://www.billboard.com/video/ana-mena-talks-new-tattoo-spanish-music/",
+      "timestamp": "20:08",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.55
+      }
+    },
+    {
+      "title": "BTS World Tour: The 'biggest global K-pop tour of all time' to span 79 shows across 34 regions",
+      "url": "https://www.musicbusinessworldwide.com/bts-world-tour-the-biggest-global-k-pop-tour-of-all-time-to-span-79-shows-across-34-regions/",
+      "timestamp": "19:46",
       "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.75,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.535
-      }
-    },
-    {
-      "title": "PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink",
-      "url": "https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink",
-      "timestamp": "18:12",
-      "source": "automated",
-      "scores": {
-        "impact": 0.55,
         "engagement": 0.7,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.5000000000000001
+        "composite": 0.52
       }
     },
     {
-      "title": "Signed: Morrissey Returns to Sire for 14th Album; Manuel Turizo Re-Ups With SESAC&#160;Latina",
-      "url": "https://www.billboard.com/lists/morrissey-signs-sire-new-album-music-artist-deals/",
-      "timestamp": "18:40",
+      "title": "Madison Beer's Locket Tour Dates for North America & Europe Revealed: 'Can't Believe This Is&#160;Real'",
+      "url": "https://www.billboard.com/music/music-news/madison-beer-locket-tour-dates-1236154185/",
+      "timestamp": "20:02",
       "source": "automated",
       "scores": {
         "impact": 0.6,
@@ -196,22 +196,22 @@
       }
     },
     {
-      "title": "Turn your bedroom into a luxury hotel suite: 9 products to create your own sleep sanctuary, starting from $30",
-      "url": "https://www.tomsguide.com/mattresses/pillows-bedding/turn-your-bedroom-into-a-luxury-hotel-suite-9-products-to-create-your-own-sleep-sanctuary-starting-from-usd30",
-      "timestamp": "19:00",
+      "title": "'Stranger Things 5&#8242; Becomes Netflix's No. 6 Most Popular English-Language Series of All Time, ‘His & Hers' Debuts at No. 1",
+      "url": "https://variety.com/2026/tv/news/stranger-things-5-his-and-hers-1236630378/",
+      "timestamp": "20:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.7,
         "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.47000000000000003
+        "composite": 0.5000000000000001
       }
     },
     {
-      "title": "'People We Meet on Vacation' Jumps to Top of Bestseller Lists Following Netflix Adaptation",
-      "url": "https://variety.com/2026/shopping/news/people-we-meet-on-vacation-book-buy-online-1236630312/",
-      "timestamp": "18:11",
+      "title": "Emily Henry's 'People We Meet on Vacation' Lands 17.2 Million Views Over Netflix Opening Weekend",
+      "url": "https://variety.com/2026/film/news/people-we-meet-on-vacation-ratings-netflix-movie-1236630279/",
+      "timestamp": "20:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,
@@ -232,19 +232,6 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.47000000000000003
-      }
-    },
-    {
-      "title": "Why did Christian Bale's co-stars hate working with him?: \"I was the worst actor they’d ever seen”",
-      "url": "https://faroutmagazine.co.uk/why-did-christian-bales-co-stars-hate-working-with-him/",
-      "timestamp": "19:07",
-      "source": "mainColumn",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.7999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.51
       }
     }
   ],
