@@ -1,74 +1,74 @@
 {
-  "curatedAt": "2026-01-13T18:36:20.710Z",
+  "curatedAt": "2026-01-13T19:23:52.906Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 8,
   "newsletter": {
     "leadStory": {
-      "title": "ARLO PARKS DANCES TO A NEW BEAT ON THIRD LP",
-      "url": "https://www.spin.com/2026/01/arlo-parks-new-album/",
-      "timestamp": "2026-01-13T18:36:17.714Z",
+      "title": "AMMOBIA SAYS IT HAS REINVENTED A CENTURY-OLD TECHNOLOGY",
+      "url": "https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/",
+      "timestamp": "2026-01-13T19:23:49.949Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.55,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.595
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
       {
-        "title": "How to watch Newcastle vs Man City: free streams, TV channels & preview for Carabao Cup 2025-26 semi-final",
-        "url": "https://www.tomsguide.com/entertainment/sports/watch-newcastle-vs-man-city-carabao-cup-semi-final-2025-26-free",
-        "timestamp": "18:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.85,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.545
-        }
-      },
-      {
-        "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
-        "url": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
-        "timestamp": "17:14",
+        "title": "ABBA Scores Its First No. 1 on Billboard Dance Chart in Half a Century Thanks to 'Gold: Greatest&#160;Hits'",
+        "url": "https://www.billboard.com/music/chart-beat/abba-gold-greatest-hits-number-1-top-dance-albums-chart-1236154054/",
+        "timestamp": "18:40",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.7,
+          "engagement": 0.75,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.52
+          "composite": 0.535
         }
       },
       {
-        "title": "Fleetwood Mac's 'Landslide' Debuts on Hot 100 More Than 50 Years After Its&#160;Release",
-        "url": "https://www.billboard.com/music/chart-beat/fleetwood-mac-landslide-hot-100-debut-50-years-later-1236154035/",
-        "timestamp": "17:36",
+        "title": "PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink",
+        "url": "https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink",
+        "timestamp": "18:12",
+        "source": "automated",
+        "scores": {
+          "impact": 0.55,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.5000000000000001
+        }
+      },
+      {
+        "title": "Signed: Morrissey Returns to Sire for 14th Album; Manuel Turizo Re-Ups With SESAC&#160;Latina",
+        "url": "https://www.billboard.com/lists/morrissey-signs-sire-new-album-music-artist-deals/",
+        "timestamp": "18:40",
         "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
           "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.51
+          "discovery": 0.3,
+          "composite": 0.49
         }
       }
     ],
     "discovery": [
       {
-        "title": "Fleetwood Mac's 'Landslide' Debuts on Hot 100 More Than 50 Years After Its&#160;Release",
-        "url": "https://www.billboard.com/music/chart-beat/fleetwood-mac-landslide-hot-100-debut-50-years-later-1236154035/",
-        "timestamp": "17:36",
+        "title": "Turn your bedroom into a luxury hotel suite: 9 products to create your own sleep sanctuary, starting from $30",
+        "url": "https://www.tomsguide.com/mattresses/pillows-bedding/turn-your-bedroom-into-a-luxury-hotel-suite-9-products-to-create-your-own-sleep-sanctuary-starting-from-usd30",
+        "timestamp": "19:00",
         "source": "automated",
         "scores": {
-          "impact": 0.6,
+          "impact": 0.5,
           "engagement": 0.6,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.51
+          "composite": 0.47000000000000003
         }
       },
       {
@@ -100,99 +100,112 @@
     ],
     "conversation": [
       {
-        "title": "How to watch Newcastle vs Man City: free streams, TV channels & preview for Carabao Cup 2025-26 semi-final",
-        "url": "https://www.tomsguide.com/entertainment/sports/watch-newcastle-vs-man-city-carabao-cup-semi-final-2025-26-free",
-        "timestamp": "18:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.85,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.545
-        }
-      },
-      {
-        "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
-        "url": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
-        "timestamp": "17:14",
+        "title": "ABBA Scores Its First No. 1 on Billboard Dance Chart in Half a Century Thanks to 'Gold: Greatest&#160;Hits'",
+        "url": "https://www.billboard.com/music/chart-beat/abba-gold-greatest-hits-number-1-top-dance-albums-chart-1236154054/",
+        "timestamp": "18:40",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.7,
+          "engagement": 0.75,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.52
+          "composite": 0.535
+        }
+      },
+      {
+        "title": "Why did Christian Bale's co-stars hate working with him?: \"I was the worst actor they’d ever seen”",
+        "url": "https://faroutmagazine.co.uk/why-did-christian-bales-co-stars-hate-working-with-him/",
+        "timestamp": "19:07",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.51
         }
       }
     ],
     "wildcard": [
       {
-        "title": "ARLO PARKS DANCES TO A NEW BEAT ON THIRD LP",
-        "url": "https://www.spin.com/2026/01/arlo-parks-new-album/",
-        "timestamp": "2026-01-13T18:36:17.714Z",
+        "title": "AMMOBIA SAYS IT HAS REINVENTED A CENTURY-OLD TECHNOLOGY",
+        "url": "https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/",
+        "timestamp": "2026-01-13T19:23:49.949Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.55,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.595
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "ARLO PARKS DANCES TO A NEW BEAT ON THIRD LP",
-      "url": "https://www.spin.com/2026/01/arlo-parks-new-album/",
-      "timestamp": "2026-01-13T18:36:17.714Z",
+      "title": "AMMOBIA SAYS IT HAS REINVENTED A CENTURY-OLD TECHNOLOGY",
+      "url": "https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/",
+      "timestamp": "2026-01-13T19:23:49.949Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.55,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.595
+        "composite": 0.5800000000000001
       }
     },
     {
-      "title": "How to watch Newcastle vs Man City: free streams, TV channels & preview for Carabao Cup 2025-26 semi-final",
-      "url": "https://www.tomsguide.com/entertainment/sports/watch-newcastle-vs-man-city-carabao-cup-semi-final-2025-26-free",
-      "timestamp": "18:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.55,
-        "engagement": 0.85,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.545
-      }
-    },
-    {
-      "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
-      "url": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
-      "timestamp": "17:14",
+      "title": "ABBA Scores Its First No. 1 on Billboard Dance Chart in Half a Century Thanks to 'Gold: Greatest&#160;Hits'",
+      "url": "https://www.billboard.com/music/chart-beat/abba-gold-greatest-hits-number-1-top-dance-albums-chart-1236154054/",
+      "timestamp": "18:40",
       "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.7,
+        "engagement": 0.75,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.52
+        "composite": 0.535
       }
     },
     {
-      "title": "Fleetwood Mac's 'Landslide' Debuts on Hot 100 More Than 50 Years After Its&#160;Release",
-      "url": "https://www.billboard.com/music/chart-beat/fleetwood-mac-landslide-hot-100-debut-50-years-later-1236154035/",
-      "timestamp": "17:36",
+      "title": "PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink",
+      "url": "https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink",
+      "timestamp": "18:12",
+      "source": "automated",
+      "scores": {
+        "impact": 0.55,
+        "engagement": 0.7,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.5000000000000001
+      }
+    },
+    {
+      "title": "Signed: Morrissey Returns to Sire for 14th Album; Manuel Turizo Re-Ups With SESAC&#160;Latina",
+      "url": "https://www.billboard.com/lists/morrissey-signs-sire-new-album-music-artist-deals/",
+      "timestamp": "18:40",
       "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
         "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.49
+      }
+    },
+    {
+      "title": "Turn your bedroom into a luxury hotel suite: 9 products to create your own sleep sanctuary, starting from $30",
+      "url": "https://www.tomsguide.com/mattresses/pillows-bedding/turn-your-bedroom-into-a-luxury-hotel-suite-9-products-to-create-your-own-sleep-sanctuary-starting-from-usd30",
+      "timestamp": "19:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.6,
+        "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.51
+        "composite": 0.47000000000000003
       }
     },
     {
@@ -219,6 +232,19 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.47000000000000003
+      }
+    },
+    {
+      "title": "Why did Christian Bale's co-stars hate working with him?: \"I was the worst actor they’d ever seen”",
+      "url": "https://faroutmagazine.co.uk/why-did-christian-bales-co-stars-hate-working-with-him/",
+      "timestamp": "19:07",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.7999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.51
       }
     }
   ],
