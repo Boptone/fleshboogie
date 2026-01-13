@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "A BEST SONG OSCAR, HANDWRITTEN MUSIC SCORE, BICYCLE FROM ‘PEE-WEE’S BIG ADVENTURE’ & MORE DONATED TO MOTION PICTURE ACADEMY’S&#160;COLLECTION",
-    "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
+    "headline": "'HEATED RIVALRY' STAR CHRISTINA CHANG REVEALS HOW THAT ICONIC COMING OUT SCENE CAME TO BE",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-shane-mom-yuna-christina-chang-interview/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Skrilla on “6 7,” Kensington, and his new album Z",
-      "url": "https://www.thefader.com/2026/01/13/skrilla-67-interview-kensington-z",
-      "timestamp": "21:21",
+      "title": "Why Are We Paying for the Privilege of Rejection?",
+      "url": "https://hyperallergic.com/why-are-we-paying-for-the-privilege-of-rejection/",
+      "timestamp": "22:15",
       "pinned": false
     },
     {
-      "title": "Driverless Delivery Vans in China Are Rampaging Through Cities Like Grand Theft Auto",
-      "url": "https://futurism.com/advanced-transport/robovan-china-delivery",
-      "timestamp": "21:19",
+      "title": "The Internet According to Sex Workers and Cyberfeminists",
+      "url": "https://hyperallergic.com/the-internet-according-to-sex-workers-and-cyberfeminists/",
+      "timestamp": "22:15",
       "pinned": false
     },
     {
-      "title": "Golden Globes: Exclusive Backstage Photos of Leonardo DiCaprio, Paul Thomas Anderson, Jessie Buckley, Miley Cyrus and More Stars",
-      "url": "https://www.hollywoodreporter.com/gallery/golden-globes-exclusive-backstage-photos-celebrities-1236472431/",
-      "timestamp": "21:06",
+      "title": "Meta has closed three VR studios as part of its metaverse cuts",
+      "url": "https://www.engadget.com/ar-vr/meta-has-closed-three-vr-studios-as-part-of-its-metaverse-cuts-202720670.html?src=rss",
+      "timestamp": "22:13",
       "pinned": false
     },
     {
-      "title": "Will Radiohead Tour the U.S. in 2026?",
-      "url": "https://www.rollingstone.com/music/music-features/will-radiohead-tour-america-in-2026-1235498987/",
-      "timestamp": "21:05",
+      "title": "John Forté, Fugees and Wyclef Jean Collaborator, Dies at 50",
+      "url": "https://variety.com/2026/music/news/john-forte-dead-fugees-wyclef-jean-collaborator-1236630546/",
+      "timestamp": "22:05",
       "pinned": false
     },
     {
-      "title": "Top 20 Random Forest Interview Questions & Answers",
-      "url": "https://pub.towardsai.net/top-20-random-forest-interview-questions-answers-17e8738abfbc?source=rss----98111c9905da---4",
-      "timestamp": "21:03",
+      "title": "Roblox's age verification system is reportedly a trainwreck",
+      "url": "https://www.engadget.com/gaming/robloxs-age-verification-system-is-reportedly-a-trainwreck-220320016.html?src=rss",
+      "timestamp": "22:03",
       "pinned": false
     }
   ],
@@ -105,6 +105,180 @@
   ],
   "automated": [
     {
+      "title": "'Heated Rivalry' Star Christina Chang Reveals How That Iconic Coming Out Scene Came to Be",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-shane-mom-yuna-christina-chang-interview/",
+      "timestamp": "22:22",
+      "pubDate": "2026-01-13T22:22:37.000Z"
+    },
+    {
+      "title": "Why Are We Paying for the Privilege of Rejection?",
+      "url": "https://hyperallergic.com/why-are-we-paying-for-the-privilege-of-rejection/",
+      "timestamp": "22:15",
+      "pubDate": "2026-01-13T22:15:52.000Z"
+    },
+    {
+      "title": "The Internet According to Sex Workers and Cyberfeminists",
+      "url": "https://hyperallergic.com/the-internet-according-to-sex-workers-and-cyberfeminists/",
+      "timestamp": "22:15",
+      "pubDate": "2026-01-13T22:15:01.000Z"
+    },
+    {
+      "title": "Meta has closed three VR studios as part of its metaverse cuts",
+      "url": "https://www.engadget.com/ar-vr/meta-has-closed-three-vr-studios-as-part-of-its-metaverse-cuts-202720670.html?src=rss",
+      "timestamp": "22:13",
+      "pubDate": "2026-01-13T22:13:38.000Z"
+    },
+    {
+      "title": "John Forté, Fugees and Wyclef Jean Collaborator, Dies at 50",
+      "url": "https://variety.com/2026/music/news/john-forte-dead-fugees-wyclef-jean-collaborator-1236630546/",
+      "timestamp": "22:05",
+      "pubDate": "2026-01-13T22:05:57.000Z"
+    },
+    {
+      "title": "Roblox's age verification system is reportedly a trainwreck",
+      "url": "https://www.engadget.com/gaming/robloxs-age-verification-system-is-reportedly-a-trainwreck-220320016.html?src=rss",
+      "timestamp": "22:03",
+      "pubDate": "2026-01-13T22:03:20.000Z"
+    },
+    {
+      "title": "“Google’s Secret Weapon: The AI Architecture That Could Make Transformers Obsolete”",
+      "url": "https://pub.towardsai.net/googles-secret-weapon-the-ai-architecture-that-could-make-transformers-obsolete-73eaad57afcf?source=rss----98111c9905da---4",
+      "timestamp": "22:02",
+      "pubDate": "2026-01-13T22:02:56.000Z"
+    },
+    {
+      "title": "idntt Is Billboard K-Pop Rookie of the Month for January: Exclusive&#160;Photos",
+      "url": "https://www.billboard.com/photos/idntt-billboard-k-pop-rookie-month-january-1236154205/",
+      "timestamp": "22:00",
+      "pubDate": "2026-01-13T22:00:50.000Z"
+    },
+    {
+      "title": "What was the first classic rock song about drugs to reach number one?",
+      "url": "https://faroutmagazine.co.uk/first-classic-rock-song-about-drugs-to-reach-number-one/",
+      "timestamp": "22:00",
+      "pubDate": "2026-01-13T22:00:00.000Z"
+    },
+    {
+      "title": "Here Are the Family-Friendly Movies & TV Shows Coming in&#160;2026",
+      "url": "https://www.billboard.com/lists/2026-kids-family-tv-shows-movies-release-dates-calendar/",
+      "timestamp": "21:59",
+      "pubDate": "2026-01-13T21:59:18.000Z"
+    },
+    {
+      "title": "‘Rockford Files’ Update Gets Pilot Order at NBC",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/rockford-files-reboot-nbc-pilot-1236472884/",
+      "timestamp": "21:58",
+      "pubDate": "2026-01-13T21:58:37.000Z"
+    },
+    {
+      "title": "La Arrolladora Banda El Limón & Juanes Take Over Regional Mexican Airplay&#160;Chart",
+      "url": "https://www.billboard.com/music/chart-beat/la-arrolladora-banda-el-limon-juanes-number-one-1236153624/",
+      "timestamp": "21:55",
+      "pubDate": "2026-01-13T21:55:16.000Z"
+    },
+    {
+      "title": "How to Watch 'Tell Me Lies' Season 3 Online for Free",
+      "url": "https://variety.com/2026/shopping/news/how-to-watch-tell-me-lies-online-free-1236630417/",
+      "timestamp": "21:54",
+      "pubDate": "2026-01-13T21:54:18.000Z"
+    },
+    {
+      "title": "Instagram wants you to personalize your Reels algorithm for 2026",
+      "url": "https://www.engadget.com/social-media/instagram-wants-you-to-personalize-your-reels-algorithm-for-2026-215252736.html?src=rss",
+      "timestamp": "21:52",
+      "pubDate": "2026-01-13T21:52:52.000Z"
+    },
+    {
+      "title": "Those Avengers: Doomsday teasers aren't teasers, they're \"clues\"",
+      "url": "https://www.joblo.com/avengers-doomsday-teasers-arent-teasers/",
+      "timestamp": "21:48",
+      "pubDate": "2026-01-13T21:48:31.000Z"
+    },
+    {
+      "title": "Polygon Labs Snaps up Coinme and Sequence to Build US-Regulated Crypto Payments Stack",
+      "url": "https://news.bitcoin.com/polygon-labs-snaps-up-coinme-and-sequence-to-build-us-regulated-crypto-payments-stack/",
+      "timestamp": "21:46",
+      "pubDate": "2026-01-13T21:46:15.000Z"
+    },
+    {
+      "title": "'The Rockford Files' Reboot Lands Pilot Order at NBC",
+      "url": "https://www.thewrap.com/media-platforms/tv/the-rockford-files-reboot-pilot-nbc/",
+      "timestamp": "21:44",
+      "pubDate": "2026-01-13T21:44:59.000Z"
+    },
+    {
+      "title": "Billboard's Music Industry Events&#160;Calendar",
+      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "timestamp": "21:44",
+      "pubDate": "2026-01-13T21:44:00.000Z"
+    },
+    {
+      "title": "Barbara Lawrence, Longtime Manager in Hollywood, Dies at 82",
+      "url": "https://www.hollywoodreporter.com/business/business-news/barbara-lawrence-dead-manager-hollywood-1236472853/",
+      "timestamp": "21:39",
+      "pubDate": "2026-01-13T21:39:46.000Z"
+    },
+    {
+      "title": "Not so super - Nvidia indefinitely delays GeForce RTX 50 SUPER GPUs, according to leak",
+      "url": "https://www.tomsguide.com/computing/gpus/not-so-super-nvidia-indefinitely-delays-geforce-rtx-50-super-gpus-according-to-leak",
+      "timestamp": "21:39",
+      "pubDate": "2026-01-13T21:39:33.000Z"
+    },
+    {
+      "title": "RIP MetroCard",
+      "url": "https://hyperallergic.com/rip-metrocard/",
+      "timestamp": "21:37",
+      "pubDate": "2026-01-13T21:37:31.000Z"
+    },
+    {
+      "title": "Alfie Williams on ‘28 Years Later: The Bone Temple,' Learning From Ralph Fiennes — and Teen Stardom: \"I've Gotta Remember Where I Come From\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/alfie-williams-28-years-later-the-bone-temple-interview-1236470843/",
+      "timestamp": "21:37",
+      "pubDate": "2026-01-13T21:37:29.000Z"
+    },
+    {
+      "title": "How Did Djo's 'End of Beginning' Get the Biggest 'Stranger Things' Bump Without Being in the&#160;Show?",
+      "url": "https://www.billboard.com/music/chart-beat/djo-end-of-beginning-stranger-things-five-burning-questions-1236154386/",
+      "timestamp": "21:37",
+      "pubDate": "2026-01-13T21:37:22.000Z"
+    },
+    {
+      "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
+      "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
+      "timestamp": "21:35",
+      "pubDate": "2026-01-13T21:35:36.000Z"
+    },
+    {
+      "title": "'Rockford Files' Reboot Gets NBC Pilot Order",
+      "url": "https://variety.com/2026/tv/news/rockford-files-reboot-nbc-pilot-order-1236630510/",
+      "timestamp": "21:35",
+      "pubDate": "2026-01-13T21:35:16.000Z"
+    },
+    {
+      "title": "Matt Damon Says Clint Eastwood Shut Down His Request to Film More Takes: 'Why? You Wanna Waste Everybody’s Time?'",
+      "url": "https://variety.com/2026/film/news/matt-damon-clint-eastwood-rejected-more-takes-1236630236/",
+      "timestamp": "21:34",
+      "pubDate": "2026-01-13T21:34:50.000Z"
+    },
+    {
+      "title": "'The Rockford Files' Reboot Gets NBC Pilot Order As Network Eyes Traditional Pilot Season Return",
+      "url": "https://deadline.com/2026/01/the-rockford-files-reboot-nbc-order-pilot-season-1236681903/",
+      "timestamp": "21:30",
+      "pubDate": "2026-01-13T21:30:00.000Z"
+    },
+    {
+      "title": "Yield-bearing stablecoins risk 'dangerous' parallel banking system: JPMorgan CFO",
+      "url": "https://cointelegraph.com/news/jpmorgan-cfo-warns-yield-stablecoins-parallel-banking-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "21:29",
+      "pubDate": "2026-01-13T21:29:17.000Z"
+    },
+    {
+      "title": "ETH’s back at $3.2K: Will traders flip the level from resistance to support?",
+      "url": "https://cointelegraph.com/news/eth-s-back-at-3-2k-will-traders-flip-the-level-from-resistance-to-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "21:28",
+      "pubDate": "2026-01-13T21:28:40.000Z"
+    },
+    {
       "title": "A Best Song Oscar, Handwritten Music Score, Bicycle from ‘Pee-wee’s Big Adventure’ & More Donated to Motion Picture Academy’s&#160;Collection",
       "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
       "timestamp": "21:25",
@@ -169,187 +343,33 @@
       "url": "https://deadline.com/2026/01/28-years-later-the-bone-temple-review-nia-dacosta-ralph-fiennes-1236680553/",
       "timestamp": "21:00",
       "pubDate": "2026-01-13T21:00:00.000Z"
-    },
-    {
-      "title": "'Sweetness' Filmmaker Emma Higgins Inks With Verve",
-      "url": "https://deadline.com/2026/01/emma-higgins-signs-verve-sweetness-movie-1236681512/",
-      "timestamp": "21:00",
-      "pubDate": "2026-01-13T21:00:00.000Z"
-    },
-    {
-      "title": "'Tell Me Lies' Star Jackson White Has Conquered the \"Psychological Puppet Master\"",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/tell-me-lies-season-3-jackson-white-interview-1236467820/",
-      "timestamp": "21:00",
-      "pubDate": "2026-01-13T21:00:00.000Z"
-    },
-    {
-      "title": "‘28 Years Later: The Bone Temple' Review: Ralph Fiennes and Jack O'Connell Go Full Metal Freakout in Nia DaCosta's Brutal, Bonkers Sequel",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/28-years-later-the-bone-temple-review-ralph-fiennes-1236472050/",
-      "timestamp": "21:00",
-      "pubDate": "2026-01-13T21:00:00.000Z"
-    },
-    {
-      "title": "'28 Years Later: The Bone Temple' Review: Worship at the Altar of 2026's First Great Horror Movie",
-      "url": "https://www.indiewire.com/criticism/movies/28-years-later-the-bone-temple-review-1235172860/",
-      "timestamp": "21:00",
-      "pubDate": "2026-01-13T21:00:00.000Z"
-    },
-    {
-      "title": "‘28 Years Later: The Bone Temple’ Review: Ralph Fiennes Commands a Shocking Successor to Last Year's Most Welcome Revival",
-      "url": "https://variety.com/2026/film/reviews/28-years-later-the-bone-temple-review-ralph-fiennes-1236630014/",
-      "timestamp": "21:00",
-      "pubDate": "2026-01-13T21:00:00.000Z"
-    },
-    {
-      "title": "‘28 Years Later: The Bone Temple’ Review: Nia DaCosta’s Freaky Sequel Puts the Brains Back in Eating Brains",
-      "url": "https://www.thewrap.com/creative-content/movies/28-years-later-the-bone-temple-review-ralph-fiennes-nia-dacosta/",
-      "timestamp": "21:00",
-      "pubDate": "2026-01-13T21:00:00.000Z"
-    },
-    {
-      "title": "How Jupiter and Saturn Dictate Earth’s Oil Deposits",
-      "url": "https://nautil.us/how-jupiter-and-saturn-dictate-earths-oil-deposits-1261363/",
-      "timestamp": "21:00",
-      "pubDate": "2026-01-13T21:00:00.000Z"
-    },
-    {
-      "title": "ASM Diosynth: The Hydrasynth Follow-up Is Now Available",
-      "url": "https://www.gearnews.com/asm-diosynth-wind-synth/",
-      "timestamp": "20:57",
-      "pubDate": "2026-01-13T20:57:00.000Z"
-    },
-    {
-      "title": "R.I.P. Marcus Gilbert: Army of Darkness, Riders, and Rambo III actor has passed away at age 67",
-      "url": "https://www.joblo.com/marcus-gilbert/",
-      "timestamp": "20:53",
-      "pubDate": "2026-01-13T20:53:30.000Z"
-    },
-    {
-      "title": "Cher Wants Sonny Bono’s Widow to Cover Her $1 Million Legal Bill: 'Perfectly Justified'",
-      "url": "https://www.billboard.com/pro/cher-sonny-bono-widow-pay-legal-bill-royalties-lawsuit/",
-      "timestamp": "20:51",
-      "pubDate": "2026-01-13T20:51:52.000Z"
-    },
-    {
-      "title": "Robert Pattinson's Secret Role in 'Marty Supreme' Revealed by Josh Safdie",
-      "url": "https://variety.com/2026/film/news/robert-pattinson-marty-supreme-secret-role-1236630455/",
-      "timestamp": "20:51",
-      "pubDate": "2026-01-13T20:51:40.000Z"
-    },
-    {
-      "title": "XRP’s Leverage Machine Turns on as Derivatives Volume Climbs",
-      "url": "https://news.bitcoin.com/xrps-leverage-machine-turns-on-as-derivatives-volume-climbs/",
-      "timestamp": "20:45",
-      "pubDate": "2026-01-13T20:45:22.000Z"
-    },
-    {
-      "title": "New Mac Application, WaveKitchen, Streamlines Wavetable Creation",
-      "url": "https://www.synthtopia.com/content/2026/01/13/new-mac-application-wavekitchen-streamlines-wavetable-creation/",
-      "timestamp": "20:45",
-      "pubDate": "2026-01-13T20:45:14.000Z"
-    },
-    {
-      "title": "How Dwayne Johnson cost an actor their shot at James Bond: \"I couldn't do the final test\"",
-      "url": "https://faroutmagazine.co.uk/how-dwayne-johnson-cost-actor-their-shot-james-bond/",
-      "timestamp": "20:45",
-      "pubDate": "2026-01-13T20:45:00.000Z"
-    },
-    {
-      "title": "How Feria de León Booked Foo Fighters & Became a Stage for Global Artists in&#160;Mexico",
-      "url": "https://www.billboard.com/pro/feria-de-leon-how-booked-foo-fighters-became-global-stage/",
-      "timestamp": "20:41",
-      "pubDate": "2026-01-13T20:41:34.000Z"
-    },
-    {
-      "title": "'Bugonia' Writer Will Tracy on Tackling America's Troubled Present With a Bonkers Basement Thriller",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/bugonia-writer-will-tracy-interview-1236470491/",
-      "timestamp": "20:32",
-      "pubDate": "2026-01-13T20:32:36.000Z"
-    },
-    {
-      "title": "'Tell Me Lies' Creator Explains That 'Life-Ruining' Tape, Why Season 3 Is All About Consequences",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/tell-me-lies-season-3-episode-3-meaghan-oppenheimer-interview/",
-      "timestamp": "20:30",
-      "pubDate": "2026-01-13T20:30:00.000Z"
-    },
-    {
-      "title": "'Traitors' Star Porsha Williams on the Truth About the 'Real Housewives' Alliance and Her Season 4 Fate: \"Very Dirty\"",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/traitors-porsha-williams-houswives-alliance-interview-1236468416/",
-      "timestamp": "20:28",
-      "pubDate": "2026-01-13T20:28:39.000Z"
-    },
-    {
-      "title": "Meta has closed three VR studios as part of its metaverse cuts",
-      "url": "https://www.engadget.com/ar-vr/meta-has-closed-three-vr-studios-as-part-of-its-metaverse-cuts-202720670.html?src=rss",
-      "timestamp": "20:27",
-      "pubDate": "2026-01-13T20:27:20.000Z"
-    },
-    {
-      "title": "Giving and Receiving: Memoirs of an Immigrant Curator and Philanthropist",
-      "url": "https://hyperallergic.com/giving-and-receiving-memoirs-of-an-immigrant-curator-and-philanthropist/",
-      "timestamp": "20:25",
-      "pubDate": "2026-01-13T20:25:29.000Z"
-    },
-    {
-      "title": "Nothing – \"Toothless Coal\"",
-      "url": "https://stereogum.com/2485121/nothing-toothless-coal/news/",
-      "timestamp": "20:21",
-      "pubDate": "2026-01-13T20:21:34.000Z"
-    },
-    {
-      "title": "Lil Uzi Vert’s ‘What You Saying’ Hits No. 1 on Hot Rap Songs&#160;Chart",
-      "url": "https://www.billboard.com/music/chart-beat/lil-uzi-vert-what-you-saying-number-1-hot-rap-songs-chart-1236154254/",
-      "timestamp": "20:15",
-      "pubDate": "2026-01-13T20:15:08.000Z"
-    },
-    {
-      "title": "The \"extraordinary\" movie Natalie Portman called a \"dream come true\"",
-      "url": "https://faroutmagazine.co.uk/extraordinary-movie-natalie-portman-called-dream-come-true/",
-      "timestamp": "20:15",
-      "pubDate": "2026-01-13T20:15:00.000Z"
-    },
-    {
-      "title": "'Late Show' Audience Groans Over Stephen Colbert's 'Notoriously Cute' Exxon Joke: 'That's a Tough One' &#124; Video",
-      "url": "https://www.thewrap.com/media-platforms/politics/stephen-colbert-late-show-monologue-exxon-joke-trump-oil-venezuela-video/",
-      "timestamp": "20:14",
-      "pubDate": "2026-01-13T20:14:38.000Z"
-    },
-    {
-      "title": "Ana Mena Talks About Her New Tattoo & How She Would Describe Spanish Music &#124; Billboard&#160;News",
-      "url": "https://www.billboard.com/video/ana-mena-talks-new-tattoo-spanish-music/",
-      "timestamp": "20:08",
-      "pubDate": "2026-01-13T20:08:47.000Z"
-    },
-    {
-      "title": "Backstreet Boys, Sombr & Lorde to Headline BottleRock Napa Valley 2026: Here's the&#160;Lineup",
-      "url": "https://www.billboard.com/music/music-news/bottlerock-napa-valley-2026-lineup-backstreet-boys-sombr-1236154261/",
-      "timestamp": "20:06",
-      "pubDate": "2026-01-13T20:06:47.000Z"
-    },
-    {
-      "title": "'His & Hers' Scores Nearly 20 Million Views in First Week on Netflix, Dethroning 'Stranger Things'",
-      "url": "https://www.thewrap.com/media-platforms/streaming/his-and-hers-netflix-most-watched/",
-      "timestamp": "20:01",
-      "pubDate": "2026-01-13T20:01:11.000Z"
-    },
-    {
-      "title": "Kleber Mendonça Filho on Why 'The Secret Agent' Sometimes Tells Stories Out of Order",
-      "url": "https://www.indiewire.com/features/interviews/the-secret-agent-kleber-mendonca-filho-director-interview-1235166000/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-13T20:00:00.000Z"
-    },
-    {
-      "title": "Emily Henry's 'People We Meet on Vacation' Lands 17.2 Million Views Over Netflix Opening Weekend",
-      "url": "https://variety.com/2026/film/news/people-we-meet-on-vacation-ratings-netflix-movie-1236630279/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-13T20:00:00.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "A Best Song Oscar, Handwritten Music Score, Bicycle from ‘Pee-wee’s Big Adventure’ & More Donated to Motion Picture Academy’s&#160;Collection",
-      "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
-      "timestamp": "21:25"
+      "title": "idntt Is Billboard K-Pop Rookie of the Month for January: Exclusive&#160;Photos",
+      "url": "https://www.billboard.com/photos/idntt-billboard-k-pop-rookie-month-january-1236154205/",
+      "timestamp": "22:00"
+    },
+    {
+      "title": "What was the first classic rock song about drugs to reach number one?",
+      "url": "https://faroutmagazine.co.uk/first-classic-rock-song-about-drugs-to-reach-number-one/",
+      "timestamp": "22:00"
+    },
+    {
+      "title": "La Arrolladora Banda El Limón & Juanes Take Over Regional Mexican Airplay&#160;Chart",
+      "url": "https://www.billboard.com/music/chart-beat/la-arrolladora-banda-el-limon-juanes-number-one-1236153624/",
+      "timestamp": "21:55"
+    },
+    {
+      "title": "Billboard's Music Industry Events&#160;Calendar",
+      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "timestamp": "21:44"
+    },
+    {
+      "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
+      "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
+      "timestamp": "21:35"
     },
     {
       "title": "Skrilla on “6 7,” Kensington, and his new album Z",
@@ -367,19 +387,9 @@
       "timestamp": "21:00"
     },
     {
-      "title": "Cher Wants Sonny Bono’s Widow to Cover Her $1 Million Legal Bill: 'Perfectly Justified'",
-      "url": "https://www.billboard.com/pro/cher-sonny-bono-widow-pay-legal-bill-royalties-lawsuit/",
-      "timestamp": "20:51"
-    },
-    {
       "title": "How Dwayne Johnson cost an actor their shot at James Bond: \"I couldn't do the final test\"",
       "url": "https://faroutmagazine.co.uk/how-dwayne-johnson-cost-actor-their-shot-james-bond/",
       "timestamp": "20:45"
-    },
-    {
-      "title": "How Feria de León Booked Foo Fighters & Became a Stage for Global Artists in&#160;Mexico",
-      "url": "https://www.billboard.com/pro/feria-de-leon-how-booked-foo-fighters-became-global-stage/",
-      "timestamp": "20:41"
     },
     {
       "title": "Nothing – \"Toothless Coal\"",
@@ -390,11 +400,6 @@
       "title": "A$AP Rocky Ditches Reddit AMA Ahead of Album Release",
       "url": "https://www.rollingstone.com/music/music-news/aap-rocky-ditches-reddit-ama-new-album-1235498833/",
       "timestamp": "19:44"
-    },
-    {
-      "title": "The one band Lindsey Buckingham thought changed the world: \"Really rocked the boat\"",
-      "url": "https://faroutmagazine.co.uk/one-band-lindsey-buckingham-thought-changed-the-world/",
-      "timestamp": "19:42"
     },
     {
       "title": "Arlo Parks Dances To A New Beat On Third LP",
@@ -440,12 +445,7 @@
       "title": "The Faint's Todd Fink on ‘Agenda Suicide’ and the Art of Not Playing It Safe",
       "url": "https://www.spin.com/2026/01/the-faints-todd-fink-on-agenda-suicide-and-the-art-of-not-playing-it-safe/",
       "timestamp": "14:30"
-    },
-    {
-      "title": "Meet Mark Dixon, Boston’s One-Time Secret Singer",
-      "url": "https://ultimateclassicrock.com/boston-band-secret-singer/",
-      "timestamp": "14:12"
     }
   ],
-  "lastUpdated": "2026-01-13T21:26:03.038Z"
+  "lastUpdated": "2026-01-13T22:26:08.765Z"
 }

@@ -1,53 +1,27 @@
 {
-  "curatedAt": "2026-01-13T21:26:05.998Z",
+  "curatedAt": "2026-01-13T22:26:11.753Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "A BEST SONG OSCAR, HANDWRITTEN MUSIC SCORE, BICYCLE FROM ‘PEE-WEE’S BIG ADVENTURE’ & MORE DONATED TO MOTION PICTURE ACADEMY’S&#160;COLLECTION",
-      "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
-      "timestamp": "2026-01-13T21:26:03.038Z",
+      "title": "'HEATED RIVALRY' STAR CHRISTINA CHANG REVEALS HOW THAT ICONIC COMING OUT SCENE CAME TO BE",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-shane-mom-yuna-christina-chang-interview/",
+      "timestamp": "2026-01-13T22:26:08.765Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
+        "impact": 0.5,
         "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6799999999999999
+        "composite": 0.6400000000000001
       }
     },
     "deepDive": [
       {
-        "title": "A BEST SONG OSCAR, HANDWRITTEN MUSIC SCORE, BICYCLE FROM ‘PEE-WEE’S BIG ADVENTURE’ & MORE DONATED TO MOTION PICTURE ACADEMY’S&#160;COLLECTION",
+        "title": "A Best Song Oscar, Handwritten Music Score, Bicycle from ‘Pee-wee’s Big Adventure’ & More Donated to Motion Picture Academy’s&#160;Collection",
         "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
-        "timestamp": "2026-01-13T21:26:03.038Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6799999999999999
-        }
-      },
-      {
-        "title": "Ana Mena Talks About Her New Tattoo & How She Would Describe Spanish Music &#124; Billboard&#160;News",
-        "url": "https://www.billboard.com/video/ana-mena-talks-new-tattoo-spanish-music/",
-        "timestamp": "20:08",
+        "timestamp": "21:25",
         "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.55
-        }
-      },
-      {
-        "title": "Will Radiohead Tour the U.S. in 2026?",
-        "url": "https://www.rollingstone.com/music/music-features/will-radiohead-tour-america-in-2026-1235498987/",
-        "timestamp": "21:05",
-        "source": "mainColumn",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -55,27 +29,40 @@
           "discovery": 0.3,
           "composite": 0.52
         }
+      },
+      {
+        "title": "Will Radiohead Tour the U.S. in 2026?",
+        "url": "https://www.rollingstone.com/music/music-features/will-radiohead-tour-america-in-2026-1235498987/",
+        "timestamp": "21:05",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.52
+        }
+      },
+      {
+        "title": "idntt Is Billboard K-Pop Rookie of the Month for January: Exclusive&#160;Photos",
+        "url": "https://www.billboard.com/photos/idntt-billboard-k-pop-rookie-month-january-1236154205/",
+        "timestamp": "22:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.505
+        }
       }
     ],
     "discovery": [
       {
-        "title": "Emily Henry's 'People We Meet on Vacation' Lands 17.2 Million Views Over Netflix Opening Weekend",
-        "url": "https://variety.com/2026/film/news/people-we-meet-on-vacation-ratings-netflix-movie-1236630279/",
-        "timestamp": "20:00",
+        "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
+        "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
+        "timestamp": "21:35",
         "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.47000000000000003
-        }
-      },
-      {
-        "title": "Meet Mark Dixon, Boston’s One-Time Secret Singer",
-        "url": "https://ultimateclassicrock.com/boston-band-secret-singer/",
-        "timestamp": "14:12",
-        "source": "musicReleases",
         "scores": {
           "impact": 0.5,
           "engagement": 0.6,
@@ -87,80 +74,67 @@
     ],
     "conversation": [
       {
-        "title": "A BEST SONG OSCAR, HANDWRITTEN MUSIC SCORE, BICYCLE FROM ‘PEE-WEE’S BIG ADVENTURE’ & MORE DONATED TO MOTION PICTURE ACADEMY’S&#160;COLLECTION",
-        "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
-        "timestamp": "2026-01-13T21:26:03.038Z",
+        "title": "'HEATED RIVALRY' STAR CHRISTINA CHANG REVEALS HOW THAT ICONIC COMING OUT SCENE CAME TO BE",
+        "url": "https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-shane-mom-yuna-christina-chang-interview/",
+        "timestamp": "2026-01-13T22:26:08.765Z",
         "source": "splash",
         "scores": {
-          "impact": 0.6,
+          "impact": 0.5,
           "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6799999999999999
+          "composite": 0.6400000000000001
         }
       },
       {
-        "title": "Ana Mena Talks About Her New Tattoo & How She Would Describe Spanish Music &#124; Billboard&#160;News",
-        "url": "https://www.billboard.com/video/ana-mena-talks-new-tattoo-spanish-music/",
-        "timestamp": "20:08",
+        "title": "A Best Song Oscar, Handwritten Music Score, Bicycle from ‘Pee-wee’s Big Adventure’ & More Donated to Motion Picture Academy’s&#160;Collection",
+        "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
+        "timestamp": "21:25",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.7999999999999999,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.55
+          "composite": 0.52
         }
       }
     ],
     "wildcard": [
       {
-        "title": "A BEST SONG OSCAR, HANDWRITTEN MUSIC SCORE, BICYCLE FROM ‘PEE-WEE’S BIG ADVENTURE’ & MORE DONATED TO MOTION PICTURE ACADEMY’S&#160;COLLECTION",
-        "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
-        "timestamp": "2026-01-13T21:26:03.038Z",
+        "title": "'HEATED RIVALRY' STAR CHRISTINA CHANG REVEALS HOW THAT ICONIC COMING OUT SCENE CAME TO BE",
+        "url": "https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-shane-mom-yuna-christina-chang-interview/",
+        "timestamp": "2026-01-13T22:26:08.765Z",
         "source": "splash",
         "scores": {
-          "impact": 0.6,
+          "impact": 0.5,
           "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6799999999999999
+          "composite": 0.6400000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "A BEST SONG OSCAR, HANDWRITTEN MUSIC SCORE, BICYCLE FROM ‘PEE-WEE’S BIG ADVENTURE’ & MORE DONATED TO MOTION PICTURE ACADEMY’S&#160;COLLECTION",
-      "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
-      "timestamp": "2026-01-13T21:26:03.038Z",
+      "title": "'HEATED RIVALRY' STAR CHRISTINA CHANG REVEALS HOW THAT ICONIC COMING OUT SCENE CAME TO BE",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-shane-mom-yuna-christina-chang-interview/",
+      "timestamp": "2026-01-13T22:26:08.765Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
+        "impact": 0.5,
         "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6799999999999999
+        "composite": 0.6400000000000001
       }
     },
     {
-      "title": "Ana Mena Talks About Her New Tattoo & How She Would Describe Spanish Music &#124; Billboard&#160;News",
-      "url": "https://www.billboard.com/video/ana-mena-talks-new-tattoo-spanish-music/",
-      "timestamp": "20:08",
+      "title": "A Best Song Oscar, Handwritten Music Score, Bicycle from ‘Pee-wee’s Big Adventure’ & More Donated to Motion Picture Academy’s&#160;Collection",
+      "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
+      "timestamp": "21:25",
       "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.7999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.55
-      }
-    },
-    {
-      "title": "Will Radiohead Tour the U.S. in 2026?",
-      "url": "https://www.rollingstone.com/music/music-features/will-radiohead-tour-america-in-2026-1235498987/",
-      "timestamp": "21:05",
-      "source": "mainColumn",
       "scores": {
         "impact": 0.6,
         "engagement": 0.7,
@@ -170,23 +144,36 @@
       }
     },
     {
-      "title": "Emily Henry's 'People We Meet on Vacation' Lands 17.2 Million Views Over Netflix Opening Weekend",
-      "url": "https://variety.com/2026/film/news/people-we-meet-on-vacation-ratings-netflix-movie-1236630279/",
-      "timestamp": "20:00",
+      "title": "Will Radiohead Tour the U.S. in 2026?",
+      "url": "https://www.rollingstone.com/music/music-features/will-radiohead-tour-america-in-2026-1235498987/",
+      "timestamp": "21:05",
       "source": "automated",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.6,
+        "impact": 0.6,
+        "engagement": 0.7,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.47000000000000003
+        "discovery": 0.3,
+        "composite": 0.52
       }
     },
     {
-      "title": "Meet Mark Dixon, Boston’s One-Time Secret Singer",
-      "url": "https://ultimateclassicrock.com/boston-band-secret-singer/",
-      "timestamp": "14:12",
-      "source": "musicReleases",
+      "title": "idntt Is Billboard K-Pop Rookie of the Month for January: Exclusive&#160;Photos",
+      "url": "https://www.billboard.com/photos/idntt-billboard-k-pop-rookie-month-january-1236154205/",
+      "timestamp": "22:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.65,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.505
+      }
+    },
+    {
+      "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
+      "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
+      "timestamp": "21:35",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.6,
