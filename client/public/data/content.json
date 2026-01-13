@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "'TELL ME LIES' DROPS SURPRISE EPISODE WITH SEASON 3 PREMIERE (EXCLUSIVE)",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/tell-me-lies-surprise-third-episode-season-3-premiere-1236466787/",
+    "headline": "A16Z REVEALS THREE CRYPTO PREDICTIONS FOR 2026",
+    "url": "https://news.bitcoin.com/a16z-reveals-three-crypto-predictions-for-2026/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "9 RAG Architectures That Save You Months of Dev Work",
-      "url": "https://pub.towardsai.net/9-rag-architectures-that-save-you-months-of-dev-work-0e219eb637cb?source=rss----98111c9905da---4",
-      "timestamp": "04:47",
+      "title": "I'm an audio editor — here are the headphones, earbuds and speakers that I actually use",
+      "url": "https://www.tomsguide.com/audio/headphones/im-an-audio-editor-here-are-the-headphones-earbuds-and-speakers-that-i-actually-use",
+      "timestamp": "06:30",
       "pinned": false
     },
     {
-      "title": "10 Techniques to Make Advanced RAG: A Complete Guide with Examples",
-      "url": "https://pub.towardsai.net/10-rag-improvements-that-could-make-your-rag-advanced-a-complete-guide-d055204b3557?source=rss----98111c9905da---4",
-      "timestamp": "04:34",
+      "title": "VanEck: Clarity will turn Q1 into a ‘risk-on’ quarter for investors",
+      "url": "https://cointelegraph.com/news/clearer-fiscal-and-monetary-signals-risk-on-outlook-q1-vaneck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "06:18",
       "pinned": false
     },
     {
-      "title": "The Multi-Agent Playbook: 6 Agent Patterns for AI-Developers (With Examples)",
-      "url": "https://pub.towardsai.net/7-multi-agent-patterns-every-developer-needs-in-2026-and-how-to-pick-the-right-one-e8edcd99c96a?source=rss----98111c9905da---4",
-      "timestamp": "04:34",
+      "title": "Jumping 50 times as soon as you wake up is the TikTok trend going viral — and it claims to boost energy, mood and metabolism",
+      "url": "https://www.tomsguide.com/wellness/fitness/jumping-50-times-as-soon-as-you-wake-up-is-the-tiktok-trend-going-viral-and-it-claims-to-boost-energy-mood-and-metabolism",
+      "timestamp": "06:00",
       "pinned": false
     },
     {
-      "title": "Binance: Crypto Breaks out of Retail Era as Institutions Lock in Long-Term Exposure",
-      "url": "https://news.bitcoin.com/binance-crypto-breaks-out-of-retail-era-as-institutions-lock-in-long-term-exposure/",
-      "timestamp": "04:30",
+      "title": "Court temporarily stops Tennessee from taking action against Kalshi",
+      "url": "https://cointelegraph.com/news/court-temporarily-stops-tennessee-taking-action-against-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "05:35",
       "pinned": false
     },
     {
-      "title": "Building an Embedding-Based Surface Defect Detection System for Factories Using Qdrant",
-      "url": "https://pub.towardsai.net/building-an-embedding-based-surface-defect-detection-system-for-factories-using-qdrant-d7794476e411?source=rss----98111c9905da---4",
-      "timestamp": "04:29",
+      "title": "From Surge to Shutdown: Dubai Blocks Privacy Coins in 2026",
+      "url": "https://news.bitcoin.com/from-surge-to-shutdown-dubai-blocks-privacy-coins-in-2026/",
+      "timestamp": "05:30",
       "pinned": false
     }
   ],
@@ -104,6 +104,54 @@
     }
   ],
   "automated": [
+    {
+      "title": "A16z Reveals Three Crypto Predictions for 2026",
+      "url": "https://news.bitcoin.com/a16z-reveals-three-crypto-predictions-for-2026/",
+      "timestamp": "06:30",
+      "pubDate": "2026-01-13T06:30:45.000Z"
+    },
+    {
+      "title": "I'm an audio editor — here are the headphones, earbuds and speakers that I actually use",
+      "url": "https://www.tomsguide.com/audio/headphones/im-an-audio-editor-here-are-the-headphones-earbuds-and-speakers-that-i-actually-use",
+      "timestamp": "06:30",
+      "pubDate": "2026-01-13T06:30:00.000Z"
+    },
+    {
+      "title": "VanEck: Clarity will turn Q1 into a ‘risk-on’ quarter for investors",
+      "url": "https://cointelegraph.com/news/clearer-fiscal-and-monetary-signals-risk-on-outlook-q1-vaneck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "06:18",
+      "pubDate": "2026-01-13T06:18:25.000Z"
+    },
+    {
+      "title": "Jumping 50 times as soon as you wake up is the TikTok trend going viral — and it claims to boost energy, mood and metabolism",
+      "url": "https://www.tomsguide.com/wellness/fitness/jumping-50-times-as-soon-as-you-wake-up-is-the-tiktok-trend-going-viral-and-it-claims-to-boost-energy-mood-and-metabolism",
+      "timestamp": "06:00",
+      "pubDate": "2026-01-13T06:00:00.000Z"
+    },
+    {
+      "title": "Court temporarily stops Tennessee from taking action against Kalshi",
+      "url": "https://cointelegraph.com/news/court-temporarily-stops-tennessee-taking-action-against-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "05:35",
+      "pubDate": "2026-01-13T05:35:02.000Z"
+    },
+    {
+      "title": "From Surge to Shutdown: Dubai Blocks Privacy Coins in 2026",
+      "url": "https://news.bitcoin.com/from-surge-to-shutdown-dubai-blocks-privacy-coins-in-2026/",
+      "timestamp": "05:30",
+      "pubDate": "2026-01-13T05:30:49.000Z"
+    },
+    {
+      "title": "Eddie Vedder Plots Debut Japanese Solo Tour",
+      "url": "https://www.spin.com/2026/01/eddie-vedder-japan-tour/",
+      "timestamp": "05:30",
+      "pubDate": "2026-01-13T05:30:01.000Z"
+    },
+    {
+      "title": "The 5 best sites for finding a remote job in 2026",
+      "url": "https://www.fastcompany.com/91467410/best-remote-job-sites?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
+      "timestamp": "05:30",
+      "pubDate": "2026-01-13T05:30:00.000Z"
+    },
     {
       "title": "'Tell Me Lies' Drops Surprise Episode With Season 3 Premiere (Exclusive)",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/tell-me-lies-surprise-third-episode-season-3-premiere-1236466787/",
@@ -295,57 +343,14 @@
       "url": "https://www.thewrap.com/media-platforms/streaming/apple-tv-boasts-monthly-engagement-record-increased-viewership/",
       "timestamp": "00:49",
       "pubDate": "2026-01-13T00:49:49.000Z"
-    },
-    {
-      "title": "Inside the Ballroom at the Golden Globes: 12 Starry Moments You Didn't See on TV",
-      "url": "https://variety.com/2026/biz/news/teyana-taylor-keri-russell-ayo-edebiri-golden-globes-inside-1236629895/",
-      "timestamp": "00:40",
-      "pubDate": "2026-01-13T00:40:25.000Z"
-    },
-    {
-      "title": "'What's the Word': KATSEYE x Pandora Drop New Line of Mini Charms for Eyekons & Everyone Else",
-      "url": "https://www.rollingstone.com/product-recommendations/style/katseye-pandora-mini-charms-where-to-buy-online-1235498297/",
-      "timestamp": "00:36",
-      "pubDate": "2026-01-13T00:36:30.000Z"
-    },
-    {
-      "title": "Bill Maher Blasts Hollywood as the ‘Epicenter of Woke Stupid,’ Defends Cultural Appropriation as 'Sharing' &#124; Video",
-      "url": "https://www.thewrap.com/culture-lifestyle/culture/bill-maher-woke-hollywood-cultural-appropriation/",
-      "timestamp": "00:35",
-      "pubDate": "2026-01-13T00:35:52.000Z"
-    },
-    {
-      "title": "Intel's Panther Lake might be a \"great ballpark estimate\" for how PS6 handhelds perform leaker claims",
-      "url": "https://www.tomsguide.com/gaming/playstation/intels-panther-lake-might-be-a-great-ballpark-estimate-for-how-ps6-handhelds-perform-leaker-claims",
-      "timestamp": "00:34",
-      "pubDate": "2026-01-13T00:34:33.000Z"
-    },
-    {
-      "title": "The one Eagles member that left Joe Walsh speechless",
-      "url": "https://faroutmagazine.co.uk/the-one-eagles-member-that-left-joe-walsh-speechless/",
-      "timestamp": "00:30",
-      "pubDate": "2026-01-13T00:30:30.000Z"
-    },
-    {
-      "title": "A$AP Rocky Dangles From 'Helicopter' Over Raging City in New Video",
-      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-helicopter-video-dont-be-dumb-album-1235498620/",
-      "timestamp": "00:27",
-      "pubDate": "2026-01-13T00:27:02.000Z"
-    },
-    {
-      "title": "In Oscar-Shortlisted ‘Cashing Out,’ Director Matt Nadel Reevaluates Investment Tool Some Called “AIDS Profiteering” – And His Dad’s Role In It",
-      "url": "https://deadline.com/2026/01/cashing-out-interview-director-matt-nadel-1236681269/",
-      "timestamp": "00:12",
-      "pubDate": "2026-01-13T00:12:57.000Z"
-    },
-    {
-      "title": "CFTC forms innovation committee to help shape rules for crypto, AI",
-      "url": "https://cointelegraph.com/news/cftc-forms-committee-regulating-blockchain-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "00:09",
-      "pubDate": "2026-01-13T00:09:34.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "Eddie Vedder Plots Debut Japanese Solo Tour",
+      "url": "https://www.spin.com/2026/01/eddie-vedder-japan-tour/",
+      "timestamp": "05:30"
+    },
     {
       "title": "Bob Dylan is guiding Cameron Winter into a new chapter: \"He's a dude\"",
       "url": "https://faroutmagazine.co.uk/bob-dylan-is-guiding-cameron-winter-into-a-new-chapter-hes-a-dude/",
@@ -440,12 +445,7 @@
       "title": "Morrissey Sang The Smiths' Music Industry Polemic For The First Time In 29 Years",
       "url": "https://stereogum.com/2484920/morrissey-sang-the-smiths-music-industry-polemic-for-the-first-time-in-29-years/news/",
       "timestamp": "16:17"
-    },
-    {
-      "title": "Black Label Society's New Album to Feature Ozzy Osbourne Tribute",
-      "url": "https://ultimateclassicrock.com/black-label-society-engines-of-demolition/",
-      "timestamp": "15:21"
     }
   ],
-  "lastUpdated": "2026-01-13T05:29:11.337Z"
+  "lastUpdated": "2026-01-13T06:39:47.051Z"
 }
