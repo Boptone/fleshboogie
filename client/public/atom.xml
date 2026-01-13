@@ -4,7 +4,7 @@
   <link href="https://fleshboogie.com" />
   <link href="https://fleshboogie.com/atom.xml" rel="self" type="application/atom+xml" />
   <id>https://fleshboogie.com/</id>
-  <updated>2026-01-13T14:29:55.352Z</updated>
+  <updated>2026-01-13T15:30:26.569Z</updated>
   <subtitle>Curated music and culture links from across the web. Updated 24/7 with the latest news, reviews, and discoveries in music, film, art, and underground culture.</subtitle>
   <rights>Copyright 2026 Fleshboogie. All content aggregated under Fair Use (17 U.S.C. § 107).</rights>
   <author>
@@ -16,67 +16,463 @@
   <logo>https://fleshboogie.com/og-image.png</logo>
 
   <entry>
-    <title>NEW MUSEUM IN NYC TO REOPEN IN MARCH</title>
-    <link href="https://hyperallergic.com/new-museum-in-nyc-to-reopen-in-march/" />
-    <id>https://hyperallergic.com/new-museum-in-nyc-to-reopen-in-march/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Featured Story: NEW MUSEUM IN NYC TO REOPEN IN MARCH</summary>
+    <title>WHO WAS ‘MICHELLE’ IN THE BEATLES SONG?</title>
+    <link href="https://faroutmagazine.co.uk/who-was-michelle-in-the-beatles-song/" />
+    <id>https://faroutmagazine.co.uk/who-was-michelle-in-the-beatles-song/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Featured Story: WHO WAS ‘MICHELLE’ IN THE BEATLES SONG?</summary>
     <category term="Featured" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
   </entry>
   <entry>
-    <title>Sky Making &apos;Girl With The Dragon Tattoo&apos; TV Series</title>
-    <link href="https://deadline.com/2026/01/sky-girl-with-the-dragon-tattoo-tv-series-1236681522/" />
-    <id>https://deadline.com/2026/01/sky-girl-with-the-dragon-tattoo-tv-series-1236681522/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Sky Making &apos;Girl With The Dragon Tattoo&apos; TV Series</summary>
+    <title>Remember Don Lemon on CNN&apos;s New Year&apos;s Eve? Now He&apos;s Celebrating on His Own</title>
+    <link href="https://variety.com/2026/tv/news/don-lemon-new-years-eve-creator-media-cnn-1236630137/" />
+    <id>https://variety.com/2026/tv/news/don-lemon-new-years-eve-creator-media-cnn-1236630137/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Remember Don Lemon on CNN&apos;s New Year&apos;s Eve? Now He&apos;s Celebrating on His Own</summary>
     <category term="Main Story" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
   </entry>
   <entry>
-    <title>Orlando Bloom names the movie that saved his career: &quot;It was a dream, really&quot;</title>
-    <link href="https://faroutmagazine.co.uk/orlando-bloom-names-movie-that-saved-his-career/" />
-    <id>https://faroutmagazine.co.uk/orlando-bloom-names-movie-that-saved-his-career/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Orlando Bloom names the movie that saved his career: &quot;It was a dream, really&quot;</summary>
+    <title>Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work</title>
+    <link href="https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/" />
+    <id>https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work</summary>
     <category term="Main Story" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
   </entry>
   <entry>
-    <title>What Is Venice AI? The Privacy-Focused Chatbot</title>
-    <link href="https://decrypt.co/resources/what-is-venice-ai-the-privacy-focused-chatbot" />
-    <id>https://decrypt.co/resources/what-is-venice-ai-the-privacy-focused-chatbot</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>What Is Venice AI? The Privacy-Focused Chatbot</summary>
+    <title>Bruce Campbell should star in the BadAsstronauts movie</title>
+    <link href="https://www.joblo.com/bruce-campbell-badasstronauts/" />
+    <id>https://www.joblo.com/bruce-campbell-badasstronauts/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Bruce Campbell should star in the BadAsstronauts movie</summary>
     <category term="Main Story" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
   </entry>
   <entry>
-    <title>The &quot;pompous&quot; co-star Audrey Hepburn hated working with: &quot;She didn&apos;t like him at all&quot;</title>
-    <link href="https://faroutmagazine.co.uk/the-pompous-co-star-audrey-hepburn-hated-working-with/" />
-    <id>https://faroutmagazine.co.uk/the-pompous-co-star-audrey-hepburn-hated-working-with/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>The &quot;pompous&quot; co-star Audrey Hepburn hated working with: &quot;She didn&apos;t like him at all&quot;</summary>
+    <title>TAI #187: OpenAI’s Health Push and the Real State of LLMs in Medicine</title>
+    <link href="https://pub.towardsai.net/tai-187-openais-health-push-and-the-real-state-of-llms-in-medicine-f2cfd8504156?source=rss----98111c9905da---4" />
+    <id>https://pub.towardsai.net/tai-187-openais-health-push-and-the-real-state-of-llms-in-medicine-f2cfd8504156?source=rss----98111c9905da---4</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>TAI #187: OpenAI’s Health Push and the Real State of LLMs in Medicine</summary>
     <category term="Main Story" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
   </entry>
   <entry>
-    <title>The one album Bob Weir said was out of his league: &quot;Will I ever be able to do somethig like that?&quot;</title>
-    <link href="https://faroutmagazine.co.uk/the-one-album-bob-weir-said-was-out-of-his-league/" />
-    <id>https://faroutmagazine.co.uk/the-one-album-bob-weir-said-was-out-of-his-league/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>The one album Bob Weir said was out of his league: &quot;Will I ever be able to do somethig like that?&quot;</summary>
+    <title>Apple Creator Studio: New Subscription for Creatives with Logic, Final Cut, and Pixelmator Pro</title>
+    <link href="https://www.gearnews.com/apple-creator-studio-tech/" />
+    <id>https://www.gearnews.com/apple-creator-studio-tech/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Apple Creator Studio: New Subscription for Creatives with Logic, Final Cut, and Pixelmator Pro</summary>
     <category term="Main Story" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Who was ‘Michelle’ in The Beatles song?</title>
+    <link href="https://faroutmagazine.co.uk/who-was-michelle-in-the-beatles-song/" />
+    <id>https://faroutmagazine.co.uk/who-was-michelle-in-the-beatles-song/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Who was ‘Michelle’ in The Beatles song?</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Remember Don Lemon on CNN&apos;s New Year&apos;s Eve? Now He&apos;s Celebrating on His Own</title>
+    <link href="https://variety.com/2026/tv/news/don-lemon-new-years-eve-creator-media-cnn-1236630137/" />
+    <id>https://variety.com/2026/tv/news/don-lemon-new-years-eve-creator-media-cnn-1236630137/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Remember Don Lemon on CNN&apos;s New Year&apos;s Eve? Now He&apos;s Celebrating on His Own</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work</title>
+    <link href="https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/" />
+    <id>https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Bruce Campbell should star in the BadAsstronauts movie</title>
+    <link href="https://www.joblo.com/bruce-campbell-badasstronauts/" />
+    <id>https://www.joblo.com/bruce-campbell-badasstronauts/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Bruce Campbell should star in the BadAsstronauts movie</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>TAI #187: OpenAI’s Health Push and the Real State of LLMs in Medicine</title>
+    <link href="https://pub.towardsai.net/tai-187-openais-health-push-and-the-real-state-of-llms-in-medicine-f2cfd8504156?source=rss----98111c9905da---4" />
+    <id>https://pub.towardsai.net/tai-187-openais-health-push-and-the-real-state-of-llms-in-medicine-f2cfd8504156?source=rss----98111c9905da---4</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>TAI #187: OpenAI’s Health Push and the Real State of LLMs in Medicine</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Apple Creator Studio: New Subscription for Creatives with Logic, Final Cut, and Pixelmator Pro</title>
+    <link href="https://www.gearnews.com/apple-creator-studio-tech/" />
+    <id>https://www.gearnews.com/apple-creator-studio-tech/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Apple Creator Studio: New Subscription for Creatives with Logic, Final Cut, and Pixelmator Pro</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>“Real True Empowerment Is Your Own Prep”: Carolyn Michelle, Back To One, Episode 375</title>
+    <link href="https://filmmakermagazine.com/133065-real-true-empowerment-is-your-own-prep-carolyn-michelle-back-to-one-episode-375/" />
+    <id>https://filmmakermagazine.com/133065-real-true-empowerment-is-your-own-prep-carolyn-michelle-back-to-one-episode-375/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>“Real True Empowerment Is Your Own Prep”: Carolyn Michelle, Back To One, Episode 375</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>BTS Reveals World Tour Dates, Including Four L.A. Shows</title>
+    <link href="https://variety.com/2026/music/news/bts-world-tour-dates-2026-27-1236630132/" />
+    <id>https://variety.com/2026/music/news/bts-world-tour-dates-2026-27-1236630132/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>BTS Reveals World Tour Dates, Including Four L.A. Shows</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The &quot;perfect story&quot; Will Smith refused to tell: &quot;I wanted to make that movie so badly&quot;</title>
+    <link href="https://faroutmagazine.co.uk/the-perfect-story-will-smith-refused-to-tell/" />
+    <id>https://faroutmagazine.co.uk/the-perfect-story-will-smith-refused-to-tell/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>The &quot;perfect story&quot; Will Smith refused to tell: &quot;I wanted to make that movie so badly&quot;</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Chris Cuomo Returning To SiriusXM With New Morning Show</title>
+    <link href="https://deadline.com/2026/01/chris-cuomo-siriusxm-morning-show-1236681540/" />
+    <id>https://deadline.com/2026/01/chris-cuomo-siriusxm-morning-show-1236681540/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Chris Cuomo Returning To SiriusXM With New Morning Show</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>&apos;The Girl with the Dragon Tattoo&apos; TV Series on the Way From Sky</title>
+    <link href="https://www.hollywoodreporter.com/tv/tv-news/the-girl-with-the-dragon-tattoo-tv-show-1236472177/" />
+    <id>https://www.hollywoodreporter.com/tv/tv-news/the-girl-with-the-dragon-tattoo-tv-show-1236472177/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>&apos;The Girl with the Dragon Tattoo&apos; TV Series on the Way From Sky</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The classic rock legend Dave Grohl and Elton John agreed was &quot;irreplacable&quot;</title>
+    <link href="https://faroutmagazine.co.uk/classic-rock-legend-dave-grohl-elton-john-agreed-was-irreplacable/" />
+    <id>https://faroutmagazine.co.uk/classic-rock-legend-dave-grohl-elton-john-agreed-was-irreplacable/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>The classic rock legend Dave Grohl and Elton John agreed was &quot;irreplacable&quot;</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>‘Avengers: Doomsday’ Teaser Reveals The Return Of Fantastic Four &amp; M&apos;Baku As King Of Wakanda</title>
+    <link href="https://deadline.com/2026/01/avengers-doomsday-teaser-fantastic-four-mbaku-wakanda-1236681547/" />
+    <id>https://deadline.com/2026/01/avengers-doomsday-teaser-fantastic-four-mbaku-wakanda-1236681547/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>‘Avengers: Doomsday’ Teaser Reveals The Return Of Fantastic Four &amp; M&apos;Baku As King Of Wakanda</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Nvidia CEO Says Everyone Should Stop Being So Negative About AI</title>
+    <link href="https://futurism.com/artificial-intelligence/nvidia-ceo-stop-being-negative-ai" />
+    <id>https://futurism.com/artificial-intelligence/nvidia-ceo-stop-being-negative-ai</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Nvidia CEO Says Everyone Should Stop Being So Negative About AI</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ask Hackaday: Do You Curb Shop Components?</title>
+    <link href="https://hackaday.com/2026/01/13/ask-hackaday-do-you-curb-shop-components/" />
+    <id>https://hackaday.com/2026/01/13/ask-hackaday-do-you-curb-shop-components/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Ask Hackaday: Do You Curb Shop Components?</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Patti Smith: Still Blazing After 50 Years of ‘Horses’</title>
+    <link href="https://www.spin.com/2026/01/patti-smith-still-blazing-after-50-years-of-horses/" />
+    <id>https://www.spin.com/2026/01/patti-smith-still-blazing-after-50-years-of-horses/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Patti Smith: Still Blazing After 50 Years of ‘Horses’</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The band so good it confused Roger Daltrey: &quot;Totally alien&quot;</title>
+    <link href="https://faroutmagazine.co.uk/band-confused-roger-daltrey/" />
+    <id>https://faroutmagazine.co.uk/band-confused-roger-daltrey/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>The band so good it confused Roger Daltrey: &quot;Totally alien&quot;</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Apple Serves Up Andre Agassi Docuseries From Director Chris Smith</title>
+    <link href="https://deadline.com/2026/01/andre-agassi-docuseries-apple-chris-smith-1236677909/" />
+    <id>https://deadline.com/2026/01/andre-agassi-docuseries-apple-chris-smith-1236677909/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Apple Serves Up Andre Agassi Docuseries From Director Chris Smith</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Adrien Brody And Tessa Thompson To Make Broadway Debuts In Wrongful Conviction Drama &apos;The Fear Of 13&apos;</title>
+    <link href="https://deadline.com/2026/01/adrien-brody-tessa-thompson-broadway-the-fear-of-13-1236681152/" />
+    <id>https://deadline.com/2026/01/adrien-brody-tessa-thompson-broadway-the-fear-of-13-1236681152/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Adrien Brody And Tessa Thompson To Make Broadway Debuts In Wrongful Conviction Drama &apos;The Fear Of 13&apos;</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Adrien Brody, Tessa Thompson to Make Broadway Debuts This Spring</title>
+    <link href="https://www.hollywoodreporter.com/lifestyle/arts/adrien-brody-tessa-thompson-broadway-debuts-the-fear-of-13-1236471870/" />
+    <id>https://www.hollywoodreporter.com/lifestyle/arts/adrien-brody-tessa-thompson-broadway-debuts-the-fear-of-13-1236471870/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Adrien Brody, Tessa Thompson to Make Broadway Debuts This Spring</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>iConnectivity PlayAUDIO2U: The Flagship Live Audio/MIDI Interface</title>
+    <link href="https://www.gearnews.com/iconnectivity-playaudio2u-live/" />
+    <id>https://www.gearnews.com/iconnectivity-playaudio2u-live/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>iConnectivity PlayAUDIO2U: The Flagship Live Audio/MIDI Interface</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>&apos;The Girl With the Dragon Tattoo&apos; Drama Series in the Works at Sky</title>
+    <link href="https://www.thewrap.com/media-platforms/tv/the-girl-with-the-dragon-tattoo-series-sky/" />
+    <id>https://www.thewrap.com/media-platforms/tv/the-girl-with-the-dragon-tattoo-series-sky/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>&apos;The Girl With the Dragon Tattoo&apos; Drama Series in the Works at Sky</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Chris Cuomo Sets Live Morning Show at SiriusXM</title>
+    <link href="https://www.thewrap.com/media-platforms/journalism/chris-cuomo-mornings-live-morning-show-siriusxm-potus/" />
+    <id>https://www.thewrap.com/media-platforms/journalism/chris-cuomo-mornings-live-morning-show-siriusxm-potus/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Chris Cuomo Sets Live Morning Show at SiriusXM</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>X was down — here&apos;s what happened in the massive global outage</title>
+    <link href="https://www.tomsguide.com/news/live/x-down-january-13-2026" />
+    <id>https://www.tomsguide.com/news/live/x-down-january-13-2026</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>X was down — here&apos;s what happened in the massive global outage</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill</title>
+    <link href="https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/" />
+    <id>https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill</title>
+    <link href="https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/" />
+    <id>https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The movie Albert Brooks wants to delete from history: &quot;I can&apos;t stand the way it ends&quot;</title>
+    <link href="https://faroutmagazine.co.uk/the-movie-albert-brooks-wants-to-delete-from-history/" />
+    <id>https://faroutmagazine.co.uk/the-movie-albert-brooks-wants-to-delete-from-history/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>The movie Albert Brooks wants to delete from history: &quot;I can&apos;t stand the way it ends&quot;</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>FabFilter Pro-C 3 is Coming: The Next Big Compressor is Likely About to be Released!</title>
+    <link href="https://www.gearnews.com/fabfilter-pro-c-3-studio/" />
+    <id>https://www.gearnews.com/fabfilter-pro-c-3-studio/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>FabFilter Pro-C 3 is Coming: The Next Big Compressor is Likely About to be Released!</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The fourth Avengers: Doomsday teaser has been released and features our first look at new crossover characters meeting</title>
+    <link href="https://www.joblo.com/fourth-avengers-doomsday-teaser/" />
+    <id>https://www.joblo.com/fourth-avengers-doomsday-teaser/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>The fourth Avengers: Doomsday teaser has been released and features our first look at new crossover characters meeting</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>‘Wicked’ Leads U.K. Home Entertainment Market to Record $7.6 Billion in 2025</title>
+    <link href="https://variety.com/2026/film/news/wicked-uk-home-entertainment-market-2025-1236630088/" />
+    <id>https://variety.com/2026/film/news/wicked-uk-home-entertainment-market-2025-1236630088/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>‘Wicked’ Leads U.K. Home Entertainment Market to Record $7.6 Billion in 2025</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Barry Manilow Sets Rescheduled Tour Dates Month After Revealing Cancer Diagnosis</title>
+    <link href="https://deadline.com/2026/01/barry-manilow-tour-dates-1236681505/" />
+    <id>https://deadline.com/2026/01/barry-manilow-tour-dates-1236681505/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Barry Manilow Sets Rescheduled Tour Dates Month After Revealing Cancer Diagnosis</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Chandler Limited REDD Mixing System: Mix Like The Beatles</title>
+    <link href="https://www.gearnews.com/chandler-limited-redd-mixing-system-studio/" />
+    <id>https://www.gearnews.com/chandler-limited-redd-mixing-system-studio/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Chandler Limited REDD Mixing System: Mix Like The Beatles</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Wakandans Meet the Fantastic 4 in New &apos;Avengers: Doomsday&apos; Teaser &amp;#124; Video</title>
+    <link href="https://www.thewrap.com/creative-content/movies/avengers-doomsday-wakanda-fantastic-four-trailer/" />
+    <id>https://www.thewrap.com/creative-content/movies/avengers-doomsday-wakanda-fantastic-four-trailer/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Wakandans Meet the Fantastic 4 in New &apos;Avengers: Doomsday&apos; Teaser &amp;#124; Video</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Anker&apos;s Solix E10 battery backup can power your entire house in a blackout</title>
+    <link href="https://www.engadget.com/home/ankers-solix-e10-battery-backup-can-power-your-entire-house-in-a-blackout-143040115.html?src=rss" />
+    <id>https://www.engadget.com/home/ankers-solix-e10-battery-backup-can-power-your-entire-house-in-a-blackout-143040115.html?src=rss</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>Anker&apos;s Solix E10 battery backup can power your entire house in a blackout</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The Faint&apos;s Todd Fink on ‘Agenda Suicide’ and the Art of Not Playing It Safe</title>
+    <link href="https://www.spin.com/2026/01/the-faints-todd-fink-on-agenda-suicide-and-the-art-of-not-playing-it-safe/" />
+    <id>https://www.spin.com/2026/01/the-faints-todd-fink-on-agenda-suicide-and-the-art-of-not-playing-it-safe/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>The Faint&apos;s Todd Fink on ‘Agenda Suicide’ and the Art of Not Playing It Safe</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The best band Rush ever toured with, according to Geddy Lee</title>
+    <link href="https://faroutmagazine.co.uk/best-band-rush-has-ever-toured-with-according-to-geddy-lee/" />
+    <id>https://faroutmagazine.co.uk/best-band-rush-has-ever-toured-with-according-to-geddy-lee/</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>The best band Rush ever toured with, according to Geddy Lee</summary>
+    <category term="Music News" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
@@ -85,7 +481,7 @@
     <title>New Museum in NYC to Reopen in March</title>
     <link href="https://hyperallergic.com/new-museum-in-nyc-to-reopen-in-march/" />
     <id>https://hyperallergic.com/new-museum-in-nyc-to-reopen-in-march/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
+    <updated>2026-01-13T15:30:26.569Z</updated>
     <summary>New Museum in NYC to Reopen in March</summary>
     <category term="Music News" />
     <author>
@@ -96,8 +492,19 @@
     <title>Sky Making &apos;Girl With The Dragon Tattoo&apos; TV Series</title>
     <link href="https://deadline.com/2026/01/sky-girl-with-the-dragon-tattoo-tv-series-1236681522/" />
     <id>https://deadline.com/2026/01/sky-girl-with-the-dragon-tattoo-tv-series-1236681522/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
+    <updated>2026-01-13T15:30:26.569Z</updated>
     <summary>Sky Making &apos;Girl With The Dragon Tattoo&apos; TV Series</summary>
+    <category term="Music News" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>CES 2026: The year AI got serious</title>
+    <link href="https://www.fastcompany.com/91473348/ces-2026-the-year-ai-got-serious-ces-ai-technology-trends?partner=rss&amp;amp;amp;utm_source=rss&amp;amp;amp;utm_medium=feed&amp;amp;amp;utm_campaign=rss+fastcompany&amp;amp;amp;utm_content=rss" />
+    <id>https://www.fastcompany.com/91473348/ces-2026-the-year-ai-got-serious-ces-ai-technology-trends?partner=rss&amp;amp;amp;utm_source=rss&amp;amp;amp;utm_medium=feed&amp;amp;amp;utm_campaign=rss+fastcompany&amp;amp;amp;utm_content=rss</id>
+    <updated>2026-01-13T15:30:26.569Z</updated>
+    <summary>CES 2026: The year AI got serious</summary>
     <category term="Music News" />
     <author>
       <name>Fleshboogie Editorial</name>
@@ -107,415 +514,8 @@
     <title>Orlando Bloom names the movie that saved his career: &quot;It was a dream, really&quot;</title>
     <link href="https://faroutmagazine.co.uk/orlando-bloom-names-movie-that-saved-his-career/" />
     <id>https://faroutmagazine.co.uk/orlando-bloom-names-movie-that-saved-his-career/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
+    <updated>2026-01-13T15:30:26.569Z</updated>
     <summary>Orlando Bloom names the movie that saved his career: &quot;It was a dream, really&quot;</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>What Is Venice AI? The Privacy-Focused Chatbot</title>
-    <link href="https://decrypt.co/resources/what-is-venice-ai-the-privacy-focused-chatbot" />
-    <id>https://decrypt.co/resources/what-is-venice-ai-the-privacy-focused-chatbot</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>What Is Venice AI? The Privacy-Focused Chatbot</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The &quot;pompous&quot; co-star Audrey Hepburn hated working with: &quot;She didn&apos;t like him at all&quot;</title>
-    <link href="https://faroutmagazine.co.uk/the-pompous-co-star-audrey-hepburn-hated-working-with/" />
-    <id>https://faroutmagazine.co.uk/the-pompous-co-star-audrey-hepburn-hated-working-with/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>The &quot;pompous&quot; co-star Audrey Hepburn hated working with: &quot;She didn&apos;t like him at all&quot;</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The one album Bob Weir said was out of his league: &quot;Will I ever be able to do somethig like that?&quot;</title>
-    <link href="https://faroutmagazine.co.uk/the-one-album-bob-weir-said-was-out-of-his-league/" />
-    <id>https://faroutmagazine.co.uk/the-one-album-bob-weir-said-was-out-of-his-league/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>The one album Bob Weir said was out of his league: &quot;Will I ever be able to do somethig like that?&quot;</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Monero climbs to new high of $687 as crypto surveillance tightens</title>
-    <link href="https://cointelegraph.com/news/monero-all-time-high-privacy-coins-regulation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
-    <id>https://cointelegraph.com/news/monero-all-time-high-privacy-coins-regulation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Monero climbs to new high of $687 as crypto surveillance tightens</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The Fleetwood Mac member Tom Petty wanted to join The Heartbreakers</title>
-    <link href="https://faroutmagazine.co.uk/tom-petty-wanted-one-fleetwood-mac-member-to-join-his-band/" />
-    <id>https://faroutmagazine.co.uk/tom-petty-wanted-one-fleetwood-mac-member-to-join-his-band/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>The Fleetwood Mac member Tom Petty wanted to join The Heartbreakers</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>n8n AI Agent Node Memory: Complete Setup Guide for 2026</title>
-    <link href="https://pub.towardsai.net/n8n-ai-agent-node-memory-complete-setup-guide-for-2026-a8c0a074df6f?source=rss----98111c9905da---4" />
-    <id>https://pub.towardsai.net/n8n-ai-agent-node-memory-complete-setup-guide-for-2026-a8c0a074df6f?source=rss----98111c9905da---4</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>n8n AI Agent Node Memory: Complete Setup Guide for 2026</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Polygon Labs Bolsters Stablecoin Payments Push, Acquiring Coinme and Sequence</title>
-    <link href="https://decrypt.co/354351/polygon-bolsters-stablecoin-payments-push-acquiring-coinme-sequence" />
-    <id>https://decrypt.co/354351/polygon-bolsters-stablecoin-payments-push-acquiring-coinme-sequence</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Polygon Labs Bolsters Stablecoin Payments Push, Acquiring Coinme and Sequence</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Musical AI raises $4.5m to scale AI attribution tech</title>
-    <link href="https://www.musicbusinessworldwide.com/musical-ai-bags-4-5m-in-funding-round-to-scale-ai-attribution-tech/" />
-    <id>https://www.musicbusinessworldwide.com/musical-ai-bags-4-5m-in-funding-round-to-scale-ai-attribution-tech/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Musical AI raises $4.5m to scale AI attribution tech</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Jed Baker’s Podcast Company Starglow Media Acquired By SuperAwesome</title>
-    <link href="https://deadline.com/2026/01/jed-baker-podcast-starglow-media-acquired-superawesome-1236677686/" />
-    <id>https://deadline.com/2026/01/jed-baker-podcast-starglow-media-acquired-superawesome-1236677686/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Jed Baker’s Podcast Company Starglow Media Acquired By SuperAwesome</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>&apos;Girl With the Dragon Tattoo&apos; TV Series Set at Sky (EXCLUSIVE)</title>
-    <link href="https://variety.com/2026/global/news/girl-with-the-dragon-tattoo-tv-series-set-sky-1236629943/" />
-    <id>https://variety.com/2026/global/news/girl-with-the-dragon-tattoo-tv-series-set-sky-1236629943/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>&apos;Girl With the Dragon Tattoo&apos; TV Series Set at Sky (EXCLUSIVE)</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Why 2026 Is a High Stakes Year for Original Animated Films</title>
-    <link href="https://www.thewrap.com/creative-content/movies/2026-biggest-year-for-animated-originals/" />
-    <id>https://www.thewrap.com/creative-content/movies/2026-biggest-year-for-animated-originals/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Why 2026 Is a High Stakes Year for Original Animated Films</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Motorola&apos;s most advanced budget phone lasts a long time on a charge — but is that enough?</title>
-    <link href="https://www.tomsguide.com/phones/motorola-phones/motorola-moto-g-power-2026-review" />
-    <id>https://www.tomsguide.com/phones/motorola-phones/motorola-moto-g-power-2026-review</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Motorola&apos;s most advanced budget phone lasts a long time on a charge — but is that enough?</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Fender Studio Pro replaces Studio One: Fender becomes a  Recording Brand</title>
-    <link href="https://www.gearnews.com/fender-studio-pro-daw/" />
-    <id>https://www.gearnews.com/fender-studio-pro-daw/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Fender Studio Pro replaces Studio One: Fender becomes a  Recording Brand</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Ingenico taps WalletConnect to support stablecoin payments at checkout</title>
-    <link href="https://cointelegraph.com/news/ingenico-walletconnect-in-store-stablecoin-payments?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
-    <id>https://cointelegraph.com/news/ingenico-walletconnect-in-store-stablecoin-payments?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Ingenico taps WalletConnect to support stablecoin payments at checkout</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The Joni Mitchell song that Elton John could “never get fed up” with</title>
-    <link href="https://faroutmagazine.co.uk/one-joni-mitchell-song-elton-john-will-never-tire-of/" />
-    <id>https://faroutmagazine.co.uk/one-joni-mitchell-song-elton-john-will-never-tire-of/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>The Joni Mitchell song that Elton John could “never get fed up” with</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Man Planning to Raise Adopted Children With AI Girlfriend as Their Mother</title>
-    <link href="https://futurism.com/artificial-intelligence/man-raise-kids-ai-mother" />
-    <id>https://futurism.com/artificial-intelligence/man-raise-kids-ai-mother</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Man Planning to Raise Adopted Children With AI Girlfriend as Their Mother</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Morning Minute: Fidelity Calls Bitcoin &amp;#39;Maturing,&amp;#39; Lays Out 2026 Bull and Bear Case</title>
-    <link href="https://decrypt.co/354390/morning-minute-fidelity-calls-bitcoin-maturing-lays-out-2026-bull-and-bear-case" />
-    <id>https://decrypt.co/354390/morning-minute-fidelity-calls-bitcoin-maturing-lays-out-2026-bull-and-bear-case</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Morning Minute: Fidelity Calls Bitcoin &amp;#39;Maturing,&amp;#39; Lays Out 2026 Bull and Bear Case</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Boots Riley confirms film adaption of &apos;The Simpsons&apos; episode on Mr Burns</title>
-    <link href="https://faroutmagazine.co.uk/boots-riley-simpsons-mr-burns-spin-off-film-adaptation/" />
-    <id>https://faroutmagazine.co.uk/boots-riley-simpsons-mr-burns-spin-off-film-adaptation/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Boots Riley confirms film adaption of &apos;The Simpsons&apos; episode on Mr Burns</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>BMG Moving Global Headquarters to Berlin&apos;s Lumina Building in&amp;#160;2027</title>
-    <link href="https://www.billboard.com/pro/bmg-new-headquarters-berlin-lumina/" />
-    <id>https://www.billboard.com/pro/bmg-new-headquarters-berlin-lumina/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>BMG Moving Global Headquarters to Berlin&apos;s Lumina Building in&amp;#160;2027</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The Calm Before the Crypto Storm: Bitcoin Preps for a Technical Twist</title>
-    <link href="https://news.bitcoin.com/the-calm-before-the-crypto-storm-bitcoin-preps-for-a-technical-twist/" />
-    <id>https://news.bitcoin.com/the-calm-before-the-crypto-storm-bitcoin-preps-for-a-technical-twist/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>The Calm Before the Crypto Storm: Bitcoin Preps for a Technical Twist</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>‘Music Finance Index’ to track views on music-catalogue valuations</title>
-    <link href="https://musically.com/2026/01/13/music-finance-index-to-track-views-on-music-catalogue-valuations/" />
-    <id>https://musically.com/2026/01/13/music-finance-index-to-track-views-on-music-catalogue-valuations/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>‘Music Finance Index’ to track views on music-catalogue valuations</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Bitcoin&amp;#39;s Four-Year Cycle Broken: VanEck</title>
-    <link href="https://decrypt.co/354389/bitcoins-four-year-cycle-broken-vaneck" />
-    <id>https://decrypt.co/354389/bitcoins-four-year-cycle-broken-vaneck</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Bitcoin&amp;#39;s Four-Year Cycle Broken: VanEck</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>World central banks rally behind Powell, stress Fed independence</title>
-    <link href="https://cointelegraph.com/news/global-central-banks-back-powell-warn-fed-independence-crypto-impact?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
-    <id>https://cointelegraph.com/news/global-central-banks-back-powell-warn-fed-independence-crypto-impact?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>World central banks rally behind Powell, stress Fed independence</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Zachary Berns – Incarnations (Extended Mix)</title>
-    <link href="https://www.stereofox.com/zachary-berns-incarnations-extended-mix/" />
-    <id>https://www.stereofox.com/zachary-berns-incarnations-extended-mix/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Zachary Berns – Incarnations (Extended Mix)</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Here’s what happened in crypto today</title>
-    <link href="https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
-    <id>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Here’s what happened in crypto today</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The &quot;hideous&quot; role Judi Dench loved every second of: &quot;We had such a good time&quot;</title>
-    <link href="https://faroutmagazine.co.uk/hideous-role-judi-dench-loved-every-second-of/" />
-    <id>https://faroutmagazine.co.uk/hideous-role-judi-dench-loved-every-second-of/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>The &quot;hideous&quot; role Judi Dench loved every second of: &quot;We had such a good time&quot;</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>&apos;The Beauty&apos; Trailer Sets Record For FX With 190M Views In 7 Days</title>
-    <link href="https://deadline.com/2026/01/the-beauty-trailer-viewership-record-fx-ryan-murphy-1236681322/" />
-    <id>https://deadline.com/2026/01/the-beauty-trailer-viewership-record-fx-ryan-murphy-1236681322/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>&apos;The Beauty&apos; Trailer Sets Record For FX With 190M Views In 7 Days</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>CJ ENM Expands Latin American Reach With Spanish-Dubbed K-Dramas (EXCLUSIVE)</title>
-    <link href="https://variety.com/2026/tv/news/cj-enm-latin-america-spanish-dubbed-k-dramas-1236629285/" />
-    <id>https://variety.com/2026/tv/news/cj-enm-latin-america-spanish-dubbed-k-dramas-1236629285/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>CJ ENM Expands Latin American Reach With Spanish-Dubbed K-Dramas (EXCLUSIVE)</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Deepgram raises $130M at $1.3B valuation and buys a YC AI startup</title>
-    <link href="https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/" />
-    <id>https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Deepgram raises $130M at $1.3B valuation and buys a YC AI startup</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>A Resident Evil showcase is taking place on January 15</title>
-    <link href="https://www.engadget.com/gaming/a-resident-evil-showcase-is-taking-place-on-january-15-133000548.html?src=rss" />
-    <id>https://www.engadget.com/gaming/a-resident-evil-showcase-is-taking-place-on-january-15-133000548.html?src=rss</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>A Resident Evil showcase is taking place on January 15</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>ZKsync sets 2026 roadmap focused on privacy and institutional adoption</title>
-    <link href="https://cointelegraph.com/news/zksync-2026-roadmap-privacy-institutional-crypto?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
-    <id>https://cointelegraph.com/news/zksync-2026-roadmap-privacy-institutional-crypto?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>ZKsync sets 2026 roadmap focused on privacy and institutional adoption</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Why ‘exercise may result in a reduction in depressive symptoms,’ according to latest science</title>
-    <link href="https://www.tomsguide.com/wellness/fitness/why-exercise-may-result-in-a-reduction-in-depressive-symptoms-according-to-latest-science" />
-    <id>https://www.tomsguide.com/wellness/fitness/why-exercise-may-result-in-a-reduction-in-depressive-symptoms-according-to-latest-science</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Why ‘exercise may result in a reduction in depressive symptoms,’ according to latest science</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>ymprl – Memories (ft. Victor Aithen)</title>
-    <link href="https://www.stereofox.com/ymprl-memories-ft-victor-aithen/" />
-    <id>https://www.stereofox.com/ymprl-memories-ft-victor-aithen/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>ymprl – Memories (ft. Victor Aithen)</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>There&apos;s a new highest grossing actress of all time, dethroning Scarlett Johansson</title>
-    <link href="https://www.nme.com/news/film/theres-a-new-highest-grossing-actress-of-all-time-dethroning-scarlett-johansson-3922911?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=theres-a-new-highest-grossing-actress-of-all-time-dethroning-scarlett-johansson" />
-    <id>https://www.nme.com/news/film/theres-a-new-highest-grossing-actress-of-all-time-dethroning-scarlett-johansson-3922911?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=theres-a-new-highest-grossing-actress-of-all-time-dethroning-scarlett-johansson</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>There&apos;s a new highest grossing actress of all time, dethroning Scarlett Johansson</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Insta360 releases AI-powered follow-up to its Link webcams</title>
-    <link href="https://www.engadget.com/cameras/insta360-releases-ai-powered-follow-up-to-its-link-webcams-130003572.html?src=rss" />
-    <id>https://www.engadget.com/cameras/insta360-releases-ai-powered-follow-up-to-its-link-webcams-130003572.html?src=rss</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Insta360 releases AI-powered follow-up to its Link webcams</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The band Ritchie Blackmore was scared to follow: &quot;I was blown away&quot;</title>
-    <link href="https://faroutmagazine.co.uk/band-ritchie-blackmore-was-scared-to-follow/" />
-    <id>https://faroutmagazine.co.uk/band-ritchie-blackmore-was-scared-to-follow/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>The band Ritchie Blackmore was scared to follow: &quot;I was blown away&quot;</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Slackbot is an AI agent now</title>
-    <link href="https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/" />
-    <id>https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
-    <summary>Slackbot is an AI agent now</summary>
     <category term="Music News" />
     <author>
       <name>Fleshboogie Editorial</name>
@@ -525,7 +525,7 @@
     <title>Will &apos;Stranger Things&apos; ever return for season six?</title>
     <link href="https://www.nme.com/news/tv/will-stranger-things-ever-return-for-season-six-3922257?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=will-stranger-things-ever-return-for-season-six" />
     <id>https://www.nme.com/news/tv/will-stranger-things-ever-return-for-season-six-3922257?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=will-stranger-things-ever-return-for-season-six</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
+    <updated>2026-01-13T15:30:26.569Z</updated>
     <summary>Will &apos;Stranger Things&apos; ever return for season six?</summary>
     <category term="Culture" />
     <author>
@@ -536,7 +536,7 @@
     <title>Téo Amo – Hold Somebody</title>
     <link href="https://www.stereofox.com/teo-amo-hold-somebody/" />
     <id>https://www.stereofox.com/teo-amo-hold-somebody/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
+    <updated>2026-01-13T15:30:26.569Z</updated>
     <summary>Téo Amo – Hold Somebody</summary>
     <category term="Culture" />
     <author>
@@ -547,7 +547,7 @@
     <title>Watch Robyn&apos;s sensual performance of &apos;Sexistential&apos; on &apos;Colbert&apos;</title>
     <link href="https://www.nme.com/news/music/watch-robyn-sensual-performance-of-sexistential-on-colbert-3922234?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=watch-robyn-sensual-performance-of-sexistential-on-colbert" />
     <id>https://www.nme.com/news/music/watch-robyn-sensual-performance-of-sexistential-on-colbert-3922234?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=watch-robyn-sensual-performance-of-sexistential-on-colbert</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
+    <updated>2026-01-13T15:30:26.569Z</updated>
     <summary>Watch Robyn&apos;s sensual performance of &apos;Sexistential&apos; on &apos;Colbert&apos;</summary>
     <category term="Culture" />
     <author>
@@ -558,7 +558,7 @@
     <title>The Messthetics and James Brandon Lewis Reconvene for New Album and Tour</title>
     <link href="https://pitchfork.com/news/the-messthetics-and-james-brandon-lewis-reconvene-for-new-album-and-tour/" />
     <id>https://pitchfork.com/news/the-messthetics-and-james-brandon-lewis-reconvene-for-new-album-and-tour/</id>
-    <updated>2026-01-13T14:29:55.352Z</updated>
+    <updated>2026-01-13T15:30:26.569Z</updated>
     <summary>The Messthetics and James Brandon Lewis Reconvene for New Album and Tour</summary>
     <category term="Culture" />
     <author>
