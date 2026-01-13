@@ -1,27 +1,27 @@
 {
-  "curatedAt": "2026-01-13T22:26:11.753Z",
+  "curatedAt": "2026-01-13T23:22:56.161Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "'HEATED RIVALRY' STAR CHRISTINA CHANG REVEALS HOW THAT ICONIC COMING OUT SCENE CAME TO BE",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-shane-mom-yuna-christina-chang-interview/",
-      "timestamp": "2026-01-13T22:26:08.765Z",
+      "title": "WHEN AND WHERE TO STREAM 'POLE TO POLE WITH WILL SMITH' ONLINE",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-pole-to-pole-with-will-smith-online-nat-geo-streaming-1236472923/",
+      "timestamp": "2026-01-13T23:22:53.180Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.55,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.595
       }
     },
     "deepDive": [
       {
-        "title": "A Best Song Oscar, Handwritten Music Score, Bicycle from ‘Pee-wee’s Big Adventure’ & More Donated to Motion Picture Academy’s&#160;Collection",
-        "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
-        "timestamp": "21:25",
-        "source": "automated",
+        "title": "Will Radiohead Tour the U.S. in 2026?",
+        "url": "https://www.rollingstone.com/music/music-features/will-radiohead-tour-america-in-2026-1235498987/",
+        "timestamp": "21:05",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -31,10 +31,53 @@
         }
       },
       {
+        "title": "idntt Is Billboard K-Pop Rookie of the Month for January: Exclusive&#160;Photos",
+        "url": "https://www.billboard.com/photos/idntt-billboard-k-pop-rookie-month-january-1236154205/",
+        "timestamp": "22:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.505
+        }
+      },
+      {
+        "title": "Skrilla on “6 7,” Kensington, and his new album Z",
+        "url": "https://www.thefader.com/2026/01/13/skrilla-67-interview-kensington-z",
+        "timestamp": "21:21",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.505
+        }
+      }
+    ],
+    "discovery": [
+      {
+        "title": "Meet Mark Dixon, Boston’s One-Time Secret Singer",
+        "url": "https://ultimateclassicrock.com/boston-band-secret-singer/",
+        "timestamp": "14:12",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.47000000000000003
+        }
+      }
+    ],
+    "conversation": [
+      {
         "title": "Will Radiohead Tour the U.S. in 2026?",
         "url": "https://www.rollingstone.com/music/music-features/will-radiohead-tour-america-in-2026-1235498987/",
         "timestamp": "21:05",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -57,97 +100,41 @@
         }
       }
     ],
-    "discovery": [
-      {
-        "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
-        "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
-        "timestamp": "21:35",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.47000000000000003
-        }
-      }
-    ],
-    "conversation": [
-      {
-        "title": "'HEATED RIVALRY' STAR CHRISTINA CHANG REVEALS HOW THAT ICONIC COMING OUT SCENE CAME TO BE",
-        "url": "https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-shane-mom-yuna-christina-chang-interview/",
-        "timestamp": "2026-01-13T22:26:08.765Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6400000000000001
-        }
-      },
-      {
-        "title": "A Best Song Oscar, Handwritten Music Score, Bicycle from ‘Pee-wee’s Big Adventure’ & More Donated to Motion Picture Academy’s&#160;Collection",
-        "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
-        "timestamp": "21:25",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.52
-        }
-      }
-    ],
     "wildcard": [
       {
-        "title": "'HEATED RIVALRY' STAR CHRISTINA CHANG REVEALS HOW THAT ICONIC COMING OUT SCENE CAME TO BE",
-        "url": "https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-shane-mom-yuna-christina-chang-interview/",
-        "timestamp": "2026-01-13T22:26:08.765Z",
+        "title": "WHEN AND WHERE TO STREAM 'POLE TO POLE WITH WILL SMITH' ONLINE",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-pole-to-pole-with-will-smith-online-nat-geo-streaming-1236472923/",
+        "timestamp": "2026-01-13T23:22:53.180Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7,
+          "engagement": 0.55,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6400000000000001
+          "composite": 0.595
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "'HEATED RIVALRY' STAR CHRISTINA CHANG REVEALS HOW THAT ICONIC COMING OUT SCENE CAME TO BE",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-shane-mom-yuna-christina-chang-interview/",
-      "timestamp": "2026-01-13T22:26:08.765Z",
+      "title": "WHEN AND WHERE TO STREAM 'POLE TO POLE WITH WILL SMITH' ONLINE",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-pole-to-pole-with-will-smith-online-nat-geo-streaming-1236472923/",
+      "timestamp": "2026-01-13T23:22:53.180Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.55,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
-      }
-    },
-    {
-      "title": "A Best Song Oscar, Handwritten Music Score, Bicycle from ‘Pee-wee’s Big Adventure’ & More Donated to Motion Picture Academy’s&#160;Collection",
-      "url": "https://www.billboard.com/culture/tv-film/motion-picture-academy-collection-artifacts-donated-1236154372/",
-      "timestamp": "21:25",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.52
+        "composite": 0.595
       }
     },
     {
       "title": "Will Radiohead Tour the U.S. in 2026?",
       "url": "https://www.rollingstone.com/music/music-features/will-radiohead-tour-america-in-2026-1235498987/",
       "timestamp": "21:05",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.7,
@@ -170,10 +157,23 @@
       }
     },
     {
-      "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
-      "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
-      "timestamp": "21:35",
-      "source": "automated",
+      "title": "Skrilla on “6 7,” Kensington, and his new album Z",
+      "url": "https://www.thefader.com/2026/01/13/skrilla-67-interview-kensington-z",
+      "timestamp": "21:21",
+      "source": "musicReleases",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.65,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.505
+      }
+    },
+    {
+      "title": "Meet Mark Dixon, Boston’s One-Time Secret Singer",
+      "url": "https://ultimateclassicrock.com/boston-band-secret-singer/",
+      "timestamp": "14:12",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.5,
         "engagement": 0.6,
