@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-14T19:22:51.987Z",
+  "curatedAt": "2026-01-14T20:26:29.681Z",
   "totalAnalyzed": 66,
-  "totalSelected": 7,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "THE ACTOR ROBERT DE NIRO REFUSED TO SHARE A SCENE WITH: \"THERE WAS A LITTLE SITUATION\"",
-      "url": "https://faroutmagazine.co.uk/actor-robert-de-niro-refused-share-scene-with/",
-      "timestamp": "2026-01-14T19:22:49.057Z",
+      "title": "NENE LEAKES RETURNING TO BRAVO FOR 'REAL HOUSEWIVES: ULTIMATE ROAD TRIP,' SAYS ANDY COHEN",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nene-leakes-bravo-return-housewives-road-trip-andy-cohen-1236473925/",
+      "timestamp": "2026-01-14T20:26:26.708Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -18,6 +18,19 @@
     },
     "deepDive": [
       {
+        "title": "Did the Guilds or the Globes Provide the Best Insight for What Will Be Nominated for Oscars?",
+        "url": "https://www.indiewire.com/awards/predictions/guilds-globes-oscar-nominations-2026-predictions-1235173040/",
+        "timestamp": "19:30",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.55
+        }
+      },
+      {
         "title": "The 20 Best Hard Rock and Metal Albums of 1986",
         "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
         "timestamp": "14:30",
@@ -31,37 +44,24 @@
         }
       },
       {
-        "title": "Billboard Editors Predict Latin Music Trends to Look&#160;For in 2026",
-        "url": "https://www.billboard.com/lists/latin-music-trends-2026-predictions/",
-        "timestamp": "18:50",
+        "title": "China&#39;s Z.AI Releases First Major AI Image Generation Model Trained Without American Chips",
+        "url": "https://decrypt.co/354590/china-zai-releases-ai-image-generation-model-trained-without-american-chips",
+        "timestamp": "20:10",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.6,
+          "engagement": 0.65,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.49
-        }
-      },
-      {
-        "title": "C2C Festival NYC 2026 lineup: Arca, Noursished by Time, and more",
-        "url": "https://www.thefader.com/2026/01/14/c2c-festival-nyc-2026-lineup-arca-nourished-by-time-yhwh-nailgun",
-        "timestamp": "18:21",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
+          "composite": 0.505
         }
       }
     ],
     "discovery": [
       {
-        "title": "Gracie Abrams to Make Acting Debut in A24's 'Please'",
-        "url": "https://www.thewrap.com/creative-content/movies/gracie-abrams-acting-debut-a24-movie-halina-reijn/",
-        "timestamp": "19:00",
+        "title": "These 3 bedroom trends will be everywhere in 2026 — and they can induce calm, restful sleep",
+        "url": "https://www.tomsguide.com/mattresses/pillows-bedding/the-bedroom-trends-that-will-be-everywhere-in-2026",
+        "timestamp": "19:30",
         "source": "automated",
         "scores": {
           "impact": 0.5,
@@ -70,22 +70,22 @@
           "discovery": 0.5,
           "composite": 0.47000000000000003
         }
-      },
-      {
-        "title": "Searchlight Wins Rights To A.C. Robinson Short Story \"Grand Rising\" In Competitive Situation; Lena Waithe Adapting Script With Steven Caple Jr. Directing",
-        "url": "https://deadline.com/2026/01/grand-rising-steven-caple-jr-lena-waithe-searchlight-movie-1236682941/",
-        "timestamp": "18:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.4,
-          "engagement": 0.5,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.4000000000000001
-        }
       }
     ],
     "conversation": [
+      {
+        "title": "Did the Guilds or the Globes Provide the Best Insight for What Will Be Nominated for Oscars?",
+        "url": "https://www.indiewire.com/awards/predictions/guilds-globes-oscar-nominations-2026-predictions-1235173040/",
+        "timestamp": "19:30",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.55
+        }
+      },
       {
         "title": "The 20 Best Hard Rock and Metal Albums of 1986",
         "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
@@ -98,26 +98,13 @@
           "discovery": 0.3,
           "composite": 0.52
         }
-      },
-      {
-        "title": "How to watch Nigeria vs Morocco (it's free) — Stream AFCON 2025 semi-final",
-        "url": "https://www.tomsguide.com/entertainment/sports/watch-nigeria-vs-morocco-afcon-2025-semi-final-free",
-        "timestamp": "18:15",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.51
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "THE ACTOR ROBERT DE NIRO REFUSED TO SHARE A SCENE WITH: \"THERE WAS A LITTLE SITUATION\"",
-        "url": "https://faroutmagazine.co.uk/actor-robert-de-niro-refused-share-scene-with/",
-        "timestamp": "2026-01-14T19:22:49.057Z",
+        "title": "NENE LEAKES RETURNING TO BRAVO FOR 'REAL HOUSEWIVES: ULTIMATE ROAD TRIP,' SAYS ANDY COHEN",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/nene-leakes-bravo-return-housewives-road-trip-andy-cohen-1236473925/",
+        "timestamp": "2026-01-14T20:26:26.708Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -131,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "THE ACTOR ROBERT DE NIRO REFUSED TO SHARE A SCENE WITH: \"THERE WAS A LITTLE SITUATION\"",
-      "url": "https://faroutmagazine.co.uk/actor-robert-de-niro-refused-share-scene-with/",
-      "timestamp": "2026-01-14T19:22:49.057Z",
+      "title": "NENE LEAKES RETURNING TO BRAVO FOR 'REAL HOUSEWIVES: ULTIMATE ROAD TRIP,' SAYS ANDY COHEN",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nene-leakes-bravo-return-housewives-road-trip-andy-cohen-1236473925/",
+      "timestamp": "2026-01-14T20:26:26.708Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -141,6 +128,19 @@
         "timeliness": 1,
         "discovery": 0.3,
         "composite": 0.5800000000000001
+      }
+    },
+    {
+      "title": "Did the Guilds or the Globes Provide the Best Insight for What Will Be Nominated for Oscars?",
+      "url": "https://www.indiewire.com/awards/predictions/guilds-globes-oscar-nominations-2026-predictions-1235173040/",
+      "timestamp": "19:30",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.55
       }
     },
     {
@@ -157,35 +157,22 @@
       }
     },
     {
-      "title": "Billboard Editors Predict Latin Music Trends to Look&#160;For in 2026",
-      "url": "https://www.billboard.com/lists/latin-music-trends-2026-predictions/",
-      "timestamp": "18:50",
+      "title": "China&#39;s Z.AI Releases First Major AI Image Generation Model Trained Without American Chips",
+      "url": "https://decrypt.co/354590/china-zai-releases-ai-image-generation-model-trained-without-american-chips",
+      "timestamp": "20:10",
       "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.6,
+        "engagement": 0.65,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.49
+        "composite": 0.505
       }
     },
     {
-      "title": "C2C Festival NYC 2026 lineup: Arca, Noursished by Time, and more",
-      "url": "https://www.thefader.com/2026/01/14/c2c-festival-nyc-2026-lineup-arca-nourished-by-time-yhwh-nailgun",
-      "timestamp": "18:21",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "Gracie Abrams to Make Acting Debut in A24's 'Please'",
-      "url": "https://www.thewrap.com/creative-content/movies/gracie-abrams-acting-debut-a24-movie-halina-reijn/",
-      "timestamp": "19:00",
+      "title": "These 3 bedroom trends will be everywhere in 2026 — and they can induce calm, restful sleep",
+      "url": "https://www.tomsguide.com/mattresses/pillows-bedding/the-bedroom-trends-that-will-be-everywhere-in-2026",
+      "timestamp": "19:30",
       "source": "automated",
       "scores": {
         "impact": 0.5,
@@ -193,32 +180,6 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.47000000000000003
-      }
-    },
-    {
-      "title": "Searchlight Wins Rights To A.C. Robinson Short Story \"Grand Rising\" In Competitive Situation; Lena Waithe Adapting Script With Steven Caple Jr. Directing",
-      "url": "https://deadline.com/2026/01/grand-rising-steven-caple-jr-lena-waithe-searchlight-movie-1236682941/",
-      "timestamp": "18:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.4,
-        "engagement": 0.5,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.4000000000000001
-      }
-    },
-    {
-      "title": "How to watch Nigeria vs Morocco (it's free) — Stream AFCON 2025 semi-final",
-      "url": "https://www.tomsguide.com/entertainment/sports/watch-nigeria-vs-morocco-afcon-2025-semi-final-free",
-      "timestamp": "18:15",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.7999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.51
       }
     }
   ],
