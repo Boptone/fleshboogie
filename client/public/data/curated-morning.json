@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-14T08:36:03.638Z",
+  "curatedAt": "2026-01-14T09:33:20.609Z",
   "totalAnalyzed": 66,
   "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "THE ONE ROLE EMMA STONE WISHES SHE COULD PLAY FOREVER: \"SHE'S INCREDIBLE\"",
-      "url": "https://faroutmagazine.co.uk/one-role-emma-stone-play-forever/",
-      "timestamp": "2026-01-14T08:36:00.617Z",
+      "title": "HOW SOLO BITCOIN MINERS HIT 22 BLOCKS HIT IN 12 MONTHS AS ANOTHER HIT THE JACKPOT THIS WEEK",
+      "url": "https://cryptoslate.com/how-solo-bitcoin-miners-hit-22-blocks-hit-in-12-months-as-the-global-energy-lottery-gets-hyped-up/",
+      "timestamp": "2026-01-14T09:33:17.624Z",
       "source": "splash",
       "scores": {
-        "impact": 0.4,
-        "engagement": 0.6,
+        "impact": 0.5,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5700000000000001
+        "composite": 0.6400000000000001
       }
     },
     "deepDive": [
@@ -34,7 +34,7 @@
         "title": "Google AI Releases MedGemma-1.5: The Latest Update to their Open Medical AI Models for Developers",
         "url": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/",
         "timestamp": "07:30",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.65,
@@ -87,6 +87,19 @@
     ],
     "conversation": [
       {
+        "title": "HOW SOLO BITCOIN MINERS HIT 22 BLOCKS HIT IN 12 MONTHS AS ANOTHER HIT THE JACKPOT THIS WEEK",
+        "url": "https://cryptoslate.com/how-solo-bitcoin-miners-hit-22-blocks-hit-in-12-months-as-the-global-energy-lottery-gets-hyped-up/",
+        "timestamp": "2026-01-14T09:33:17.624Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.7,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.6400000000000001
+        }
+      },
+      {
         "title": "What was the first horror movie to win an Oscar?",
         "url": "https://faroutmagazine.co.uk/first-horror-movie-to-win-an-oscar/",
         "timestamp": "05:00",
@@ -98,49 +111,36 @@
           "discovery": 0.3,
           "composite": 0.535
         }
-      },
-      {
-        "title": "Google AI Releases MedGemma-1.5: The Latest Update to their Open Medical AI Models for Developers",
-        "url": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/",
-        "timestamp": "07:30",
-        "source": "mainColumn",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.505
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "THE ONE ROLE EMMA STONE WISHES SHE COULD PLAY FOREVER: \"SHE'S INCREDIBLE\"",
-        "url": "https://faroutmagazine.co.uk/one-role-emma-stone-play-forever/",
-        "timestamp": "2026-01-14T08:36:00.617Z",
+        "title": "HOW SOLO BITCOIN MINERS HIT 22 BLOCKS HIT IN 12 MONTHS AS ANOTHER HIT THE JACKPOT THIS WEEK",
+        "url": "https://cryptoslate.com/how-solo-bitcoin-miners-hit-22-blocks-hit-in-12-months-as-the-global-energy-lottery-gets-hyped-up/",
+        "timestamp": "2026-01-14T09:33:17.624Z",
         "source": "splash",
         "scores": {
-          "impact": 0.4,
-          "engagement": 0.6,
+          "impact": 0.5,
+          "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5700000000000001
+          "composite": 0.6400000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "THE ONE ROLE EMMA STONE WISHES SHE COULD PLAY FOREVER: \"SHE'S INCREDIBLE\"",
-      "url": "https://faroutmagazine.co.uk/one-role-emma-stone-play-forever/",
-      "timestamp": "2026-01-14T08:36:00.617Z",
+      "title": "HOW SOLO BITCOIN MINERS HIT 22 BLOCKS HIT IN 12 MONTHS AS ANOTHER HIT THE JACKPOT THIS WEEK",
+      "url": "https://cryptoslate.com/how-solo-bitcoin-miners-hit-22-blocks-hit-in-12-months-as-the-global-energy-lottery-gets-hyped-up/",
+      "timestamp": "2026-01-14T09:33:17.624Z",
       "source": "splash",
       "scores": {
-        "impact": 0.4,
-        "engagement": 0.6,
+        "impact": 0.5,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5700000000000001
+        "composite": 0.6400000000000001
       }
     },
     {
@@ -160,7 +160,7 @@
       "title": "Google AI Releases MedGemma-1.5: The Latest Update to their Open Medical AI Models for Developers",
       "url": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/",
       "timestamp": "07:30",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.65,
