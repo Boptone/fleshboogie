@@ -1,27 +1,27 @@
 {
-  "curatedAt": "2026-01-14T16:36:18.160Z",
+  "curatedAt": "2026-01-14T17:31:12.685Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "ETHAN HAWKE WALKS BACK CLAIM HIS NEW MOVIE WILL BE ONE OF THE GREATEST MOVIES EVER: \"I DON’T KNOW WHY I SAID THAT\"",
-      "url": "https://faroutmagazine.co.uk/ethan-hawke-walks-back-claim-new-movie-greatest-movies-ever/",
-      "timestamp": "2026-01-14T16:36:15.177Z",
+      "title": "'THE STUDIO' STARS REVISIT THE SEASON 1 FINALE AND GETTING A GOLDEN GLOBE NOMINATION AFTER MOCKING THEM",
+      "url": "https://variety.com/2026/tv/news/the-studio-finale-golden-globes-1236630516/",
+      "timestamp": "2026-01-14T17:31:09.716Z",
       "source": "splash",
       "scores": {
-        "impact": 0.4,
-        "engagement": 0.75,
+        "impact": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.615
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
       {
-        "title": "The Academy Is... Returns With First New Album in Nearly 20 Years",
-        "url": "https://www.rollingstone.com/music/music-news/the-academy-is-new-album-almost-there-announcement-1235499138/",
-        "timestamp": "16:00",
-        "source": "automated",
+        "title": "The 20 Best Hard Rock and Metal Albums of 1986",
+        "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
+        "timestamp": "14:30",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -30,6 +30,75 @@
           "composite": 0.52
         }
       },
+      {
+        "title": "What's Next as Journey Heads Into Their Farewell Tour?",
+        "url": "https://ultimateclassicrock.com/neal-schon-journey-lineup/",
+        "timestamp": "13:59",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.52
+        }
+      },
+      {
+        "title": "John Mellencamp Promises Hits-Filled Sets for Summer 2026 Tour",
+        "url": "https://ultimateclassicrock.com/john-mellencamp-is-bringing-back-his-biggest-hits-for-2026-tour/",
+        "timestamp": "15:26",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.49
+        }
+      }
+    ],
+    "discovery": [
+      {
+        "title": "Romanticizing the 'Old Days' of Music Discovery Through AlphaTheta’s First Apparel&#160;Collection",
+        "url": "https://www.billboard.com/culture/lifestyle/alphatheta-first-apparel-collection-flex-trade-fade-1236154794/",
+        "timestamp": "16:01",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.48500000000000004
+        }
+      },
+      {
+        "title": "Jessica Simpson Signs With Independent Artist Group for Representation (EXCLUSIVE)",
+        "url": "https://variety.com/2026/music/news/jessica-simpson-independent-artist-group-representation-1236630727/",
+        "timestamp": "17:30",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.55,
+          "engagement": 0.55,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.47500000000000003
+        }
+      },
+      {
+        "title": "Independent Film & Television Alliance Names Jackie Brenneman CEO As Jean Prewitt Departs",
+        "url": "https://deadline.com/2026/01/ifta-names-new-ceo-jackie-brenneman-succeeding-jean-prewitt-1236682846/",
+        "timestamp": "17:30",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.5,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.44
+        }
+      }
+    ],
+    "conversation": [
       {
         "title": "The 20 Best Hard Rock and Metal Albums of 1986",
         "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
@@ -57,103 +126,34 @@
         }
       }
     ],
-    "discovery": [
+    "wildcard": [
       {
-        "title": "Romanticizing the 'Old Days' of Music Discovery Through AlphaTheta’s First Apparel&#160;Collection",
-        "url": "https://www.billboard.com/culture/lifestyle/alphatheta-first-apparel-collection-flex-trade-fade-1236154794/",
-        "timestamp": "16:01",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.48500000000000004
-        }
-      },
-      {
-        "title": "This Is Not a Test: trailer for “The Breakfast Club meets 28 Weeks Later” horror movie pits teens against zombies",
-        "url": "https://www.joblo.com/this-is-not-a-test-trailer/",
-        "timestamp": "16:19",
-        "source": "automated",
+        "title": "'THE STUDIO' STARS REVISIT THE SEASON 1 FINALE AND GETTING A GOLDEN GLOBE NOMINATION AFTER MOCKING THEM",
+        "url": "https://variety.com/2026/tv/news/the-studio-finale-golden-globes-1236630516/",
+        "timestamp": "2026-01-14T17:31:09.716Z",
+        "source": "splash",
         "scores": {
           "impact": 0.5,
           "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.47000000000000003
-        }
-      }
-    ],
-    "conversation": [
-      {
-        "title": "ETHAN HAWKE WALKS BACK CLAIM HIS NEW MOVIE WILL BE ONE OF THE GREATEST MOVIES EVER: \"I DON’T KNOW WHY I SAID THAT\"",
-        "url": "https://faroutmagazine.co.uk/ethan-hawke-walks-back-claim-new-movie-greatest-movies-ever/",
-        "timestamp": "2026-01-14T16:36:15.177Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.4,
-          "engagement": 0.75,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.615
-        }
-      },
-      {
-        "title": "The Academy Is... Returns With First New Album in Nearly 20 Years",
-        "url": "https://www.rollingstone.com/music/music-news/the-academy-is-new-album-almost-there-announcement-1235499138/",
-        "timestamp": "16:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.52
-        }
-      }
-    ],
-    "wildcard": [
-      {
-        "title": "ETHAN HAWKE WALKS BACK CLAIM HIS NEW MOVIE WILL BE ONE OF THE GREATEST MOVIES EVER: \"I DON’T KNOW WHY I SAID THAT\"",
-        "url": "https://faroutmagazine.co.uk/ethan-hawke-walks-back-claim-new-movie-greatest-movies-ever/",
-        "timestamp": "2026-01-14T16:36:15.177Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.4,
-          "engagement": 0.75,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.615
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "ETHAN HAWKE WALKS BACK CLAIM HIS NEW MOVIE WILL BE ONE OF THE GREATEST MOVIES EVER: \"I DON’T KNOW WHY I SAID THAT\"",
-      "url": "https://faroutmagazine.co.uk/ethan-hawke-walks-back-claim-new-movie-greatest-movies-ever/",
-      "timestamp": "2026-01-14T16:36:15.177Z",
+      "title": "'THE STUDIO' STARS REVISIT THE SEASON 1 FINALE AND GETTING A GOLDEN GLOBE NOMINATION AFTER MOCKING THEM",
+      "url": "https://variety.com/2026/tv/news/the-studio-finale-golden-globes-1236630516/",
+      "timestamp": "2026-01-14T17:31:09.716Z",
       "source": "splash",
       "scores": {
-        "impact": 0.4,
-        "engagement": 0.75,
+        "impact": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.615
-      }
-    },
-    {
-      "title": "The Academy Is... Returns With First New Album in Nearly 20 Years",
-      "url": "https://www.rollingstone.com/music/music-news/the-academy-is-new-album-almost-there-announcement-1235499138/",
-      "timestamp": "16:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.52
+        "composite": 0.6100000000000001
       }
     },
     {
@@ -183,10 +183,23 @@
       }
     },
     {
+      "title": "John Mellencamp Promises Hits-Filled Sets for Summer 2026 Tour",
+      "url": "https://ultimateclassicrock.com/john-mellencamp-is-bringing-back-his-biggest-hits-for-2026-tour/",
+      "timestamp": "15:26",
+      "source": "musicReleases",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.49
+      }
+    },
+    {
       "title": "Romanticizing the 'Old Days' of Music Discovery Through AlphaTheta’s First Apparel&#160;Collection",
       "url": "https://www.billboard.com/culture/lifestyle/alphatheta-first-apparel-collection-flex-trade-fade-1236154794/",
       "timestamp": "16:01",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.5,
         "engagement": 0.65,
@@ -196,16 +209,29 @@
       }
     },
     {
-      "title": "This Is Not a Test: trailer for “The Breakfast Club meets 28 Weeks Later” horror movie pits teens against zombies",
-      "url": "https://www.joblo.com/this-is-not-a-test-trailer/",
-      "timestamp": "16:19",
-      "source": "automated",
+      "title": "Jessica Simpson Signs With Independent Artist Group for Representation (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/news/jessica-simpson-independent-artist-group-representation-1236630727/",
+      "timestamp": "17:30",
+      "source": "mainColumn",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.6,
+        "impact": 0.55,
+        "engagement": 0.55,
         "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.47000000000000003
+        "composite": 0.47500000000000003
+      }
+    },
+    {
+      "title": "Independent Film & Television Alliance Names Jackie Brenneman CEO As Jean Prewitt Departs",
+      "url": "https://deadline.com/2026/01/ifta-names-new-ceo-jackie-brenneman-succeeding-jean-prewitt-1236682846/",
+      "timestamp": "17:30",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.5,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.44
       }
     }
   ],
