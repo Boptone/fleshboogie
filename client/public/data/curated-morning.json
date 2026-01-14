@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-14T04:10:31.775Z",
+  "curatedAt": "2026-01-14T05:28:41.433Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "BECK'S FAVOURITE SONG OF ALL TIME",
-      "url": "https://faroutmagazine.co.uk/beck-favourite-song-of-all-time/",
-      "timestamp": "2026-01-14T04:10:28.753Z",
+      "title": "BITCOIN ADVOCATES PRESS US LAWMAKERS ON STABLECOIN TAX RULES",
+      "url": "https://decrypt.co/354512/bitcoin-advocates-press-us-lawmakers-stablecoin-tax-rules",
+      "timestamp": "2026-01-14T05:28:38.480Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -18,10 +18,23 @@
     },
     "deepDive": [
       {
+        "title": "What was the first horror movie to win an Oscar?",
+        "url": "https://faroutmagazine.co.uk/first-horror-movie-to-win-an-oscar/",
+        "timestamp": "05:00",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.75,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.535
+        }
+      },
+      {
         "title": "Why is Elton John's album called 'Honky Château'?",
         "url": "https://faroutmagazine.co.uk/why-is-elton-john-album-called-honky-chateau/",
         "timestamp": "01:00",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -42,26 +55,13 @@
           "discovery": 0.3,
           "composite": 0.505
         }
-      },
-      {
-        "title": "James Taylor Sets Massive 2-Leg 2026 U.S. Tour",
-        "url": "https://ultimateclassicrock.com/james-taylor-2026-tour/",
-        "timestamp": "15:58",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
-        }
       }
     ],
     "discovery": [
       {
-        "title": "Meet Mark Dixon, Boston’s One-Time Secret Singer",
-        "url": "https://ultimateclassicrock.com/boston-band-secret-singer/",
-        "timestamp": "14:12",
+        "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
+        "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
+        "timestamp": "21:35",
         "source": "musicReleases",
         "scores": {
           "impact": 0.5,
@@ -74,10 +74,23 @@
     ],
     "conversation": [
       {
+        "title": "What was the first horror movie to win an Oscar?",
+        "url": "https://faroutmagazine.co.uk/first-horror-movie-to-win-an-oscar/",
+        "timestamp": "05:00",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.75,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.535
+        }
+      },
+      {
         "title": "Why is Elton John's album called 'Honky Château'?",
         "url": "https://faroutmagazine.co.uk/why-is-elton-john-album-called-honky-chateau/",
         "timestamp": "01:00",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -85,26 +98,13 @@
           "discovery": 0.3,
           "composite": 0.52
         }
-      },
-      {
-        "title": "Skrilla on “6 7,” Kensington, and his new album Z",
-        "url": "https://www.thefader.com/2026/01/13/skrilla-67-interview-kensington-z",
-        "timestamp": "21:21",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.505
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "BECK'S FAVOURITE SONG OF ALL TIME",
-        "url": "https://faroutmagazine.co.uk/beck-favourite-song-of-all-time/",
-        "timestamp": "2026-01-14T04:10:28.753Z",
+        "title": "BITCOIN ADVOCATES PRESS US LAWMAKERS ON STABLECOIN TAX RULES",
+        "url": "https://decrypt.co/354512/bitcoin-advocates-press-us-lawmakers-stablecoin-tax-rules",
+        "timestamp": "2026-01-14T05:28:38.480Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -118,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "BECK'S FAVOURITE SONG OF ALL TIME",
-      "url": "https://faroutmagazine.co.uk/beck-favourite-song-of-all-time/",
-      "timestamp": "2026-01-14T04:10:28.753Z",
+      "title": "BITCOIN ADVOCATES PRESS US LAWMAKERS ON STABLECOIN TAX RULES",
+      "url": "https://decrypt.co/354512/bitcoin-advocates-press-us-lawmakers-stablecoin-tax-rules",
+      "timestamp": "2026-01-14T05:28:38.480Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -131,10 +131,23 @@
       }
     },
     {
+      "title": "What was the first horror movie to win an Oscar?",
+      "url": "https://faroutmagazine.co.uk/first-horror-movie-to-win-an-oscar/",
+      "timestamp": "05:00",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.75,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.535
+      }
+    },
+    {
       "title": "Why is Elton John's album called 'Honky Château'?",
       "url": "https://faroutmagazine.co.uk/why-is-elton-john-album-called-honky-chateau/",
       "timestamp": "01:00",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.7,
@@ -157,22 +170,9 @@
       }
     },
     {
-      "title": "James Taylor Sets Massive 2-Leg 2026 U.S. Tour",
-      "url": "https://ultimateclassicrock.com/james-taylor-2026-tour/",
-      "timestamp": "15:58",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "Meet Mark Dixon, Boston’s One-Time Secret Singer",
-      "url": "https://ultimateclassicrock.com/boston-band-secret-singer/",
-      "timestamp": "14:12",
+      "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
+      "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
+      "timestamp": "21:35",
       "source": "musicReleases",
       "scores": {
         "impact": 0.5,
