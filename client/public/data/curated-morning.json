@@ -1,22 +1,35 @@
 {
-  "curatedAt": "2026-01-13T23:22:56.161Z",
+  "curatedAt": "2026-01-14T02:03:55.012Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "WHEN AND WHERE TO STREAM 'POLE TO POLE WITH WILL SMITH' ONLINE",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-pole-to-pole-with-will-smith-online-nat-geo-streaming-1236472923/",
-      "timestamp": "2026-01-13T23:22:53.180Z",
+      "title": "DIRECTOR KLEBER MENDONÇA FILHO BREAKS DOWN KEY SCENES IN 'THE SECRET AGENT' &#124; EXCLUSIVE VIDEO",
+      "url": "https://www.thewrap.com/industry-news/awards/kleber-mendonca-filho-the-secret-agent-exclusive-video/",
+      "timestamp": "2026-01-14T02:03:52.063Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.55,
+        "engagement": 0.75,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.595
+        "composite": 0.655
       }
     },
     "deepDive": [
+      {
+        "title": "Why is Elton John's album called 'Honky Château'?",
+        "url": "https://faroutmagazine.co.uk/why-is-elton-john-album-called-honky-chateau/",
+        "timestamp": "01:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.52
+        }
+      },
       {
         "title": "Will Radiohead Tour the U.S. in 2026?",
         "url": "https://www.rollingstone.com/music/music-features/will-radiohead-tour-america-in-2026-1235498987/",
@@ -28,19 +41,6 @@
           "timeliness": 0.2,
           "discovery": 0.3,
           "composite": 0.52
-        }
-      },
-      {
-        "title": "idntt Is Billboard K-Pop Rookie of the Month for January: Exclusive&#160;Photos",
-        "url": "https://www.billboard.com/photos/idntt-billboard-k-pop-rookie-month-january-1236154205/",
-        "timestamp": "22:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.505
         }
       },
       {
@@ -74,10 +74,23 @@
     ],
     "conversation": [
       {
-        "title": "Will Radiohead Tour the U.S. in 2026?",
-        "url": "https://www.rollingstone.com/music/music-features/will-radiohead-tour-america-in-2026-1235498987/",
-        "timestamp": "21:05",
-        "source": "musicReleases",
+        "title": "DIRECTOR KLEBER MENDONÇA FILHO BREAKS DOWN KEY SCENES IN 'THE SECRET AGENT' &#124; EXCLUSIVE VIDEO",
+        "url": "https://www.thewrap.com/industry-news/awards/kleber-mendonca-filho-the-secret-agent-exclusive-video/",
+        "timestamp": "2026-01-14T02:03:52.063Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.75,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.655
+        }
+      },
+      {
+        "title": "Why is Elton John's album called 'Honky Château'?",
+        "url": "https://faroutmagazine.co.uk/why-is-elton-john-album-called-honky-chateau/",
+        "timestamp": "01:00",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -85,49 +98,49 @@
           "discovery": 0.3,
           "composite": 0.52
         }
-      },
-      {
-        "title": "idntt Is Billboard K-Pop Rookie of the Month for January: Exclusive&#160;Photos",
-        "url": "https://www.billboard.com/photos/idntt-billboard-k-pop-rookie-month-january-1236154205/",
-        "timestamp": "22:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.505
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "WHEN AND WHERE TO STREAM 'POLE TO POLE WITH WILL SMITH' ONLINE",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-pole-to-pole-with-will-smith-online-nat-geo-streaming-1236472923/",
-        "timestamp": "2026-01-13T23:22:53.180Z",
+        "title": "DIRECTOR KLEBER MENDONÇA FILHO BREAKS DOWN KEY SCENES IN 'THE SECRET AGENT' &#124; EXCLUSIVE VIDEO",
+        "url": "https://www.thewrap.com/industry-news/awards/kleber-mendonca-filho-the-secret-agent-exclusive-video/",
+        "timestamp": "2026-01-14T02:03:52.063Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.55,
+          "engagement": 0.75,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.595
+          "composite": 0.655
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "WHEN AND WHERE TO STREAM 'POLE TO POLE WITH WILL SMITH' ONLINE",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-pole-to-pole-with-will-smith-online-nat-geo-streaming-1236472923/",
-      "timestamp": "2026-01-13T23:22:53.180Z",
+      "title": "DIRECTOR KLEBER MENDONÇA FILHO BREAKS DOWN KEY SCENES IN 'THE SECRET AGENT' &#124; EXCLUSIVE VIDEO",
+      "url": "https://www.thewrap.com/industry-news/awards/kleber-mendonca-filho-the-secret-agent-exclusive-video/",
+      "timestamp": "2026-01-14T02:03:52.063Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.55,
+        "engagement": 0.75,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.595
+        "composite": 0.655
+      }
+    },
+    {
+      "title": "Why is Elton John's album called 'Honky Château'?",
+      "url": "https://faroutmagazine.co.uk/why-is-elton-john-album-called-honky-chateau/",
+      "timestamp": "01:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.52
       }
     },
     {
@@ -141,19 +154,6 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.52
-      }
-    },
-    {
-      "title": "idntt Is Billboard K-Pop Rookie of the Month for January: Exclusive&#160;Photos",
-      "url": "https://www.billboard.com/photos/idntt-billboard-k-pop-rookie-month-january-1236154205/",
-      "timestamp": "22:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.65,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.505
       }
     },
     {
