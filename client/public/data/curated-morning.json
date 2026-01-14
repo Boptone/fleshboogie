@@ -1,33 +1,33 @@
 {
-  "curatedAt": "2026-01-14T21:26:14.991Z",
+  "curatedAt": "2026-01-14T22:27:41.061Z",
   "totalAnalyzed": 66,
-  "totalSelected": 7,
+  "totalSelected": 8,
   "newsletter": {
     "leadStory": {
-      "title": "ASAD AYAZ TO LEAD DISNEY'S NEW COMPANY-WIDE MARKETING OPERATION",
-      "url": "https://www.hollywoodreporter.com/business/business-news/disney-announces-new-comany-marketing-led-asad-ayaz-1236474099/",
-      "timestamp": "2026-01-14T21:26:12.008Z",
+      "title": "HERE’S WHAT HAPPENED IN CRYPTO TODAY",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "2026-01-14T22:27:38.050Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.55,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.595
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
       {
-        "title": "China&#39;s Z.AI Releases First Major AI Image Generation Model Trained Without American Chips",
-        "url": "https://decrypt.co/354590/china-zai-releases-ai-image-generation-model-trained-without-american-chips",
-        "timestamp": "20:10",
+        "title": "Shane Gillis' Live Comedy Tour: How to Get Affordable Tickets&#160;Online",
+        "url": "https://www.billboard.com/culture/product-recommendations/shane-gillis-tour-tickets-buy-online-1236154884/",
+        "timestamp": "21:52",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.65,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.505
+          "composite": 0.52
         }
       },
       {
@@ -59,29 +59,42 @@
     ],
     "discovery": [
       {
+        "title": "Gracie Abrams Set to Make Acting Debut in A24's 'Please'",
+        "url": "https://www.billboard.com/music/pop/gracie-abrams-acting-debut-please-film-1236155208/",
+        "timestamp": "22:09",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.47000000000000003
+        }
+      },
+      {
+        "title": "'The Masked Singer' Season 14 Costume Gallery: Meet the Competitors &#124; Photos",
+        "url": "https://www.thewrap.com/creative-content/tv-shows/the-masked-singer-season-14-costumes-photos/",
+        "timestamp": "21:30",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.47000000000000003
+        }
+      },
+      {
         "title": "Watch Anderson .Paak Invade the K-Pop Scene in the Trailer for His Directorial Debut 'K-POPS!'",
         "url": "https://www.billboard.com/music/rb-hip-hop/anderson-paak-trailer-k-pops-1236155031/",
         "timestamp": "21:13",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.55,
           "timeliness": 0.2,
           "discovery": 0.5,
           "composite": 0.455
-        }
-      },
-      {
-        "title": "C-Sections Have a Surprisingly Ancient History",
-        "url": "https://nautil.us/c-sections-have-a-surprisingly-ancient-history-1261578/",
-        "timestamp": "21:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.5,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.44
         }
       }
     ],
@@ -100,60 +113,60 @@
         }
       },
       {
-        "title": "China&#39;s Z.AI Releases First Major AI Image Generation Model Trained Without American Chips",
-        "url": "https://decrypt.co/354590/china-zai-releases-ai-image-generation-model-trained-without-american-chips",
-        "timestamp": "20:10",
+        "title": "Shane Gillis' Live Comedy Tour: How to Get Affordable Tickets&#160;Online",
+        "url": "https://www.billboard.com/culture/product-recommendations/shane-gillis-tour-tickets-buy-online-1236154884/",
+        "timestamp": "21:52",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.65,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.505
+          "composite": 0.52
         }
       }
     ],
     "wildcard": [
       {
-        "title": "ASAD AYAZ TO LEAD DISNEY'S NEW COMPANY-WIDE MARKETING OPERATION",
-        "url": "https://www.hollywoodreporter.com/business/business-news/disney-announces-new-comany-marketing-led-asad-ayaz-1236474099/",
-        "timestamp": "2026-01-14T21:26:12.008Z",
+        "title": "HERE’S WHAT HAPPENED IN CRYPTO TODAY",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "2026-01-14T22:27:38.050Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.55,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.595
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "ASAD AYAZ TO LEAD DISNEY'S NEW COMPANY-WIDE MARKETING OPERATION",
-      "url": "https://www.hollywoodreporter.com/business/business-news/disney-announces-new-comany-marketing-led-asad-ayaz-1236474099/",
-      "timestamp": "2026-01-14T21:26:12.008Z",
+      "title": "HERE’S WHAT HAPPENED IN CRYPTO TODAY",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "2026-01-14T22:27:38.050Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.55,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.595
+        "composite": 0.6100000000000001
       }
     },
     {
-      "title": "China&#39;s Z.AI Releases First Major AI Image Generation Model Trained Without American Chips",
-      "url": "https://decrypt.co/354590/china-zai-releases-ai-image-generation-model-trained-without-american-chips",
-      "timestamp": "20:10",
+      "title": "Shane Gillis' Live Comedy Tour: How to Get Affordable Tickets&#160;Online",
+      "url": "https://www.billboard.com/culture/product-recommendations/shane-gillis-tour-tickets-buy-online-1236154884/",
+      "timestamp": "21:52",
       "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.65,
+        "engagement": 0.7,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.505
+        "composite": 0.52
       }
     },
     {
@@ -183,29 +196,42 @@
       }
     },
     {
+      "title": "Gracie Abrams Set to Make Acting Debut in A24's 'Please'",
+      "url": "https://www.billboard.com/music/pop/gracie-abrams-acting-debut-please-film-1236155208/",
+      "timestamp": "22:09",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.47000000000000003
+      }
+    },
+    {
+      "title": "'The Masked Singer' Season 14 Costume Gallery: Meet the Competitors &#124; Photos",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/the-masked-singer-season-14-costumes-photos/",
+      "timestamp": "21:30",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.47000000000000003
+      }
+    },
+    {
       "title": "Watch Anderson .Paak Invade the K-Pop Scene in the Trailer for His Directorial Debut 'K-POPS!'",
       "url": "https://www.billboard.com/music/rb-hip-hop/anderson-paak-trailer-k-pops-1236155031/",
       "timestamp": "21:13",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.55,
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.455
-      }
-    },
-    {
-      "title": "C-Sections Have a Surprisingly Ancient History",
-      "url": "https://nautil.us/c-sections-have-a-surprisingly-ancient-history-1261578/",
-      "timestamp": "21:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.44
       }
     },
     {
