@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "BITCOIN ADVOCATES PRESS US LAWMAKERS ON STABLECOIN TAX RULES",
-    "url": "https://decrypt.co/354512/bitcoin-advocates-press-us-lawmakers-stablecoin-tax-rules",
+    "headline": "CRYPTO MARKET STRUCTURE RULEMAKING COULD TAKE YEARS: PARADIGM EXEC",
+    "url": "https://cointelegraph.com/news/crypto-market-structure-bill-rulemaking-years-away?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "This Is Why Your Model Hallucinates (And You Blame the Wrong Thing) | M008",
-      "url": "https://pub.towardsai.net/this-is-why-your-model-hallucinates-and-you-blame-the-wrong-thing-m008-680e53dd2fca?source=rss----98111c9905da---4",
-      "timestamp": "05:00",
+      "title": "BitMine’s staked Ether reaches 1.5M, equating to 4% of total staked",
+      "url": "https://cointelegraph.com/news/bitmine-adds-more-staked-eth-as-entry-queue-soars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "06:11",
       "pinned": false
     },
     {
-      "title": "What was the first horror movie to win an Oscar?",
-      "url": "https://faroutmagazine.co.uk/first-horror-movie-to-win-an-oscar/",
-      "timestamp": "05:00",
+      "title": "Your iPhone has a hidden face-blurring feature — here's how to use it in the Photos app",
+      "url": "https://www.tomsguide.com/phones/iphones/your-iphone-has-a-hidden-face-blurring-feature-heres-how-to-use-it-in-your-photos-app",
+      "timestamp": "06:01",
       "pinned": false
     },
     {
-      "title": "'For months my kid has been waking me up every two hours' – 8 hero products to help sleep-deprived parents like me make the most of any and all rest they can get at night",
-      "url": "https://www.tomsguide.com/wellness/sleep-problems/for-months-my-kid-has-been-waking-me-up-every-two-hours-8-hero-products-to-help-sleep-deprived-parents-like-me-make-the-most-of-any-and-all-rest-they-can-get-at-night",
-      "timestamp": "05:00",
+      "title": "Atari Brings the Computer Age Home",
+      "url": "https://hackaday.com/2026/01/13/atari-brings-the-computer-age-home/",
+      "timestamp": "06:00",
       "pinned": false
     },
     {
-      "title": "7 Agentic AI Trends Redefining the “Year of the Proof” in 2026",
-      "url": "https://pub.towardsai.net/7-agentic-ai-trends-redefining-the-year-of-the-proof-in-2026-83661449ede4?source=rss----98111c9905da---4",
-      "timestamp": "04:59",
+      "title": "Arturia KeyLab Essential mk3 Rose Quartz & Aquamarine: Keyboard Controllers for your Gender Reveal Party",
+      "url": "https://www.gearnews.com/arturia-keylab-essential-mk3-keyboard-controller/",
+      "timestamp": "06:00",
       "pinned": false
     },
     {
-      "title": "How to Conduct a Literature Review in AI & Machine Learning",
-      "url": "https://pub.towardsai.net/how-to-conduct-a-literature-review-in-ai-machine-learning-c3056e556c04?source=rss----98111c9905da---4",
-      "timestamp": "04:57",
+      "title": "Why Ethereum Could Be Ready to Outperform Bitcoin in 2026",
+      "url": "https://decrypt.co/354515/ethereum-outperform-bitcoin-2026",
+      "timestamp": "05:49",
       "pinned": false
     }
   ],
@@ -104,6 +104,66 @@
     }
   ],
   "automated": [
+    {
+      "title": "Crypto market structure rulemaking could take years: Paradigm exec",
+      "url": "https://cointelegraph.com/news/crypto-market-structure-bill-rulemaking-years-away?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "06:16",
+      "pubDate": "2026-01-14T06:16:24.000Z"
+    },
+    {
+      "title": "BitMine’s staked Ether reaches 1.5M, equating to 4% of total staked",
+      "url": "https://cointelegraph.com/news/bitmine-adds-more-staked-eth-as-entry-queue-soars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "06:11",
+      "pubDate": "2026-01-14T06:11:23.000Z"
+    },
+    {
+      "title": "Your iPhone has a hidden face-blurring feature — here's how to use it in the Photos app",
+      "url": "https://www.tomsguide.com/phones/iphones/your-iphone-has-a-hidden-face-blurring-feature-heres-how-to-use-it-in-your-photos-app",
+      "timestamp": "06:01",
+      "pubDate": "2026-01-14T06:01:00.000Z"
+    },
+    {
+      "title": "Atari Brings the Computer Age Home",
+      "url": "https://hackaday.com/2026/01/13/atari-brings-the-computer-age-home/",
+      "timestamp": "06:00",
+      "pubDate": "2026-01-14T06:00:36.000Z"
+    },
+    {
+      "title": "Arturia KeyLab Essential mk3 Rose Quartz & Aquamarine: Keyboard Controllers for your Gender Reveal Party",
+      "url": "https://www.gearnews.com/arturia-keylab-essential-mk3-keyboard-controller/",
+      "timestamp": "06:00",
+      "pubDate": "2026-01-14T06:00:00.000Z"
+    },
+    {
+      "title": "Why Ethereum Could Be Ready to Outperform Bitcoin in 2026",
+      "url": "https://decrypt.co/354515/ethereum-outperform-bitcoin-2026",
+      "timestamp": "05:49",
+      "pubDate": "2026-01-14T05:49:06.000Z"
+    },
+    {
+      "title": "Salad.com and Golem Network Partner to Pilot Decentralized GPU Cloud Infrastructure",
+      "url": "https://news.bitcoin.com/salad-com-and-golem-network-partner-to-pilot-decentralized-gpu-cloud-infrastructure/",
+      "timestamp": "05:30",
+      "pubDate": "2026-01-14T05:30:33.000Z"
+    },
+    {
+      "title": "The complete ska-lovers guide to Madness",
+      "url": "https://faroutmagazine.co.uk/complete-ska-lovers-guide-to-madness/",
+      "timestamp": "05:30",
+      "pubDate": "2026-01-14T05:30:00.000Z"
+    },
+    {
+      "title": "I didn’t expect AI to help my 'winter blues' — but these 9 prompts improved my mood",
+      "url": "https://www.tomsguide.com/ai/i-didnt-expect-ai-to-help-my-winter-blues-but-these-9-prompts-improved-my-mood",
+      "timestamp": "05:30",
+      "pubDate": "2026-01-14T05:30:00.000Z"
+    },
+    {
+      "title": "Get in shape at home with these 4 free apps and sites",
+      "url": "https://www.fastcompany.com/91467397/free-workout-apps-and-sites?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
+      "timestamp": "05:30",
+      "pubDate": "2026-01-14T05:30:00.000Z"
+    },
     {
       "title": "Bitcoin Advocates Press US Lawmakers on Stablecoin Tax Rules",
       "url": "https://decrypt.co/354512/bitcoin-advocates-press-us-lawmakers-stablecoin-tax-rules",
@@ -283,69 +343,14 @@
       "url": "https://deadline.com/2026/01/2026-golden-globes-ratings-cbs-1236680917/",
       "timestamp": "02:30",
       "pubDate": "2026-01-14T02:30:23.000Z"
-    },
-    {
-      "title": "2026 Golden Globes Ratings Score 8.66 Million Viewers, Down 7% From Last Year",
-      "url": "https://www.thewrap.com/media-platforms/streaming/2026-golden-globes-ratings-cbs-paramount/",
-      "timestamp": "02:30",
-      "pubDate": "2026-01-14T02:30:16.000Z"
-    },
-    {
-      "title": "The Jennifer Lopez movie nobody wanted to be in: \"I don't want to force anyone\"",
-      "url": "https://faroutmagazine.co.uk/the-jennifer-lopez-movie-nobody-wanted-to-be-in/",
-      "timestamp": "02:30",
-      "pubDate": "2026-01-14T02:30:00.000Z"
-    },
-    {
-      "title": "The Full 'Survivor 50' Cast: See Mike White, Cirie Fields and All the Returning Players",
-      "url": "https://www.hollywoodreporter.com/lists/survivor-50-cast-photos/",
-      "timestamp": "02:23",
-      "pubDate": "2026-01-14T02:23:58.000Z"
-    },
-    {
-      "title": "Revolut stablecoin payment volumes surge 156% in 2025: Research",
-      "url": "https://cointelegraph.com/news/revolut-stablecoin-payments-rose-156-percent-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "02:05",
-      "pubDate": "2026-01-14T02:05:19.000Z"
-    },
-    {
-      "title": "XRP Jumps Higher as Buyers Step in Aggressively — Is a Bigger Move Brewing?",
-      "url": "https://news.bitcoin.com/xrp-jumps-higher-as-buyers-step-in-aggressively-is-a-bigger-move-brewing/",
-      "timestamp": "02:03",
-      "pubDate": "2026-01-14T02:03:42.000Z"
-    },
-    {
-      "title": "Director Kleber Mendonça Filho Breaks Down Key Scenes in 'The Secret Agent' &#124; Exclusive Video",
-      "url": "https://www.thewrap.com/industry-news/awards/kleber-mendonca-filho-the-secret-agent-exclusive-video/",
-      "timestamp": "01:42",
-      "pubDate": "2026-01-14T01:42:42.000Z"
-    },
-    {
-      "title": "Grayscale Eyes 36 New Tokens, Signaling Aggressive Expansion Beyond Legacy Crypto",
-      "url": "https://news.bitcoin.com/grayscale-eyes-36-new-tokens-signaling-aggressive-expansion-beyond-legacy-crypto/",
-      "timestamp": "01:30",
-      "pubDate": "2026-01-14T01:30:29.000Z"
-    },
-    {
-      "title": "The \"beloved\" movie Jessica Biel has seen at least 80 times: \"Or more, no joke\"",
-      "url": "https://faroutmagazine.co.uk/the-beloved-movie-jessica-biel-has-seen-at-least-80-times/",
-      "timestamp": "01:30",
-      "pubDate": "2026-01-14T01:30:00.000Z"
-    },
-    {
-      "title": "Perfect storm of activity sees record surge in new Ethereum wallets",
-      "url": "https://cointelegraph.com/news/ethereum-new-wallet-growth-hits-new-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "01:29",
-      "pubDate": "2026-01-14T01:29:47.000Z"
-    },
-    {
-      "title": "Bill Maher Says Woke Hollywood Will \"Never\" Give Him An Emmy",
-      "url": "https://deadline.com/2026/01/bill-maher-hollywood-never-emmy-1236682244/",
-      "timestamp": "01:20",
-      "pubDate": "2026-01-14T01:20:37.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "The complete ska-lovers guide to Madness",
+      "url": "https://faroutmagazine.co.uk/complete-ska-lovers-guide-to-madness/",
+      "timestamp": "05:30"
+    },
     {
       "title": "Feuds, keyboards, and vomit: The disastrous end of Rainbow",
       "url": "https://faroutmagazine.co.uk/disastrous-end-of-rainbow/",
@@ -365,11 +370,6 @@
       "title": "Bizarrap & Daddy Yankee Take ‘Bzrp Music Sessions, Vol. 0/66’ to No. 1 on Latin&#160;Airplay",
       "url": "https://www.billboard.com/music/chart-beat/bizarrap-daddy-yankee-bzrp-music-sessions-66-latin-airplay-1236154698/",
       "timestamp": "02:45"
-    },
-    {
-      "title": "Why is Elton John's album called 'Honky Château'?",
-      "url": "https://faroutmagazine.co.uk/why-is-elton-john-album-called-honky-chateau/",
-      "timestamp": "01:00"
     },
     {
       "title": "Celebrate Dolly Parton's Iconic Career in New 'Ain't Nobody's Fool' Biography: Shop It&#160;Here",
@@ -447,5 +447,5 @@
       "timestamp": "15:00"
     }
   ],
-  "lastUpdated": "2026-01-14T05:28:38.480Z"
+  "lastUpdated": "2026-01-14T06:39:36.696Z"
 }
