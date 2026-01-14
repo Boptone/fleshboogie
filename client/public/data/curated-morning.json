@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-14T07:29:43.425Z",
+  "curatedAt": "2026-01-14T08:36:03.638Z",
   "totalAnalyzed": 66,
   "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "WATCH RAPHAEL SAADIQ, MILES CATON, LUDWIG GÖRANSSON PERFORM 'SINNERS' TRACK 'I LIED TO YOU'",
-      "url": "https://www.rollingstone.com/music/music-news/raphael-saadiq-sinners-i-lied-to-you-performance-kimmel-1235499277/",
-      "timestamp": "2026-01-14T07:29:40.424Z",
+      "title": "THE ONE ROLE EMMA STONE WISHES SHE COULD PLAY FOREVER: \"SHE'S INCREDIBLE\"",
+      "url": "https://faroutmagazine.co.uk/one-role-emma-stone-play-forever/",
+      "timestamp": "2026-01-14T08:36:00.617Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.55,
+        "impact": 0.4,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.595
+        "composite": 0.5700000000000001
       }
     },
     "deepDive": [
@@ -31,9 +31,9 @@
         }
       },
       {
-        "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
-        "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
-        "timestamp": "07:03",
+        "title": "Google AI Releases MedGemma-1.5: The Latest Update to their Open Medical AI Models for Developers",
+        "url": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/",
+        "timestamp": "07:30",
         "source": "mainColumn",
         "scores": {
           "impact": 0.6,
@@ -44,10 +44,10 @@
         }
       },
       {
-        "title": "Skrilla on “6 7,” Kensington, and his new album Z",
-        "url": "https://www.thefader.com/2026/01/13/skrilla-67-interview-kensington-z",
-        "timestamp": "21:21",
-        "source": "musicReleases",
+        "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
+        "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
+        "timestamp": "07:03",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.65,
@@ -75,7 +75,7 @@
         "title": "So you just got a Nintendo Switch 2 — here’s 5 essential tips you need to know before you start playing",
         "url": "https://www.tomsguide.com/gaming/nintendo/so-you-just-got-a-nintendo-switch-2-heres-5-essential-tips-you-need-to-know-before-you-start-playing",
         "timestamp": "07:15",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.4,
           "engagement": 0.6,
@@ -100,9 +100,9 @@
         }
       },
       {
-        "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
-        "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
-        "timestamp": "07:03",
+        "title": "Google AI Releases MedGemma-1.5: The Latest Update to their Open Medical AI Models for Developers",
+        "url": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/",
+        "timestamp": "07:30",
         "source": "mainColumn",
         "scores": {
           "impact": 0.6,
@@ -115,32 +115,32 @@
     ],
     "wildcard": [
       {
-        "title": "WATCH RAPHAEL SAADIQ, MILES CATON, LUDWIG GÖRANSSON PERFORM 'SINNERS' TRACK 'I LIED TO YOU'",
-        "url": "https://www.rollingstone.com/music/music-news/raphael-saadiq-sinners-i-lied-to-you-performance-kimmel-1235499277/",
-        "timestamp": "2026-01-14T07:29:40.424Z",
+        "title": "THE ONE ROLE EMMA STONE WISHES SHE COULD PLAY FOREVER: \"SHE'S INCREDIBLE\"",
+        "url": "https://faroutmagazine.co.uk/one-role-emma-stone-play-forever/",
+        "timestamp": "2026-01-14T08:36:00.617Z",
         "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.55,
+          "impact": 0.4,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.595
+          "composite": 0.5700000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "WATCH RAPHAEL SAADIQ, MILES CATON, LUDWIG GÖRANSSON PERFORM 'SINNERS' TRACK 'I LIED TO YOU'",
-      "url": "https://www.rollingstone.com/music/music-news/raphael-saadiq-sinners-i-lied-to-you-performance-kimmel-1235499277/",
-      "timestamp": "2026-01-14T07:29:40.424Z",
+      "title": "THE ONE ROLE EMMA STONE WISHES SHE COULD PLAY FOREVER: \"SHE'S INCREDIBLE\"",
+      "url": "https://faroutmagazine.co.uk/one-role-emma-stone-play-forever/",
+      "timestamp": "2026-01-14T08:36:00.617Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.55,
+        "impact": 0.4,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.595
+        "composite": 0.5700000000000001
       }
     },
     {
@@ -157,9 +157,9 @@
       }
     },
     {
-      "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
-      "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
-      "timestamp": "07:03",
+      "title": "Google AI Releases MedGemma-1.5: The Latest Update to their Open Medical AI Models for Developers",
+      "url": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/",
+      "timestamp": "07:30",
       "source": "mainColumn",
       "scores": {
         "impact": 0.6,
@@ -170,10 +170,10 @@
       }
     },
     {
-      "title": "Skrilla on “6 7,” Kensington, and his new album Z",
-      "url": "https://www.thefader.com/2026/01/13/skrilla-67-interview-kensington-z",
-      "timestamp": "21:21",
-      "source": "musicReleases",
+      "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
+      "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
+      "timestamp": "07:03",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.65,
@@ -199,7 +199,7 @@
       "title": "So you just got a Nintendo Switch 2 — here’s 5 essential tips you need to know before you start playing",
       "url": "https://www.tomsguide.com/gaming/nintendo/so-you-just-got-a-nintendo-switch-2-heres-5-essential-tips-you-need-to-know-before-you-start-playing",
       "timestamp": "07:15",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.4,
         "engagement": 0.6,

@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "WATCH RAPHAEL SAADIQ, MILES CATON, LUDWIG GÖRANSSON PERFORM 'SINNERS' TRACK 'I LIED TO YOU'",
-    "url": "https://www.rollingstone.com/music/music-news/raphael-saadiq-sinners-i-lied-to-you-performance-kimmel-1235499277/",
+    "headline": "THE ONE ROLE EMMA STONE WISHES SHE COULD PLAY FOREVER: \"SHE'S INCREDIBLE\"",
+    "url": "https://faroutmagazine.co.uk/one-role-emma-stone-play-forever/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "So you just got a Nintendo Switch 2 — here’s 5 essential tips you need to know before you start playing",
-      "url": "https://www.tomsguide.com/gaming/nintendo/so-you-just-got-a-nintendo-switch-2-heres-5-essential-tips-you-need-to-know-before-you-start-playing",
-      "timestamp": "07:15",
+      "title": "I just watched the 'Hijack' season 2 premiere on Apple TV  — and I can't believe I didn't see that huge twist coming",
+      "url": "https://www.tomsguide.com/entertainment/apple-tv/i-just-watched-the-hijack-season-2-premiere-on-apple-tv-and-i-cant-believe-i-didnt-see-that-huge-twist-coming",
+      "timestamp": "08:00",
       "pinned": false
     },
     {
-      "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
-      "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
-      "timestamp": "07:03",
+      "title": "Google AI Releases MedGemma-1.5: The Latest Update to their Open Medical AI Models for Developers",
+      "url": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/",
+      "timestamp": "07:30",
       "pinned": false
     },
     {
-      "title": "Leonardo DiCaprio Hails Cinema as the 'Definitive Art Form' After Claiming He Wasn't a Theatrical Experience Advocate &#124; Video",
-      "url": "https://www.thewrap.com/creative-content/movies/leonardo-dicaprio-cinema-definitive-art-form-national-board-of-review-awards-speech/",
-      "timestamp": "07:01",
+      "title": "The \"most glorious\" moment of Emilia Clarke's career: \"I thought I was going to spontaneously combust\"",
+      "url": "https://faroutmagazine.co.uk/the-most-glorious-moment-of-emilia-clarkes-career/",
+      "timestamp": "07:30",
       "pinned": false
     },
     {
-      "title": "The star Pete Townshend struggled to work with: \"Doesn't have a shade of self-doubt\"",
-      "url": "https://faroutmagazine.co.uk/star-pete-townshend-struggled-to-work-with/",
-      "timestamp": "07:00",
+      "title": "Hidden AirPods features — 5 things you didn't know your Apple earbuds could do",
+      "url": "https://www.tomsguide.com/audio/airpods/hidden-airpods-features-5-things-you-didnt-know-your-apple-earbuds-could-do",
+      "timestamp": "07:30",
       "pinned": false
     },
     {
-      "title": "This hidden Windows 11 setting will give your PC an instant speed boost — here's how to try it",
-      "url": "https://www.tomsguide.com/computing/windows-operating-systems/this-hidden-windows-11-setting-will-give-your-pc-an-instant-speed-boost-heres-how-to-try-it",
-      "timestamp": "07:00",
+      "title": "Watch Raphael Saadiq, Miles Caton, Ludwig Göransson Perform 'Sinners' Track 'I Lied to You'",
+      "url": "https://www.rollingstone.com/music/music-news/raphael-saadiq-sinners-i-lied-to-you-performance-kimmel-1235499277/",
+      "timestamp": "07:22",
       "pinned": false
     }
   ],
@@ -104,6 +104,36 @@
     }
   ],
   "automated": [
+    {
+      "title": "The one role Emma Stone wishes she could play forever: \"She's incredible\"",
+      "url": "https://faroutmagazine.co.uk/one-role-emma-stone-play-forever/",
+      "timestamp": "08:30",
+      "pubDate": "2026-01-14T08:30:00.000Z"
+    },
+    {
+      "title": "I just watched the 'Hijack' season 2 premiere on Apple TV  — and I can't believe I didn't see that huge twist coming",
+      "url": "https://www.tomsguide.com/entertainment/apple-tv/i-just-watched-the-hijack-season-2-premiere-on-apple-tv-and-i-cant-believe-i-didnt-see-that-huge-twist-coming",
+      "timestamp": "08:00",
+      "pubDate": "2026-01-14T08:00:00.000Z"
+    },
+    {
+      "title": "Google AI Releases MedGemma-1.5: The Latest Update to their Open Medical AI Models for Developers",
+      "url": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/",
+      "timestamp": "07:30",
+      "pubDate": "2026-01-14T07:30:39.000Z"
+    },
+    {
+      "title": "The \"most glorious\" moment of Emilia Clarke's career: \"I thought I was going to spontaneously combust\"",
+      "url": "https://faroutmagazine.co.uk/the-most-glorious-moment-of-emilia-clarkes-career/",
+      "timestamp": "07:30",
+      "pubDate": "2026-01-14T07:30:00.000Z"
+    },
+    {
+      "title": "Hidden AirPods features — 5 things you didn't know your Apple earbuds could do",
+      "url": "https://www.tomsguide.com/audio/airpods/hidden-airpods-features-5-things-you-didnt-know-your-apple-earbuds-could-do",
+      "timestamp": "07:30",
+      "pubDate": "2026-01-14T07:30:00.000Z"
+    },
     {
       "title": "Watch Raphael Saadiq, Miles Caton, Ludwig Göransson Perform 'Sinners' Track 'I Lied to You'",
       "url": "https://www.rollingstone.com/music/music-news/raphael-saadiq-sinners-i-lied-to-you-performance-kimmel-1235499277/",
@@ -313,39 +343,19 @@
       "url": "https://faroutmagazine.co.uk/beck-favourite-song-of-all-time/",
       "timestamp": "04:00",
       "pubDate": "2026-01-14T04:00:00.000Z"
-    },
-    {
-      "title": "Hakeem Jeffries Compares 'CBS Evening News' to LindellTV After Tony Dokoupil's Jan. 6 Anniversary Coverage &#124; Video",
-      "url": "https://www.thewrap.com/media-platforms/journalism/hakeem-jeffries-cbs-evening-news-lindelltv-comparison/",
-      "timestamp": "03:53",
-      "pubDate": "2026-01-14T03:53:51.000Z"
-    },
-    {
-      "title": "SXSW Sydney Will ‘Not Proceed’ In&#160;2026",
-      "url": "https://www.billboard.com/pro/sxsw-sydney-not-proceed-in-2026/",
-      "timestamp": "03:45",
-      "pubDate": "2026-01-14T03:45:15.000Z"
-    },
-    {
-      "title": "Galaxy Compares DeFi Provisions in Crypto Bill to Patriot Act Surveillance",
-      "url": "https://decrypt.co/354510/galaxy-defi-provisions-crypto-bill-patriot-act-surveillance",
-      "timestamp": "03:05",
-      "pubDate": "2026-01-14T03:05:24.000Z"
-    },
-    {
-      "title": "When Electricity Doesn't Take the Shortest Path",
-      "url": "https://hackaday.com/2026/01/13/when-electricity-doesnt-take-the-shortest-path/",
-      "timestamp": "03:00",
-      "pubDate": "2026-01-14T03:00:03.000Z"
-    },
-    {
-      "title": "I doubted Mel Robbin's weird bedtime trick could help me fall asleep fast — but I was out cold in 4 minutes according to my sleep tracker",
-      "url": "https://www.tomsguide.com/wellness/sleep/mel-robbins-bedtime-hack-is-helping-me-fall-asleep-fast",
-      "timestamp": "03:00",
-      "pubDate": "2026-01-14T03:00:00.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "The one role Emma Stone wishes she could play forever: \"She's incredible\"",
+      "url": "https://faroutmagazine.co.uk/one-role-emma-stone-play-forever/",
+      "timestamp": "08:30"
+    },
+    {
+      "title": "The \"most glorious\" moment of Emilia Clarke's career: \"I thought I was going to spontaneously combust\"",
+      "url": "https://faroutmagazine.co.uk/the-most-glorious-moment-of-emilia-clarkes-career/",
+      "timestamp": "07:30"
+    },
     {
       "title": "Watch Raphael Saadiq, Miles Caton, Ludwig Göransson Perform 'Sinners' Track 'I Lied to You'",
       "url": "https://www.rollingstone.com/music/music-news/raphael-saadiq-sinners-i-lied-to-you-performance-kimmel-1235499277/",
@@ -365,16 +375,6 @@
       "title": "William Duvall Joins Metal Allegiance for a Dark, Heavy Anthem",
       "url": "https://ultimateclassicrock.com/metal-allegiance-william-duvall-black-horizon/",
       "timestamp": "06:56"
-    },
-    {
-      "title": "The complete ska-lovers guide to Madness",
-      "url": "https://faroutmagazine.co.uk/complete-ska-lovers-guide-to-madness/",
-      "timestamp": "05:30"
-    },
-    {
-      "title": "Feuds, keyboards, and vomit: The disastrous end of Rainbow",
-      "url": "https://faroutmagazine.co.uk/disastrous-end-of-rainbow/",
-      "timestamp": "04:30"
     },
     {
       "title": "SXSW Sydney Will ‘Not Proceed’ In&#160;2026",
@@ -447,5 +447,5 @@
       "timestamp": "16:53"
     }
   ],
-  "lastUpdated": "2026-01-14T07:29:40.424Z"
+  "lastUpdated": "2026-01-14T08:36:00.617Z"
 }
