@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-14T12:55:21.212Z",
+  "curatedAt": "2026-01-14T13:42:59.093Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "BANDCAMP BANS AI MUSIC: \"STRICTLY PROHIBITED\"",
-      "url": "https://faroutmagazine.co.uk/bandcamp-bans-ai-music-strictly-prohibited/",
-      "timestamp": "2026-01-14T12:55:18.260Z",
+      "title": "'IT’S AN INSTANT CAMERA THAT LETS YOU TIME TRAVEL FROM THE 1930S TO THE 2020S’: I SPENT TWO HOURS WITH THE FUJIFILM INSTAX MINI EVO CINEMA, HERE’S WHAT I THINK OF IT",
+      "url": "https://www.tomsguide.com/cameras-photography/fujifilm-instax-mini-evo-cinema-hybrid-instant-camera-first-impressions",
+      "timestamp": "2026-01-14T13:42:58.368Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
+        "impact": 0.4,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6000000000000001
       }
     },
     "deepDive": [
@@ -44,16 +44,16 @@
         }
       },
       {
-        "title": "'28 Years Later: The Bone Temple' review: An early contender for the best movie of 2026",
-        "url": "https://www.tomsguide.com/entertainment/movies/28-years-later-the-bone-temple-review-an-early-contender-for-the-best-movie-of-2026",
-        "timestamp": "11:00",
+        "title": "Bitget Drops New Video With World Cup Winner Julián Álvarez, Turning Trading Into a One-Stop UEX Megastore",
+        "url": "https://news.bitcoin.com/bitget-drops-new-video-with-world-cup-winner-julian-alvarez-turning-trading-into-a-one-stop-uex-megastore/",
+        "timestamp": "12:00",
         "source": "automated",
         "scores": {
-          "impact": 0.55,
-          "engagement": 0.7,
+          "impact": 0.6,
+          "engagement": 0.55,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.5000000000000001
+          "composite": 0.4750000000000001
         }
       }
     ],
@@ -74,16 +74,16 @@
     ],
     "conversation": [
       {
-        "title": "3 new Netflix exclusive movies and shows to add to your watchlist this week (Jan 14-20)",
-        "url": "https://www.tomsguide.com/entertainment/netflix/3-new-netflix-exclusive-movies-and-shows-to-add-to-your-watchlist-this-week-jan-14-20",
-        "timestamp": "11:09",
-        "source": "automated",
+        "title": "'IT’S AN INSTANT CAMERA THAT LETS YOU TIME TRAVEL FROM THE 1930S TO THE 2020S’: I SPENT TWO HOURS WITH THE FUJIFILM INSTAX MINI EVO CINEMA, HERE’S WHAT I THINK OF IT",
+        "url": "https://www.tomsguide.com/cameras-photography/fujifilm-instax-mini-evo-cinema-hybrid-instant-camera-first-impressions",
+        "timestamp": "2026-01-14T13:42:58.368Z",
+        "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.85,
-          "timeliness": 0.2,
+          "impact": 0.4,
+          "engagement": 0.7,
+          "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.525
+          "composite": 0.6000000000000001
         }
       },
       {
@@ -102,32 +102,32 @@
     ],
     "wildcard": [
       {
-        "title": "BANDCAMP BANS AI MUSIC: \"STRICTLY PROHIBITED\"",
-        "url": "https://faroutmagazine.co.uk/bandcamp-bans-ai-music-strictly-prohibited/",
-        "timestamp": "2026-01-14T12:55:18.260Z",
+        "title": "'IT’S AN INSTANT CAMERA THAT LETS YOU TIME TRAVEL FROM THE 1930S TO THE 2020S’: I SPENT TWO HOURS WITH THE FUJIFILM INSTAX MINI EVO CINEMA, HERE’S WHAT I THINK OF IT",
+        "url": "https://www.tomsguide.com/cameras-photography/fujifilm-instax-mini-evo-cinema-hybrid-instant-camera-first-impressions",
+        "timestamp": "2026-01-14T13:42:58.368Z",
         "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.5,
+          "impact": 0.4,
+          "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.6000000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "BANDCAMP BANS AI MUSIC: \"STRICTLY PROHIBITED\"",
-      "url": "https://faroutmagazine.co.uk/bandcamp-bans-ai-music-strictly-prohibited/",
-      "timestamp": "2026-01-14T12:55:18.260Z",
+      "title": "'IT’S AN INSTANT CAMERA THAT LETS YOU TIME TRAVEL FROM THE 1930S TO THE 2020S’: I SPENT TWO HOURS WITH THE FUJIFILM INSTAX MINI EVO CINEMA, HERE’S WHAT I THINK OF IT",
+      "url": "https://www.tomsguide.com/cameras-photography/fujifilm-instax-mini-evo-cinema-hybrid-instant-camera-first-impressions",
+      "timestamp": "2026-01-14T13:42:58.368Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
+        "impact": 0.4,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6000000000000001
       }
     },
     {
@@ -157,16 +157,16 @@
       }
     },
     {
-      "title": "'28 Years Later: The Bone Temple' review: An early contender for the best movie of 2026",
-      "url": "https://www.tomsguide.com/entertainment/movies/28-years-later-the-bone-temple-review-an-early-contender-for-the-best-movie-of-2026",
-      "timestamp": "11:00",
+      "title": "Bitget Drops New Video With World Cup Winner Julián Álvarez, Turning Trading Into a One-Stop UEX Megastore",
+      "url": "https://news.bitcoin.com/bitget-drops-new-video-with-world-cup-winner-julian-alvarez-turning-trading-into-a-one-stop-uex-megastore/",
+      "timestamp": "12:00",
       "source": "automated",
       "scores": {
-        "impact": 0.55,
-        "engagement": 0.7,
+        "impact": 0.6,
+        "engagement": 0.55,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.5000000000000001
+        "composite": 0.4750000000000001
       }
     },
     {
@@ -180,19 +180,6 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.47000000000000003
-      }
-    },
-    {
-      "title": "3 new Netflix exclusive movies and shows to add to your watchlist this week (Jan 14-20)",
-      "url": "https://www.tomsguide.com/entertainment/netflix/3-new-netflix-exclusive-movies-and-shows-to-add-to-your-watchlist-this-week-jan-14-20",
-      "timestamp": "11:09",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.85,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.525
       }
     }
   ],
