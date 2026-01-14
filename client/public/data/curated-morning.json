@@ -1,40 +1,27 @@
 {
-  "curatedAt": "2026-01-14T10:30:29.236Z",
+  "curatedAt": "2026-01-14T11:25:07.127Z",
   "totalAnalyzed": 66,
   "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "YOUTH MUSIC REVEALS ITS 2026 ‘ONES TO WATCH’ EMERGING ARTISTS",
-      "url": "https://musically.com/2026/01/14/youth-music-reveals-its-2026-ones-to-watch-emerging-artists/",
-      "timestamp": "2026-01-14T10:30:26.313Z",
+      "title": "VISA TAPS BVNK TO POWER STABLECOIN PAYOUTS ON VISA DIRECT",
+      "url": "https://cointelegraph.com/news/visa-bvnk-stablecoin-payouts-visa-direct-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "2026-01-14T11:25:04.111Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.75,
+        "engagement": 0.5,
         "timeliness": 1,
-        "discovery": 0.7,
-        "composite": 0.695
+        "discovery": 0.3,
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
       {
-        "title": "Google AI Releases MedGemma-1.5: The Latest Update to their Open Medical AI Models for Developers",
-        "url": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/",
-        "timestamp": "07:30",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.505
-        }
-      },
-      {
         "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
         "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
         "timestamp": "07:03",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.65,
@@ -55,20 +42,33 @@
           "discovery": 0.3,
           "composite": 0.505
         }
+      },
+      {
+        "title": "'28 Years Later: The Bone Temple' review: An early contender for the best movie of 2026",
+        "url": "https://www.tomsguide.com/entertainment/movies/28-years-later-the-bone-temple-review-an-early-contender-for-the-best-movie-of-2026",
+        "timestamp": "11:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.55,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.5000000000000001
+        }
       }
     ],
     "discovery": [
       {
-        "title": "YOUTH MUSIC REVEALS ITS 2026 ‘ONES TO WATCH’ EMERGING ARTISTS",
+        "title": "Youth Music reveals its 2026 ‘Ones to Watch’ emerging artists",
         "url": "https://musically.com/2026/01/14/youth-music-reveals-its-2026-ones-to-watch-emerging-artists/",
-        "timestamp": "2026-01-14T10:30:26.313Z",
-        "source": "splash",
+        "timestamp": "10:07",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.75,
-          "timeliness": 1,
+          "timeliness": 0.2,
           "discovery": 0.7,
-          "composite": 0.695
+          "composite": 0.5349999999999999
         }
       },
       {
@@ -83,40 +83,14 @@
           "discovery": 0.5,
           "composite": 0.47000000000000003
         }
-      },
-      {
-        "title": "So you just got a Nintendo Switch 2 — here’s 5 essential tips you need to know before you start playing",
-        "url": "https://www.tomsguide.com/gaming/nintendo/so-you-just-got-a-nintendo-switch-2-heres-5-essential-tips-you-need-to-know-before-you-start-playing",
-        "timestamp": "07:15",
-        "source": "automated",
-        "scores": {
-          "impact": 0.4,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.43
-        }
       }
     ],
     "conversation": [
       {
-        "title": "YOUTH MUSIC REVEALS ITS 2026 ‘ONES TO WATCH’ EMERGING ARTISTS",
-        "url": "https://musically.com/2026/01/14/youth-music-reveals-its-2026-ones-to-watch-emerging-artists/",
-        "timestamp": "2026-01-14T10:30:26.313Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.75,
-          "timeliness": 1,
-          "discovery": 0.7,
-          "composite": 0.695
-        }
-      },
-      {
         "title": "Why Alan Rickman almost rejected his 'Die Hard' role: \"What the hell is this?\"",
         "url": "https://faroutmagazine.co.uk/why-alan-rickman-almost-rejected-his-die-hard-role/",
         "timestamp": "09:53",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.9,
@@ -124,56 +98,56 @@
           "discovery": 0.3,
           "composite": 0.54
         }
+      },
+      {
+        "title": "Youth Music reveals its 2026 ‘Ones to Watch’ emerging artists",
+        "url": "https://musically.com/2026/01/14/youth-music-reveals-its-2026-ones-to-watch-emerging-artists/",
+        "timestamp": "10:07",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.75,
+          "timeliness": 0.2,
+          "discovery": 0.7,
+          "composite": 0.5349999999999999
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "YOUTH MUSIC REVEALS ITS 2026 ‘ONES TO WATCH’ EMERGING ARTISTS",
-        "url": "https://musically.com/2026/01/14/youth-music-reveals-its-2026-ones-to-watch-emerging-artists/",
-        "timestamp": "2026-01-14T10:30:26.313Z",
+        "title": "VISA TAPS BVNK TO POWER STABLECOIN PAYOUTS ON VISA DIRECT",
+        "url": "https://cointelegraph.com/news/visa-bvnk-stablecoin-payouts-visa-direct-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "2026-01-14T11:25:04.111Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.75,
+          "engagement": 0.5,
           "timeliness": 1,
-          "discovery": 0.7,
-          "composite": 0.695
+          "discovery": 0.3,
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "YOUTH MUSIC REVEALS ITS 2026 ‘ONES TO WATCH’ EMERGING ARTISTS",
-      "url": "https://musically.com/2026/01/14/youth-music-reveals-its-2026-ones-to-watch-emerging-artists/",
-      "timestamp": "2026-01-14T10:30:26.313Z",
+      "title": "VISA TAPS BVNK TO POWER STABLECOIN PAYOUTS ON VISA DIRECT",
+      "url": "https://cointelegraph.com/news/visa-bvnk-stablecoin-payouts-visa-direct-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "2026-01-14T11:25:04.111Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.75,
+        "engagement": 0.5,
         "timeliness": 1,
-        "discovery": 0.7,
-        "composite": 0.695
-      }
-    },
-    {
-      "title": "Google AI Releases MedGemma-1.5: The Latest Update to their Open Medical AI Models for Developers",
-      "url": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/",
-      "timestamp": "07:30",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.65,
-        "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.505
+        "composite": 0.5800000000000001
       }
     },
     {
       "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
       "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
       "timestamp": "07:03",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.65,
@@ -196,6 +170,32 @@
       }
     },
     {
+      "title": "'28 Years Later: The Bone Temple' review: An early contender for the best movie of 2026",
+      "url": "https://www.tomsguide.com/entertainment/movies/28-years-later-the-bone-temple-review-an-early-contender-for-the-best-movie-of-2026",
+      "timestamp": "11:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.55,
+        "engagement": 0.7,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.5000000000000001
+      }
+    },
+    {
+      "title": "Youth Music reveals its 2026 ‘Ones to Watch’ emerging artists",
+      "url": "https://musically.com/2026/01/14/youth-music-reveals-its-2026-ones-to-watch-emerging-artists/",
+      "timestamp": "10:07",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.75,
+        "timeliness": 0.2,
+        "discovery": 0.7,
+        "composite": 0.5349999999999999
+      }
+    },
+    {
       "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
       "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
       "timestamp": "21:35",
@@ -209,23 +209,10 @@
       }
     },
     {
-      "title": "So you just got a Nintendo Switch 2 — here’s 5 essential tips you need to know before you start playing",
-      "url": "https://www.tomsguide.com/gaming/nintendo/so-you-just-got-a-nintendo-switch-2-heres-5-essential-tips-you-need-to-know-before-you-start-playing",
-      "timestamp": "07:15",
-      "source": "automated",
-      "scores": {
-        "impact": 0.4,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.43
-      }
-    },
-    {
       "title": "Why Alan Rickman almost rejected his 'Die Hard' role: \"What the hell is this?\"",
       "url": "https://faroutmagazine.co.uk/why-alan-rickman-almost-rejected-his-die-hard-role/",
       "timestamp": "09:53",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.9,
