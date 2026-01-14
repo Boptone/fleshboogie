@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-14T11:25:07.127Z",
+  "curatedAt": "2026-01-14T12:55:21.212Z",
   "totalAnalyzed": 66,
-  "totalSelected": 7,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "VISA TAPS BVNK TO POWER STABLECOIN PAYOUTS ON VISA DIRECT",
-      "url": "https://cointelegraph.com/news/visa-bvnk-stablecoin-payouts-visa-direct-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "2026-01-14T11:25:04.111Z",
+      "title": "BANDCAMP BANS AI MUSIC: \"STRICTLY PROHIBITED\"",
+      "url": "https://faroutmagazine.co.uk/bandcamp-bans-ai-music-strictly-prohibited/",
+      "timestamp": "2026-01-14T12:55:18.260Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -59,19 +59,6 @@
     ],
     "discovery": [
       {
-        "title": "Youth Music reveals its 2026 ‘Ones to Watch’ emerging artists",
-        "url": "https://musically.com/2026/01/14/youth-music-reveals-its-2026-ones-to-watch-emerging-artists/",
-        "timestamp": "10:07",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.75,
-          "timeliness": 0.2,
-          "discovery": 0.7,
-          "composite": 0.5349999999999999
-        }
-      },
-      {
         "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
         "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
         "timestamp": "21:35",
@@ -87,37 +74,37 @@
     ],
     "conversation": [
       {
-        "title": "Why Alan Rickman almost rejected his 'Die Hard' role: \"What the hell is this?\"",
-        "url": "https://faroutmagazine.co.uk/why-alan-rickman-almost-rejected-his-die-hard-role/",
-        "timestamp": "09:53",
+        "title": "3 new Netflix exclusive movies and shows to add to your watchlist this week (Jan 14-20)",
+        "url": "https://www.tomsguide.com/entertainment/netflix/3-new-netflix-exclusive-movies-and-shows-to-add-to-your-watchlist-this-week-jan-14-20",
+        "timestamp": "11:09",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.9,
+          "engagement": 0.85,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.54
+          "composite": 0.525
         }
       },
       {
-        "title": "Youth Music reveals its 2026 ‘Ones to Watch’ emerging artists",
-        "url": "https://musically.com/2026/01/14/youth-music-reveals-its-2026-ones-to-watch-emerging-artists/",
-        "timestamp": "10:07",
-        "source": "automated",
+        "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
+        "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
+        "timestamp": "07:03",
+        "source": "musicReleases",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.75,
+          "impact": 0.6,
+          "engagement": 0.65,
           "timeliness": 0.2,
-          "discovery": 0.7,
-          "composite": 0.5349999999999999
+          "discovery": 0.3,
+          "composite": 0.505
         }
       }
     ],
     "wildcard": [
       {
-        "title": "VISA TAPS BVNK TO POWER STABLECOIN PAYOUTS ON VISA DIRECT",
-        "url": "https://cointelegraph.com/news/visa-bvnk-stablecoin-payouts-visa-direct-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "2026-01-14T11:25:04.111Z",
+        "title": "BANDCAMP BANS AI MUSIC: \"STRICTLY PROHIBITED\"",
+        "url": "https://faroutmagazine.co.uk/bandcamp-bans-ai-music-strictly-prohibited/",
+        "timestamp": "2026-01-14T12:55:18.260Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -131,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "VISA TAPS BVNK TO POWER STABLECOIN PAYOUTS ON VISA DIRECT",
-      "url": "https://cointelegraph.com/news/visa-bvnk-stablecoin-payouts-visa-direct-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "2026-01-14T11:25:04.111Z",
+      "title": "BANDCAMP BANS AI MUSIC: \"STRICTLY PROHIBITED\"",
+      "url": "https://faroutmagazine.co.uk/bandcamp-bans-ai-music-strictly-prohibited/",
+      "timestamp": "2026-01-14T12:55:18.260Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -183,19 +170,6 @@
       }
     },
     {
-      "title": "Youth Music reveals its 2026 ‘Ones to Watch’ emerging artists",
-      "url": "https://musically.com/2026/01/14/youth-music-reveals-its-2026-ones-to-watch-emerging-artists/",
-      "timestamp": "10:07",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.75,
-        "timeliness": 0.2,
-        "discovery": 0.7,
-        "composite": 0.5349999999999999
-      }
-    },
-    {
       "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
       "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
       "timestamp": "21:35",
@@ -209,16 +183,16 @@
       }
     },
     {
-      "title": "Why Alan Rickman almost rejected his 'Die Hard' role: \"What the hell is this?\"",
-      "url": "https://faroutmagazine.co.uk/why-alan-rickman-almost-rejected-his-die-hard-role/",
-      "timestamp": "09:53",
+      "title": "3 new Netflix exclusive movies and shows to add to your watchlist this week (Jan 14-20)",
+      "url": "https://www.tomsguide.com/entertainment/netflix/3-new-netflix-exclusive-movies-and-shows-to-add-to-your-watchlist-this-week-jan-14-20",
+      "timestamp": "11:09",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.9,
+        "engagement": 0.85,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.54
+        "composite": 0.525
       }
     }
   ],

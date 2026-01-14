@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "VISA TAPS BVNK TO POWER STABLECOIN PAYOUTS ON VISA DIRECT",
-    "url": "https://cointelegraph.com/news/visa-bvnk-stablecoin-payouts-visa-direct-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "headline": "BANDCAMP BANS AI MUSIC: \"STRICTLY PROHIBITED\"",
+    "url": "https://faroutmagazine.co.uk/bandcamp-bans-ai-music-strictly-prohibited/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Nikki Glaser reveals cut Sydney Sweeney joke from Golden Globes 2026 gig",
-      "url": "https://www.nme.com/news/film/nikki-glaser-reveals-cut-sydney-sweeney-joke-from-golden-globes-2026-gig-3923084?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nikki-glaser-reveals-cut-sydney-sweeney-joke-from-golden-globes-2026-gig",
-      "timestamp": "11:14",
+      "title": "iPhone 18 Pro leaker just tipped biggest design change in nearly a decade",
+      "url": "https://www.tomsguide.com/phones/iphones/iphone-18-pro-leaker-just-tipped-biggest-design-change-in-nearly-a-decade",
+      "timestamp": "12:48",
       "pinned": false
     },
     {
-      "title": "Bandcamp Bans AI: A Statement for Real Music?",
-      "url": "https://www.gearnews.com/bandcamp-bans-ai-tech/",
-      "timestamp": "11:14",
+      "title": "Bam Margera claims 'Jackass' firing cost him $5 million",
+      "url": "https://faroutmagazine.co.uk/bam-margera-jackass-firing-cost-him-5-million/",
+      "timestamp": "12:48",
       "pinned": false
     },
     {
-      "title": "3 new Netflix exclusive movies and shows to add to your watchlist this week (Jan 14-20)",
-      "url": "https://www.tomsguide.com/entertainment/netflix/3-new-netflix-exclusive-movies-and-shows-to-add-to-your-watchlist-this-week-jan-14-20",
-      "timestamp": "11:09",
+      "title": "Tokenized gold drives 25% of RWA growth in 2025 with 177% surge",
+      "url": "https://cointelegraph.com/news/tokenized-gold-drives-rwa-growth-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "12:35",
       "pinned": false
     },
     {
-      "title": "Best Bitcoin Wallets [January 2026] – Recovery, Privacy, DeFi",
-      "url": "https://news.bitcoin.com/best-bitcoin-wallets-january-2026/",
-      "timestamp": "11:02",
+      "title": "The one scene Alan Rickman wished everyone had chance to see: \"I'm sad about that\"",
+      "url": "https://faroutmagazine.co.uk/scene-alan-rickman-wished-everyone-had-gotten-to-see/",
+      "timestamp": "12:33",
       "pinned": false
     },
     {
-      "title": "Lessons for Artists From Ursula K. Le Guin",
-      "url": "https://hyperallergic.com/lessons-for-artists-from-ursula-k-le-guin/",
-      "timestamp": "11:00",
+      "title": "WIRED Tested Dozens of Blenders. These Are Our 8 Favorites (2026)",
+      "url": "https://www.wired.com/gallery/best-blender/",
+      "timestamp": "12:32",
       "pinned": false
     }
   ],
@@ -105,10 +105,202 @@
   ],
   "automated": [
     {
+      "title": "Bandcamp bans AI music: \"Strictly prohibited\"",
+      "url": "https://faroutmagazine.co.uk/bandcamp-bans-ai-music-strictly-prohibited/",
+      "timestamp": "12:51",
+      "pubDate": "2026-01-14T12:51:47.000Z"
+    },
+    {
+      "title": "iPhone 18 Pro leaker just tipped biggest design change in nearly a decade",
+      "url": "https://www.tomsguide.com/phones/iphones/iphone-18-pro-leaker-just-tipped-biggest-design-change-in-nearly-a-decade",
+      "timestamp": "12:48",
+      "pubDate": "2026-01-14T12:48:50.000Z"
+    },
+    {
+      "title": "Bam Margera claims 'Jackass' firing cost him $5 million",
+      "url": "https://faroutmagazine.co.uk/bam-margera-jackass-firing-cost-him-5-million/",
+      "timestamp": "12:48",
+      "pubDate": "2026-01-14T12:48:20.000Z"
+    },
+    {
+      "title": "Tokenized gold drives 25% of RWA growth in 2025 with 177% surge",
+      "url": "https://cointelegraph.com/news/tokenized-gold-drives-rwa-growth-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "12:35",
+      "pubDate": "2026-01-14T12:35:23.000Z"
+    },
+    {
+      "title": "The one scene Alan Rickman wished everyone had chance to see: \"I'm sad about that\"",
+      "url": "https://faroutmagazine.co.uk/scene-alan-rickman-wished-everyone-had-gotten-to-see/",
+      "timestamp": "12:33",
+      "pubDate": "2026-01-14T12:33:45.000Z"
+    },
+    {
+      "title": "WIRED Tested Dozens of Blenders. These Are Our 8 Favorites (2026)",
+      "url": "https://www.wired.com/gallery/best-blender/",
+      "timestamp": "12:32",
+      "pubDate": "2026-01-14T12:32:00.000Z"
+    },
+    {
+      "title": "5 best Gerard Butler action thriller movies, ranked",
+      "url": "https://www.tomsguide.com/entertainment/streaming/5-best-gerard-butler-action-thriller-movies-ranked",
+      "timestamp": "12:30",
+      "pubDate": "2026-01-14T12:30:00.000Z"
+    },
+    {
+      "title": "The Dave Grohl riff Kurt Cobain thought was a terrible cliché: \"I was reluctant to even jam on it\"",
+      "url": "https://faroutmagazine.co.uk/dave-grohl-riff-kurt-cobain-called-cliche/",
+      "timestamp": "12:26",
+      "pubDate": "2026-01-14T12:26:20.000Z"
+    },
+    {
+      "title": "As K-pop superstars BTS return, HYBE CEO to test 'scarcity' model for fandom business",
+      "url": "https://www.musicbusinessworldwide.com/as-k-pop-superstars-bts-return-hybe-ceo-to-test-scarcity-model-for-fandom-business/",
+      "timestamp": "12:20",
+      "pubDate": "2026-01-14T12:20:01.000Z"
+    },
+    {
+      "title": "What was the final song Talking Heads ever performed live?",
+      "url": "https://faroutmagazine.co.uk/what-was-the-final-song-talking-heads-ever-performed-live/",
+      "timestamp": "12:18",
+      "pubDate": "2026-01-14T12:18:29.000Z"
+    },
+    {
+      "title": "‘Grand Theft Auto Online’ bans any mention of Charlie Kirk",
+      "url": "https://www.nme.com/news/gaming-news/grand-theft-auto-online-bans-any-mention-of-charlie-kirk-3923103?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=grand-theft-auto-online-bans-any-mention-of-charlie-kirk",
+      "timestamp": "12:11",
+      "pubDate": "2026-01-14T12:11:12.000Z"
+    },
+    {
+      "title": "Tesla's Full Self-Driving is switching to a subscription-only service",
+      "url": "https://www.engadget.com/transportation/evs/teslas-full-self-driving-is-switching-to-a-subscription-only-service-120053137.html?src=rss",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-14T12:00:53.000Z"
+    },
+    {
+      "title": "Pushing China's EAST Tokamak Past the Greenwald Density Limit",
+      "url": "https://hackaday.com/2026/01/14/pushing-chinas-east-tokamak-past-the-greenwald-density-limit/",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-14T12:00:34.000Z"
+    },
+    {
+      "title": "Bitget Drops New Video With World Cup Winner Julián Álvarez, Turning Trading Into a One-Stop UEX Megastore",
+      "url": "https://news.bitcoin.com/bitget-drops-new-video-with-world-cup-winner-julian-alvarez-turning-trading-into-a-one-stop-uex-megastore/",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-14T12:00:27.000Z"
+    },
+    {
+      "title": "The singer Aretha Franklin wanted to portray her in a biopic, long before Jennifer Hudson got the gig",
+      "url": "https://faroutmagazine.co.uk/the-singer-aretha-franklin-originally-wanted-for-her-biopic/",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-14T12:00:00.000Z"
+    },
+    {
+      "title": "‘This literally popped my right hip back into place, instant relief’ — people are losing it over these 3 stretches for tight hips",
+      "url": "https://www.tomsguide.com/wellness/workouts/this-literally-popped-my-right-hip-back-into-place-instant-relief-people-are-losing-it-over-these-3-stretches-for-tight-hips",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-14T12:00:00.000Z"
+    },
+    {
+      "title": "The guitarist who made Tony Iommi fall in love with rock 'n' roll: \"I really enjoyed the thought of having a guitar\"",
+      "url": "https://faroutmagazine.co.uk/guitarist-who-made-tony-iommi-fall-in-love-with-rock/",
+      "timestamp": "11:58",
+      "pubDate": "2026-01-14T11:58:31.000Z"
+    },
+    {
+      "title": "New Pokémon Lego set pre-orders are live: where to buy Lego Pikachu and Lego Eevee",
+      "url": "https://www.tomsguide.com/sales-events/new-pokemon-lego-set-pre-orders-are-live-where-to-buy-lego-pikachu-and-lego-eevee",
+      "timestamp": "11:54",
+      "pubDate": "2026-01-14T11:54:04.000Z"
+    },
+    {
+      "title": "The drummer Lars Ulrich thinks is in a league of their own: \"God of Gods\"",
+      "url": "https://faroutmagazine.co.uk/the-drummer-lars-ulrich-thinks-is-in-a-league-of-their-own/",
+      "timestamp": "11:52",
+      "pubDate": "2026-01-14T11:52:12.000Z"
+    },
+    {
+      "title": "Visa Partners With BVNK to Enable Stablecoin Payouts on Visa Direct",
+      "url": "https://decrypt.co/354542/visa-partners-with-bvnk-to-enable-stablecoin-payouts-on-visa-direct",
+      "timestamp": "11:48",
+      "pubDate": "2026-01-14T11:48:13.000Z"
+    },
+    {
+      "title": "Robert Pattinson's secret 'Marty Supreme' role revealed",
+      "url": "https://faroutmagazine.co.uk/robert-pattinsons-secret-marty-supreme-role-revealed/",
+      "timestamp": "11:38",
+      "pubDate": "2026-01-14T11:38:54.000Z"
+    },
+    {
+      "title": "Perp DEXs will ‘eat’ expensive TradFi in 2026: Delphi Digital",
+      "url": "https://cointelegraph.com/news/perp-dexs-gain-share-tradfi-onchain-derivatives-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "11:37",
+      "pubDate": "2026-01-14T11:37:30.000Z"
+    },
+    {
+      "title": "PRS 2026 Lineup: DGT Semi-Hollow, Vela HHT & More",
+      "url": "https://www.gearnews.com/prs-2026/",
+      "timestamp": "11:37",
+      "pubDate": "2026-01-14T11:37:03.000Z"
+    },
+    {
+      "title": "IKEA’s mini ironing board is a space-saving essential in my home — and it’s only $9",
+      "url": "https://www.tomsguide.com/home/ikeas-mini-ironing-board-is-a-space-saving-essential-in-my-home-and-its-only-usd9",
+      "timestamp": "11:33",
+      "pubDate": "2026-01-14T11:33:14.000Z"
+    },
+    {
+      "title": "Bitcoin is following a discreet lag pattern behind gold that puts a $130k target immediately in play",
+      "url": "https://cryptoslate.com/bitcoin-is-following-a-discreet-lag-pattern-behind-gold-that-puts-a-130k-target-in-immediate-play/",
+      "timestamp": "11:30",
+      "pubDate": "2026-01-14T11:30:41.000Z"
+    },
+    {
+      "title": "The movie Paul Mescal calls a perfect film: “Consistently ruins my day”",
+      "url": "https://faroutmagazine.co.uk/movie-paul-mescal-calls-perfect/",
+      "timestamp": "11:30",
+      "pubDate": "2026-01-14T11:30:00.000Z"
+    },
+    {
+      "title": "SkyFi raises $12.7M to turn satellite images into insights",
+      "url": "https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/",
+      "timestamp": "11:30",
+      "pubDate": "2026-01-14T11:30:00.000Z"
+    },
+    {
+      "title": "HHKB Professional Classic Type-S Review: A Brilliant but Niche Keyboard",
+      "url": "https://www.wired.com/review/hhkb-professional-classic-type-s/",
+      "timestamp": "11:30",
+      "pubDate": "2026-01-14T11:30:00.000Z"
+    },
+    {
+      "title": "TikTok Shop Showed Me Search Suggestions for Products With Nazi Symbolism",
+      "url": "https://www.wired.com/story/tiktok-shop-nazi-symbolism/",
+      "timestamp": "11:30",
+      "pubDate": "2026-01-14T11:30:00.000Z"
+    },
+    {
+      "title": "Bandcamp has banned all music made with AI",
+      "url": "https://www.nme.com/news/music/bandcamp-has-banned-all-music-made-with-ai-3923071?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bandcamp-has-banned-all-music-made-with-ai",
+      "timestamp": "11:26",
+      "pubDate": "2026-01-14T11:26:45.000Z"
+    },
+    {
+      "title": "Asus says 'people are going to be surprised' when RAM shortage impacts laptop, phone and gaming console prices — here's why",
+      "url": "https://www.tomsguide.com/computing/asus-explains-people-are-going-to-be-surprised-when-ram-shortage-will-affect-laptop-phone-and-gaming-console-prices-heres-why",
+      "timestamp": "11:26",
+      "pubDate": "2026-01-14T11:26:09.000Z"
+    },
+    {
       "title": "Visa taps BVNK to power stablecoin payouts on Visa Direct",
       "url": "https://cointelegraph.com/news/visa-bvnk-stablecoin-payouts-visa-direct-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "timestamp": "11:21",
       "pubDate": "2026-01-14T11:21:17.000Z"
+    },
+    {
+      "title": "Data centers are amazing. Everyone hates them.",
+      "url": "https://www.technologyreview.com/2026/01/14/1131253/data-centers-are-amazing-everyone-hates-them/",
+      "timestamp": "11:17",
+      "pubDate": "2026-01-14T11:17:46.000Z"
     },
     {
       "title": "Nikki Glaser reveals cut Sydney Sweeney joke from Golden Globes 2026 gig",
@@ -151,240 +343,48 @@
       "url": "https://www.engadget.com/cybersecurity/uk-scraps-digital-id-requirement-for-workers-105740207.html?src=rss",
       "timestamp": "10:57",
       "pubDate": "2026-01-14T10:57:40.000Z"
-    },
-    {
-      "title": "Prime Video top 10 shows — here’s the 3 worth binge-watching this week (Jan. 14-18)",
-      "url": "https://www.tomsguide.com/entertainment/prime-video/prime-video-top-10-shows-heres-the-3-worth-binge-watching-this-week-jan-14-18",
-      "timestamp": "10:49",
-      "pubDate": "2026-01-14T10:49:05.000Z"
-    },
-    {
-      "title": "TikTok splits US workforce as ByteDance retains control of key operations (report)",
-      "url": "https://www.musicbusinessworldwide.com/tiktok-splits-us-workforce-as-bytedance-retains-control-of-key-operations-report/",
-      "timestamp": "10:45",
-      "pubDate": "2026-01-14T10:45:28.000Z"
-    },
-    {
-      "title": "Robbie Williams on beating The Beatles' record for Number One albums in the UK: \"I want that more than anything in my career right now\"",
-      "url": "https://www.nme.com/news/music/robbie-williams-on-beating-the-beatles-record-for-number-one-albums-in-the-uk-i-want-that-more-than-anything-in-my-career-right-now-3923035?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=robbie-williams-on-beating-the-beatles-record-for-number-one-albums-in-the-uk-i-want-that-more-than-anything-in-my-career-right-now",
-      "timestamp": "10:32",
-      "pubDate": "2026-01-14T10:32:15.000Z"
-    },
-    {
-      "title": "Kenneth Branagh's favourite film performance: \"Active, sexy, provocative\"",
-      "url": "https://faroutmagazine.co.uk/kenneth-branagh-favourite-film-performance/",
-      "timestamp": "10:30",
-      "pubDate": "2026-01-14T10:30:00.000Z"
-    },
-    {
-      "title": "AI hyperscalers need to restore trust—here’s how",
-      "url": "https://www.fastcompany.com/91472029/hyperscalers-ai-alphabet-meta-microsoft-amazon-oracle?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
-      "timestamp": "10:30",
-      "pubDate": "2026-01-14T10:30:00.000Z"
-    },
-    {
-      "title": "Save 90% on Rock Ballads 2 sample library by Ueberschall",
-      "url": "https://rekkerd.org/rock-ballads-2-sample-library-by-ueberschall-sale/",
-      "timestamp": "10:20",
-      "pubDate": "2026-01-14T10:20:31.000Z"
-    },
-    {
-      "title": "Youth Music reveals its 2026 ‘Ones to Watch’ emerging artists",
-      "url": "https://musically.com/2026/01/14/youth-music-reveals-its-2026-ones-to-watch-emerging-artists/",
-      "timestamp": "10:07",
-      "pubDate": "2026-01-14T10:07:13.000Z"
-    },
-    {
-      "title": "The best USB-C hub for 2026",
-      "url": "https://www.engadget.com/computing/accessories/best-usb-c-hub-120051833.html?src=rss",
-      "timestamp": "10:01",
-      "pubDate": "2026-01-14T10:01:25.000Z"
-    },
-    {
-      "title": "From the Top: Tiny Desk Concert",
-      "url": "https://www.npr.org/2026/01/14/g-s1-104913/from-the-top-tiny-desk-concert",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-14T10:00:00.000Z"
-    },
-    {
-      "title": "The classic Roy Orbison song that Elvis rejected",
-      "url": "https://faroutmagazine.co.uk/roy-orbison-song-elvis-rejected/",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-14T10:00:00.000Z"
-    },
-    {
-      "title": "7 Best Phones You Can’t Buy in the US (2026), Tested and Reviewed",
-      "url": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-14T10:00:00.000Z"
-    },
-    {
-      "title": "In the U.K., Reddit is king",
-      "url": "https://www.fastcompany.com/91469167/reddit-tiktok-britain-social-media?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-14T10:00:00.000Z"
-    },
-    {
-      "title": "Why Anthropic’s new ‘Cowork’ could be the first really useful general-purpose AI agent",
-      "url": "https://www.fastcompany.com/91474357/why-anthropics-new-cowork-could-be-the-first-really-useful-general-purpose-ai-agent?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-14T10:00:00.000Z"
-    },
-    {
-      "title": "Why Alan Rickman almost rejected his 'Die Hard' role: \"What the hell is this?\"",
-      "url": "https://faroutmagazine.co.uk/why-alan-rickman-almost-rejected-his-die-hard-role/",
-      "timestamp": "09:53",
-      "pubDate": "2026-01-14T09:53:18.000Z"
-    },
-    {
-      "title": "GC Audio Total Recall Producer Channel: The Best Of Both Worlds",
-      "url": "https://www.gearnews.com/gc-audio-total-recall-producer-channel-studio/",
-      "timestamp": "09:52",
-      "pubDate": "2026-01-14T09:52:51.000Z"
-    },
-    {
-      "title": "Ableton and AI? Will Live Soon Assist with Music Production?",
-      "url": "https://www.gearnews.com/ableton-and-ai-tech/",
-      "timestamp": "09:34",
-      "pubDate": "2026-01-14T09:34:29.000Z"
-    },
-    {
-      "title": "How solo Bitcoin miners hit 22 blocks hit in 12 months as another hit the jackpot this week",
-      "url": "https://cryptoslate.com/how-solo-bitcoin-miners-hit-22-blocks-hit-in-12-months-as-the-global-energy-lottery-gets-hyped-up/",
-      "timestamp": "09:32",
-      "pubDate": "2026-01-14T09:32:06.000Z"
-    },
-    {
-      "title": "Clearbank Selects Taurus-Protect to Support Stablecoin Services",
-      "url": "https://news.bitcoin.com/clearbank-selects-taurus-protect-to-support-stablecoin-services/",
-      "timestamp": "09:30",
-      "pubDate": "2026-01-14T09:30:38.000Z"
-    },
-    {
-      "title": "How to watch 'Fear Factor: House of Fear' online from anywhere",
-      "url": "https://www.tomsguide.com/entertainment/streaming/watch-fear-factor-house-of-fear-online",
-      "timestamp": "09:30",
-      "pubDate": "2026-01-14T09:30:00.000Z"
-    },
-    {
-      "title": "“The most effective programs are simple, repeatable, and focused on real-life movements” — try this trainer's strength building workout for over-60s",
-      "url": "https://www.tomsguide.com/wellness/fitness/the-most-effective-programs-are-simple-repeatable-and-focused-on-real-life-movements-try-this-trainers-strength-building-workout-for-over-60s",
-      "timestamp": "09:30",
-      "pubDate": "2026-01-14T09:30:00.000Z"
-    },
-    {
-      "title": "The one role Paul Newman always regretted turning down: \"It was a dumb, dumb mistake\"",
-      "url": "https://faroutmagazine.co.uk/one-role-paul-newman-always-regretted-turning-down/",
-      "timestamp": "09:29",
-      "pubDate": "2026-01-14T09:29:01.000Z"
-    },
-    {
-      "title": "UK rolls back digital ID for work checks as privacy fears drive backlash",
-      "url": "https://cointelegraph.com/news/uk-drops-mandatory-digital-id-right-to-work-2029-optional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "09:03",
-      "pubDate": "2026-01-14T09:03:24.000Z"
-    },
-    {
-      "title": "Madison Beer Showcases Lovelorn Anthem 'Bad Enough' on 'Fallon'",
-      "url": "https://www.rollingstone.com/music/music-news/madison-beer-bad-enough-performance-fallon-1235499291/",
-      "timestamp": "09:01",
-      "pubDate": "2026-01-14T09:01:40.000Z"
-    },
-    {
-      "title": "Aliyah's Interlude is ready to inspire a movement with her bold rap bops",
-      "url": "https://www.nme.com/features/music-interviews/aliyahs-interlude-kuntology-101-interview-radar-3922969?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aliyahs-interlude-kuntology-101-interview-radar",
-      "timestamp": "09:00",
-      "pubDate": "2026-01-14T09:00:19.000Z"
-    },
-    {
-      "title": "An Open Source Electromagnetic Resonance Tablet",
-      "url": "https://hackaday.com/2026/01/14/an-open-source-electromagnetic-resonance-tablet/",
-      "timestamp": "09:00",
-      "pubDate": "2026-01-14T09:00:06.000Z"
-    },
-    {
-      "title": "Five songs from the 1980s which paved the way for Britpop",
-      "url": "https://faroutmagazine.co.uk/five-songs-1980s-paved-the-way-britpop/",
-      "timestamp": "09:00",
-      "pubDate": "2026-01-14T09:00:00.000Z"
-    },
-    {
-      "title": "QSC CB10: Portable Power with App Control",
-      "url": "https://www.gearnews.com/qsc-cb10-live/",
-      "timestamp": "09:00",
-      "pubDate": "2026-01-14T09:00:00.000Z"
-    },
-    {
-      "title": "Ripple targets MiCA passporting in EU with Luxembourg e-money nod",
-      "url": "https://cointelegraph.com/news/ripple-luxembourg-e-money-approval-europe-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "09:00",
-      "pubDate": "2026-01-14T09:00:00.000Z"
-    },
-    {
-      "title": "NoiseWorks releases VoiceAssist smart vocal & dialogue processing plugin",
-      "url": "https://rekkerd.org/noiseworks-releases-voiceassist-smart-vocal-dialogue-processing-plugin/",
-      "timestamp": "08:50",
-      "pubDate": "2026-01-14T08:50:45.000Z"
-    },
-    {
-      "title": "The 1980s songs Sting always wants to sing at karaoke: \"I have two go-tos\"",
-      "url": "https://faroutmagazine.co.uk/songs-sting-always-wants-to-sing-at-karaoke/",
-      "timestamp": "08:41",
-      "pubDate": "2026-01-14T08:41:06.000Z"
-    },
-    {
-      "title": "Save 55% on RC909 Pro drum instrument by SampleScience",
-      "url": "https://rekkerd.org/rc909-pro-drum-instrument-by-samplescience-sale/",
-      "timestamp": "08:40",
-      "pubDate": "2026-01-14T08:40:38.000Z"
-    },
-    {
-      "title": "The one role Emma Stone wishes she could play forever: \"She's incredible\"",
-      "url": "https://faroutmagazine.co.uk/one-role-emma-stone-play-forever/",
-      "timestamp": "08:30",
-      "pubDate": "2026-01-14T08:30:00.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "Bandcamp bans AI music: \"Strictly prohibited\"",
+      "url": "https://faroutmagazine.co.uk/bandcamp-bans-ai-music-strictly-prohibited/",
+      "timestamp": "12:51"
+    },
+    {
+      "title": "Bam Margera claims 'Jackass' firing cost him $5 million",
+      "url": "https://faroutmagazine.co.uk/bam-margera-jackass-firing-cost-him-5-million/",
+      "timestamp": "12:48"
+    },
+    {
+      "title": "The one scene Alan Rickman wished everyone had chance to see: \"I'm sad about that\"",
+      "url": "https://faroutmagazine.co.uk/scene-alan-rickman-wished-everyone-had-gotten-to-see/",
+      "timestamp": "12:33"
+    },
+    {
+      "title": "‘Grand Theft Auto Online’ bans any mention of Charlie Kirk",
+      "url": "https://www.nme.com/news/gaming-news/grand-theft-auto-online-bans-any-mention-of-charlie-kirk-3923103?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=grand-theft-auto-online-bans-any-mention-of-charlie-kirk",
+      "timestamp": "12:11"
+    },
+    {
+      "title": "Bandcamp has banned all music made with AI",
+      "url": "https://www.nme.com/news/music/bandcamp-has-banned-all-music-made-with-ai-3923071?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bandcamp-has-banned-all-music-made-with-ai",
+      "timestamp": "11:26"
+    },
     {
       "title": "Nikki Glaser reveals cut Sydney Sweeney joke from Golden Globes 2026 gig",
       "url": "https://www.nme.com/news/film/nikki-glaser-reveals-cut-sydney-sweeney-joke-from-golden-globes-2026-gig-3923084?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nikki-glaser-reveals-cut-sydney-sweeney-joke-from-golden-globes-2026-gig",
       "timestamp": "11:14"
     },
     {
-      "title": "Robbie Williams on beating The Beatles' record for Number One albums in the UK: \"I want that more than anything in my career right now\"",
-      "url": "https://www.nme.com/news/music/robbie-williams-on-beating-the-beatles-record-for-number-one-albums-in-the-uk-i-want-that-more-than-anything-in-my-career-right-now-3923035?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=robbie-williams-on-beating-the-beatles-record-for-number-one-albums-in-the-uk-i-want-that-more-than-anything-in-my-career-right-now",
-      "timestamp": "10:32"
-    },
-    {
       "title": "From the Top: Tiny Desk Concert",
       "url": "https://www.npr.org/2026/01/14/g-s1-104913/from-the-top-tiny-desk-concert",
       "timestamp": "10:00"
     },
     {
-      "title": "The classic Roy Orbison song that Elvis rejected",
-      "url": "https://faroutmagazine.co.uk/roy-orbison-song-elvis-rejected/",
-      "timestamp": "10:00"
-    },
-    {
-      "title": "Why Alan Rickman almost rejected his 'Die Hard' role: \"What the hell is this?\"",
-      "url": "https://faroutmagazine.co.uk/why-alan-rickman-almost-rejected-his-die-hard-role/",
-      "timestamp": "09:53"
-    },
-    {
-      "title": "The one role Paul Newman always regretted turning down: \"It was a dumb, dumb mistake\"",
-      "url": "https://faroutmagazine.co.uk/one-role-paul-newman-always-regretted-turning-down/",
-      "timestamp": "09:29"
-    },
-    {
       "title": "Madison Beer Showcases Lovelorn Anthem 'Bad Enough' on 'Fallon'",
       "url": "https://www.rollingstone.com/music/music-news/madison-beer-bad-enough-performance-fallon-1235499291/",
       "timestamp": "09:01"
-    },
-    {
-      "title": "Aliyah's Interlude is ready to inspire a movement with her bold rap bops",
-      "url": "https://www.nme.com/features/music-interviews/aliyahs-interlude-kuntology-101-interview-radar-3922969?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aliyahs-interlude-kuntology-101-interview-radar",
-      "timestamp": "09:00"
     },
     {
       "title": "Watch Raphael Saadiq, Miles Caton, Ludwig Göransson Perform 'Sinners' Track 'I Lied to You'",
@@ -447,5 +447,5 @@
       "timestamp": "18:03"
     }
   ],
-  "lastUpdated": "2026-01-14T11:25:04.111Z"
+  "lastUpdated": "2026-01-14T12:55:18.260Z"
 }
