@@ -1,185 +1,185 @@
 {
-  "curatedAt": "2026-01-14T14:29:34.702Z",
+  "curatedAt": "2026-01-14T15:30:21.064Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "BTS TO PLAY 79 SHOWS ON ‘BIGGEST GLOBAL K-POP TOUR OF ALL TIME’",
-      "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
-      "timestamp": "2026-01-14T14:29:31.691Z",
+      "title": "WHAT WAS THE ORIGINAL NAME THE BEATLES CHOSE FOR 'ELEANOR RIGBY'?",
+      "url": "https://faroutmagazine.co.uk/what-was-the-original-name-the-beatles-chose-for-eleanor-rigby/",
+      "timestamp": "2026-01-14T15:30:18.051Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
+        "impact": 0.5,
         "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6799999999999999
+        "composite": 0.6400000000000001
       }
     },
     "deepDive": [
       {
-        "title": "BTS TO PLAY 79 SHOWS ON ‘BIGGEST GLOBAL K-POP TOUR OF ALL TIME’",
-        "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
-        "timestamp": "2026-01-14T14:29:31.691Z",
-        "source": "splash",
+        "title": "The 20 Best Hard Rock and Metal Albums of 1986",
+        "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
+        "timestamp": "14:30",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
-          "timeliness": 1,
+          "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.6799999999999999
+          "composite": 0.52
         }
       },
       {
-        "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
-        "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
-        "timestamp": "07:03",
-        "source": "musicReleases",
+        "title": "BTS to play 79 shows on ‘biggest global K-Pop tour of all time’",
+        "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
+        "timestamp": "14:28",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.65,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.505
+          "composite": 0.52
         }
       },
       {
-        "title": "Skrilla on “6 7,” Kensington, and his new album Z",
-        "url": "https://www.thefader.com/2026/01/13/skrilla-67-interview-kensington-z",
-        "timestamp": "21:21",
+        "title": "What's Next as Journey Heads Into Their Farewell Tour?",
+        "url": "https://ultimateclassicrock.com/neal-schon-journey-lineup/",
+        "timestamp": "13:59",
         "source": "musicReleases",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.65,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.505
+          "composite": 0.52
         }
       }
     ],
     "discovery": [
       {
-        "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
-        "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
-        "timestamp": "21:35",
-        "source": "musicReleases",
+        "title": "Mubi to Stream Asian Avant-Garde Film Slate Backed by Chanel",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/mubi-asian-avant-garde-film-slate-chanel-1236473490/",
+        "timestamp": "14:55",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.55,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.47000000000000003
+          "composite": 0.455
         }
       }
     ],
     "conversation": [
       {
-        "title": "BTS TO PLAY 79 SHOWS ON ‘BIGGEST GLOBAL K-POP TOUR OF ALL TIME’",
-        "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
-        "timestamp": "2026-01-14T14:29:31.691Z",
+        "title": "WHAT WAS THE ORIGINAL NAME THE BEATLES CHOSE FOR 'ELEANOR RIGBY'?",
+        "url": "https://faroutmagazine.co.uk/what-was-the-original-name-the-beatles-chose-for-eleanor-rigby/",
+        "timestamp": "2026-01-14T15:30:18.051Z",
         "source": "splash",
         "scores": {
-          "impact": 0.6,
+          "impact": 0.5,
           "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6799999999999999
+          "composite": 0.6400000000000001
         }
       },
       {
-        "title": "Are You Afraid of the Dark: The Greatest Children's Horror Show Ever?",
-        "url": "https://www.joblo.com/are-you-afraid-of-the-dark-the-greatest-childrens-horror-show-ever/",
-        "timestamp": "14:00",
+        "title": "The 20 Best Hard Rock and Metal Albums of 1986",
+        "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
+        "timestamp": "14:30",
         "source": "automated",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
+          "impact": 0.6,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.51
+          "composite": 0.52
         }
       }
     ],
     "wildcard": [
       {
-        "title": "BTS TO PLAY 79 SHOWS ON ‘BIGGEST GLOBAL K-POP TOUR OF ALL TIME’",
-        "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
-        "timestamp": "2026-01-14T14:29:31.691Z",
+        "title": "WHAT WAS THE ORIGINAL NAME THE BEATLES CHOSE FOR 'ELEANOR RIGBY'?",
+        "url": "https://faroutmagazine.co.uk/what-was-the-original-name-the-beatles-chose-for-eleanor-rigby/",
+        "timestamp": "2026-01-14T15:30:18.051Z",
         "source": "splash",
         "scores": {
-          "impact": 0.6,
+          "impact": 0.5,
           "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6799999999999999
+          "composite": 0.6400000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "BTS TO PLAY 79 SHOWS ON ‘BIGGEST GLOBAL K-POP TOUR OF ALL TIME’",
-      "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
-      "timestamp": "2026-01-14T14:29:31.691Z",
+      "title": "WHAT WAS THE ORIGINAL NAME THE BEATLES CHOSE FOR 'ELEANOR RIGBY'?",
+      "url": "https://faroutmagazine.co.uk/what-was-the-original-name-the-beatles-chose-for-eleanor-rigby/",
+      "timestamp": "2026-01-14T15:30:18.051Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
+        "impact": 0.5,
         "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6799999999999999
+        "composite": 0.6400000000000001
       }
     },
     {
-      "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
-      "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
-      "timestamp": "07:03",
+      "title": "The 20 Best Hard Rock and Metal Albums of 1986",
+      "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
+      "timestamp": "14:30",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.52
+      }
+    },
+    {
+      "title": "BTS to play 79 shows on ‘biggest global K-Pop tour of all time’",
+      "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
+      "timestamp": "14:28",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.52
+      }
+    },
+    {
+      "title": "What's Next as Journey Heads Into Their Farewell Tour?",
+      "url": "https://ultimateclassicrock.com/neal-schon-journey-lineup/",
+      "timestamp": "13:59",
       "source": "musicReleases",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.65,
+        "engagement": 0.7,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.505
+        "composite": 0.52
       }
     },
     {
-      "title": "Skrilla on “6 7,” Kensington, and his new album Z",
-      "url": "https://www.thefader.com/2026/01/13/skrilla-67-interview-kensington-z",
-      "timestamp": "21:21",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.65,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.505
-      }
-    },
-    {
-      "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
-      "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
-      "timestamp": "21:35",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.47000000000000003
-      }
-    },
-    {
-      "title": "Are You Afraid of the Dark: The Greatest Children's Horror Show Ever?",
-      "url": "https://www.joblo.com/are-you-afraid-of-the-dark-the-greatest-childrens-horror-show-ever/",
-      "timestamp": "14:00",
+      "title": "Mubi to Stream Asian Avant-Garde Film Slate Backed by Chanel",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/mubi-asian-avant-garde-film-slate-chanel-1236473490/",
+      "timestamp": "14:55",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7999999999999999,
+        "engagement": 0.55,
         "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.51
+        "discovery": 0.5,
+        "composite": 0.455
       }
     }
   ],
