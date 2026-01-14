@@ -1,26 +1,26 @@
 {
-  "curatedAt": "2026-01-14T15:30:21.064Z",
+  "curatedAt": "2026-01-14T16:36:18.160Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "WHAT WAS THE ORIGINAL NAME THE BEATLES CHOSE FOR 'ELEANOR RIGBY'?",
-      "url": "https://faroutmagazine.co.uk/what-was-the-original-name-the-beatles-chose-for-eleanor-rigby/",
-      "timestamp": "2026-01-14T15:30:18.051Z",
+      "title": "ETHAN HAWKE WALKS BACK CLAIM HIS NEW MOVIE WILL BE ONE OF THE GREATEST MOVIES EVER: \"I DON’T KNOW WHY I SAID THAT\"",
+      "url": "https://faroutmagazine.co.uk/ethan-hawke-walks-back-claim-new-movie-greatest-movies-ever/",
+      "timestamp": "2026-01-14T16:36:15.177Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.7,
+        "impact": 0.4,
+        "engagement": 0.75,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.615
       }
     },
     "deepDive": [
       {
-        "title": "The 20 Best Hard Rock and Metal Albums of 1986",
-        "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
-        "timestamp": "14:30",
+        "title": "The Academy Is... Returns With First New Album in Nearly 20 Years",
+        "url": "https://www.rollingstone.com/music/music-news/the-academy-is-new-album-almost-there-announcement-1235499138/",
+        "timestamp": "16:00",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -31,10 +31,10 @@
         }
       },
       {
-        "title": "BTS to play 79 shows on ‘biggest global K-Pop tour of all time’",
-        "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
-        "timestamp": "14:28",
-        "source": "automated",
+        "title": "The 20 Best Hard Rock and Metal Albums of 1986",
+        "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
+        "timestamp": "14:30",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -59,37 +59,50 @@
     ],
     "discovery": [
       {
-        "title": "Mubi to Stream Asian Avant-Garde Film Slate Backed by Chanel",
-        "url": "https://www.hollywoodreporter.com/movies/movie-news/mubi-asian-avant-garde-film-slate-chanel-1236473490/",
-        "timestamp": "14:55",
+        "title": "Romanticizing the 'Old Days' of Music Discovery Through AlphaTheta’s First Apparel&#160;Collection",
+        "url": "https://www.billboard.com/culture/lifestyle/alphatheta-first-apparel-collection-flex-trade-fade-1236154794/",
+        "timestamp": "16:01",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.55,
+          "engagement": 0.65,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.455
+          "composite": 0.48500000000000004
+        }
+      },
+      {
+        "title": "This Is Not a Test: trailer for “The Breakfast Club meets 28 Weeks Later” horror movie pits teens against zombies",
+        "url": "https://www.joblo.com/this-is-not-a-test-trailer/",
+        "timestamp": "16:19",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.47000000000000003
         }
       }
     ],
     "conversation": [
       {
-        "title": "WHAT WAS THE ORIGINAL NAME THE BEATLES CHOSE FOR 'ELEANOR RIGBY'?",
-        "url": "https://faroutmagazine.co.uk/what-was-the-original-name-the-beatles-chose-for-eleanor-rigby/",
-        "timestamp": "2026-01-14T15:30:18.051Z",
+        "title": "ETHAN HAWKE WALKS BACK CLAIM HIS NEW MOVIE WILL BE ONE OF THE GREATEST MOVIES EVER: \"I DON’T KNOW WHY I SAID THAT\"",
+        "url": "https://faroutmagazine.co.uk/ethan-hawke-walks-back-claim-new-movie-greatest-movies-ever/",
+        "timestamp": "2026-01-14T16:36:15.177Z",
         "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
+          "impact": 0.4,
+          "engagement": 0.75,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6400000000000001
+          "composite": 0.615
         }
       },
       {
-        "title": "The 20 Best Hard Rock and Metal Albums of 1986",
-        "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
-        "timestamp": "14:30",
+        "title": "The Academy Is... Returns With First New Album in Nearly 20 Years",
+        "url": "https://www.rollingstone.com/music/music-news/the-academy-is-new-album-almost-there-announcement-1235499138/",
+        "timestamp": "16:00",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -102,38 +115,38 @@
     ],
     "wildcard": [
       {
-        "title": "WHAT WAS THE ORIGINAL NAME THE BEATLES CHOSE FOR 'ELEANOR RIGBY'?",
-        "url": "https://faroutmagazine.co.uk/what-was-the-original-name-the-beatles-chose-for-eleanor-rigby/",
-        "timestamp": "2026-01-14T15:30:18.051Z",
+        "title": "ETHAN HAWKE WALKS BACK CLAIM HIS NEW MOVIE WILL BE ONE OF THE GREATEST MOVIES EVER: \"I DON’T KNOW WHY I SAID THAT\"",
+        "url": "https://faroutmagazine.co.uk/ethan-hawke-walks-back-claim-new-movie-greatest-movies-ever/",
+        "timestamp": "2026-01-14T16:36:15.177Z",
         "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
+          "impact": 0.4,
+          "engagement": 0.75,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6400000000000001
+          "composite": 0.615
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "WHAT WAS THE ORIGINAL NAME THE BEATLES CHOSE FOR 'ELEANOR RIGBY'?",
-      "url": "https://faroutmagazine.co.uk/what-was-the-original-name-the-beatles-chose-for-eleanor-rigby/",
-      "timestamp": "2026-01-14T15:30:18.051Z",
+      "title": "ETHAN HAWKE WALKS BACK CLAIM HIS NEW MOVIE WILL BE ONE OF THE GREATEST MOVIES EVER: \"I DON’T KNOW WHY I SAID THAT\"",
+      "url": "https://faroutmagazine.co.uk/ethan-hawke-walks-back-claim-new-movie-greatest-movies-ever/",
+      "timestamp": "2026-01-14T16:36:15.177Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.7,
+        "impact": 0.4,
+        "engagement": 0.75,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.615
       }
     },
     {
-      "title": "The 20 Best Hard Rock and Metal Albums of 1986",
-      "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
-      "timestamp": "14:30",
+      "title": "The Academy Is... Returns With First New Album in Nearly 20 Years",
+      "url": "https://www.rollingstone.com/music/music-news/the-academy-is-new-album-almost-there-announcement-1235499138/",
+      "timestamp": "16:00",
       "source": "automated",
       "scores": {
         "impact": 0.6,
@@ -144,10 +157,10 @@
       }
     },
     {
-      "title": "BTS to play 79 shows on ‘biggest global K-Pop tour of all time’",
-      "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
-      "timestamp": "14:28",
-      "source": "automated",
+      "title": "The 20 Best Hard Rock and Metal Albums of 1986",
+      "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
+      "timestamp": "14:30",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.7,
@@ -170,16 +183,29 @@
       }
     },
     {
-      "title": "Mubi to Stream Asian Avant-Garde Film Slate Backed by Chanel",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/mubi-asian-avant-garde-film-slate-chanel-1236473490/",
-      "timestamp": "14:55",
+      "title": "Romanticizing the 'Old Days' of Music Discovery Through AlphaTheta’s First Apparel&#160;Collection",
+      "url": "https://www.billboard.com/culture/lifestyle/alphatheta-first-apparel-collection-flex-trade-fade-1236154794/",
+      "timestamp": "16:01",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.55,
+        "engagement": 0.65,
         "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.455
+        "composite": 0.48500000000000004
+      }
+    },
+    {
+      "title": "This Is Not a Test: trailer for “The Breakfast Club meets 28 Weeks Later” horror movie pits teens against zombies",
+      "url": "https://www.joblo.com/this-is-not-a-test-trailer/",
+      "timestamp": "16:19",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.47000000000000003
       }
     }
   ],

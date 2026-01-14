@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "WHAT WAS THE ORIGINAL NAME THE BEATLES CHOSE FOR 'ELEANOR RIGBY'?",
-    "url": "https://faroutmagazine.co.uk/what-was-the-original-name-the-beatles-chose-for-eleanor-rigby/",
+    "headline": "ETHAN HAWKE WALKS BACK CLAIM HIS NEW MOVIE WILL BE ONE OF THE GREATEST MOVIES EVER: \"I DON’T KNOW WHY I SAID THAT\"",
+    "url": "https://faroutmagazine.co.uk/ethan-hawke-walks-back-claim-new-movie-greatest-movies-ever/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Audiofier releases Micron Fragile & Nephos for Kontakt",
-      "url": "https://rekkerd.org/audiofier-releases-micron-fragile-nephos-for-kontakt/",
-      "timestamp": "15:25",
+      "title": "'Conjuring: Last Rites' Filmmaker Michael Chaves  Writing Horror Comic 'Corpse Knight' (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/conjuring-last-rites-michael-chaves-corpse-knight-1236472919/",
+      "timestamp": "16:31",
       "pinned": false
     },
     {
-      "title": "YouTube now has a way for parents to block kids from watching Shorts",
-      "url": "https://techcrunch.com/2026/01/14/youtube-now-has-a-way-for-parents-to-block-kids-from-watching-shorts/",
-      "timestamp": "15:20",
+      "title": "David Guetta: 'A Set Has to Be a Collective Experience'",
+      "url": "https://www.rollingstone.com/music/music-features/david-guetta-exclusive-interview-1235494554/",
+      "timestamp": "16:30",
       "pinned": false
     },
     {
-      "title": "'Tell Me Lies' Season 2 Recap: Why Are Lucy and Stephen Back Together?",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/tell-me-lies-season-2-recap/",
-      "timestamp": "15:19",
+      "title": "The one Beatles album George Martin and Paul McCartney hated",
+      "url": "https://faroutmagazine.co.uk/the-one-beatles-album-george-martin-and-paul-mccartney-hated/",
+      "timestamp": "16:30",
       "pinned": false
     },
     {
-      "title": "The Edge on why David Bowie was as important as The Beatles",
-      "url": "https://faroutmagazine.co.uk/the-singer-the-edge-thought-was-as-important-as-the-beatles/",
-      "timestamp": "15:15",
+      "title": "ESP32-P4 Powers Retro Handheld after a Transplant",
+      "url": "https://hackaday.com/2026/01/14/esp32-p4-powers-retro-handheld-after-a-transplant/",
+      "timestamp": "16:30",
       "pinned": false
     },
     {
-      "title": "BritBox’s ‘Riot Women’ Is a Thoughtful but Imperfect Menopausal Ride: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/riot-women-review-britbox-1236629458/",
-      "timestamp": "15:15",
+      "title": "When was the first time Jimi Hendrix burned a guitar?",
+      "url": "https://faroutmagazine.co.uk/when-was-the-first-time-jimi-hendrix-burned-a-guitar/",
+      "timestamp": "16:27",
       "pinned": false
     }
   ],
@@ -105,270 +105,310 @@
   ],
   "automated": [
     {
+      "title": "Ethan Hawke walks back claim his new movie will be one of the greatest movies ever: \"I don’t know why I said that\"",
+      "url": "https://faroutmagazine.co.uk/ethan-hawke-walks-back-claim-new-movie-greatest-movies-ever/",
+      "timestamp": "16:33",
+      "pubDate": "2026-01-14T16:33:56.000Z"
+    },
+    {
+      "title": "'Conjuring: Last Rites' Filmmaker Michael Chaves  Writing Horror Comic 'Corpse Knight' (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/conjuring-last-rites-michael-chaves-corpse-knight-1236472919/",
+      "timestamp": "16:31",
+      "pubDate": "2026-01-14T16:31:04.000Z"
+    },
+    {
+      "title": "David Guetta: 'A Set Has to Be a Collective Experience'",
+      "url": "https://www.rollingstone.com/music/music-features/david-guetta-exclusive-interview-1235494554/",
+      "timestamp": "16:30",
+      "pubDate": "2026-01-14T16:30:37.000Z"
+    },
+    {
+      "title": "The one Beatles album George Martin and Paul McCartney hated",
+      "url": "https://faroutmagazine.co.uk/the-one-beatles-album-george-martin-and-paul-mccartney-hated/",
+      "timestamp": "16:30",
+      "pubDate": "2026-01-14T16:30:00.000Z"
+    },
+    {
+      "title": "ESP32-P4 Powers Retro Handheld after a Transplant",
+      "url": "https://hackaday.com/2026/01/14/esp32-p4-powers-retro-handheld-after-a-transplant/",
+      "timestamp": "16:30",
+      "pubDate": "2026-01-14T16:30:00.000Z"
+    },
+    {
+      "title": "When was the first time Jimi Hendrix burned a guitar?",
+      "url": "https://faroutmagazine.co.uk/when-was-the-first-time-jimi-hendrix-burned-a-guitar/",
+      "timestamp": "16:27",
+      "pubDate": "2026-01-14T16:27:36.000Z"
+    },
+    {
+      "title": "'Euphoria' Season 3 Trailer: And You Thought High School Was Bad Enough",
+      "url": "https://www.indiewire.com/news/trailers/euphoria-season-3-trailer-1235173101/",
+      "timestamp": "16:22",
+      "pubDate": "2026-01-14T16:22:33.000Z"
+    },
+    {
+      "title": "Dash price soars 125% amid privacy coin boom: Is the rally overheating?",
+      "url": "https://cointelegraph.com/news/dash-price-soars-privacy-coin-boom-is-rally-overheating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "16:22",
+      "pubDate": "2026-01-14T16:22:25.000Z"
+    },
+    {
+      "title": "This Is Not a Test: trailer for “The Breakfast Club meets 28 Weeks Later” horror movie pits teens against zombies",
+      "url": "https://www.joblo.com/this-is-not-a-test-trailer/",
+      "timestamp": "16:19",
+      "pubDate": "2026-01-14T16:19:39.000Z"
+    },
+    {
+      "title": "SXSW Sydney Cancels 2026 Edition",
+      "url": "https://variety.com/2026/global/news/sxsw-sydney-2026-canceled-1236631078/",
+      "timestamp": "16:16",
+      "pubDate": "2026-01-14T16:16:30.000Z"
+    },
+    {
+      "title": "Korean Volume Surges, Charts Sizzle: XRP Prepares for Its Next Power Move",
+      "url": "https://news.bitcoin.com/korean-volume-surges-charts-sizzle-xrp-prepares-for-its-next-power-move/",
+      "timestamp": "16:15",
+      "pubDate": "2026-01-14T16:15:58.000Z"
+    },
+    {
+      "title": "'Euphoria' Sets April 12 Premiere With Season 3 Trailer",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/euphoria-season-3-premiere-date-hbo-trailer-zendaya/",
+      "timestamp": "16:15",
+      "pubDate": "2026-01-14T16:15:11.000Z"
+    },
+    {
+      "title": "What, exactly, is a Ruby Tuesday?",
+      "url": "https://faroutmagazine.co.uk/what-exactly-is-a-ruby-tuesday/",
+      "timestamp": "16:15",
+      "pubDate": "2026-01-14T16:15:00.000Z"
+    },
+    {
+      "title": "'Alright, alright, alright': Matthew McConaughey just trademarked himself to fight AI misuse",
+      "url": "https://www.tomsguide.com/ai/alright-alright-alright-matthew-mcconaughey-just-trademarked-himself-to-fight-ai-misuse",
+      "timestamp": "16:13",
+      "pubDate": "2026-01-14T16:13:50.000Z"
+    },
+    {
+      "title": "'Euphoria' Sets Return Date, Drops High-Octane Trailer for Season 3",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/euphoria-season-3-trailer-1236472946/",
+      "timestamp": "16:12",
+      "pubDate": "2026-01-14T16:12:15.000Z"
+    },
+    {
+      "title": "Scream 7 gets a new \"floating heads\" poster",
+      "url": "https://www.joblo.com/scream-7-floating-heads-poster/",
+      "timestamp": "16:10",
+      "pubDate": "2026-01-14T16:10:08.000Z"
+    },
+    {
+      "title": "The latest Animal Crossing: New Horizons expansion has arrived earlier than expected",
+      "url": "https://www.engadget.com/gaming/nintendo/the-latest-animal-crossing-new-horizons-expansion-has-arrived-earlier-than-expected-160739040.html?src=rss",
+      "timestamp": "16:07",
+      "pubDate": "2026-01-14T16:07:39.000Z"
+    },
+    {
+      "title": "Our Own JimmyO celebrates 20 years at JoBlo with a tattoo!",
+      "url": "https://www.joblo.com/our-own-jimmyo-celebrates-20-years-at-joblo-with-a-tattoo/",
+      "timestamp": "16:06",
+      "pubDate": "2026-01-14T16:06:13.000Z"
+    },
+    {
+      "title": "Peter Criss Shuts Down Gene Simmons' Claim About the KISS Classic 'Beth': 'He Talks About Things He Doesn't Know&#160;About'",
+      "url": "https://www.billboard.com/music/rock/kiss-beth-peter-criss-songwriting-interview-1236154613/",
+      "timestamp": "16:06",
+      "pubDate": "2026-01-14T16:06:06.000Z"
+    },
+    {
+      "title": "The heavy metal album Geezer Butler wishes he wrote: \"One of the few metal albums I could listen to\"",
+      "url": "https://faroutmagazine.co.uk/the-heavy-metal-album-geezer-butler-wishes-he-wrote/",
+      "timestamp": "16:05",
+      "pubDate": "2026-01-14T16:05:08.000Z"
+    },
+    {
+      "title": "Romanticizing the 'Old Days' of Music Discovery Through AlphaTheta’s First Apparel&#160;Collection",
+      "url": "https://www.billboard.com/culture/lifestyle/alphatheta-first-apparel-collection-flex-trade-fade-1236154794/",
+      "timestamp": "16:01",
+      "pubDate": "2026-01-14T16:01:10.000Z"
+    },
+    {
+      "title": "Kim Gordon Asks 'Where's My Gum, Postmate?' on New Song, 'Not Today'",
+      "url": "https://www.rollingstone.com/music/music-news/kim-gordon-not-today-play-me-1235499324/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-14T16:00:52.000Z"
+    },
+    {
+      "title": "Gemini can now pull context the rest of your Google apps, if you let it",
+      "url": "https://www.engadget.com/ai/gemini-can-now-pull-context-the-rest-of-your-google-apps-if-you-let-it-160039468.html?src=rss",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-14T16:00:39.000Z"
+    },
+    {
+      "title": "The Academy Is... Returns With First New Album in Nearly 20 Years",
+      "url": "https://www.rollingstone.com/music/music-news/the-academy-is-new-album-almost-there-announcement-1235499138/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-14T16:00:00.000Z"
+    },
+    {
+      "title": "The drummer Neil Peart said will never be forgotten: \"He had guided so many\"",
+      "url": "https://faroutmagazine.co.uk/the-drummer-neil-peart-said-will-never-be-forgotten/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-14T16:00:00.000Z"
+    },
+    {
+      "title": "'Euphoria' Sets Season 3 Premiere Date & Drops Trailer",
+      "url": "https://deadline.com/2026/01/euphoria-season-3-premiere-date-trailer-1236682696/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-14T16:00:00.000Z"
+    },
+    {
+      "title": "Gemini's new beta feature provides proactive responses based on your photos, emails, and more",
+      "url": "https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-14T16:00:00.000Z"
+    },
+    {
+      "title": "Google Gemini just pulled further ahead of ChatGPT — here’s what it can now do with your Gmail and Photos",
+      "url": "https://www.tomsguide.com/ai/google-gemini-just-pulled-further-ahead-of-chatgpt-heres-what-it-can-now-do-with-your-gmail-and-photos",
+      "timestamp": "16:00",
+      "pubDate": "2026-01-14T16:00:00.000Z"
+    },
+    {
+      "title": "Fans gather as Kneecap return to court with CPS looking to overturn terror case dismissal",
+      "url": "https://www.nme.com/news/music/fans-gather-as-kneecap-return-to-court-with-cps-looking-to-overturn-terror-case-dismissal-3923139?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fans-gather-as-kneecap-return-to-court-with-cps-looking-to-overturn-terror-case-dismissal",
+      "timestamp": "15:57",
+      "pubDate": "2026-01-14T15:57:17.000Z"
+    },
+    {
+      "title": "'The Lincoln Lawyer' Season 4 Trailer Sees Mickey In The Biggest Fight Of His Life: \"I'm The Man With The Axe\"",
+      "url": "https://deadline.com/2026/01/the-lincoln-lawyer-season-4-trailer-release-date-netflix-1236682673/",
+      "timestamp": "15:54",
+      "pubDate": "2026-01-14T15:54:26.000Z"
+    },
+    {
+      "title": "Is Sienna Rose AI? All Signs Point to ‘Yes’",
+      "url": "https://www.rollingstone.com/music/music-news/sienna-rose-ai-artist-real-1235499068/",
+      "timestamp": "15:54",
+      "pubDate": "2026-01-14T15:54:25.000Z"
+    },
+    {
+      "title": "BLACKPINK Is Returning With Its 3rd Mini Album — and It's Coming&#160;Soon!",
+      "url": "https://www.billboard.com/music/music-news/blackpink-new-album-deadline-release-date-1236154808/",
+      "timestamp": "15:50",
+      "pubDate": "2026-01-14T15:50:34.000Z"
+    },
+    {
+      "title": "'Tell Me Lies' Duo Grace Van Patten and Jackson White on That Videotape Scene: \"F***ing Awful\"",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/tell-me-lies-lucy-videotape-grace-van-patten-jackson-white-1236473160/",
+      "timestamp": "15:46",
+      "pubDate": "2026-01-14T15:46:52.000Z"
+    },
+    {
+      "title": "'La Chimera' Director Alice Rohrwacher on Her EFA Honor and Making a Silent Film as Next Project: 'It's a Completely Different Medium of Expression'",
+      "url": "https://variety.com/2026/film/global/la-chimera-director-alice-rohrwacher-next-project-silent-film-1236630910/",
+      "timestamp": "15:46",
+      "pubDate": "2026-01-14T15:46:27.000Z"
+    },
+    {
+      "title": "The one actor Humphrey Bogart was always suspicious of: \"We had long arguments\"",
+      "url": "https://faroutmagazine.co.uk/actor-humphrey-bogart-was-always-suspicious-of/",
+      "timestamp": "15:45",
+      "pubDate": "2026-01-14T15:45:00.000Z"
+    },
+    {
+      "title": "US cargo tech company publicly exposed its shipping systems and customer data to the web",
+      "url": "https://techcrunch.com/2026/01/14/us-cargo-tech-company-publicly-exposed-its-shipping-systems-and-customer-data-to-the-web/",
+      "timestamp": "15:40",
+      "pubDate": "2026-01-14T15:40:53.000Z"
+    },
+    {
+      "title": "Crypto Shorts Get Rekt: Liquidations Near $800M as Bitcoin Price Spikes",
+      "url": "https://decrypt.co/354572/crypto-shorts-get-rekt-liquidations-800m-bitcoin-price-spike",
+      "timestamp": "15:36",
+      "pubDate": "2026-01-14T15:36:08.000Z"
+    },
+    {
       "title": "What was the original name The Beatles chose for 'Eleanor Rigby'?",
       "url": "https://faroutmagazine.co.uk/what-was-the-original-name-the-beatles-chose-for-eleanor-rigby/",
-      "timestamp": "15:27",
-      "pubDate": "2026-01-14T15:27:55.000Z"
+      "timestamp": "15:33",
+      "pubDate": "2026-01-14T15:33:11.000Z"
     },
     {
-      "title": "Audiofier releases Micron Fragile & Nephos for Kontakt",
-      "url": "https://rekkerd.org/audiofier-releases-micron-fragile-nephos-for-kontakt/",
-      "timestamp": "15:25",
-      "pubDate": "2026-01-14T15:25:02.000Z"
+      "title": "Gen Z Media Company NowThis Acquires 'Salary Transparent Street' Digital Franchise &#124; Exclusive",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/now-this-acquires-salary-transparent-street/",
+      "timestamp": "15:33",
+      "pubDate": "2026-01-14T15:33:08.000Z"
     },
     {
-      "title": "YouTube now has a way for parents to block kids from watching Shorts",
-      "url": "https://techcrunch.com/2026/01/14/youtube-now-has-a-way-for-parents-to-block-kids-from-watching-shorts/",
-      "timestamp": "15:20",
-      "pubDate": "2026-01-14T15:20:25.000Z"
-    },
-    {
-      "title": "'Tell Me Lies' Season 2 Recap: Why Are Lucy and Stephen Back Together?",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/tell-me-lies-season-2-recap/",
-      "timestamp": "15:19",
-      "pubDate": "2026-01-14T15:19:13.000Z"
-    },
-    {
-      "title": "The Edge on why David Bowie was as important as The Beatles",
-      "url": "https://faroutmagazine.co.uk/the-singer-the-edge-thought-was-as-important-as-the-beatles/",
-      "timestamp": "15:15",
-      "pubDate": "2026-01-14T15:15:00.000Z"
-    },
-    {
-      "title": "BritBox’s ‘Riot Women’ Is a Thoughtful but Imperfect Menopausal Ride: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/riot-women-review-britbox-1236629458/",
-      "timestamp": "15:15",
-      "pubDate": "2026-01-14T15:15:00.000Z"
-    },
-    {
-      "title": "How to watch Senegal vs Egypt (it's free) — Stream AFCON 2025 semi-final",
-      "url": "https://www.tomsguide.com/entertainment/sports/watch-senegal-vs-egypt-afcon-2025-semi-final-free",
-      "timestamp": "15:15",
-      "pubDate": "2026-01-14T15:15:00.000Z"
-    },
-    {
-      "title": "Apple could use Google Gemini to power 7 new Siri features",
-      "url": "https://www.tomsguide.com/ai/apple-intelligence/apple-could-use-google-gemini-to-power-7-new-siri-features",
-      "timestamp": "15:13",
-      "pubDate": "2026-01-14T15:13:43.000Z"
-    },
-    {
-      "title": "YouTube adds more parental controls, including a way to block teens from watching Shorts",
-      "url": "https://www.engadget.com/entertainment/youtube/youtube-adds-more-parental-controls-including-a-way-to-block-teens-from-watching-shorts-151329673.html?src=rss",
-      "timestamp": "15:13",
-      "pubDate": "2026-01-14T15:13:29.000Z"
-    },
-    {
-      "title": "Eleven’s Journey: From 011 to Jane Hopper in Stranger Things",
-      "url": "https://www.joblo.com/eleven-stranger-things/",
-      "timestamp": "15:09",
-      "pubDate": "2026-01-14T15:09:28.000Z"
-    },
-    {
-      "title": "Bitnomial opens US-regulated futures market for Aptos",
-      "url": "https://cointelegraph.com/news/bitnomial-opens-us-regulated-futures-market-for-aptos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "15:07",
-      "pubDate": "2026-01-14T15:07:23.000Z"
-    },
-    {
-      "title": "A \"pathetic\" song ended John Lennon's love for Bob Dylan: \"I stopped listening\"",
-      "url": "https://faroutmagazine.co.uk/a-pathetic-song-ended-john-lennons-love-for-bob-dylan/",
-      "timestamp": "15:07",
-      "pubDate": "2026-01-14T15:07:21.000Z"
-    },
-    {
-      "title": "Ralph Fiennes Is the Best Thing to Happen to the '28 Years Later' Movies",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/28-years-later-the-bone-temple-ralph-fiennes-1235493327/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-14T15:00:00.000Z"
-    },
-    {
-      "title": "'Diamonds Are Forever': The Women Behind the Songs of James Bond 007",
-      "url": "https://www.spin.com/2026/01/diamonds-are-forever-the-women-behind-the-songs-of-james-bond-007/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-14T15:00:00.000Z"
-    },
-    {
-      "title": "Flea Jams With Thom Yorke, Covers Frank Ocean",
-      "url": "https://www.spin.com/2026/01/flea-solo-album-details/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-14T15:00:00.000Z"
-    },
-    {
-      "title": "The band that helped John Lydon come out of his shell: \"One of my ailments in life\"",
-      "url": "https://faroutmagazine.co.uk/band-john-lydon-said-helped-him-come-out-of-his-shell/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-14T15:00:00.000Z"
-    },
-    {
-      "title": "A First-Time Filmmaker Is Opening His Movie on 2,500 Screens Without a Distributor",
-      "url": "https://www.indiewire.com/news/analysis/markiplier-open-iron-lung-2500-screens-no-distributor-1235172987/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-14T15:00:00.000Z"
-    },
-    {
-      "title": "'Donkey Hodie' Reimagines Classic Mister Rogers Song 'It's You I Like' With Colorful New Music Video:&#160;Premiere",
-      "url": "https://www.billboard.com/culture/tv-film/donkey-hodie-its-you-i-like-music-video-premiere-ep-1236154383/",
-      "timestamp": "15:00",
-      "pubDate": "2026-01-14T15:00:00.000Z"
-    },
-    {
-      "title": "Bandcamp is taking a stand against generative AI; will it work?",
-      "url": "https://cdm.link/bandcamp-anti-ai/",
-      "timestamp": "14:59",
-      "pubDate": "2026-01-14T14:59:12.000Z"
-    },
-    {
-      "title": "The Nintendo Switch 2025 year in review is finally here",
-      "url": "https://www.engadget.com/gaming/nintendo/the-nintendo-switch-2025-year-in-review-is-finally-here-145810913.html?src=rss",
-      "timestamp": "14:58",
-      "pubDate": "2026-01-14T14:58:10.000Z"
-    },
-    {
-      "title": "Okeanos Pro: Headphones with 16 Virtual Speakers and True Spatial Illusion",
-      "url": "https://www.gearnews.com/okeanos-pro-headphones-tech/",
-      "timestamp": "14:57",
-      "pubDate": "2026-01-14T14:57:07.000Z"
-    },
-    {
-      "title": "Mubi to Stream Asian Avant-Garde Film Slate Backed by Chanel",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/mubi-asian-avant-garde-film-slate-chanel-1236473490/",
-      "timestamp": "14:55",
-      "pubDate": "2026-01-14T14:55:52.000Z"
-    },
-    {
-      "title": "South Korea update: DSPs chase YouTube as live scene expands",
-      "url": "https://musically.com/2026/01/14/south-korea-update-dsps-chase-youtube-as-live-scene-expands/",
-      "timestamp": "14:54",
-      "pubDate": "2026-01-14T14:54:45.000Z"
-    },
-    {
-      "title": "Hijack Season 2 TV Review: Idris Elba moves from planes to trains in the sophomore season",
-      "url": "https://www.joblo.com/hijack-season-2-tv-review-idris-elba-moves-from-planes-to-trains-in-the-sophomore-season/",
-      "timestamp": "14:49",
-      "pubDate": "2026-01-14T14:49:32.000Z"
-    },
-    {
-      "title": "A Bay Area Rap Cult Classic Gets a Second Life",
-      "url": "https://daily.bandcamp.com/features/eyedlmode-fogville-reissue-history",
-      "timestamp": "14:39",
-      "pubDate": "2026-01-14T14:39:45.000Z"
-    },
-    {
-      "title": "This billionaire tax proposal has tech titans threatening to leave California",
-      "url": "https://www.fastcompany.com/91474731/billionaire-tax-proposal-tech-titans-threatening-leave-california?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
-      "timestamp": "14:36",
-      "pubDate": "2026-01-14T14:36:34.000Z"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "14:33",
-      "pubDate": "2026-01-14T14:33:06.000Z"
-    },
-    {
-      "title": "Pick up Apple's 25W MagSafe charger while it's down to $30",
-      "url": "https://www.engadget.com/deals/pick-up-apples-25w-magsafe-charger-while-its-down-to-30-141707867.html?src=rss",
-      "timestamp": "14:30",
-      "pubDate": "2026-01-14T14:30:37.000Z"
-    },
-    {
-      "title": "The 20 Best Hard Rock and Metal Albums of 1986",
-      "url": "https://ultimateclassicrock.com/hard-rock-metal-albums-1986/",
-      "timestamp": "14:30",
-      "pubDate": "2026-01-14T14:30:32.000Z"
-    },
-    {
-      "title": "Every Kendrick Lamar Album, Ranked",
-      "url": "https://www.spin.com/2026/01/every-kendrick-lamar-album-ranked/",
-      "timestamp": "14:30",
-      "pubDate": "2026-01-14T14:30:00.000Z"
-    },
-    {
-      "title": "Creators' Average Annual Income Is Less Than $45,000 Despite Industry Boom, New Report Finds",
-      "url": "https://www.thewrap.com/industry-news/industry-trends/creatoriq-creator-compensation-report/",
-      "timestamp": "14:30",
-      "pubDate": "2026-01-14T14:30:00.000Z"
-    },
-    {
-      "title": "BTS to play 79 shows on ‘biggest global K-Pop tour of all time’",
-      "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
-      "timestamp": "14:28",
-      "pubDate": "2026-01-14T14:28:07.000Z"
-    },
-    {
-      "title": "Bandcamp bans AI music as Sienna Rose goes viral on Spotify",
-      "url": "https://musically.com/2026/01/14/bandcamp-bans-ai-music-as-sienna-rose-goes-viral-on-spotify/",
-      "timestamp": "14:23",
-      "pubDate": "2026-01-14T14:23:19.000Z"
-    },
-    {
-      "title": "Mantra restructures after OM token collapse and tough year",
-      "url": "https://cointelegraph.com/news/mantra-restructures-om-token-collapse-rwa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "14:12",
-      "pubDate": "2026-01-14T14:12:40.000Z"
-    },
-    {
-      "title": "Deciphering DLSS 4.5: I tested Nvidia’s new upscaler and figured out when to use Model L or M",
-      "url": "https://www.tomsguide.com/gaming/pc-gaming/deciphering-dlss-4-5-i-tested-nvidias-new-upscaler-and-figured-out-when-to-use-model-l-or-m",
-      "timestamp": "14:07",
-      "pubDate": "2026-01-14T14:07:53.000Z"
-    },
-    {
-      "title": "Jack Osbourne confirms \"phenomenal actor\" is lined up to play Ozzy Osbourne in biopic",
-      "url": "https://faroutmagazine.co.uk/jack-osbourne-confirms-phenomenal-actor-ozzy-osbourne-biopic/",
-      "timestamp": "14:03",
-      "pubDate": "2026-01-14T14:03:29.000Z"
-    },
-    {
-      "title": "NoiseWorks VoiceAssist: The Latest in AI-Assisted Voice Processing",
-      "url": "https://www.gearnews.com/noiseworks-voiceassist-studio/",
-      "timestamp": "14:01",
-      "pubDate": "2026-01-14T14:01:01.000Z"
-    },
-    {
-      "title": "Michael B. Jordan and Chase Infiniti Attend National Board of Review Gala, Idris Elba Premieres 'Hijack' Season 2 and More Celeb Photos From January 2026",
-      "url": "https://variety.com/gallery/celebrity-photos-red-carpet-january-2026/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-14T14:00:45.000Z"
-    },
-    {
-      "title": "Are You Afraid of the Dark: The Greatest Children's Horror Show Ever?",
-      "url": "https://www.joblo.com/are-you-afraid-of-the-dark-the-greatest-childrens-horror-show-ever/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-14T14:00:39.000Z"
-    },
-    {
-      "title": "Tech Billionaires Have No Answer for What’ll Happen If AI Takes All Jobs",
-      "url": "https://futurism.com/future-society/ai-corporations-labor-jobs",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-14T14:00:32.000Z"
+      "title": "Avantone Pro CLA-Sub: An NS-10-styled Studio Subwoofer",
+      "url": "https://www.gearnews.com/avantone-pro-cla-sub-studio/",
+      "timestamp": "15:32",
+      "pubDate": "2026-01-14T15:32:22.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "What was the original name The Beatles chose for 'Eleanor Rigby'?",
-      "url": "https://faroutmagazine.co.uk/what-was-the-original-name-the-beatles-chose-for-eleanor-rigby/",
-      "timestamp": "15:27"
+      "title": "David Guetta: 'A Set Has to Be a Collective Experience'",
+      "url": "https://www.rollingstone.com/music/music-features/david-guetta-exclusive-interview-1235494554/",
+      "timestamp": "16:30"
     },
     {
-      "title": "The Edge on why David Bowie was as important as The Beatles",
-      "url": "https://faroutmagazine.co.uk/the-singer-the-edge-thought-was-as-important-as-the-beatles/",
-      "timestamp": "15:15"
+      "title": "The one Beatles album George Martin and Paul McCartney hated",
+      "url": "https://faroutmagazine.co.uk/the-one-beatles-album-george-martin-and-paul-mccartney-hated/",
+      "timestamp": "16:30"
     },
     {
-      "title": "A \"pathetic\" song ended John Lennon's love for Bob Dylan: \"I stopped listening\"",
-      "url": "https://faroutmagazine.co.uk/a-pathetic-song-ended-john-lennons-love-for-bob-dylan/",
-      "timestamp": "15:07"
+      "title": "When was the first time Jimi Hendrix burned a guitar?",
+      "url": "https://faroutmagazine.co.uk/when-was-the-first-time-jimi-hendrix-burned-a-guitar/",
+      "timestamp": "16:27"
     },
     {
-      "title": "'Diamonds Are Forever': The Women Behind the Songs of James Bond 007",
-      "url": "https://www.spin.com/2026/01/diamonds-are-forever-the-women-behind-the-songs-of-james-bond-007/",
-      "timestamp": "15:00"
+      "title": "What, exactly, is a Ruby Tuesday?",
+      "url": "https://faroutmagazine.co.uk/what-exactly-is-a-ruby-tuesday/",
+      "timestamp": "16:15"
+    },
+    {
+      "title": "Peter Criss Shuts Down Gene Simmons' Claim About the KISS Classic 'Beth': 'He Talks About Things He Doesn't Know&#160;About'",
+      "url": "https://www.billboard.com/music/rock/kiss-beth-peter-criss-songwriting-interview-1236154613/",
+      "timestamp": "16:06"
+    },
+    {
+      "title": "Romanticizing the 'Old Days' of Music Discovery Through AlphaTheta’s First Apparel&#160;Collection",
+      "url": "https://www.billboard.com/culture/lifestyle/alphatheta-first-apparel-collection-flex-trade-fade-1236154794/",
+      "timestamp": "16:01"
+    },
+    {
+      "title": "Kim Gordon Asks 'Where's My Gum, Postmate?' on New Song, 'Not Today'",
+      "url": "https://www.rollingstone.com/music/music-news/kim-gordon-not-today-play-me-1235499324/",
+      "timestamp": "16:00"
+    },
+    {
+      "title": "The Academy Is... Returns With First New Album in Nearly 20 Years",
+      "url": "https://www.rollingstone.com/music/music-news/the-academy-is-new-album-almost-there-announcement-1235499138/",
+      "timestamp": "16:00"
+    },
+    {
+      "title": "Fans gather as Kneecap return to court with CPS looking to overturn terror case dismissal",
+      "url": "https://www.nme.com/news/music/fans-gather-as-kneecap-return-to-court-with-cps-looking-to-overturn-terror-case-dismissal-3923139?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fans-gather-as-kneecap-return-to-court-with-cps-looking-to-overturn-terror-case-dismissal",
+      "timestamp": "15:57"
+    },
+    {
+      "title": "John Mellencamp Promises Hits-Filled Sets for Summer 2026 Tour",
+      "url": "https://ultimateclassicrock.com/john-mellencamp-is-bringing-back-his-biggest-hits-for-2026-tour/",
+      "timestamp": "15:26"
     },
     {
       "title": "Flea Jams With Thom Yorke, Covers Frank Ocean",
       "url": "https://www.spin.com/2026/01/flea-solo-album-details/",
+      "timestamp": "15:03"
+    },
+    {
+      "title": "Kim Gordon Presses 'Play' On Third Solo Album",
+      "url": "https://www.spin.com/2026/01/kim-gordon-new-album/",
+      "timestamp": "15:02"
+    },
+    {
+      "title": "'Diamonds Are Forever': The Women Behind the Songs of James Bond 007",
+      "url": "https://www.spin.com/2026/01/diamonds-are-forever-the-women-behind-the-songs-of-james-bond-007/",
       "timestamp": "15:00"
     },
     {
@@ -387,9 +427,9 @@
       "timestamp": "14:30"
     },
     {
-      "title": "Every Kendrick Lamar Album, Ranked",
-      "url": "https://www.spin.com/2026/01/every-kendrick-lamar-album-ranked/",
-      "timestamp": "14:30"
+      "title": "A \"Phenomenal Actor\" Has Been Chosen For Ozzy Osbourne Biopic",
+      "url": "https://stereogum.com/2485230/a-phenomenal-actor-has-been-chosen-for-ozzy-osbourne-biopic/news/",
+      "timestamp": "14:25"
     },
     {
       "title": "What's Next as Journey Heads Into Their Farewell Tour?",
@@ -405,47 +445,7 @@
       "title": "John Lydon on why he appeared on 'The Masked Singer': \"Mostly, accurately, the money”",
       "url": "https://www.nme.com/news/music/john-lydon-on-why-he-appeared-on-the-masked-singer-mostly-accurately-the-money-3923115?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=john-lydon-on-why-he-appeared-on-the-masked-singer-mostly-accurately-the-money",
       "timestamp": "12:59"
-    },
-    {
-      "title": "'Stranger Things' documentary director reveals reason behind last minute finale script",
-      "url": "https://www.nme.com/news/tv/stranger-things-documentary-director-reveals-reason-behind-last-minute-finale-script-3923116?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=stranger-things-documentary-director-reveals-reason-behind-last-minute-finale-script",
-      "timestamp": "12:58"
-    },
-    {
-      "title": "From the Top: Tiny Desk Concert",
-      "url": "https://www.npr.org/2026/01/14/g-s1-104913/from-the-top-tiny-desk-concert",
-      "timestamp": "10:00"
-    },
-    {
-      "title": "Madison Beer Showcases Lovelorn Anthem ‘Bad Enough’ on ‘Fallon’",
-      "url": "https://www.rollingstone.com/music/music-news/madison-beer-bad-enough-performance-fallon-1235499291/",
-      "timestamp": "09:01"
-    },
-    {
-      "title": "Watch Raphael Saadiq, Miles Caton, Ludwig Göransson Perform ‘Sinners’ Track ‘I Lied to You’",
-      "url": "https://www.rollingstone.com/music/music-news/raphael-saadiq-sinners-i-lied-to-you-performance-kimmel-1235499277/",
-      "timestamp": "07:22"
-    },
-    {
-      "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
-      "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
-      "timestamp": "07:03"
-    },
-    {
-      "title": "William Duvall Joins Metal Allegiance for a Dark, Heavy Anthem",
-      "url": "https://ultimateclassicrock.com/metal-allegiance-william-duvall-black-horizon/",
-      "timestamp": "06:56"
-    },
-    {
-      "title": "SXSW Sydney Will ‘Not Proceed’ In&#160;2026",
-      "url": "https://www.billboard.com/pro/sxsw-sydney-not-proceed-in-2026/",
-      "timestamp": "03:45"
-    },
-    {
-      "title": "Bandcamp Bans AI Music",
-      "url": "https://stereogum.com/2485199/bandcamp-bans-ai-music/news/",
-      "timestamp": "23:18"
     }
   ],
-  "lastUpdated": "2026-01-14T15:30:18.051Z"
+  "lastUpdated": "2026-01-14T16:36:15.177Z"
 }
