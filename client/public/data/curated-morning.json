@@ -1,22 +1,35 @@
 {
-  "curatedAt": "2026-01-14T13:42:59.093Z",
+  "curatedAt": "2026-01-14T14:29:34.702Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "'IT’S AN INSTANT CAMERA THAT LETS YOU TIME TRAVEL FROM THE 1930S TO THE 2020S’: I SPENT TWO HOURS WITH THE FUJIFILM INSTAX MINI EVO CINEMA, HERE’S WHAT I THINK OF IT",
-      "url": "https://www.tomsguide.com/cameras-photography/fujifilm-instax-mini-evo-cinema-hybrid-instant-camera-first-impressions",
-      "timestamp": "2026-01-14T13:42:58.368Z",
+      "title": "BTS TO PLAY 79 SHOWS ON ‘BIGGEST GLOBAL K-POP TOUR OF ALL TIME’",
+      "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
+      "timestamp": "2026-01-14T14:29:31.691Z",
       "source": "splash",
       "scores": {
-        "impact": 0.4,
+        "impact": 0.6,
         "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6000000000000001
+        "composite": 0.6799999999999999
       }
     },
     "deepDive": [
+      {
+        "title": "BTS TO PLAY 79 SHOWS ON ‘BIGGEST GLOBAL K-POP TOUR OF ALL TIME’",
+        "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
+        "timestamp": "2026-01-14T14:29:31.691Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.6799999999999999
+        }
+      },
       {
         "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
         "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
@@ -42,19 +55,6 @@
           "discovery": 0.3,
           "composite": 0.505
         }
-      },
-      {
-        "title": "Bitget Drops New Video With World Cup Winner Julián Álvarez, Turning Trading Into a One-Stop UEX Megastore",
-        "url": "https://news.bitcoin.com/bitget-drops-new-video-with-world-cup-winner-julian-alvarez-turning-trading-into-a-one-stop-uex-megastore/",
-        "timestamp": "12:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.55,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.4750000000000001
-        }
       }
     ],
     "discovery": [
@@ -74,60 +74,60 @@
     ],
     "conversation": [
       {
-        "title": "'IT’S AN INSTANT CAMERA THAT LETS YOU TIME TRAVEL FROM THE 1930S TO THE 2020S’: I SPENT TWO HOURS WITH THE FUJIFILM INSTAX MINI EVO CINEMA, HERE’S WHAT I THINK OF IT",
-        "url": "https://www.tomsguide.com/cameras-photography/fujifilm-instax-mini-evo-cinema-hybrid-instant-camera-first-impressions",
-        "timestamp": "2026-01-14T13:42:58.368Z",
+        "title": "BTS TO PLAY 79 SHOWS ON ‘BIGGEST GLOBAL K-POP TOUR OF ALL TIME’",
+        "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
+        "timestamp": "2026-01-14T14:29:31.691Z",
         "source": "splash",
         "scores": {
-          "impact": 0.4,
+          "impact": 0.6,
           "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6000000000000001
+          "composite": 0.6799999999999999
         }
       },
       {
-        "title": "Spotify Spotlights Artists, Songwriters to Watch In&#160;2026",
-        "url": "https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/",
-        "timestamp": "07:03",
-        "source": "musicReleases",
+        "title": "Are You Afraid of the Dark: The Greatest Children's Horror Show Ever?",
+        "url": "https://www.joblo.com/are-you-afraid-of-the-dark-the-greatest-childrens-horror-show-ever/",
+        "timestamp": "14:00",
+        "source": "automated",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.65,
+          "impact": 0.5,
+          "engagement": 0.7999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.505
+          "composite": 0.51
         }
       }
     ],
     "wildcard": [
       {
-        "title": "'IT’S AN INSTANT CAMERA THAT LETS YOU TIME TRAVEL FROM THE 1930S TO THE 2020S’: I SPENT TWO HOURS WITH THE FUJIFILM INSTAX MINI EVO CINEMA, HERE’S WHAT I THINK OF IT",
-        "url": "https://www.tomsguide.com/cameras-photography/fujifilm-instax-mini-evo-cinema-hybrid-instant-camera-first-impressions",
-        "timestamp": "2026-01-14T13:42:58.368Z",
+        "title": "BTS TO PLAY 79 SHOWS ON ‘BIGGEST GLOBAL K-POP TOUR OF ALL TIME’",
+        "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
+        "timestamp": "2026-01-14T14:29:31.691Z",
         "source": "splash",
         "scores": {
-          "impact": 0.4,
+          "impact": 0.6,
           "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6000000000000001
+          "composite": 0.6799999999999999
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "'IT’S AN INSTANT CAMERA THAT LETS YOU TIME TRAVEL FROM THE 1930S TO THE 2020S’: I SPENT TWO HOURS WITH THE FUJIFILM INSTAX MINI EVO CINEMA, HERE’S WHAT I THINK OF IT",
-      "url": "https://www.tomsguide.com/cameras-photography/fujifilm-instax-mini-evo-cinema-hybrid-instant-camera-first-impressions",
-      "timestamp": "2026-01-14T13:42:58.368Z",
+      "title": "BTS TO PLAY 79 SHOWS ON ‘BIGGEST GLOBAL K-POP TOUR OF ALL TIME’",
+      "url": "https://musically.com/2026/01/14/bts-to-play-79-shows-on-biggest-global-k-pop-tour-of-all-time/",
+      "timestamp": "2026-01-14T14:29:31.691Z",
       "source": "splash",
       "scores": {
-        "impact": 0.4,
+        "impact": 0.6,
         "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6000000000000001
+        "composite": 0.6799999999999999
       }
     },
     {
@@ -157,19 +157,6 @@
       }
     },
     {
-      "title": "Bitget Drops New Video With World Cup Winner Julián Álvarez, Turning Trading Into a One-Stop UEX Megastore",
-      "url": "https://news.bitcoin.com/bitget-drops-new-video-with-world-cup-winner-julian-alvarez-turning-trading-into-a-one-stop-uex-megastore/",
-      "timestamp": "12:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.55,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.4750000000000001
-      }
-    },
-    {
       "title": "Fleetwood Mac's \"Landslide\" Makes Hot 100 Debut 51 Years After Release",
       "url": "https://stereogum.com/2485142/fleetwood-macs-landslide-makes-hot-100-debut-51-years-after-release/news/",
       "timestamp": "21:35",
@@ -180,6 +167,19 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.47000000000000003
+      }
+    },
+    {
+      "title": "Are You Afraid of the Dark: The Greatest Children's Horror Show Ever?",
+      "url": "https://www.joblo.com/are-you-afraid-of-the-dark-the-greatest-childrens-horror-show-ever/",
+      "timestamp": "14:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.7999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.51
       }
     }
   ],
