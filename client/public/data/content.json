@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "BLOCKCHAIN FIRM EYES $200M IN TOKENIZED WATER PROJECTS ACROSS SEA",
-    "url": "https://cointelegraph.com/news/200m-tokenized-water-infrastructure-plan-southeast-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "headline": "YOUR AIRPODS HAVE A HIDDEN CAMERA REMOTE FEATURE — HERE'S HOW TO USE IT",
+    "url": "https://www.tomsguide.com/audio/airpods/your-airpods-have-a-hidden-camera-feature-heres-how-to-use-it",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Strive Locks in Semler Approval, Positioning for a 12,798 Bitcoin Treasury",
-      "url": "https://news.bitcoin.com/strive-locks-in-semler-approval-positioning-for-a-12798-bitcoin-treasury/",
-      "timestamp": "04:30",
+      "title": "'Saturday Night Live's Kam Patterson Says Show Is \"Really Gay,\" Jokes He's \"Never Seen\" It",
+      "url": "https://deadline.com/2026/01/saturday-night-live-kam-patterson-really-gay-1236683776/",
+      "timestamp": "05:07",
       "pinned": false
     },
     {
-      "title": "Shah Rukh Khan's 'King' Tops IMDb's Most Anticipated Indian Films of 2026 List (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/shah-rukh-khan-king-imdb-most-anticipated-indian-films-2026-1236630785/",
-      "timestamp": "04:30",
+      "title": "5 hidden Windows 11 features you need to know about",
+      "url": "https://www.tomsguide.com/computing/windows-operating-systems/5-hidden-windows-11-features-you-need-to-know-about",
+      "timestamp": "05:01",
       "pinned": false
     },
     {
-      "title": "Matt Damon Recalls the Time Clint Eastwood Asked Him If He Wants to \"Waste Everybody’s Time\" Filming More Takes",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/matt-damon-clint-eastwood-waste-everybodys-time-takes-1236474642/",
-      "timestamp": "04:25",
+      "title": "Jason Bateman names the greatest comedy actor of all time: \"He never asks for a laugh\"",
+      "url": "https://faroutmagazine.co.uk/jason-bateman-names-greatest-comedy-actor-all-time/",
+      "timestamp": "05:00",
       "pinned": false
     },
     {
-      "title": "Todd and Julie Chrisley on Why They Did 'The Masked Singer' and Potential Criticism: 'Their Issue Is Who Pardoned Us'",
-      "url": "https://variety.com/2026/tv/news/todd-julie-chrisley-critics-pardon-trump-masked-singer-1236631887/",
-      "timestamp": "04:15",
+      "title": "Manhattan DA Urges Lawmakers to Strengthen Crypto Enforcement Tools",
+      "url": "https://decrypt.co/354689/manhattan-da-urges-lawmakers-strengthen-crypto-enforcement",
+      "timestamp": "04:59",
       "pinned": false
     },
     {
-      "title": "Witches, Vampires and Aliens: How Genre Films Like 'Sinners' and 'Weapons' Factor Into the Oscar Race",
-      "url": "https://variety.com/2026/film/actors/horror-movies-vampires-witches-wicked-for-good-sinners-1236631566/",
-      "timestamp": "04:03",
+      "title": "Merlin Welcomes Five New Board&#160;Members",
+      "url": "https://www.billboard.com/pro/merlin-five-new-board-members/",
+      "timestamp": "04:56",
       "pinned": false
     }
   ],
@@ -105,10 +105,82 @@
   ],
   "automated": [
     {
-      "title": "Blockchain firm eyes $200M in tokenized water projects across SEA",
+      "title": "Your AirPods have a hidden camera remote feature — here's how to use it",
+      "url": "https://www.tomsguide.com/audio/airpods/your-airpods-have-a-hidden-camera-feature-heres-how-to-use-it",
+      "timestamp": "05:15",
+      "pubDate": "2026-01-15T05:15:00.000Z"
+    },
+    {
+      "title": "'Saturday Night Live's Kam Patterson Says Show Is \"Really Gay,\" Jokes He's \"Never Seen\" It",
+      "url": "https://deadline.com/2026/01/saturday-night-live-kam-patterson-really-gay-1236683776/",
+      "timestamp": "05:07",
+      "pubDate": "2026-01-15T05:07:35.000Z"
+    },
+    {
+      "title": "5 hidden Windows 11 features you need to know about",
+      "url": "https://www.tomsguide.com/computing/windows-operating-systems/5-hidden-windows-11-features-you-need-to-know-about",
+      "timestamp": "05:01",
+      "pubDate": "2026-01-15T05:01:00.000Z"
+    },
+    {
+      "title": "Jason Bateman names the greatest comedy actor of all time: \"He never asks for a laugh\"",
+      "url": "https://faroutmagazine.co.uk/jason-bateman-names-greatest-comedy-actor-all-time/",
+      "timestamp": "05:00",
+      "pubDate": "2026-01-15T05:00:00.000Z"
+    },
+    {
+      "title": "Manhattan DA Urges Lawmakers to Strengthen Crypto Enforcement Tools",
+      "url": "https://decrypt.co/354689/manhattan-da-urges-lawmakers-strengthen-crypto-enforcement",
+      "timestamp": "04:59",
+      "pubDate": "2026-01-15T04:59:28.000Z"
+    },
+    {
+      "title": "Merlin Welcomes Five New Board&#160;Members",
+      "url": "https://www.billboard.com/pro/merlin-five-new-board-members/",
+      "timestamp": "04:56",
+      "pubDate": "2026-01-15T04:56:02.000Z"
+    },
+    {
+      "title": "Learning CUDA From First Principles",
+      "url": "https://pub.towardsai.net/learning-cuda-from-first-principles-b6b6670319c8?source=rss----98111c9905da---4",
+      "timestamp": "04:43",
+      "pubDate": "2026-01-15T04:43:54.000Z"
+    },
+    {
+      "title": "Decision-Making Algorithms with Python: Thompson Sampling",
+      "url": "https://pub.towardsai.net/decision-making-algorithms-with-python-thompson-sampling-00885d3c4933?source=rss----98111c9905da---4",
+      "timestamp": "04:43",
+      "pubDate": "2026-01-15T04:43:26.000Z"
+    },
+    {
+      "title": "The Context Advantage: How Palantir AIP Operates the Modern Enterprise",
+      "url": "https://pub.towardsai.net/the-context-advantage-how-palantir-aip-operates-the-modern-enterprise-210c4af39727?source=rss----98111c9905da---4",
+      "timestamp": "04:42",
+      "pubDate": "2026-01-15T04:42:52.000Z"
+    },
+    {
+      "title": "DELIVERY DELAY PREDICTOR: Machine Learning System for Logistics Optimization",
+      "url": "https://pub.towardsai.net/delivery-delay-predictor-machine-learning-system-for-logistics-optimization-cb5c6d6cd49a?source=rss----98111c9905da---4",
+      "timestamp": "04:41",
+      "pubDate": "2026-01-15T04:41:59.000Z"
+    },
+    {
+      "title": "Blockchain firm eyes $200M in tokenized water projects across Asia",
       "url": "https://cointelegraph.com/news/200m-tokenized-water-infrastructure-plan-southeast-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "timestamp": "04:41",
       "pubDate": "2026-01-15T04:41:49.000Z"
+    },
+    {
+      "title": "LLM Evaluation Analysis with Python",
+      "url": "https://pub.towardsai.net/llm-evaluation-analysis-with-python-8053be4aa4b6?source=rss----98111c9905da---4",
+      "timestamp": "04:36",
+      "pubDate": "2026-01-15T04:36:30.000Z"
+    },
+    {
+      "title": "Your AI Agent Works in Demo. It Dies in Production. Here’s Why.",
+      "url": "https://pub.towardsai.net/your-ai-agent-works-in-demo-it-dies-in-production-heres-why-e4f732186c9c?source=rss----98111c9905da---4",
+      "timestamp": "04:36",
+      "pubDate": "2026-01-15T04:36:18.000Z"
     },
     {
       "title": "Strive Locks in Semler Approval, Positioning for a 12,798 Bitcoin Treasury",
@@ -261,7 +333,7 @@
       "pubDate": "2026-01-15T02:00:00.000Z"
     },
     {
-      "title": "Japan And South Korea Leaders Conclude Summit With K-Pop Drum Duet",
+      "title": "Japan And South Korea Leaders Conclude Bilateral Summit With K-Pop Drum Duet",
       "url": "https://stereogum.com/2485448/japan-and-south-korea-leaders-conclude-summit-with-k-pop-drum-duet/news/",
       "timestamp": "01:55",
       "pubDate": "2026-01-15T01:55:07.000Z"
@@ -271,81 +343,19 @@
       "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
       "timestamp": "01:54",
       "pubDate": "2026-01-15T01:54:53.000Z"
-    },
-    {
-      "title": "Ripple Expands 75-License Footprint After Securing Preliminary New EU Approval",
-      "url": "https://news.bitcoin.com/ripple-expands-75-license-footprint-after-securing-preliminary-new-eu-approval/",
-      "timestamp": "01:30",
-      "pubDate": "2026-01-15T01:30:14.000Z"
-    },
-    {
-      "title": "Buchla and Friends 2026: Everything You Need to Know About the Synth Anti-NAMM",
-      "url": "https://www.gearnews.com/buchla-and-friends-2026-synth/",
-      "timestamp": "01:12",
-      "pubDate": "2026-01-15T01:12:41.000Z"
-    },
-    {
-      "title": "'Late Shift' Director Breaks Down Her Swiss Film's Spin on 'The Pitt'",
-      "url": "https://www.thewrap.com/industry-news/awards/late-shift-intereview-petra-volpe-the-pitt/",
-      "timestamp": "01:11",
-      "pubDate": "2026-01-15T01:11:41.000Z"
-    },
-    {
-      "title": "The one actor Denis Villeneuve said was capable of doing anything: \"Really impressive\"",
-      "url": "https://faroutmagazine.co.uk/the-actor-denis-villeneuve-called-capable-of-doing-anything/",
-      "timestamp": "01:00",
-      "pubDate": "2026-01-15T01:00:00.000Z"
-    },
-    {
-      "title": "Scott Cooper to direct Roswell UFO thriller for 20th Century Studios",
-      "url": "https://www.joblo.com/scott-cooper-roswell-ufo-movie/",
-      "timestamp": "00:50",
-      "pubDate": "2026-01-15T00:50:11.000Z"
-    },
-    {
-      "title": "Robinhood CEO Says AI Could Spark a ‘Job Singularity’",
-      "url": "https://decrypt.co/354680/robinhood-ceo-ai-could-spark-job-singularity",
-      "timestamp": "00:44",
-      "pubDate": "2026-01-15T00:44:40.000Z"
-    },
-    {
-      "title": "Bitcoin Trades Elevated as CLARITY Act Nears, With Bulls Positioning for Fresh All-Time Highs",
-      "url": "https://news.bitcoin.com/bitcoin-trades-elevated-as-clarity-act-nears-with-bulls-positioning-for-fresh-all-time-highs/",
-      "timestamp": "00:30",
-      "pubDate": "2026-01-15T00:30:53.000Z"
-    },
-    {
-      "title": "The FTC's data-sharing order against GM is finally settled",
-      "url": "https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/",
-      "timestamp": "00:27",
-      "pubDate": "2026-01-15T00:27:54.000Z"
-    },
-    {
-      "title": "How Johnny Sequoyah, Breakout Star of 'Primate,' Used Jane Goodall's Life to Inspire Terrifying Lead Role",
-      "url": "https://variety.com/2026/film/news/johnny-sequoyah-primate-monkey-horror-jane-goodall-1236631726/",
-      "timestamp": "00:12",
-      "pubDate": "2026-01-15T00:12:22.000Z"
-    },
-    {
-      "title": "'Marty Supreme' Original Vampire Ending Fully Revealed; Director Josh Safdie Says A24 Reacted by Asking: 'This Is a Mistake, Right?'",
-      "url": "https://variety.com/2026/film/news/marty-supreme-original-vampire-ending-1236631757/",
-      "timestamp": "00:10",
-      "pubDate": "2026-01-15T00:10:27.000Z"
-    },
-    {
-      "title": "'Bridgerton' Season 4: Everything We Know So Far",
-      "url": "https://deadline.com/feature/bridgerton-season-4-everything-we-know-1236019588/",
-      "timestamp": "00:05",
-      "pubDate": "2026-01-15T00:05:44.000Z"
-    },
-    {
-      "title": "India's Emversity doubles valuation as it scales workers AI can't replace",
-      "url": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
-      "timestamp": "00:04",
-      "pubDate": "2026-01-15T00:04:46.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "Jason Bateman names the greatest comedy actor of all time: \"He never asks for a laugh\"",
+      "url": "https://faroutmagazine.co.uk/jason-bateman-names-greatest-comedy-actor-all-time/",
+      "timestamp": "05:00"
+    },
+    {
+      "title": "Merlin Welcomes Five New Board&#160;Members",
+      "url": "https://www.billboard.com/pro/merlin-five-new-board-members/",
+      "timestamp": "04:56"
+    },
     {
       "title": "The surreal moment Eddie Murphy met Paul McCartney: \"It was in the studio at his house\"",
       "url": "https://faroutmagazine.co.uk/surreal-moment-eddie-murphy-met-paul-mccartney/",
@@ -362,12 +372,7 @@
       "timestamp": "02:37"
     },
     {
-      "title": "Who is General Smith from the Geese song grooving '100 Horses'?",
-      "url": "https://faroutmagazine.co.uk/general-smith-from-geese-grooving-100-horses/",
-      "timestamp": "02:00"
-    },
-    {
-      "title": "Japan And South Korea Leaders Conclude Summit With K-Pop Drum Duet",
+      "title": "Japan And South Korea Leaders Conclude Bilateral Summit With K-Pop Drum Duet",
       "url": "https://stereogum.com/2485448/japan-and-south-korea-leaders-conclude-summit-with-k-pop-drum-duet/news/",
       "timestamp": "01:55"
     },
@@ -402,9 +407,9 @@
       "timestamp": "23:22"
     },
     {
-      "title": "Yeison Jiménez Remembered by Paola Jara, Jessi Uribe & More Than 14,000 Fans at Movistar Arena in&#160;Bogotá",
-      "url": "https://www.billboard.com/music/latin/yeison-jimenez-memorial-movistar-arena-bogota-paola-jara-1236155359/",
-      "timestamp": "23:16"
+      "title": "Fake Artist Sienna Rose Dominates Spotify Viral Chart, will.i.am Says Oranges Are Oranges (?)",
+      "url": "https://stereogum.com/2485396/ai-artist-sienna-rose-dominates-spotify-viral-50-playlist-selena-gomez-removes-her-song-from-her-instagram/news/",
+      "timestamp": "22:40"
     },
     {
       "title": "KXLLSWXTCH Makes Space for Discomfort on Latest Project ‘EYESORE’",
@@ -440,12 +445,7 @@
       "title": "Robyn’s “sexistential” and the best new songs right now",
       "url": "https://www.thefader.com/2026/01/14/songs-you-need-in-your-life-january-14-2026",
       "timestamp": "19:13"
-    },
-    {
-      "title": "Noah Kahan Covers Radiohead, MJ Lenderman, Sufjan Stevens, & More At Out Of The Blue Festival",
-      "url": "https://stereogum.com/2485349/noah-kahan-covers-radiohead-mj-lenderman-sufjan-stevens-more-at-out-of-the-blue-festival/news/",
-      "timestamp": "18:59"
     }
   ],
-  "lastUpdated": "2026-01-15T04:44:17.025Z"
+  "lastUpdated": "2026-01-15T05:29:29.748Z"
 }
