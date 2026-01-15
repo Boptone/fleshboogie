@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-15T15:30:34.074Z",
+  "curatedAt": "2026-01-15T16:39:39.158Z",
   "totalAnalyzed": 66,
   "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "HORSES CAN SMELL HOW YOU’RE FEELING",
-      "url": "https://nautil.us/horses-can-smell-how-youre-feeling-1261710/",
-      "timestamp": "2026-01-15T15:30:31.057Z",
+      "title": "‘FALLOUT’-INSPIRED COMPETITION SHOW A GO AT PRIME VIDEO",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/fallout-competition-show-prime-video-1236474949/",
+      "timestamp": "2026-01-15T16:39:36.141Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -18,22 +18,9 @@
     },
     "deepDive": [
       {
-        "title": "The most exported Indian songs on Spotify during 2025",
-        "url": "https://musically.com/2026/01/15/the-most-exported-indian-songs-on-spotify-during-2025/",
-        "timestamp": "15:23",
-        "source": "mainColumn",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.52
-        }
-      },
-      {
-        "title": "From Dylan to disco, Beyoncé to Bob Marley: the 30 best live albums ever – ranked!",
-        "url": "https://www.theguardian.com/culture/2026/jan/15/30-best-live-albums-ever-ranked",
-        "timestamp": "15:00",
+        "title": "Chartbreaker: How Paddington, Sobriety and a ‘Loosie Song’ Resulted in Medium Build’s&#160;Breakthrough",
+        "url": "https://www.billboard.com/music/rock/medium-build-last-time-radio-january-2026-chartbreaker-1236155215/",
+        "timestamp": "16:00",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -47,23 +34,7 @@
         "title": "Richard Marx Talks New Album, ‘After Hours’: ‘I Have To Have a New Bucket List&#160;Now’",
         "url": "https://www.billboard.com/music/pop/richard-marx-interview-after-hours-1236154939/",
         "timestamp": "15:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.52
-        }
-      }
-    ],
-    "discovery": [],
-    "conversation": [
-      {
-        "title": "The most exported Indian songs on Spotify during 2025",
-        "url": "https://musically.com/2026/01/15/the-most-exported-indian-songs-on-spotify-during-2025/",
-        "timestamp": "15:23",
-        "source": "mainColumn",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -73,10 +44,39 @@
         }
       },
       {
-        "title": "From Dylan to disco, Beyoncé to Bob Marley: the 30 best live albums ever – ranked!",
-        "url": "https://www.theguardian.com/culture/2026/jan/15/30-best-live-albums-ever-ranked",
-        "timestamp": "15:00",
+        "title": "Madison Beer's New Album Is Her Pop Breakthrough",
+        "url": "https://www.rollingstone.com/music/music-album-reviews/madison-beer-new-album-locket-review-1235499390/",
+        "timestamp": "15:52",
         "source": "automated",
+        "scores": {
+          "impact": 0.7,
+          "engagement": 0.55,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.515
+        }
+      }
+    ],
+    "discovery": [],
+    "conversation": [
+      {
+        "title": "Chartbreaker: How Paddington, Sobriety and a ‘Loosie Song’ Resulted in Medium Build’s&#160;Breakthrough",
+        "url": "https://www.billboard.com/music/rock/medium-build-last-time-radio-january-2026-chartbreaker-1236155215/",
+        "timestamp": "16:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.52
+        }
+      },
+      {
+        "title": "Richard Marx Talks New Album, ‘After Hours’: ‘I Have To Have a New Bucket List&#160;Now’",
+        "url": "https://www.billboard.com/music/pop/richard-marx-interview-after-hours-1236154939/",
+        "timestamp": "15:00",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -88,9 +88,9 @@
     ],
     "wildcard": [
       {
-        "title": "HORSES CAN SMELL HOW YOU’RE FEELING",
-        "url": "https://nautil.us/horses-can-smell-how-youre-feeling-1261710/",
-        "timestamp": "2026-01-15T15:30:31.057Z",
+        "title": "‘FALLOUT’-INSPIRED COMPETITION SHOW A GO AT PRIME VIDEO",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/fallout-competition-show-prime-video-1236474949/",
+        "timestamp": "2026-01-15T16:39:36.141Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -104,9 +104,9 @@
   },
   "stories": [
     {
-      "title": "HORSES CAN SMELL HOW YOU’RE FEELING",
-      "url": "https://nautil.us/horses-can-smell-how-youre-feeling-1261710/",
-      "timestamp": "2026-01-15T15:30:31.057Z",
+      "title": "‘FALLOUT’-INSPIRED COMPETITION SHOW A GO AT PRIME VIDEO",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/fallout-competition-show-prime-video-1236474949/",
+      "timestamp": "2026-01-15T16:39:36.141Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -117,22 +117,9 @@
       }
     },
     {
-      "title": "The most exported Indian songs on Spotify during 2025",
-      "url": "https://musically.com/2026/01/15/the-most-exported-indian-songs-on-spotify-during-2025/",
-      "timestamp": "15:23",
-      "source": "mainColumn",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.52
-      }
-    },
-    {
-      "title": "From Dylan to disco, Beyoncé to Bob Marley: the 30 best live albums ever – ranked!",
-      "url": "https://www.theguardian.com/culture/2026/jan/15/30-best-live-albums-ever-ranked",
-      "timestamp": "15:00",
+      "title": "Chartbreaker: How Paddington, Sobriety and a ‘Loosie Song’ Resulted in Medium Build’s&#160;Breakthrough",
+      "url": "https://www.billboard.com/music/rock/medium-build-last-time-radio-january-2026-chartbreaker-1236155215/",
+      "timestamp": "16:00",
       "source": "automated",
       "scores": {
         "impact": 0.6,
@@ -146,13 +133,26 @@
       "title": "Richard Marx Talks New Album, ‘After Hours’: ‘I Have To Have a New Bucket List&#160;Now’",
       "url": "https://www.billboard.com/music/pop/richard-marx-interview-after-hours-1236154939/",
       "timestamp": "15:00",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.7,
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.52
+      }
+    },
+    {
+      "title": "Madison Beer's New Album Is Her Pop Breakthrough",
+      "url": "https://www.rollingstone.com/music/music-album-reviews/madison-beer-new-album-locket-review-1235499390/",
+      "timestamp": "15:52",
+      "source": "automated",
+      "scores": {
+        "impact": 0.7,
+        "engagement": 0.55,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.515
       }
     }
   ],
