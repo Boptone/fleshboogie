@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-15T08:36:13.442Z",
+  "curatedAt": "2026-01-15T09:32:08.355Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "US FEDERAL COURT RULES SONGWRITERS CAN REGAIN COPYRIGHTS GLOBALLY",
-      "url": "https://musically.com/2026/01/15/us-federal-court-rules-songwriters-can-regain-copyrights-globally/",
-      "timestamp": "2026-01-15T08:36:10.444Z",
+      "title": "THIS $2 APP LETS YOU PLAY FLAPPY BIRD ON YOUR GARMIN WATCH, AND I’M HOOKED",
+      "url": "https://www.tomsguide.com/wellness/smartwatches/this-usd2-app-lets-you-play-flappy-bird-on-your-garmin-watch-and-im-hooked",
+      "timestamp": "2026-01-15T09:32:05.364Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.65,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.625
       }
     },
     "deepDive": [
@@ -31,10 +31,10 @@
         }
       },
       {
-        "title": "5 hidden Windows 11 features you need to know about",
-        "url": "https://www.tomsguide.com/computing/windows-operating-systems/5-hidden-windows-11-features-you-need-to-know-about",
-        "timestamp": "05:01",
-        "source": "automated",
+        "title": "Director Alli Haapasalo Talks High-Profile Göteborg Debut ‘Tell Everyone,’ a Period Drama That’s ‘Just as Relevant’ Today as Trailer Debuts (EXCLUSIVE)",
+        "url": "https://variety.com/2026/film/global/alli-haapasalo-tell-everyone-goteborg-bow-levelk-1236631263/",
+        "timestamp": "09:05",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.55,
           "engagement": 0.6,
@@ -59,10 +59,10 @@
     ],
     "discovery": [
       {
-        "title": "5 hidden Windows 11 features you need to know about",
-        "url": "https://www.tomsguide.com/computing/windows-operating-systems/5-hidden-windows-11-features-you-need-to-know-about",
-        "timestamp": "05:01",
-        "source": "automated",
+        "title": "Director Alli Haapasalo Talks High-Profile Göteborg Debut ‘Tell Everyone,’ a Period Drama That’s ‘Just as Relevant’ Today as Trailer Debuts (EXCLUSIVE)",
+        "url": "https://variety.com/2026/film/global/alli-haapasalo-tell-everyone-goteborg-bow-levelk-1236631263/",
+        "timestamp": "09:05",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.55,
           "engagement": 0.6,
@@ -70,9 +70,35 @@
           "discovery": 0.5,
           "composite": 0.49000000000000005
         }
+      },
+      {
+        "title": "AlphaTheta introduces RMX-IGNITE next generation effector",
+        "url": "https://rekkerd.org/alphatheta-introduces-rmx-ignite-next-generation-effector/",
+        "timestamp": "05:56",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.5,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.44
+        }
       }
     ],
     "conversation": [
+      {
+        "title": "THIS $2 APP LETS YOU PLAY FLAPPY BIRD ON YOUR GARMIN WATCH, AND I’M HOOKED",
+        "url": "https://www.tomsguide.com/wellness/smartwatches/this-usd2-app-lets-you-play-flappy-bird-on-your-garmin-watch-and-im-hooked",
+        "timestamp": "2026-01-15T09:32:05.364Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.65,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.625
+        }
+      },
       {
         "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
         "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
@@ -85,49 +111,36 @@
           "discovery": 0.3,
           "composite": 0.52
         }
-      },
-      {
-        "title": "5 things I’d never ask a chatbot — and what you should be asking instead",
-        "url": "https://www.tomsguide.com/ai/5-things-id-never-ask-a-chatbot-and-what-you-should-be-asking-instead",
-        "timestamp": "07:30",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.51
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "US FEDERAL COURT RULES SONGWRITERS CAN REGAIN COPYRIGHTS GLOBALLY",
-        "url": "https://musically.com/2026/01/15/us-federal-court-rules-songwriters-can-regain-copyrights-globally/",
-        "timestamp": "2026-01-15T08:36:10.444Z",
+        "title": "THIS $2 APP LETS YOU PLAY FLAPPY BIRD ON YOUR GARMIN WATCH, AND I’M HOOKED",
+        "url": "https://www.tomsguide.com/wellness/smartwatches/this-usd2-app-lets-you-play-flappy-bird-on-your-garmin-watch-and-im-hooked",
+        "timestamp": "2026-01-15T09:32:05.364Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.65,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.625
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "US FEDERAL COURT RULES SONGWRITERS CAN REGAIN COPYRIGHTS GLOBALLY",
-      "url": "https://musically.com/2026/01/15/us-federal-court-rules-songwriters-can-regain-copyrights-globally/",
-      "timestamp": "2026-01-15T08:36:10.444Z",
+      "title": "THIS $2 APP LETS YOU PLAY FLAPPY BIRD ON YOUR GARMIN WATCH, AND I’M HOOKED",
+      "url": "https://www.tomsguide.com/wellness/smartwatches/this-usd2-app-lets-you-play-flappy-bird-on-your-garmin-watch-and-im-hooked",
+      "timestamp": "2026-01-15T09:32:05.364Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.65,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.625
       }
     },
     {
@@ -144,10 +157,10 @@
       }
     },
     {
-      "title": "5 hidden Windows 11 features you need to know about",
-      "url": "https://www.tomsguide.com/computing/windows-operating-systems/5-hidden-windows-11-features-you-need-to-know-about",
-      "timestamp": "05:01",
-      "source": "automated",
+      "title": "Director Alli Haapasalo Talks High-Profile Göteborg Debut ‘Tell Everyone,’ a Period Drama That’s ‘Just as Relevant’ Today as Trailer Debuts (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/alli-haapasalo-tell-everyone-goteborg-bow-levelk-1236631263/",
+      "timestamp": "09:05",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.55,
         "engagement": 0.6,
@@ -170,16 +183,16 @@
       }
     },
     {
-      "title": "5 things I’d never ask a chatbot — and what you should be asking instead",
-      "url": "https://www.tomsguide.com/ai/5-things-id-never-ask-a-chatbot-and-what-you-should-be-asking-instead",
-      "timestamp": "07:30",
+      "title": "AlphaTheta introduces RMX-IGNITE next generation effector",
+      "url": "https://rekkerd.org/alphatheta-introduces-rmx-ignite-next-generation-effector/",
+      "timestamp": "05:56",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7999999999999999,
+        "engagement": 0.5,
         "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.51
+        "discovery": 0.5,
+        "composite": 0.44
       }
     }
   ],
