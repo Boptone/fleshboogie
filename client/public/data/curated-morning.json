@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-15T07:28:45.709Z",
+  "curatedAt": "2026-01-15T08:36:13.442Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "CHLOÉ ZHAO NAMES HER THREE FILMMAKING MENTORS: \"YOU REALLY FEEL THE ELEVATION\"",
-      "url": "https://faroutmagazine.co.uk/chloe-zhao-names-her-three-filmmaking-mentors/",
-      "timestamp": "2026-01-15T07:28:42.743Z",
+      "title": "US FEDERAL COURT RULES SONGWRITERS CAN REGAIN COPYRIGHTS GLOBALLY",
+      "url": "https://musically.com/2026/01/15/us-federal-court-rules-songwriters-can-regain-copyrights-globally/",
+      "timestamp": "2026-01-15T08:36:10.444Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -44,10 +44,10 @@
         }
       },
       {
-        "title": "Witches, Vampires and Aliens: How Genre Films Like 'Sinners' and 'Weapons' Factor Into the Oscar Race",
-        "url": "https://variety.com/2026/film/actors/horror-movies-vampires-witches-wicked-for-good-sinners-1236631566/",
-        "timestamp": "04:03",
-        "source": "automated",
+        "title": "A$AP Rocky's 'Don't Be Dumb' Album Track List Spans 15 Songs",
+        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
+        "timestamp": "01:54",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
@@ -87,10 +87,10 @@
         }
       },
       {
-        "title": "Eurorack in Techno 2026: Why Does a Modular System Belong in a Modern Techno Setup?",
-        "url": "https://www.gearnews.com/eurorack-in-techno-synths/",
-        "timestamp": "07:00",
-        "source": "mainColumn",
+        "title": "5 things I’d never ask a chatbot — and what you should be asking instead",
+        "url": "https://www.tomsguide.com/ai/5-things-id-never-ask-a-chatbot-and-what-you-should-be-asking-instead",
+        "timestamp": "07:30",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.7999999999999999,
@@ -102,9 +102,9 @@
     ],
     "wildcard": [
       {
-        "title": "CHLOÉ ZHAO NAMES HER THREE FILMMAKING MENTORS: \"YOU REALLY FEEL THE ELEVATION\"",
-        "url": "https://faroutmagazine.co.uk/chloe-zhao-names-her-three-filmmaking-mentors/",
-        "timestamp": "2026-01-15T07:28:42.743Z",
+        "title": "US FEDERAL COURT RULES SONGWRITERS CAN REGAIN COPYRIGHTS GLOBALLY",
+        "url": "https://musically.com/2026/01/15/us-federal-court-rules-songwriters-can-regain-copyrights-globally/",
+        "timestamp": "2026-01-15T08:36:10.444Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -118,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "CHLOÉ ZHAO NAMES HER THREE FILMMAKING MENTORS: \"YOU REALLY FEEL THE ELEVATION\"",
-      "url": "https://faroutmagazine.co.uk/chloe-zhao-names-her-three-filmmaking-mentors/",
-      "timestamp": "2026-01-15T07:28:42.743Z",
+      "title": "US FEDERAL COURT RULES SONGWRITERS CAN REGAIN COPYRIGHTS GLOBALLY",
+      "url": "https://musically.com/2026/01/15/us-federal-court-rules-songwriters-can-regain-copyrights-globally/",
+      "timestamp": "2026-01-15T08:36:10.444Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -157,10 +157,10 @@
       }
     },
     {
-      "title": "Witches, Vampires and Aliens: How Genre Films Like 'Sinners' and 'Weapons' Factor Into the Oscar Race",
-      "url": "https://variety.com/2026/film/actors/horror-movies-vampires-witches-wicked-for-good-sinners-1236631566/",
-      "timestamp": "04:03",
-      "source": "automated",
+      "title": "A$AP Rocky's 'Don't Be Dumb' Album Track List Spans 15 Songs",
+      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
+      "timestamp": "01:54",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
@@ -170,10 +170,10 @@
       }
     },
     {
-      "title": "Eurorack in Techno 2026: Why Does a Modular System Belong in a Modern Techno Setup?",
-      "url": "https://www.gearnews.com/eurorack-in-techno-synths/",
-      "timestamp": "07:00",
-      "source": "mainColumn",
+      "title": "5 things I’d never ask a chatbot — and what you should be asking instead",
+      "url": "https://www.tomsguide.com/ai/5-things-id-never-ask-a-chatbot-and-what-you-should-be-asking-instead",
+      "timestamp": "07:30",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.7999999999999999,
