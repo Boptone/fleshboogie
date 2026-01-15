@@ -1,53 +1,53 @@
 {
-  "curatedAt": "2026-01-15T20:30:34.830Z",
+  "curatedAt": "2026-01-15T21:26:07.059Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "'DENIED ENTRY': TICKET GIANT AXS SUES COMPANY IT SAYS 'SPOOFED' CONCERT TICKETS & BURNED&#160;FANS",
-      "url": "https://www.billboard.com/pro/axs-lawsuit-company-copied-concert-tickets-hurt-fans/",
-      "timestamp": "2026-01-15T20:30:31.873Z",
+      "title": "MEET THE ARTIST IN EL SALVADOR’S FIRST-EVER VENICE BIENNALE PAVILION",
+      "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
+      "timestamp": "2026-01-15T21:26:04.042Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.6,
+        "impact": 0.6,
+        "engagement": 0.55,
         "timeliness": 1,
-        "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "discovery": 0.5,
+        "composite": 0.655
       }
     },
     "deepDive": [
       {
-        "title": "Café Tacvba Reflects on Its Request to Remove Its Music From Spotify: 'This Process is Long, Tedious,&#160;Heavy'",
-        "url": "https://www.billboard.com/music/latin/cafe-tacvba-request-remove-music-spotify-interview-1236155854/",
-        "timestamp": "20:28",
-        "source": "mainColumn",
+        "title": "MEET THE ARTIST IN EL SALVADOR’S FIRST-EVER VENICE BIENNALE PAVILION",
+        "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
+        "timestamp": "2026-01-15T21:26:04.042Z",
+        "source": "splash",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
+          "engagement": 0.55,
+          "timeliness": 1,
+          "discovery": 0.5,
+          "composite": 0.655
         }
       },
       {
-        "title": "This AI artist has three songs in the Spotify viral top 50 and has already fooled Selena Gomez",
-        "url": "https://www.nme.com/news/music/this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez-3923513?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez",
-        "timestamp": "20:26",
+        "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
+        "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
+        "timestamp": "21:11",
         "source": "mainColumn",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.6,
+          "engagement": 0.65,
           "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
+          "discovery": 0.5,
+          "composite": 0.525
         }
       },
       {
-        "title": "Angel to Embark on 2026-2027 Farewell Tour",
-        "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
-        "timestamp": "17:54",
-        "source": "musicReleases",
+        "title": "The Rolling Stones song that saved Brian Wilson's life: \"What I needed\"",
+        "url": "https://faroutmagazine.co.uk/the-rolling-stones-song-saved-brian-wilson-life/",
+        "timestamp": "20:30",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
@@ -57,8 +57,61 @@
         }
       }
     ],
-    "discovery": [],
+    "discovery": [
+      {
+        "title": "MEET THE ARTIST IN EL SALVADOR’S FIRST-EVER VENICE BIENNALE PAVILION",
+        "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
+        "timestamp": "2026-01-15T21:26:04.042Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.55,
+          "timeliness": 1,
+          "discovery": 0.5,
+          "composite": 0.655
+        }
+      },
+      {
+        "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
+        "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
+        "timestamp": "21:11",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.525
+        }
+      },
+      {
+        "title": "'The Pitt' Returns To HBO Max With Nearly 200% U.S. Audience Increase For Season 2 Debut",
+        "url": "https://deadline.com/2026/01/the-pitt-season-2-premiere-ratings-hbo-max-1236684439/",
+        "timestamp": "20:49",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.47000000000000003
+        }
+      }
+    ],
     "conversation": [
+      {
+        "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
+        "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
+        "timestamp": "21:11",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.525
+        }
+      },
       {
         "title": "The Best (and Worst) Solo LP From Every Member of Fleetwood Mac",
         "url": "https://ultimateclassicrock.com/fleetwood-mac-best-solo-albums/",
@@ -71,88 +124,75 @@
           "discovery": 0.3,
           "composite": 0.4800000000000001
         }
-      },
-      {
-        "title": "Save $50 on the OnePlus Watch 3, Which Has Revolutionary Battery Tech",
-        "url": "https://www.wired.com/story/oneplus-watch-3-deal-126/",
-        "timestamp": "19:24",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.4650000000000001
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "'DENIED ENTRY': TICKET GIANT AXS SUES COMPANY IT SAYS 'SPOOFED' CONCERT TICKETS & BURNED&#160;FANS",
-        "url": "https://www.billboard.com/pro/axs-lawsuit-company-copied-concert-tickets-hurt-fans/",
-        "timestamp": "2026-01-15T20:30:31.873Z",
+        "title": "MEET THE ARTIST IN EL SALVADOR’S FIRST-EVER VENICE BIENNALE PAVILION",
+        "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
+        "timestamp": "2026-01-15T21:26:04.042Z",
         "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.6,
+          "impact": 0.6,
+          "engagement": 0.55,
           "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "discovery": 0.5,
+          "composite": 0.655
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "'DENIED ENTRY': TICKET GIANT AXS SUES COMPANY IT SAYS 'SPOOFED' CONCERT TICKETS & BURNED&#160;FANS",
-      "url": "https://www.billboard.com/pro/axs-lawsuit-company-copied-concert-tickets-hurt-fans/",
-      "timestamp": "2026-01-15T20:30:31.873Z",
+      "title": "MEET THE ARTIST IN EL SALVADOR’S FIRST-EVER VENICE BIENNALE PAVILION",
+      "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
+      "timestamp": "2026-01-15T21:26:04.042Z",
       "source": "splash",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.55,
+        "timeliness": 1,
+        "discovery": 0.5,
+        "composite": 0.655
+      }
+    },
+    {
+      "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
+      "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
+      "timestamp": "21:11",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.65,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.525
+      }
+    },
+    {
+      "title": "The Rolling Stones song that saved Brian Wilson's life: \"What I needed\"",
+      "url": "https://faroutmagazine.co.uk/the-rolling-stones-song-saved-brian-wilson-life/",
+      "timestamp": "20:30",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.49
+      }
+    },
+    {
+      "title": "'The Pitt' Returns To HBO Max With Nearly 200% U.S. Audience Increase For Season 2 Debut",
+      "url": "https://deadline.com/2026/01/the-pitt-season-2-premiere-ratings-hbo-max-1236684439/",
+      "timestamp": "20:49",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.6,
-        "timeliness": 1,
-        "discovery": 0.3,
-        "composite": 0.6100000000000001
-      }
-    },
-    {
-      "title": "Café Tacvba Reflects on Its Request to Remove Its Music From Spotify: 'This Process is Long, Tedious,&#160;Heavy'",
-      "url": "https://www.billboard.com/music/latin/cafe-tacvba-request-remove-music-spotify-interview-1236155854/",
-      "timestamp": "20:28",
-      "source": "mainColumn",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
         "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "This AI artist has three songs in the Spotify viral top 50 and has already fooled Selena Gomez",
-      "url": "https://www.nme.com/news/music/this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez-3923513?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez",
-      "timestamp": "20:26",
-      "source": "mainColumn",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "Angel to Embark on 2026-2027 Farewell Tour",
-      "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
-      "timestamp": "17:54",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
+        "discovery": 0.5,
+        "composite": 0.47000000000000003
       }
     },
     {
@@ -166,19 +206,6 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.4800000000000001
-      }
-    },
-    {
-      "title": "Save $50 on the OnePlus Watch 3, Which Has Revolutionary Battery Tech",
-      "url": "https://www.wired.com/story/oneplus-watch-3-deal-126/",
-      "timestamp": "19:24",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.65,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.4650000000000001
       }
     }
   ],

@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "'DENIED ENTRY': TICKET GIANT AXS SUES COMPANY IT SAYS 'SPOOFED' CONCERT TICKETS & BURNED&#160;FANS",
-    "url": "https://www.billboard.com/pro/axs-lawsuit-company-copied-concert-tickets-hurt-fans/",
+    "headline": "MEET THE ARTIST IN EL SALVADOR’S FIRST-EVER VENICE BIENNALE PAVILION",
+    "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Café Tacvba Reflects on Its Request to Remove Its Music From Spotify: 'This Process is Long, Tedious,&#160;Heavy'",
-      "url": "https://www.billboard.com/music/latin/cafe-tacvba-request-remove-music-spotify-interview-1236155854/",
-      "timestamp": "20:28",
+      "title": "Los Angeles Film and TV Shoot Days Hit New Lows In 2025",
+      "url": "https://www.hollywoodreporter.com/business/business-news/los-angeles-film-and-tv-shoot-days-hit-new-lows-2025-1236475402/",
+      "timestamp": "21:21",
       "pinned": false
     },
     {
-      "title": "This AI artist has three songs in the Spotify viral top 50 and has already fooled Selena Gomez",
-      "url": "https://www.nme.com/news/music/this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez-3923513?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez",
-      "timestamp": "20:26",
+      "title": "Inside OpenAI’s Raid on Thinking Machines Lab",
+      "url": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
+      "timestamp": "21:14",
       "pinned": false
     },
     {
-      "title": "Marty Supreme Originally Ended With Him Turning Into A Vampire At A Tears For Fears Concert",
-      "url": "https://stereogum.com/2485574/marty-supreme-vampire-ending-tears-for-fears/news/",
-      "timestamp": "20:21",
+      "title": "Viola Davis’ ‘Food 2050’ Doc Helped Her Envision a Future That's Not Dystopian",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/viola-davis-food-2050-documentary-global-humanitarian-award/",
+      "timestamp": "21:12",
       "pinned": false
     },
     {
-      "title": "Miami’s Crisis of Memory: Eddie Arroyo’s December 3, 2024, 7:10 am Design District, 2025",
-      "url": "https://www.artforum.com/features/close-up-eddie-arroyo-miami-crisis-of-memory-1234742132/",
-      "timestamp": "20:16",
+      "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
+      "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
+      "timestamp": "21:11",
       "pinned": false
     },
     {
-      "title": "Teyana Taylor Walks Back Claim That Leonardo DiCaprio Was Speaking to Her in Viral Golden Globes Clip: “I Had to Call Leo”",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/teyana-taylor-walks-back-leonardo-dicaprio-golden-globes-1236475270/",
-      "timestamp": "20:15",
+      "title": "All The Songs In Peacock’s 'PONIES': From Blondie To Fleetwood Mac",
+      "url": "https://deadline.com/2026/01/ponies-songs-soundtrack-peacock-fleetwood-mac-1236684283/",
+      "timestamp": "21:08",
       "pinned": false
     }
   ],
@@ -105,6 +105,174 @@
   ],
   "automated": [
     {
+      "title": "Meet the Artist in El Salvador’s First-Ever Venice Biennale Pavilion",
+      "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
+      "timestamp": "21:23",
+      "pubDate": "2026-01-15T21:23:19.000Z"
+    },
+    {
+      "title": "Los Angeles Film and TV Shoot Days Hit New Lows In 2025",
+      "url": "https://www.hollywoodreporter.com/business/business-news/los-angeles-film-and-tv-shoot-days-hit-new-lows-2025-1236475402/",
+      "timestamp": "21:21",
+      "pubDate": "2026-01-15T21:21:21.000Z"
+    },
+    {
+      "title": "Inside OpenAI’s Raid on Thinking Machines Lab",
+      "url": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
+      "timestamp": "21:14",
+      "pubDate": "2026-01-15T21:14:23.000Z"
+    },
+    {
+      "title": "Viola Davis’ ‘Food 2050’ Doc Helped Her Envision a Future That's Not Dystopian",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/viola-davis-food-2050-documentary-global-humanitarian-award/",
+      "timestamp": "21:12",
+      "pubDate": "2026-01-15T21:12:39.000Z"
+    },
+    {
+      "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
+      "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
+      "timestamp": "21:11",
+      "pubDate": "2026-01-15T21:11:12.000Z"
+    },
+    {
+      "title": "All The Songs In Peacock’s 'PONIES': From Blondie To Fleetwood Mac",
+      "url": "https://deadline.com/2026/01/ponies-songs-soundtrack-peacock-fleetwood-mac-1236684283/",
+      "timestamp": "21:08",
+      "pubDate": "2026-01-15T21:08:27.000Z"
+    },
+    {
+      "title": "Over 100 Million Ordinals — While Inscription Hype Fades, Bitcoin Quietly Becomes a Top NFT Chain",
+      "url": "https://news.bitcoin.com/over-100-million-ordinals-while-inscription-hype-fades-bitcoin-quietly-becomes-a-top-nft-chain/",
+      "timestamp": "21:06",
+      "pubDate": "2026-01-15T21:06:29.000Z"
+    },
+    {
+      "title": "Foo Fighters Light Up Kia Forum for One-Night Benefit Show",
+      "url": "https://www.hollywoodreporter.com/music/music-news/foo-fighters-kia-forum-show-recap-1236474496/",
+      "timestamp": "21:03",
+      "pubDate": "2026-01-15T21:03:04.000Z"
+    },
+    {
+      "title": "Building an Escape Room Lockbox with the ESP32 Cheap Yellow Display (CYD)",
+      "url": "https://hackaday.com/2026/01/15/building-an-escape-room-lockbox-with-the-esp32-cheap-yellow-display-cyd/",
+      "timestamp": "21:00",
+      "pubDate": "2026-01-15T21:00:16.000Z"
+    },
+    {
+      "title": "Five classic Nina Simone songs that the world needs to hear right now",
+      "url": "https://faroutmagazine.co.uk/five-classic-nina-simone-songs-the-world-needs-to-hear/",
+      "timestamp": "21:00",
+      "pubDate": "2026-01-15T21:00:00.000Z"
+    },
+    {
+      "title": "'Scarlet' Tells a Classical Revenge Story — Just Don't Call It a Shakespeare Adaptation",
+      "url": "https://www.indiewire.com/features/interviews/scarlet-mamoru-hosoda-interview-1235173210/",
+      "timestamp": "21:00",
+      "pubDate": "2026-01-15T21:00:00.000Z"
+    },
+    {
+      "title": "Watch This Glacier Race into the Sea",
+      "url": "https://nautil.us/watch-this-glacier-race-into-the-sea-1261807/",
+      "timestamp": "21:00",
+      "pubDate": "2026-01-15T21:00:00.000Z"
+    },
+    {
+      "title": "Selena Gomez, Hudson Williams Top the Golden Globes Red Carpet Power Rankings",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/selena-gomez-top-golden-globes-red-carpet-power-rankings-1236474412/",
+      "timestamp": "20:55",
+      "pubDate": "2026-01-15T20:55:45.000Z"
+    },
+    {
+      "title": "Taiwan to invest $250B in US semiconductor manufacturing",
+      "url": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
+      "timestamp": "20:52",
+      "pubDate": "2026-01-15T20:52:44.000Z"
+    },
+    {
+      "title": "Billboard's Music Industry Events&#160;Calendar",
+      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "timestamp": "20:50",
+      "pubDate": "2026-01-15T20:50:00.000Z"
+    },
+    {
+      "title": "'The Pitt' Returns To HBO Max With Nearly 200% U.S. Audience Increase For Season 2 Debut",
+      "url": "https://deadline.com/2026/01/the-pitt-season-2-premiere-ratings-hbo-max-1236684439/",
+      "timestamp": "20:49",
+      "pubDate": "2026-01-15T20:49:46.000Z"
+    },
+    {
+      "title": "Justin & Hailey Bieber Threaten to Sue Over Videos Calling Their Marriage Abusive: 'Act at Your Own&#160;Peril'",
+      "url": "https://www.billboard.com/pro/justin-bieber-hailey-bieber-threaten-lawsuit-tiktok-videos/",
+      "timestamp": "20:46",
+      "pubDate": "2026-01-15T20:46:46.000Z"
+    },
+    {
+      "title": "Iam6teen – Escapism",
+      "url": "https://www.stereofox.com/iam6teen-escapism/",
+      "timestamp": "20:45",
+      "pubDate": "2026-01-15T20:45:28.000Z"
+    },
+    {
+      "title": "The band Grace Slick wanted to forget: \"God, it was just dumb\"",
+      "url": "https://faroutmagazine.co.uk/the-band-grace-slick-wanted-to-forget/",
+      "timestamp": "20:45",
+      "pubDate": "2026-01-15T20:45:00.000Z"
+    },
+    {
+      "title": "'The White Lotus': Chris Messina Circling New Role In Next Season Of HBO Series – The Dish",
+      "url": "https://deadline.com/2026/01/white-lotus-season-4-chris-messina-cast-1236684363/",
+      "timestamp": "20:45",
+      "pubDate": "2026-01-15T20:45:00.000Z"
+    },
+    {
+      "title": "Baidu&#39;s ERNIE 5 AI Model Rises Up the Rankings—A Math Wiz That Beats OpenAI&#39;s GPT 5.1",
+      "url": "https://decrypt.co/354772/baidu-ernie-5-ai-model-rises-rankings-math-wiz-beats-gpt",
+      "timestamp": "20:37",
+      "pubDate": "2026-01-15T20:37:45.000Z"
+    },
+    {
+      "title": "Neon's Park Chan-Wook Movie 'No Other Choice' To Become Second Highest-Grossing Korean Release In U.S.; Looks To Topple Director's Top-Grossing Pic WW 'The Handmaiden'",
+      "url": "https://deadline.com/2026/01/box-office-no-other-choice-park-chan-wook-1236684374/",
+      "timestamp": "20:37",
+      "pubDate": "2026-01-15T20:37:04.000Z"
+    },
+    {
+      "title": "'The Pitt' Season 2 Premiere Scores 5.4 Million Viewers, Up 200% From Last Season",
+      "url": "https://www.thewrap.com/media-platforms/tv/the-pitt-season-2-premiere-ratings-hbo-max/",
+      "timestamp": "20:35",
+      "pubDate": "2026-01-15T20:35:45.000Z"
+    },
+    {
+      "title": "Pamela Anderson Is Still Waiting for Seth Rogen to 'Reach Out and Apologize' for 'Pam & Tommy'",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/pamela-anderson-seth-rogen-apology-pam-tommy-series-1235500132/",
+      "timestamp": "20:35",
+      "pubDate": "2026-01-15T20:35:19.000Z"
+    },
+    {
+      "title": "'The Pitt' Season 2 Premiere Hits 5.4 Million Viewers in Three Days, Up 200% From Last Year",
+      "url": "https://variety.com/2026/tv/news/the-pitt-season-2-premiere-ratings-1236632668/",
+      "timestamp": "20:34",
+      "pubDate": "2026-01-15T20:34:49.000Z"
+    },
+    {
+      "title": "Elevate Entertainment Signs Rampage Jackson & Producing Partner Joel Silverman",
+      "url": "https://deadline.com/2026/01/elevate-entertainment-rampage-jackson-joel-silverman-1236684399/",
+      "timestamp": "20:32",
+      "pubDate": "2026-01-15T20:32:47.000Z"
+    },
+    {
+      "title": "The Rolling Stones song that saved Brian Wilson's life: \"What I needed\"",
+      "url": "https://faroutmagazine.co.uk/the-rolling-stones-song-saved-brian-wilson-life/",
+      "timestamp": "20:30",
+      "pubDate": "2026-01-15T20:30:00.000Z"
+    },
+    {
+      "title": "How 'No Other Choice' Turns a House Into a Capitalist Nightmare",
+      "url": "https://www.indiewire.com/features/interviews/park-chan-wook-no-other-choice-director-interview-house-1235159060/",
+      "timestamp": "20:30",
+      "pubDate": "2026-01-15T20:30:00.000Z"
+    },
+    {
       "title": "'Denied Entry': Ticket Giant AXS Sues Company It Says 'Spoofed' Concert Tickets & Burned&#160;Fans",
       "url": "https://www.billboard.com/pro/axs-lawsuit-company-copied-concert-tickets-hurt-fans/",
       "timestamp": "20:29",
@@ -123,10 +291,10 @@
       "pubDate": "2026-01-15T20:26:57.000Z"
     },
     {
-      "title": "Marty Supreme Originally Ended With Him Turning Into A Vampire At A Tears For Fears Concert",
-      "url": "https://stereogum.com/2485574/marty-supreme-vampire-ending-tears-for-fears/news/",
-      "timestamp": "20:21",
-      "pubDate": "2026-01-15T20:21:16.000Z"
+      "title": "AudioThing updates Space Strip effect plugin to v1.3 (incl. iOS)",
+      "url": "https://rekkerd.org/audiothing-updates-space-strip-effect-plugin-to-v1-3-incl-ios/",
+      "timestamp": "20:22",
+      "pubDate": "2026-01-15T20:22:48.000Z"
     },
     {
       "title": "Miami’s Crisis of Memory: Eddie Arroyo’s December 3, 2024, 7:10 am Design District, 2025",
@@ -175,191 +343,43 @@
       "url": "https://www.rollingstone.com/product-recommendations/lifestyle/buy-asap-rocky-dont-be-dumb-vinyl-quince-merch-tee-1235500002/",
       "timestamp": "20:01",
       "pubDate": "2026-01-15T20:01:34.000Z"
-    },
-    {
-      "title": "Mick Fleetwood names the true leader of Fleetwood Mac: \"Took the bull by the horns\"",
-      "url": "https://faroutmagazine.co.uk/mick-fleetwood-names-the-true-leader-of-fleetwood-mac/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-15T20:00:00.000Z"
-    },
-    {
-      "title": "'Splitsville' Director Michael Angelo Covino Boards Netflix Comedy 'Last Fix'",
-      "url": "https://deadline.com/2026/01/splitsville-director-michael-angelo-covino-last-fix-1236684063/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-15T20:00:00.000Z"
-    },
-    {
-      "title": "Dakota Fanning Stars In Thriller Series Greenlighted By Apple TV From Alex Cary & Sony Pictures TV",
-      "url": "https://deadline.com/2026/01/dakota-fanning-thriller-apple-tv-series-alex-cary-1236684295/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-15T20:00:00.000Z"
-    },
-    {
-      "title": "Los Angeles On-Location Production Down 16.1% In 2025, But California's Revamped Tax Incentive Helps Fuel Small Growth In Q4 — Report",
-      "url": "https://deadline.com/2026/01/los-angeles-film-tv-on-location-production-2025-q4-filmla-1236684296/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-15T20:00:00.000Z"
-    },
-    {
-      "title": "'This Is Us' Alum Chris Sullivan Cast In ABC's 'The Rookie: North' Pilot",
-      "url": "https://deadline.com/2026/01/chris-sullivan-cast-abc-the-rookie-north-pilot-1236684330/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-15T20:00:00.000Z"
-    },
-    {
-      "title": "The Oscars Can’t Pretend Anime Doesn’t Exist Anymore",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/demon-slayer-kpop-demon-hunters-oscars-anime-1236473970/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-15T20:00:00.000Z"
-    },
-    {
-      "title": "'The Housemaid' Hits $200 Million Globally as Sydney Sweeney Preps Sequel",
-      "url": "https://variety.com/2026/film/box-office/housemaid-box-office-200-million-milestone-sydney-sweeney-amanda-seyfried-1236632546/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-15T20:00:00.000Z"
-    },
-    {
-      "title": "'Baywatch' Reboot Sets Open Casting Call; Performers Encouraged to Dress 'Baywatch Ready' but 'Avoid Overly Revealing Styles'",
-      "url": "https://variety.com/2026/tv/news/baywatch-reboot-open-casting-call-revealing-swimsuits-1236632613/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-15T20:00:00.000Z"
-    },
-    {
-      "title": "Creatorverse: Dubai Is Angling to Be Creator Home Base",
-      "url": "https://www.thewrap.com/commentary-analysis/columns/creatorverse-dubai-creator-home-base/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-15T20:00:00.000Z"
-    },
-    {
-      "title": "'Baywatch' Reboot Sets Open Casting Call in LA",
-      "url": "https://www.thewrap.com/industry-news/casting/baywatch-reboot-sets-open-casting-call-in-los-angeles/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-15T20:00:00.000Z"
-    },
-    {
-      "title": "Karoline Leavitt Melts Down Over Renee Good Question: 'You're a Left-Wing Hack' &#124; Video",
-      "url": "https://www.thewrap.com/media-platforms/journalism/karoline-leavitt-melts-down-over-renee-good-question/",
-      "timestamp": "19:55",
-      "pubDate": "2026-01-15T19:55:43.000Z"
-    },
-    {
-      "title": "Who Owns DMX’s Legacy?",
-      "url": "https://www.rollingstone.com/music/music-features/dmx-ordained-minister-church-legacy-1235498352/",
-      "timestamp": "19:47",
-      "pubDate": "2026-01-15T19:47:13.000Z"
-    },
-    {
-      "title": "Flaw in 17 Google Fast Pair audio devices could let hackers eavesdrop",
-      "url": "https://www.engadget.com/cybersecurity/flaw-in-17-google-fast-pair-audio-devices-could-let-hackers-eavesdrop-194613456.html?src=rss",
-      "timestamp": "19:46",
-      "pubDate": "2026-01-15T19:46:13.000Z"
-    },
-    {
-      "title": "The one guitarist Eddie Van Halen though could make his song better: \"I wish somebody would take that technique\"",
-      "url": "https://faroutmagazine.co.uk/one-guitarist-eddie-van-halen-though-could-make-his-song-better/",
-      "timestamp": "19:45",
-      "pubDate": "2026-01-15T19:45:03.000Z"
-    },
-    {
-      "title": "The most important star in modern Hollywood, according to Gwyneth Paltrow: \"She was that person\"",
-      "url": "https://faroutmagazine.co.uk/most-important-star-in-modern-hollywood-according-to-gwyneth-paltrow/",
-      "timestamp": "19:45",
-      "pubDate": "2026-01-15T19:45:00.000Z"
-    },
-    {
-      "title": "Robert Downey Jr. Calls Timothée Chalamet's 'Marty Supreme' Turn \"A Generation-Defining Performance\" in \"A Decade-Defining Film\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-downey-jr-praises-timothee-chalamet-marty-supreme-1236475044/",
-      "timestamp": "19:42",
-      "pubDate": "2026-01-15T19:42:18.000Z"
-    },
-    {
-      "title": "A View From the Easel",
-      "url": "https://hyperallergic.com/a-view-from-the-easel-320/",
-      "timestamp": "19:39",
-      "pubDate": "2026-01-15T19:39:30.000Z"
-    },
-    {
-      "title": "Building a Carousel Autosampler",
-      "url": "https://hackaday.com/2026/01/15/building-a-carousel-autosampler/",
-      "timestamp": "19:30",
-      "pubDate": "2026-01-15T19:30:27.000Z"
-    },
-    {
-      "title": "Did Elvis Presley really die of \"chronic constipation\"?",
-      "url": "https://faroutmagazine.co.uk/did-elvis-presley-really-die-of-chronic-constipation/",
-      "timestamp": "19:30",
-      "pubDate": "2026-01-15T19:30:00.000Z"
-    },
-    {
-      "title": "Kiernan Shipka Came of Age as Sally Draper. Now She’s Grown Up Enough for ‘Industry’",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/kiernan-shipka-interview-industry-mad-men-1236473540/",
-      "timestamp": "19:30",
-      "pubDate": "2026-01-15T19:30:00.000Z"
-    },
-    {
-      "title": "Jack O'Connell on Going From 'Sinners' to '28 Years Later: The Bone Temple' and His 'Amazing Year' of Villains: 'It Was Nothing but Sheer Luck'",
-      "url": "https://variety.com/2026/film/global/jack-o-connell-28-years-later-bone-temple-sinners-villains-1236630985/",
-      "timestamp": "19:30",
-      "pubDate": "2026-01-15T19:30:00.000Z"
-    },
-    {
-      "title": "Disney+ Boards Will Forte's 'The Last Man on Earth' Remake With Artus, the French Star of 'A Little Something Extra' (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/disney-boards-will-forte-the-last-man-on-earth-artus-1236632395/",
-      "timestamp": "19:30",
-      "pubDate": "2026-01-15T19:30:00.000Z"
-    },
-    {
-      "title": "Save $50 on the OnePlus Watch 3, Which Has Revolutionary Battery Tech",
-      "url": "https://www.wired.com/story/oneplus-watch-3-deal-126/",
-      "timestamp": "19:24",
-      "pubDate": "2026-01-15T19:24:56.000Z"
-    },
-    {
-      "title": "DDA Hires Matt Andrée Wiltens, Ryan Smith for Key Roles in Los Angeles",
-      "url": "https://variety.com/2026/film/news/dda-hires-matt-andree-wiltens-ryan-smith-los-angeles-1236631912/",
-      "timestamp": "19:21",
-      "pubDate": "2026-01-15T19:21:01.000Z"
-    },
-    {
-      "title": "'Industry' Season 4 Premiere Viewership Jumps 20% From Season 3",
-      "url": "https://variety.com/2026/tv/news/industry-season-4-premiere-ratings-1236632570/",
-      "timestamp": "19:16",
-      "pubDate": "2026-01-15T19:16:40.000Z"
-    },
-    {
-      "title": "When Jamie Lee Curtis begged Jack Black to rescue her: \"Where the fuck are you?\"",
-      "url": "https://faroutmagazine.co.uk/when-jamie-lee-curtis-begged-jack-black-to-rescue-her/",
-      "timestamp": "19:15",
-      "pubDate": "2026-01-15T19:15:00.000Z"
-    },
-    {
-      "title": "Why Real Palm Beachers Are Up in Arms Over Netflix’s ‘Members Only’",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/members-only-palm-beach-netflix-reactions-1236474253/",
-      "timestamp": "19:15",
-      "pubDate": "2026-01-15T19:15:00.000Z"
-    },
-    {
-      "title": "Why Stars Keep Dragging Their Moms to the Golden Globes",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/leonardo-dicaprio-glen-powell-moms-golden-globes-2026-1236474266/",
-      "timestamp": "19:15",
-      "pubDate": "2026-01-15T19:15:00.000Z"
     }
   ],
   "musicReleases": [
     {
+      "title": "Five classic Nina Simone songs that the world needs to hear right now",
+      "url": "https://faroutmagazine.co.uk/five-classic-nina-simone-songs-the-world-needs-to-hear/",
+      "timestamp": "21:00"
+    },
+    {
+      "title": "Billboard's Music Industry Events&#160;Calendar",
+      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "timestamp": "20:50"
+    },
+    {
+      "title": "Justin & Hailey Bieber Threaten to Sue Over Videos Calling Their Marriage Abusive: 'Act at Your Own&#160;Peril'",
+      "url": "https://www.billboard.com/pro/justin-bieber-hailey-bieber-threaten-lawsuit-tiktok-videos/",
+      "timestamp": "20:46"
+    },
+    {
+      "title": "Iam6teen – Escapism",
+      "url": "https://www.stereofox.com/iam6teen-escapism/",
+      "timestamp": "20:45"
+    },
+    {
+      "title": "The band Grace Slick wanted to forget: \"God, it was just dumb\"",
+      "url": "https://faroutmagazine.co.uk/the-band-grace-slick-wanted-to-forget/",
+      "timestamp": "20:45"
+    },
+    {
+      "title": "The Rolling Stones song that saved Brian Wilson's life: \"What I needed\"",
+      "url": "https://faroutmagazine.co.uk/the-rolling-stones-song-saved-brian-wilson-life/",
+      "timestamp": "20:30"
+    },
+    {
       "title": "'Denied Entry': Ticket Giant AXS Sues Company It Says 'Spoofed' Concert Tickets & Burned&#160;Fans",
       "url": "https://www.billboard.com/pro/axs-lawsuit-company-copied-concert-tickets-hurt-fans/",
       "timestamp": "20:29"
-    },
-    {
-      "title": "Café Tacvba Reflects on Its Request to Remove Its Music From Spotify: 'This Process is Long, Tedious,&#160;Heavy'",
-      "url": "https://www.billboard.com/music/latin/cafe-tacvba-request-remove-music-spotify-interview-1236155854/",
-      "timestamp": "20:28"
-    },
-    {
-      "title": "Marty Supreme Originally Ended With Him Turning Into A Vampire At A Tears For Fears Concert",
-      "url": "https://stereogum.com/2485574/marty-supreme-vampire-ending-tears-for-fears/news/",
-      "timestamp": "20:21"
     },
     {
       "title": "Not For Radio's Winter in the Garden Tour Casts a Trippy Spell",
@@ -367,34 +387,14 @@
       "timestamp": "20:15"
     },
     {
-      "title": "Jelly Roll, Alejandro Sanz & Grupo Frontera to Headline Carín León's La Cura&#160;Fest",
-      "url": "https://www.billboard.com/music/latin/jelly-roll-grupo-frontera-carin-leon-la-cura-fest-headliners-1236155909/",
-      "timestamp": "20:11"
-    },
-    {
       "title": "Lauryn Hill Pays Tribute to John Forté: ‘This Loss Is Surreal…My Heart Aches’",
       "url": "https://www.rollingstone.com/music/music-news/lauryn-hill-pays-tribute-john-forte-1235500225/",
       "timestamp": "20:09"
     },
     {
-      "title": "Mick Fleetwood names the true leader of Fleetwood Mac: \"Took the bull by the horns\"",
-      "url": "https://faroutmagazine.co.uk/mick-fleetwood-names-the-true-leader-of-fleetwood-mac/",
-      "timestamp": "20:00"
-    },
-    {
       "title": "Who Owns DMX’s Legacy?",
       "url": "https://www.rollingstone.com/music/music-features/dmx-ordained-minister-church-legacy-1235498352/",
       "timestamp": "19:47"
-    },
-    {
-      "title": "The one guitarist Eddie Van Halen though could make his song better: \"I wish somebody would take that technique\"",
-      "url": "https://faroutmagazine.co.uk/one-guitarist-eddie-van-halen-though-could-make-his-song-better/",
-      "timestamp": "19:45"
-    },
-    {
-      "title": "The most important star in modern Hollywood, according to Gwyneth Paltrow: \"She was that person\"",
-      "url": "https://faroutmagazine.co.uk/most-important-star-in-modern-hollywood-according-to-gwyneth-paltrow/",
-      "timestamp": "19:45"
     },
     {
       "title": "Nigel Farage tricked into paying tribute to late paedophile and shamed Lostprophets singer Ian Watkins on Cameo",
@@ -447,5 +447,5 @@
       "timestamp": "14:51"
     }
   ],
-  "lastUpdated": "2026-01-15T20:30:31.873Z"
+  "lastUpdated": "2026-01-15T21:26:04.042Z"
 }
