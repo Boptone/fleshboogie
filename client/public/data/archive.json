@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "headline": "VERIZON SAYS ITS SERVICE IS BACK AFTER A 10-HOUR OUTAGE",
+      "url": "https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss",
+      "date": "2026-01-15T03:47:38.925Z"
+    },
+    {
       "headline": "A$AP ROCKY'S 'DON'T BE DUMB' ALBUM TRACK LIST SPANS 15 SONGS",
       "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
       "date": "2026-01-15T01:58:41.888Z"
@@ -536,5 +541,5 @@
       "date": "2026-01-06T22:20:25.062Z"
     }
   ],
-  "lastUpdated": "2026-01-15T01:58:41.888Z"
+  "lastUpdated": "2026-01-15T03:47:38.925Z"
 }

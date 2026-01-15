@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "A$AP ROCKY'S 'DON'T BE DUMB' ALBUM TRACK LIST SPANS 15 SONGS",
-    "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
+    "headline": "VERIZON SAYS ITS SERVICE IS BACK AFTER A 10-HOUR OUTAGE",
+    "url": "https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Ripple Expands 75-License Footprint After Securing Preliminary New EU Approval",
-      "url": "https://news.bitcoin.com/ripple-expands-75-license-footprint-after-securing-preliminary-new-eu-approval/",
-      "timestamp": "01:30",
+      "title": "Solana Mobile to airdrop 1.8B SKR tokens to users, 141M to devs",
+      "url": "https://cointelegraph.com/news/solana-mobile-airdrop-nearly-2b-seeker-users-and-devs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "03:29",
       "pinned": false
     },
     {
-      "title": "Buchla and Friends 2026: Everything You Need to Know About the Synth Anti-NAMM",
-      "url": "https://www.gearnews.com/buchla-and-friends-2026-synth/",
-      "timestamp": "01:12",
+      "title": "Nene Leakes Sets Bravo Return With 'Real Housewives: Ultimate Road Trip': \"This Has Been A Really Long, Long Journey\"",
+      "url": "https://deadline.com/2026/01/nene-leakes-bravo-return-real-housewives-ultimate-road-trip-1236683727/",
+      "timestamp": "03:27",
       "pinned": false
     },
     {
-      "title": "'Late Shift' Director Breaks Down Her Swiss Film's Spin on 'The Pitt'",
-      "url": "https://www.thewrap.com/industry-news/awards/late-shift-intereview-petra-volpe-the-pitt/",
-      "timestamp": "01:11",
+      "title": "Bravo Reveals ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Cast: See Who's Hitting the Road From Each Franchise",
+      "url": "https://www.hollywoodreporter.com/lists/real-housewives-ultimate-girls-road-trip-cast/",
+      "timestamp": "03:25",
       "pinned": false
     },
     {
-      "title": "The one actor Denis Villeneuve said was capable of doing anything: \"Really impressive\"",
-      "url": "https://faroutmagazine.co.uk/the-actor-denis-villeneuve-called-capable-of-doing-anything/",
-      "timestamp": "01:00",
+      "title": "'Ultimate Girls Trip' Cast: Bravo Assembles Seven Real Housewives All-Stars to Celebrate Franchise Turning 20",
+      "url": "https://variety.com/2026/tv/news/real-housewives-ultimate-girls-trip-cast-lisa-barlow-kyle-richards-nene-leakes-1236631751/",
+      "timestamp": "03:25",
       "pinned": false
     },
     {
-      "title": "Scott Cooper to direct Roswell UFO thriller for 20th Century Studios",
-      "url": "https://www.joblo.com/scott-cooper-roswell-ufo-movie/",
-      "timestamp": "00:50",
+      "title": "TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens",
+      "url": "https://decrypt.co/354684/td-cowen-trims-strategy-price-target-bitcoin-yield",
+      "timestamp": "03:07",
       "pinned": false
     }
   ],
@@ -105,6 +105,108 @@
   ],
   "automated": [
     {
+      "title": "Verizon says its service is back after a 10-hour outage",
+      "url": "https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss",
+      "timestamp": "03:39",
+      "pubDate": "2026-01-15T03:39:40.000Z"
+    },
+    {
+      "title": "Solana Mobile to airdrop 1.8B SKR tokens to users, 141M to devs",
+      "url": "https://cointelegraph.com/news/solana-mobile-airdrop-nearly-2b-seeker-users-and-devs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "03:29",
+      "pubDate": "2026-01-15T03:29:28.000Z"
+    },
+    {
+      "title": "Nene Leakes Sets Bravo Return With 'Real Housewives: Ultimate Road Trip': \"This Has Been A Really Long, Long Journey\"",
+      "url": "https://deadline.com/2026/01/nene-leakes-bravo-return-real-housewives-ultimate-road-trip-1236683727/",
+      "timestamp": "03:27",
+      "pubDate": "2026-01-15T03:27:17.000Z"
+    },
+    {
+      "title": "Bravo Reveals ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Cast: See Who's Hitting the Road From Each Franchise",
+      "url": "https://www.hollywoodreporter.com/lists/real-housewives-ultimate-girls-road-trip-cast/",
+      "timestamp": "03:25",
+      "pubDate": "2026-01-15T03:25:00.000Z"
+    },
+    {
+      "title": "'Ultimate Girls Trip' Cast: Bravo Assembles Seven Real Housewives All-Stars to Celebrate Franchise Turning 20",
+      "url": "https://variety.com/2026/tv/news/real-housewives-ultimate-girls-trip-cast-lisa-barlow-kyle-richards-nene-leakes-1236631751/",
+      "timestamp": "03:25",
+      "pubDate": "2026-01-15T03:25:00.000Z"
+    },
+    {
+      "title": "TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens",
+      "url": "https://decrypt.co/354684/td-cowen-trims-strategy-price-target-bitcoin-yield",
+      "timestamp": "03:07",
+      "pubDate": "2026-01-15T03:07:28.000Z"
+    },
+    {
+      "title": "The world lost the chance to see Pedro Pascal in the Wild West: \"I wrote letters and stuff\"",
+      "url": "https://faroutmagazine.co.uk/movie-pedro-pascal-desperately-wanted/",
+      "timestamp": "03:00",
+      "pubDate": "2026-01-15T03:00:00.000Z"
+    },
+    {
+      "title": "These 3 hidden iPhone features will stop you from doom scrolling so you actually get the sleep you need — here's how to find them",
+      "url": "https://www.tomsguide.com/wellness/sleep/these-3-hidden-iphone-features-will-stop-you-from-doom-scrolling-so-you-actually-get-the-sleep-you-need-heres-how-to-find-them",
+      "timestamp": "03:00",
+      "pubDate": "2026-01-15T03:00:00.000Z"
+    },
+    {
+      "title": "Bob Weir to Be Honored at San Francisco Celebration",
+      "url": "https://www.rollingstone.com/music/music-news/bob-weir-celebration-san-francisco-1235499411/",
+      "timestamp": "02:37",
+      "pubDate": "2026-01-15T02:37:45.000Z"
+    },
+    {
+      "title": "Carol Burnett, Laura Dern on 'Palm Royale' Finale Twist and Secret Dinners With the Late Diane Ladd",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/palm-royale-finale-twist-carol-burnett-laura-dern-interview-1236451267/",
+      "timestamp": "02:30",
+      "pubDate": "2026-01-15T02:30:00.000Z"
+    },
+    {
+      "title": "Radford Lot to Be Turned Over to Lenders After Hackman Defaults (Report)",
+      "url": "https://variety.com/2026/film/news/radford-lot-goldman-hackman-capital-partners-1236631832/",
+      "timestamp": "02:22",
+      "pubDate": "2026-01-15T02:22:39.000Z"
+    },
+    {
+      "title": "'Palm Royale' Boss Explains Carol Burnett's Finale Song and Season 3 Hopes",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/palm-royale-season-2-episode-10-creator-abe-sylvia-interview-carol-burnett-song/",
+      "timestamp": "02:20",
+      "pubDate": "2026-01-15T02:20:06.000Z"
+    },
+    {
+      "title": "Brilant Milazimi to Represent Republic of Kosovo at 61st Venice Biennale",
+      "url": "https://www.artforum.com/news/brilant-milazimi-to-represent-kosovo-at-61-venice-biennale-1234742099/",
+      "timestamp": "02:19",
+      "pubDate": "2026-01-15T02:19:51.000Z"
+    },
+    {
+      "title": "California College of the Arts to Close in 2027",
+      "url": "https://www.artforum.com/news/california-college-of-the-arts-will-close-in-2027-1234742093/",
+      "timestamp": "02:17",
+      "pubDate": "2026-01-15T02:17:07.000Z"
+    },
+    {
+      "title": "XRP Holds Technical Footing as Ripple’s Expanding Global Regulatory Footprint Strengthens Bullish Narrative",
+      "url": "https://news.bitcoin.com/xrp-holds-technical-footing-as-ripples-expanding-global-regulatory-footprint-strengthens-bullish-narrative/",
+      "timestamp": "02:16",
+      "pubDate": "2026-01-15T02:16:18.000Z"
+    },
+    {
+      "title": "The Mystery Person Leonardo DiCaprio Was Talking to in Viral Golden Globes Clip Revealed",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/leonardo-dicaprio-viral-golden-globes-clip-teyana-taylor-1236474578/",
+      "timestamp": "02:02",
+      "pubDate": "2026-01-15T02:02:00.000Z"
+    },
+    {
+      "title": "Who is General Smith from the Geese song grooving '100 Horses'?",
+      "url": "https://faroutmagazine.co.uk/general-smith-from-geese-grooving-100-horses/",
+      "timestamp": "02:00",
+      "pubDate": "2026-01-15T02:00:00.000Z"
+    },
+    {
       "title": "A$AP Rocky's 'Don't Be Dumb' Album Track List Spans 15 Songs",
       "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
       "timestamp": "01:54",
@@ -159,12 +261,6 @@
       "pubDate": "2026-01-15T00:27:54.000Z"
     },
     {
-      "title": "Verizon outage: Voice and data services down for many customers",
-      "url": "https://www.engadget.com/big-tech/verizon-outage-voice-and-data-services-down-for-many-customers-183048956.html?src=rss",
-      "timestamp": "00:26",
-      "pubDate": "2026-01-15T00:26:53.000Z"
-    },
-    {
       "title": "How Johnny Sequoyah, Breakout Star of 'Primate,' Used Jane Goodall's Life to Inspire Terrifying Lead Role",
       "url": "https://variety.com/2026/film/news/johnny-sequoyah-primate-monkey-horror-jane-goodall-1236631726/",
       "timestamp": "00:12",
@@ -213,34 +309,10 @@
       "pubDate": "2026-01-15T00:02:02.000Z"
     },
     {
-      "title": "Today's Wordle answer and hints for #1671 on January 15",
-      "url": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=heres-the-wordle-answer-for-today",
-      "timestamp": "00:01",
-      "pubDate": "2026-01-15T00:01:34.000Z"
-    },
-    {
       "title": "Dad Makes Kid's Balance Bike Into Electric Snow Trike Like a Boss",
       "url": "https://hackaday.com/2026/01/14/dad-makes-kids-balance-bike-into-electric-snow-trike-like-a-boss/",
       "timestamp": "00:00",
       "pubDate": "2026-01-15T00:00:47.000Z"
-    },
-    {
-      "title": "'Connections' answers and hints for today, January 15",
-      "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=connections-answers-hints-groups-today",
-      "timestamp": "00:00",
-      "pubDate": "2026-01-15T00:00:27.000Z"
-    },
-    {
-      "title": "Globle answer today – here’s the answer and hints for January 15",
-      "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globle-hint-answer-today",
-      "timestamp": "00:00",
-      "pubDate": "2026-01-15T00:00:17.000Z"
-    },
-    {
-      "title": "Framed answer today – here’s the solution for January 15",
-      "url": "https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=framed-answer-today",
-      "timestamp": "00:00",
-      "pubDate": "2026-01-15T00:00:09.000Z"
     },
     {
       "title": "The singer Madonna called \"eternally tortured\"",
@@ -271,81 +343,24 @@
       "url": "https://www.billboard.com/music/latin/yeison-jimenez-memorial-movistar-arena-bogota-paola-jara-1236155359/",
       "timestamp": "23:16",
       "pubDate": "2026-01-14T23:16:03.000Z"
-    },
-    {
-      "title": "Building Smart AI Agents: A Practical Guide to LangGraph Design Patterns",
-      "url": "https://pub.towardsai.net/building-smart-ai-agents-a-practical-guide-to-langgraph-design-patterns-65d160709b94?source=rss----98111c9905da---4",
-      "timestamp": "23:03",
-      "pubDate": "2026-01-14T23:03:16.000Z"
-    },
-    {
-      "title": "ICE Reportedly Stole a 10th Grader’s Phone, Then Seemingly Sold It for Cash",
-      "url": "https://futurism.com/future-society/ice-phone-teenager",
-      "timestamp": "23:01",
-      "pubDate": "2026-01-14T23:01:38.000Z"
-    },
-    {
-      "title": "'Star Trek: Starfleet Academy' Boss Alex Kurtzman Credits His Son With Shaping Newest Entry in Franchise",
-      "url": "https://variety.com/2026/tv/news/star-trek-starfleet-academy-preview-alex-kurtzman-1236630472/",
-      "timestamp": "23:00",
-      "pubDate": "2026-01-14T23:00:00.000Z"
-    },
-    {
-      "title": "The Search for Where Consciousness Lives in the Brain",
-      "url": "https://nautil.us/the-search-for-where-consciousness-lives-in-the-brain-1261596/",
-      "timestamp": "23:00",
-      "pubDate": "2026-01-14T23:00:00.000Z"
-    },
-    {
-      "title": "Here's How to Watch 'Fear Factor: House of Fear' Reboot Online for&#160;Free",
-      "url": "https://www.billboard.com/culture/product-recommendations/watch-fear-factor-house-of-fear-reboot-online-free-1236155344/",
-      "timestamp": "22:58",
-      "pubDate": "2026-01-14T22:58:55.000Z"
-    },
-    {
-      "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
-      "url": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
-      "timestamp": "22:48",
-      "pubDate": "2026-01-14T22:48:32.000Z"
-    },
-    {
-      "title": "Netflix will air new video podcasts from Pete Davidson and Michael Irvin this month",
-      "url": "https://www.engadget.com/entertainment/streaming/netflix-will-air-new-video-podcasts-from-pete-davidson-and-michael-irvin-this-month-224353011.html?src=rss",
-      "timestamp": "22:43",
-      "pubDate": "2026-01-14T22:43:53.000Z"
-    },
-    {
-      "title": "I Played a Tribute Show for Bob Weir. It Was Heartbreaking and Healing",
-      "url": "https://www.hollywoodreporter.com/music/music-features/bob-weir-tribute-show-eggy-column-1236474200/",
-      "timestamp": "22:41",
-      "pubDate": "2026-01-14T22:41:34.000Z"
-    },
-    {
-      "title": "Ziggy Marley, Billy Eichner, Tiffany Haddish & More Join 'Yo Gabba GabbaLand!' in Season 2: Watch the&#160;Trailer",
-      "url": "https://www.billboard.com/culture/tv-film/yo-gabba-gabbaland-season-2-trailer-watch-1236155327/",
-      "timestamp": "22:39",
-      "pubDate": "2026-01-14T22:39:42.000Z"
-    },
-    {
-      "title": "You can’t spell emotion without emo: Why the genre is coming back in 2026",
-      "url": "https://faroutmagazine.co.uk/you-cant-spell-emotion-without-emo-genre-2026/",
-      "timestamp": "22:30",
-      "pubDate": "2026-01-14T22:30:00.000Z"
-    },
-    {
-      "title": "'Fallout' Star Justin Theroux on Kicking Down the House With Walton Goggins",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/fallout-season-2-justin-theroux-walton-goggins-interview-1236474120/",
-      "timestamp": "22:30",
-      "pubDate": "2026-01-14T22:30:00.000Z"
-    },
-    {
-      "title": "KXLLSWXTCH Makes Space for Discomfort on Latest Project ‘EYESORE’",
-      "url": "https://www.spin.com/2026/01/kxllswxtch-makes-space-for-discomfort-on-latest-project-eyesore/",
-      "timestamp": "22:29",
-      "pubDate": "2026-01-14T22:29:12.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "The world lost the chance to see Pedro Pascal in the Wild West: \"I wrote letters and stuff\"",
+      "url": "https://faroutmagazine.co.uk/movie-pedro-pascal-desperately-wanted/",
+      "timestamp": "03:00"
+    },
+    {
+      "title": "Bob Weir to Be Honored at San Francisco Celebration",
+      "url": "https://www.rollingstone.com/music/music-news/bob-weir-celebration-san-francisco-1235499411/",
+      "timestamp": "02:37"
+    },
+    {
+      "title": "Who is General Smith from the Geese song grooving '100 Horses'?",
+      "url": "https://faroutmagazine.co.uk/general-smith-from-geese-grooving-100-horses/",
+      "timestamp": "02:00"
+    },
     {
       "title": "A$AP Rocky's 'Don't Be Dumb' Album Track List Spans 15 Songs",
       "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
@@ -362,26 +377,6 @@
       "timestamp": "00:03"
     },
     {
-      "title": "Today's Wordle answer and hints for #1671 on January 15",
-      "url": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=heres-the-wordle-answer-for-today",
-      "timestamp": "00:01"
-    },
-    {
-      "title": "'Connections' answers and hints for today, January 15",
-      "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=connections-answers-hints-groups-today",
-      "timestamp": "00:00"
-    },
-    {
-      "title": "Globle answer today – here’s the answer and hints for January 15",
-      "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globle-hint-answer-today",
-      "timestamp": "00:00"
-    },
-    {
-      "title": "The singer Madonna called \"eternally tortured\"",
-      "url": "https://faroutmagazine.co.uk/singer-madonna-called-eternally-tortured/",
-      "timestamp": "00:00"
-    },
-    {
       "title": "J. Cole Tells Life Story in Reverse in New Song & Video 'Disc 2 Track&#160;2'",
       "url": "https://www.billboard.com/music/rb-hip-hop/j-cole-disc-2-track-2-music-video-1236155314/",
       "timestamp": "23:22"
@@ -390,11 +385,6 @@
       "title": "Yeison Jiménez Remembered by Paola Jara, Jessi Uribe & More Than 14,000 Fans at Movistar Arena in&#160;Bogotá",
       "url": "https://www.billboard.com/music/latin/yeison-jimenez-memorial-movistar-arena-bogota-paola-jara-1236155359/",
       "timestamp": "23:16"
-    },
-    {
-      "title": "You can’t spell emotion without emo: Why the genre is coming back in 2026",
-      "url": "https://faroutmagazine.co.uk/you-cant-spell-emotion-without-emo-genre-2026/",
-      "timestamp": "22:30"
     },
     {
       "title": "KXLLSWXTCH Makes Space for Discomfort on Latest Project ‘EYESORE’",
@@ -445,7 +435,17 @@
       "title": "MLK Day concert held annually at the Kennedy Center for 23 years is relocating",
       "url": "https://www.npr.org/2026/01/14/nx-s1-5668206/mlk-celebration-kennedy-center",
       "timestamp": "18:37"
+    },
+    {
+      "title": "C2C Festival NYC 2026 lineup: Arca, Noursished by Time, and more",
+      "url": "https://www.thefader.com/2026/01/14/c2c-festival-nyc-2026-lineup-arca-nourished-by-time-yhwh-nailgun",
+      "timestamp": "18:21"
+    },
+    {
+      "title": "John Mellencamp Promises Hits-Filled Sets for Summer 2026 Tour",
+      "url": "https://ultimateclassicrock.com/john-mellencamp-is-bringing-back-his-biggest-hits-for-2026-tour/",
+      "timestamp": "15:26"
     }
   ],
-  "lastUpdated": "2026-01-15T01:58:41.853Z"
+  "lastUpdated": "2026-01-15T03:47:38.886Z"
 }

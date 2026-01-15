@@ -1,35 +1,22 @@
 {
-  "curatedAt": "2026-01-15T01:58:44.868Z",
+  "curatedAt": "2026-01-15T03:47:41.864Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "A$AP ROCKY'S 'DON'T BE DUMB' ALBUM TRACK LIST SPANS 15 SONGS",
-      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
-      "timestamp": "2026-01-15T01:58:41.853Z",
+      "title": "VERIZON SAYS ITS SERVICE IS BACK AFTER A 10-HOUR OUTAGE",
+      "url": "https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss",
+      "timestamp": "2026-01-15T03:47:38.886Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
+        "impact": 0.5,
         "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.65
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
-      {
-        "title": "A$AP ROCKY'S 'DON'T BE DUMB' ALBUM TRACK LIST SPANS 15 SONGS",
-        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
-        "timestamp": "2026-01-15T01:58:41.853Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.65
-        }
-      },
       {
         "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
         "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
@@ -42,6 +29,32 @@
           "discovery": 0.3,
           "composite": 0.52
         }
+      },
+      {
+        "title": "A$AP Rocky's 'Don't Be Dumb' Album Track List Spans 15 Songs",
+        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
+        "timestamp": "01:54",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.49
+        }
+      },
+      {
+        "title": "C2C Festival NYC 2026 lineup: Arca, Noursished by Time, and more",
+        "url": "https://www.thefader.com/2026/01/14/c2c-festival-nyc-2026-lineup-arca-nourished-by-time-yhwh-nailgun",
+        "timestamp": "18:21",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.49
+        }
       }
     ],
     "discovery": [
@@ -49,7 +62,7 @@
         "title": "Buchla and Friends 2026: Everything You Need to Know About the Synth Anti-NAMM",
         "url": "https://www.gearnews.com/buchla-and-friends-2026-synth/",
         "timestamp": "01:12",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.6,
@@ -87,47 +100,47 @@
         }
       },
       {
-        "title": "Here's How to Watch 'Fear Factor: House of Fear' Reboot Online for&#160;Free",
-        "url": "https://www.billboard.com/culture/product-recommendations/watch-fear-factor-house-of-fear-reboot-online-free-1236155344/",
-        "timestamp": "22:58",
-        "source": "automated",
+        "title": "Bravo Reveals ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Cast: See Who's Hitting the Road From Each Franchise",
+        "url": "https://www.hollywoodreporter.com/lists/real-housewives-ultimate-girls-road-trip-cast/",
+        "timestamp": "03:25",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.75,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.495
+          "composite": 0.4800000000000001
         }
       }
     ],
     "wildcard": [
       {
-        "title": "A$AP ROCKY'S 'DON'T BE DUMB' ALBUM TRACK LIST SPANS 15 SONGS",
-        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
-        "timestamp": "2026-01-15T01:58:41.853Z",
+        "title": "VERIZON SAYS ITS SERVICE IS BACK AFTER A 10-HOUR OUTAGE",
+        "url": "https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss",
+        "timestamp": "2026-01-15T03:47:38.886Z",
         "source": "splash",
         "scores": {
-          "impact": 0.6,
+          "impact": 0.5,
           "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.65
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "A$AP ROCKY'S 'DON'T BE DUMB' ALBUM TRACK LIST SPANS 15 SONGS",
-      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
-      "timestamp": "2026-01-15T01:58:41.853Z",
+      "title": "VERIZON SAYS ITS SERVICE IS BACK AFTER A 10-HOUR OUTAGE",
+      "url": "https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss",
+      "timestamp": "2026-01-15T03:47:38.886Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
+        "impact": 0.5,
         "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.65
+        "composite": 0.6100000000000001
       }
     },
     {
@@ -144,10 +157,36 @@
       }
     },
     {
+      "title": "A$AP Rocky's 'Don't Be Dumb' Album Track List Spans 15 Songs",
+      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
+      "timestamp": "01:54",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.49
+      }
+    },
+    {
+      "title": "C2C Festival NYC 2026 lineup: Arca, Noursished by Time, and more",
+      "url": "https://www.thefader.com/2026/01/14/c2c-festival-nyc-2026-lineup-arca-nourished-by-time-yhwh-nailgun",
+      "timestamp": "18:21",
+      "source": "musicReleases",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.49
+      }
+    },
+    {
       "title": "Buchla and Friends 2026: Everything You Need to Know About the Synth Anti-NAMM",
       "url": "https://www.gearnews.com/buchla-and-friends-2026-synth/",
       "timestamp": "01:12",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.6,
@@ -170,16 +209,16 @@
       }
     },
     {
-      "title": "Here's How to Watch 'Fear Factor: House of Fear' Reboot Online for&#160;Free",
-      "url": "https://www.billboard.com/culture/product-recommendations/watch-fear-factor-house-of-fear-reboot-online-free-1236155344/",
-      "timestamp": "22:58",
-      "source": "automated",
+      "title": "Bravo Reveals ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Cast: See Who's Hitting the Road From Each Franchise",
+      "url": "https://www.hollywoodreporter.com/lists/real-housewives-ultimate-girls-road-trip-cast/",
+      "timestamp": "03:25",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.75,
+        "engagement": 0.7,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.495
+        "composite": 0.4800000000000001
       }
     }
   ],
