@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-15T17:36:21.316Z",
+  "curatedAt": "2026-01-15T18:41:51.531Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "LAMB OF GOD PRESENT 'INTO OBLIVION,' A SONG ABOUT 'WHERE WE'RE HEADED' IN AMERICA",
-      "url": "https://www.rollingstone.com/music/music-news/lamb-of-god-into-oblivon-1235500018/",
-      "timestamp": "2026-01-15T17:36:18.409Z",
+      "title": "NIGEL FARAGE TRICKED INTO PAYING TRIBUTE TO LATE PAEDOPHILE AND SHAMED LOSTPROPHETS SINGER IAN WATKINS ON CAMEO",
+      "url": "https://www.nme.com/news/music/nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo-3923505?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo",
+      "timestamp": "2026-01-15T18:41:48.605Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -18,9 +18,9 @@
     },
     "deepDive": [
       {
-        "title": "Chartbreaker: How Paddington, Sobriety and a ‘Loosie Song’ Resulted in Medium Build’s&#160;Breakthrough",
-        "url": "https://www.billboard.com/music/rock/medium-build-last-time-radio-january-2026-chartbreaker-1236155215/",
-        "timestamp": "16:00",
+        "title": "Billboard Staff’s Greatest Pop Stars of 2025: Honorable Mentions",
+        "url": "https://www.billboard.com/lists/greatest-pop-stars-2025-honorable-mentions/",
+        "timestamp": "17:39",
         "source": "musicReleases",
         "scores": {
           "impact": 0.6,
@@ -31,65 +31,91 @@
         }
       },
       {
-        "title": "Richard Marx Talks New Album, ‘After Hours’: ‘I Have To Have a New Bucket List&#160;Now’",
-        "url": "https://www.billboard.com/music/pop/richard-marx-interview-after-hours-1236154939/",
-        "timestamp": "15:00",
-        "source": "musicReleases",
+        "title": "‘Peter Hujar's Day’ Lands Criterion Streaming Date, Ira Sachs Joins ‘Meet The Filmmakers’ Interview Series — Clip",
+        "url": "https://deadline.com/2026/01/peter-hujars-day-criterion-streaming-ira-sachs-1236683903/",
+        "timestamp": "18:00",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.52
-        }
-      },
-      {
-        "title": "Madison Beer’s New Album Is Her Pop Breakthrough",
-        "url": "https://www.rollingstone.com/music/music-album-reviews/madison-beer-new-album-locket-review-1235499390/",
-        "timestamp": "15:52",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.7,
           "engagement": 0.55,
           "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.49500000000000005
+        }
+      },
+      {
+        "title": "Angel to Embark on 2026-2027 Farewell Tour",
+        "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
+        "timestamp": "17:54",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.515
+          "composite": 0.49
         }
       }
     ],
     "discovery": [
       {
-        "title": "Bitcoin’s renewed push to $100K sparked by fresh institutional demand",
-        "url": "https://cointelegraph.com/news/bitcoin-renewed-push-100k-fresh-institutional-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "16:59",
+        "title": "Cate Blanchett to Star in 'How to Train Your Dragon 2' Live-Action Movie, Reprising Role as Valka",
+        "url": "https://variety.com/2026/film/news/cate-blanchett-how-to-train-your-dragon-2-live-action-movie-valka-1236632505/",
+        "timestamp": "18:23",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.65,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.48500000000000004
+          "composite": 0.5000000000000001
+        }
+      },
+      {
+        "title": "‘Peter Hujar's Day’ Lands Criterion Streaming Date, Ira Sachs Joins ‘Meet The Filmmakers’ Interview Series — Clip",
+        "url": "https://deadline.com/2026/01/peter-hujars-day-criterion-streaming-ira-sachs-1236683903/",
+        "timestamp": "18:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.55,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.49500000000000005
+        }
+      },
+      {
+        "title": "How to Distribute Your Music As an Independent Artist",
+        "url": "https://www.rollingstone.com/product-recommendations/tech/how-to-release-music-online-streaming-services-distrokid-1235499787/",
+        "timestamp": "18:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.47000000000000003
         }
       }
     ],
     "conversation": [
       {
-        "title": "Chartbreaker: How Paddington, Sobriety and a ‘Loosie Song’ Resulted in Medium Build’s&#160;Breakthrough",
-        "url": "https://www.billboard.com/music/rock/medium-build-last-time-radio-january-2026-chartbreaker-1236155215/",
-        "timestamp": "16:00",
-        "source": "musicReleases",
+        "title": "What was the best-selling song of 1985?",
+        "url": "https://faroutmagazine.co.uk/what-was-the-best-selling-song-of-1985/",
+        "timestamp": "18:00",
+        "source": "automated",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
+          "impact": 0.5,
+          "engagement": 0.8999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.52
+          "composite": 0.54
         }
       },
       {
-        "title": "Richard Marx Talks New Album, ‘After Hours’: ‘I Have To Have a New Bucket List&#160;Now’",
-        "url": "https://www.billboard.com/music/pop/richard-marx-interview-after-hours-1236154939/",
-        "timestamp": "15:00",
+        "title": "Billboard Staff’s Greatest Pop Stars of 2025: Honorable Mentions",
+        "url": "https://www.billboard.com/lists/greatest-pop-stars-2025-honorable-mentions/",
+        "timestamp": "17:39",
         "source": "musicReleases",
         "scores": {
           "impact": 0.6,
@@ -102,9 +128,9 @@
     ],
     "wildcard": [
       {
-        "title": "LAMB OF GOD PRESENT 'INTO OBLIVION,' A SONG ABOUT 'WHERE WE'RE HEADED' IN AMERICA",
-        "url": "https://www.rollingstone.com/music/music-news/lamb-of-god-into-oblivon-1235500018/",
-        "timestamp": "2026-01-15T17:36:18.409Z",
+        "title": "NIGEL FARAGE TRICKED INTO PAYING TRIBUTE TO LATE PAEDOPHILE AND SHAMED LOSTPROPHETS SINGER IAN WATKINS ON CAMEO",
+        "url": "https://www.nme.com/news/music/nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo-3923505?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo",
+        "timestamp": "2026-01-15T18:41:48.605Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -118,9 +144,9 @@
   },
   "stories": [
     {
-      "title": "LAMB OF GOD PRESENT 'INTO OBLIVION,' A SONG ABOUT 'WHERE WE'RE HEADED' IN AMERICA",
-      "url": "https://www.rollingstone.com/music/music-news/lamb-of-god-into-oblivon-1235500018/",
-      "timestamp": "2026-01-15T17:36:18.409Z",
+      "title": "NIGEL FARAGE TRICKED INTO PAYING TRIBUTE TO LATE PAEDOPHILE AND SHAMED LOSTPROPHETS SINGER IAN WATKINS ON CAMEO",
+      "url": "https://www.nme.com/news/music/nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo-3923505?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo",
+      "timestamp": "2026-01-15T18:41:48.605Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -131,9 +157,9 @@
       }
     },
     {
-      "title": "Chartbreaker: How Paddington, Sobriety and a ‘Loosie Song’ Resulted in Medium Build’s&#160;Breakthrough",
-      "url": "https://www.billboard.com/music/rock/medium-build-last-time-radio-january-2026-chartbreaker-1236155215/",
-      "timestamp": "16:00",
+      "title": "Billboard Staff’s Greatest Pop Stars of 2025: Honorable Mentions",
+      "url": "https://www.billboard.com/lists/greatest-pop-stars-2025-honorable-mentions/",
+      "timestamp": "17:39",
       "source": "musicReleases",
       "scores": {
         "impact": 0.6,
@@ -144,42 +170,68 @@
       }
     },
     {
-      "title": "Richard Marx Talks New Album, ‘After Hours’: ‘I Have To Have a New Bucket List&#160;Now’",
-      "url": "https://www.billboard.com/music/pop/richard-marx-interview-after-hours-1236154939/",
-      "timestamp": "15:00",
-      "source": "musicReleases",
+      "title": "‘Peter Hujar's Day’ Lands Criterion Streaming Date, Ira Sachs Joins ‘Meet The Filmmakers’ Interview Series — Clip",
+      "url": "https://deadline.com/2026/01/peter-hujars-day-criterion-streaming-ira-sachs-1236683903/",
+      "timestamp": "18:00",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.52
-      }
-    },
-    {
-      "title": "Madison Beer’s New Album Is Her Pop Breakthrough",
-      "url": "https://www.rollingstone.com/music/music-album-reviews/madison-beer-new-album-locket-review-1235499390/",
-      "timestamp": "15:52",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.7,
         "engagement": 0.55,
         "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.515
+        "discovery": 0.5,
+        "composite": 0.49500000000000005
       }
     },
     {
-      "title": "Bitcoin’s renewed push to $100K sparked by fresh institutional demand",
-      "url": "https://cointelegraph.com/news/bitcoin-renewed-push-100k-fresh-institutional-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "16:59",
+      "title": "Angel to Embark on 2026-2027 Farewell Tour",
+      "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
+      "timestamp": "17:54",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.49
+      }
+    },
+    {
+      "title": "Cate Blanchett to Star in 'How to Train Your Dragon 2' Live-Action Movie, Reprising Role as Valka",
+      "url": "https://variety.com/2026/film/news/cate-blanchett-how-to-train-your-dragon-2-live-action-movie-valka-1236632505/",
+      "timestamp": "18:23",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.65,
+        "engagement": 0.7,
         "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.48500000000000004
+        "composite": 0.5000000000000001
+      }
+    },
+    {
+      "title": "How to Distribute Your Music As an Independent Artist",
+      "url": "https://www.rollingstone.com/product-recommendations/tech/how-to-release-music-online-streaming-services-distrokid-1235499787/",
+      "timestamp": "18:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.47000000000000003
+      }
+    },
+    {
+      "title": "What was the best-selling song of 1985?",
+      "url": "https://faroutmagazine.co.uk/what-was-the-best-selling-song-of-1985/",
+      "timestamp": "18:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.8999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.54
       }
     }
   ],
