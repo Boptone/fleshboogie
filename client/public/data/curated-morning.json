@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-15T14:28:57.272Z",
+  "curatedAt": "2026-01-15T15:30:34.074Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "\"THE MOST ELECTRIFYING\" MUSIC EVER MADE, ACCORDING TO BRIAN WILSON: \"IT TURNED ME ON SO MUCH\"",
-      "url": "https://faroutmagazine.co.uk/album-brian-wilson-called-the-most-electrifying-music-ever/",
-      "timestamp": "2026-01-15T14:28:54.286Z",
+      "title": "HORSES CAN SMELL HOW YOU’RE FEELING",
+      "url": "https://nautil.us/horses-can-smell-how-youre-feeling-1261710/",
+      "timestamp": "2026-01-15T15:30:31.057Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -18,79 +18,23 @@
     },
     "deepDive": [
       {
-        "title": "The historic set-list for The Rolling Stones’ first-ever gig",
-        "url": "https://faroutmagazine.co.uk/what-did-the-rolling-stones-play-at-their-first-ever-gig/",
-        "timestamp": "13:33",
-        "source": "automated",
-        "scores": {
-          "impact": 0.8,
-          "engagement": 0.55,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.5550000000000002
-        }
-      },
-      {
-        "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
-        "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
-        "timestamp": "00:03",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.52
-        }
-      },
-      {
-        "title": "L.A. Rebellion Pioneer Haile Gerima To Debut ‘Black Lions – Roman Wolves’, His First Feature Film Since 2008, At Berlin Film Festival",
-        "url": "https://deadline.com/2026/01/haile-gerima-black-lions-roman-wolves-berlin-film-festival-1236683967/",
-        "timestamp": "13:32",
-        "source": "automated",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.5050000000000001
-        }
-      }
-    ],
-    "discovery": [
-      {
-        "title": "L.A. Rebellion Pioneer Haile Gerima To Debut ‘Black Lions – Roman Wolves’, His First Feature Film Since 2008, At Berlin Film Festival",
-        "url": "https://deadline.com/2026/01/haile-gerima-black-lions-roman-wolves-berlin-film-festival-1236683967/",
-        "timestamp": "13:32",
-        "source": "automated",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.5050000000000001
-        }
-      },
-      {
-        "title": "NAMM 2026: Everything You Need to Know – News, Facts and More!",
-        "url": "https://www.gearnews.com/namm-news-facts-gossip-leak-live/",
-        "timestamp": "14:17",
+        "title": "The most exported Indian songs on Spotify during 2025",
+        "url": "https://musically.com/2026/01/15/the-most-exported-indian-songs-on-spotify-during-2025/",
+        "timestamp": "15:23",
         "source": "mainColumn",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.65,
+          "impact": 0.6,
+          "engagement": 0.7,
           "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.48500000000000004
+          "discovery": 0.3,
+          "composite": 0.52
         }
-      }
-    ],
-    "conversation": [
+      },
       {
-        "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
-        "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
-        "timestamp": "00:03",
-        "source": "musicReleases",
+        "title": "From Dylan to disco, Beyoncé to Bob Marley: the 30 best live albums ever – ranked!",
+        "url": "https://www.theguardian.com/culture/2026/jan/15/30-best-live-albums-ever-ranked",
+        "timestamp": "15:00",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -100,24 +44,53 @@
         }
       },
       {
-        "title": "L.A. Rebellion Pioneer Haile Gerima To Debut ‘Black Lions – Roman Wolves’, His First Feature Film Since 2008, At Berlin Film Festival",
-        "url": "https://deadline.com/2026/01/haile-gerima-black-lions-roman-wolves-berlin-film-festival-1236683967/",
-        "timestamp": "13:32",
+        "title": "Richard Marx Talks New Album, ‘After Hours’: ‘I Have To Have a New Bucket List&#160;Now’",
+        "url": "https://www.billboard.com/music/pop/richard-marx-interview-after-hours-1236154939/",
+        "timestamp": "15:00",
         "source": "automated",
         "scores": {
-          "impact": 0.55,
-          "engagement": 0.65,
+          "impact": 0.6,
+          "engagement": 0.7,
           "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.5050000000000001
+          "discovery": 0.3,
+          "composite": 0.52
+        }
+      }
+    ],
+    "discovery": [],
+    "conversation": [
+      {
+        "title": "The most exported Indian songs on Spotify during 2025",
+        "url": "https://musically.com/2026/01/15/the-most-exported-indian-songs-on-spotify-during-2025/",
+        "timestamp": "15:23",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.52
+        }
+      },
+      {
+        "title": "From Dylan to disco, Beyoncé to Bob Marley: the 30 best live albums ever – ranked!",
+        "url": "https://www.theguardian.com/culture/2026/jan/15/30-best-live-albums-ever-ranked",
+        "timestamp": "15:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.52
         }
       }
     ],
     "wildcard": [
       {
-        "title": "\"THE MOST ELECTRIFYING\" MUSIC EVER MADE, ACCORDING TO BRIAN WILSON: \"IT TURNED ME ON SO MUCH\"",
-        "url": "https://faroutmagazine.co.uk/album-brian-wilson-called-the-most-electrifying-music-ever/",
-        "timestamp": "2026-01-15T14:28:54.286Z",
+        "title": "HORSES CAN SMELL HOW YOU’RE FEELING",
+        "url": "https://nautil.us/horses-can-smell-how-youre-feeling-1261710/",
+        "timestamp": "2026-01-15T15:30:31.057Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -131,9 +104,9 @@
   },
   "stories": [
     {
-      "title": "\"THE MOST ELECTRIFYING\" MUSIC EVER MADE, ACCORDING TO BRIAN WILSON: \"IT TURNED ME ON SO MUCH\"",
-      "url": "https://faroutmagazine.co.uk/album-brian-wilson-called-the-most-electrifying-music-ever/",
-      "timestamp": "2026-01-15T14:28:54.286Z",
+      "title": "HORSES CAN SMELL HOW YOU’RE FEELING",
+      "url": "https://nautil.us/horses-can-smell-how-youre-feeling-1261710/",
+      "timestamp": "2026-01-15T15:30:31.057Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -144,23 +117,10 @@
       }
     },
     {
-      "title": "The historic set-list for The Rolling Stones’ first-ever gig",
-      "url": "https://faroutmagazine.co.uk/what-did-the-rolling-stones-play-at-their-first-ever-gig/",
-      "timestamp": "13:33",
-      "source": "automated",
-      "scores": {
-        "impact": 0.8,
-        "engagement": 0.55,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.5550000000000002
-      }
-    },
-    {
-      "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
-      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
-      "timestamp": "00:03",
-      "source": "musicReleases",
+      "title": "The most exported Indian songs on Spotify during 2025",
+      "url": "https://musically.com/2026/01/15/the-most-exported-indian-songs-on-spotify-during-2025/",
+      "timestamp": "15:23",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.6,
         "engagement": 0.7,
@@ -170,29 +130,29 @@
       }
     },
     {
-      "title": "L.A. Rebellion Pioneer Haile Gerima To Debut ‘Black Lions – Roman Wolves’, His First Feature Film Since 2008, At Berlin Film Festival",
-      "url": "https://deadline.com/2026/01/haile-gerima-black-lions-roman-wolves-berlin-film-festival-1236683967/",
-      "timestamp": "13:32",
+      "title": "From Dylan to disco, Beyoncé to Bob Marley: the 30 best live albums ever – ranked!",
+      "url": "https://www.theguardian.com/culture/2026/jan/15/30-best-live-albums-ever-ranked",
+      "timestamp": "15:00",
       "source": "automated",
       "scores": {
-        "impact": 0.55,
-        "engagement": 0.65,
+        "impact": 0.6,
+        "engagement": 0.7,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.5050000000000001
+        "discovery": 0.3,
+        "composite": 0.52
       }
     },
     {
-      "title": "NAMM 2026: Everything You Need to Know – News, Facts and More!",
-      "url": "https://www.gearnews.com/namm-news-facts-gossip-leak-live/",
-      "timestamp": "14:17",
-      "source": "mainColumn",
+      "title": "Richard Marx Talks New Album, ‘After Hours’: ‘I Have To Have a New Bucket List&#160;Now’",
+      "url": "https://www.billboard.com/music/pop/richard-marx-interview-after-hours-1236154939/",
+      "timestamp": "15:00",
+      "source": "automated",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.65,
+        "impact": 0.6,
+        "engagement": 0.7,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.48500000000000004
+        "discovery": 0.3,
+        "composite": 0.52
       }
     }
   ],

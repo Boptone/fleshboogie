@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "\"THE MOST ELECTRIFYING\" MUSIC EVER MADE, ACCORDING TO BRIAN WILSON: \"IT TURNED ME ON SO MUCH\"",
-    "url": "https://faroutmagazine.co.uk/album-brian-wilson-called-the-most-electrifying-music-ever/",
+    "headline": "HORSES CAN SMELL HOW YOU’RE FEELING",
+    "url": "https://nautil.us/horses-can-smell-how-youre-feeling-1261710/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Parloa triples its valuation in 8 months to $3B with $350M raise",
-      "url": "https://techcrunch.com/2026/01/15/parloa-triples-its-valuation-in-8-months-to-3b-with-350m-raise/",
-      "timestamp": "14:24",
+      "title": "Here's the first look at Sophie Turner as Lara Croft in new 'Tomb Raider' series",
+      "url": "https://www.nme.com/news/tv/heres-the-first-look-at-sophie-turner-as-lara-croft-in-new-tomb-raider-series-3923459?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=heres-the-first-look-at-sophie-turner-as-lara-croft-in-new-tomb-raider-series",
+      "timestamp": "15:26",
       "pinned": false
     },
     {
-      "title": "NUGEN Audio releases MasterCheck 2 cross-platform optimization plugin",
-      "url": "https://rekkerd.org/nugen-audio-releases-mastercheck-2-cross-platform-optimization-plugin/",
-      "timestamp": "14:21",
+      "title": "Ripple’s massive license victory hides a structural shift that could actually divert volume away from XRP",
+      "url": "https://cryptoslate.com/ripples-massive-license-victory-hides-a-structural-shift-that-could-actually-divert-volume-away-from-xrp/",
+      "timestamp": "15:25",
       "pinned": false
     },
     {
-      "title": "Spotify to Raise Premium Prices Across US Subscription Tiers",
-      "url": "https://www.thewrap.com/creative-content/music/spotify-premium-price-increase-when-how-much/",
-      "timestamp": "14:20",
+      "title": "The most exported Indian songs on Spotify during 2025",
+      "url": "https://musically.com/2026/01/15/the-most-exported-indian-songs-on-spotify-during-2025/",
+      "timestamp": "15:23",
       "pinned": false
     },
     {
-      "title": "Scott Cooper to direct new UFO movie",
-      "url": "https://faroutmagazine.co.uk/scott-cooper-to-direct-ufo-movie/",
-      "timestamp": "14:19",
+      "title": "Google Now Stuffing Ads Into Its AI Products",
+      "url": "https://futurism.com/artificial-intelligence/google-ai-ads",
+      "timestamp": "15:22",
       "pinned": false
     },
     {
-      "title": "NAMM 2026: Everything You Need to Know – News, Facts and More!",
-      "url": "https://www.gearnews.com/namm-news-facts-gossip-leak-live/",
-      "timestamp": "14:17",
+      "title": "More than 100 classic episodes of Sesame Street are now streaming on YouTube and YouTube Kids",
+      "url": "https://www.engadget.com/entertainment/streaming/more-than-100-classic-episodes-of-sesame-street-are-now-streaming-on-youtube-and-youtube-kids-151959561.html?src=rss",
+      "timestamp": "15:19",
       "pinned": false
     }
   ],
@@ -105,261 +105,296 @@
   ],
   "automated": [
     {
+      "title": "Horses Can Smell How You’re Feeling",
+      "url": "https://nautil.us/horses-can-smell-how-youre-feeling-1261710/",
+      "timestamp": "15:29",
+      "pubDate": "2026-01-15T15:29:26.000Z"
+    },
+    {
+      "title": "Here's the first look at Sophie Turner as Lara Croft in new 'Tomb Raider' series",
+      "url": "https://www.nme.com/news/tv/heres-the-first-look-at-sophie-turner-as-lara-croft-in-new-tomb-raider-series-3923459?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=heres-the-first-look-at-sophie-turner-as-lara-croft-in-new-tomb-raider-series",
+      "timestamp": "15:26",
+      "pubDate": "2026-01-15T15:26:38.000Z"
+    },
+    {
+      "title": "Ripple’s massive license victory hides a structural shift that could actually divert volume away from XRP",
+      "url": "https://cryptoslate.com/ripples-massive-license-victory-hides-a-structural-shift-that-could-actually-divert-volume-away-from-xrp/",
+      "timestamp": "15:25",
+      "pubDate": "2026-01-15T15:25:33.000Z"
+    },
+    {
+      "title": "The most exported Indian songs on Spotify during 2025",
+      "url": "https://musically.com/2026/01/15/the-most-exported-indian-songs-on-spotify-during-2025/",
+      "timestamp": "15:23",
+      "pubDate": "2026-01-15T15:23:13.000Z"
+    },
+    {
+      "title": "Google Now Stuffing Ads Into Its AI Products",
+      "url": "https://futurism.com/artificial-intelligence/google-ai-ads",
+      "timestamp": "15:22",
+      "pubDate": "2026-01-15T15:22:52.000Z"
+    },
+    {
+      "title": "More than 100 classic episodes of Sesame Street are now streaming on YouTube and YouTube Kids",
+      "url": "https://www.engadget.com/entertainment/streaming/more-than-100-classic-episodes-of-sesame-street-are-now-streaming-on-youtube-and-youtube-kids-151959561.html?src=rss",
+      "timestamp": "15:19",
+      "pubDate": "2026-01-15T15:19:59.000Z"
+    },
+    {
+      "title": "Feeling Optimistic? Zach Bryan Can Change That With 'Pocket Change'",
+      "url": "https://www.rollingstone.com/music/music-news/zach-bryan-pocket-change-1235499911/",
+      "timestamp": "15:18",
+      "pubDate": "2026-01-15T15:18:55.000Z"
+    },
+    {
+      "title": "Regina King names her favourite movie of the 1990s: \"We can just leave it right there\"",
+      "url": "https://faroutmagazine.co.uk/regina-king-names-her-favourite-movie-of-the-1990s/",
+      "timestamp": "15:15",
+      "pubDate": "2026-01-15T15:15:00.000Z"
+    },
+    {
+      "title": "\"We've Really Lost the Middle Class in Music\": Late-Night's Cuts Are Just the Latest Blow",
+      "url": "https://www.hollywoodreporter.com/music/film-tv-music-news/late-night-music-cuts-1236465818/",
+      "timestamp": "15:15",
+      "pubDate": "2026-01-15T15:15:00.000Z"
+    },
+    {
+      "title": "Emilia Clarke Leaves Daenerys Behind With Peacock's Endearing Spy Caper 'Ponies': TV Review",
+      "url": "https://variety.com/2026/tv/reviews/ponies-review-peacock-emilia-clarke-1236631704/",
+      "timestamp": "15:15",
+      "pubDate": "2026-01-15T15:15:00.000Z"
+    },
+    {
+      "title": "The Rip: We interview Joe Carnahan, Sasha Calle and Catalina Sandino Moreno about this Matt & Ben-led actioner",
+      "url": "https://www.joblo.com/the-rip-interviews/",
+      "timestamp": "15:09",
+      "pubDate": "2026-01-15T15:09:08.000Z"
+    },
+    {
+      "title": "Crypto Wallet MetaMask Adds Tron Support Following Bitcoin, Solana Expansions",
+      "url": "https://decrypt.co/354727/crypto-wallet-metamask-adds-tron-following-bitcoin-solana",
+      "timestamp": "15:07",
+      "pubDate": "2026-01-15T15:07:50.000Z"
+    },
+    {
+      "title": "LAI #110: Fixing Context Rot and Rethinking How Agents Reason",
+      "url": "https://pub.towardsai.net/lai-110-fixing-context-rot-and-rethinking-how-agents-reason-bcc3f8e5e5d0?source=rss----98111c9905da---4",
+      "timestamp": "15:02",
+      "pubDate": "2026-01-15T15:02:50.000Z"
+    },
+    {
+      "title": "Foghat and Nazareth Reveal 2026 Tour Plans",
+      "url": "https://ultimateclassicrock.com/foghat-nazareth-2026-tour-dates/",
+      "timestamp": "15:02",
+      "pubDate": "2026-01-15T15:02:38.000Z"
+    },
+    {
+      "title": "Bitcoin Price Action Tightens as Indicators Hint at Fatigue",
+      "url": "https://news.bitcoin.com/bitcoin-price-action-tightens-as-indicators-hint-at-fatigue/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-15T15:00:47.000Z"
+    },
+    {
+      "title": "From Dylan to disco, Beyoncé to Bob Marley: the 30 best live albums ever – ranked!",
+      "url": "https://www.theguardian.com/culture/2026/jan/15/30-best-live-albums-ever-ranked",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-15T15:00:44.000Z"
+    },
+    {
+      "title": "Mentra’s first smart glasses are open-source and come with their own app store",
+      "url": "https://www.engadget.com/wearables/mentras-first-smart-glasses-are-open-source-and-come-with-their-own-app-store-150021126.html?src=rss",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-15T15:00:21.000Z"
+    },
+    {
+      "title": "ISS Medical Emergency: An Orbital Ambulance Ride",
+      "url": "https://hackaday.com/2026/01/15/iss-medical-emergency-an-orbital-ambulance-ride/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-15T15:00:11.000Z"
+    },
+    {
+      "title": "Bank of America CEO: Interest-Bearing Stablecoins Could Take $6T Out of Bank Deposits",
+      "url": "https://decrypt.co/354723/bank-of-america-ceo-interest-bearing-stablecoins-could-take-6t-out-of-bank-deposits",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-15T15:00:11.000Z"
+    },
+    {
+      "title": "This Filmmaker Couldn't Get an Interview With the CEO of OpenAI. He Created a Bot Version Instead",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/deepfaking-sam-altman-documentary-ai-chatgpt-1235499037/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-15T15:00:00.000Z"
+    },
+    {
+      "title": "How one startup is using probiotics to try and ease the copper shortage",
+      "url": "https://techcrunch.com/2026/01/15/how-one-startup-is-using-probiotics-to-try-and-ease-the-copper-shortage/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-15T15:00:00.000Z"
+    },
+    {
+      "title": "Best Packing Cubes for Every Kind of Trip (2026), Tested and Reviewed",
+      "url": "https://www.wired.com/gallery/best-packing-cubes/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-15T15:00:00.000Z"
+    },
+    {
+      "title": "Richard Marx Talks New Album, ‘After Hours’: ‘I Have To Have a New Bucket List&#160;Now’",
+      "url": "https://www.billboard.com/music/pop/richard-marx-interview-after-hours-1236154939/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-15T15:00:00.000Z"
+    },
+    {
+      "title": "Seth Meyers Tickled by ICE Agent Slipping on Ice: 'You Know Where He Landed? On the Nose' &#124; Video",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/seth-meyers-ice-agent-slipping-video-reaction/",
+      "timestamp": "14:59",
+      "pubDate": "2026-01-15T14:59:57.000Z"
+    },
+    {
+      "title": "Spotify Confirms U.S. Price Hike for Premium Plans Starting&#160;Soon",
+      "url": "https://www.billboard.com/pro/spotify-price-increase-premium-plans-details/",
+      "timestamp": "14:54",
+      "pubDate": "2026-01-15T14:54:56.000Z"
+    },
+    {
+      "title": "Roblox's age verification system is reportedly a trainwreck",
+      "url": "https://www.engadget.com/gaming/robloxs-age-verification-system-is-reportedly-a-trainwreck-220320016.html?src=rss",
+      "timestamp": "14:52",
+      "pubDate": "2026-01-15T14:52:58.000Z"
+    },
+    {
+      "title": "Tim Robinson and the Art of Cringe Comedy",
+      "url": "https://www.spin.com/2026/01/tim-robinson-and-the-art-of-cringe-comedy/",
+      "timestamp": "14:51",
+      "pubDate": "2026-01-15T14:51:53.000Z"
+    },
+    {
+      "title": "Footwork’s New Wave",
+      "url": "https://daily.bandcamp.com/lists/new-footwork-album-guide",
+      "timestamp": "14:51",
+      "pubDate": "2026-01-15T14:51:35.000Z"
+    },
+    {
+      "title": "Xiu Xiu, “Xiu Mutha F—in’ Xiu: Vol. 1”",
+      "url": "https://daily.bandcamp.com/album-of-the-day/xiu-xiu-xiu-mutha-f-in-xiu-vol-1-review",
+      "timestamp": "14:51",
+      "pubDate": "2026-01-15T14:51:31.000Z"
+    },
+    {
+      "title": "IK Multimedia ReSing has a New Expansion Pack and a Free Version!",
+      "url": "https://www.gearnews.com/ik-multimedia-resing-studio/",
+      "timestamp": "14:46",
+      "pubDate": "2026-01-15T14:46:55.000Z"
+    },
+    {
+      "title": "A$AP Rocky Drops Limited-Edition 'Don't Be Dumb' Vinyl and T-Shirt Ahead of New Studio Album",
+      "url": "https://variety.com/2026/shopping/news/aap-rocky-dont-be-dumb-vinyl-shop-online-1236632194/",
+      "timestamp": "14:44",
+      "pubDate": "2026-01-15T14:44:14.000Z"
+    },
+    {
       "title": "\"The most electrifying\" music ever made, according to Brian Wilson: \"It turned me on so much\"",
       "url": "https://faroutmagazine.co.uk/album-brian-wilson-called-the-most-electrifying-music-ever/",
-      "timestamp": "14:24",
-      "pubDate": "2026-01-15T14:24:57.000Z"
+      "timestamp": "14:40",
+      "pubDate": "2026-01-15T14:40:08.000Z"
     },
     {
-      "title": "Parloa triples its valuation in 8 months to $3B with $350M raise",
-      "url": "https://techcrunch.com/2026/01/15/parloa-triples-its-valuation-in-8-months-to-3b-with-350m-raise/",
-      "timestamp": "14:24",
-      "pubDate": "2026-01-15T14:24:46.000Z"
+      "title": "'How to Get to Heaven From Belfast,' New Netflix Series From 'Derry Girls' Creator, Reveals Trailer and February Release Date",
+      "url": "https://variety.com/2026/tv/global/how-to-get-to-heaven-from-belfast-trailer-release-date-1236632192/",
+      "timestamp": "14:37",
+      "pubDate": "2026-01-15T14:37:45.000Z"
     },
     {
-      "title": "NUGEN Audio releases MasterCheck 2 cross-platform optimization plugin",
-      "url": "https://rekkerd.org/nugen-audio-releases-mastercheck-2-cross-platform-optimization-plugin/",
-      "timestamp": "14:21",
-      "pubDate": "2026-01-15T14:21:10.000Z"
+      "title": "Bandcamp doesn’t allow AI-generated music -- but some streamers do",
+      "url": "https://www.thefader.com/2026/01/15/bandcamp-bans-ai-generated-music",
+      "timestamp": "14:35",
+      "pubDate": "2026-01-15T14:35:46.000Z"
     },
     {
-      "title": "Spotify to Raise Premium Prices Across US Subscription Tiers",
-      "url": "https://www.thewrap.com/creative-content/music/spotify-premium-price-increase-when-how-much/",
-      "timestamp": "14:20",
-      "pubDate": "2026-01-15T14:20:08.000Z"
+      "title": "Will this be what Sophie Turner's Lara Croft will look like in the new Tomb Raider series?",
+      "url": "https://www.joblo.com/sophie-turner-tomb-raider-wardrobe-test/",
+      "timestamp": "14:33",
+      "pubDate": "2026-01-15T14:33:44.000Z"
     },
     {
-      "title": "Scott Cooper to direct new UFO movie",
-      "url": "https://faroutmagazine.co.uk/scott-cooper-to-direct-ufo-movie/",
-      "timestamp": "14:19",
-      "pubDate": "2026-01-15T14:19:32.000Z"
+      "title": "Spotify raises its subscription prices in the U.S. again",
+      "url": "https://techcrunch.com/2026/01/15/spotify-raises-its-subscription-prices-in-the-u-s-again/",
+      "timestamp": "14:32",
+      "pubDate": "2026-01-15T14:32:12.000Z"
     },
     {
-      "title": "NAMM 2026: Everything You Need to Know – News, Facts and More!",
-      "url": "https://www.gearnews.com/namm-news-facts-gossip-leak-live/",
-      "timestamp": "14:17",
-      "pubDate": "2026-01-15T14:17:07.000Z"
+      "title": "'Lust,' From Locarno Winner Ralitza Petrova, Picked Up by Inwave Films Ahead of Berlin Premiere (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/lust-ralitza-petrova-inwave-films-berlin-1236632188/",
+      "timestamp": "14:30",
+      "pubDate": "2026-01-15T14:30:38.000Z"
     },
     {
-      "title": "'Starfleet Academy' Is a Joyous Entry Into 'Star Trek's' Iconic Legacy: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/star-trek-starfleet-academy-review-paramount-plus-1236629682/",
-      "timestamp": "14:15",
-      "pubDate": "2026-01-15T14:15:00.000Z"
+      "title": "The director Anthony Hopkins called every bit as good as Stanley Kubrick, the Coen brothers, and John Huston",
+      "url": "https://faroutmagazine.co.uk/the-director-anthony-hopkins-called-every-bit-as-good-as-kubrick-the-coens-and-john-huston/",
+      "timestamp": "14:30",
+      "pubDate": "2026-01-15T14:30:00.000Z"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "14:05",
-      "pubDate": "2026-01-15T14:05:20.000Z"
+      "title": "Heavy Is the Crown: George R.R. Martin on His Triumphs and Torments",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/george-rr-martin-interview-thrones-winds-dragon-knight-1236473519/",
+      "timestamp": "14:30",
+      "pubDate": "2026-01-15T14:30:00.000Z"
     },
     {
-      "title": "Save 69% on DeepStereo Upmixer effect plugin by Leson",
-      "url": "https://rekkerd.org/deepstereo-upmixer-effect-plugin-by-leson-sale/",
-      "timestamp": "14:05",
-      "pubDate": "2026-01-15T14:05:15.000Z"
-    },
-    {
-      "title": "The metal frontman Bob Dylan thinks is being \"overlooked\" by everyone",
-      "url": "https://faroutmagazine.co.uk/metal-frontman-bob-dylan-thinks-is-being-overlooked/",
-      "timestamp": "14:01",
-      "pubDate": "2026-01-15T14:01:43.000Z"
-    },
-    {
-      "title": "Valerion VisionMaster Max projector review: Near-perfect image quality comes at a price",
-      "url": "https://www.engadget.com/home/home-theater/valerion-visionmaster-max-projector-review-near-perfect-image-quality-comes-at-a-price-140045939.html?src=rss",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-15T14:00:45.000Z"
-    },
-    {
-      "title": "Twenty One Pilots share epic trailer for new concert film 'More Than We Ever Imagined'",
-      "url": "https://www.nme.com/news/music/twenty-one-pilots-share-epic-trailer-for-new-concert-film-more-than-we-ever-imagined-3923418?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=twenty-one-pilots-share-epic-trailer-for-new-concert-film-more-than-we-ever-imagined",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-15T14:00:14.000Z"
-    },
-    {
-      "title": "TRON Integrated Into MetaMask Wallet, Bringing High-Performance Blockchain Infrastructure to Global Users",
-      "url": "https://news.bitcoin.com/tron-integrated-into-metamask-wallet-bringing-high-performance-blockchain-infrastructure-to-global-users/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-15T14:00:07.000Z"
-    },
-    {
-      "title": "Far Out 40: The best songs about getting sober",
-      "url": "https://faroutmagazine.co.uk/far-out-40-songs-about-sober/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-15T14:00:00.000Z"
-    },
-    {
-      "title": "'His & Hers' Author Alice Feeney's Latest Novel Optioned By 'All Her Fault' Maker Carnival",
-      "url": "https://deadline.com/2026/01/alice-feeney-my-husbands-wife-tv-series-his-and-hers-netflix-1236683874/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-15T14:00:00.000Z"
-    },
-    {
-      "title": "When Kate Hudson Realized She 'Hadn't Put Everything Out on the Table,' It Changed Her Career Forever",
-      "url": "https://www.indiewire.com/features/interviews/kate-hudson-song-sung-blue-singing-interview-1235173111/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-15T14:00:00.000Z"
-    },
-    {
-      "title": "'Springsteen: Deliver Me From Nowhere' Sets Hulu Release Date (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/springsteen-deliver-me-from-nowhere-hulu-release-date-1236575516/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-15T14:00:00.000Z"
-    },
-    {
-      "title": "‘Tomb Raider’ First Look: Sophie Turner Becomes Lara Croft as Filming Starts on Prime Video’s Reboot Series",
-      "url": "https://variety.com/2026/tv/news/tomb-raider-sophie-turner-lara-croft-first-look-1236605699/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-15T14:00:00.000Z"
-    },
-    {
-      "title": "'Wuthering Heights' Cheeky Bloomingdale's Collections Feature Lace Lingerie, Silk Pillowcases and Seductive Body Oils",
-      "url": "https://variety.com/2026/shopping/news/wuthering-heights-bloomingdales-collection-shop-online-1236631520/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-15T14:00:00.000Z"
-    },
-    {
-      "title": "'Tomb Raider': Sophie Turner Is Lara Croft in First Look at Prime Video Series",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/tomb-raider-sophie-turner-image-series/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-15T14:00:00.000Z"
-    },
-    {
-      "title": "Freddie Mercury's \"secret daughter\" dies, aged 48",
-      "url": "https://www.nme.com/news/music/freddie-mercurys-secret-daughter-dies-aged-48-3923433?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=freddie-mercurys-secret-daughter-dies-aged-48",
-      "timestamp": "13:59",
-      "pubDate": "2026-01-15T13:59:31.000Z"
-    },
-    {
-      "title": "Music Fans Explode With Joy as Bandcamp Bans AI Music",
-      "url": "https://futurism.com/artificial-intelligence/bandcamp-bans-ai-music",
-      "timestamp": "13:54",
-      "pubDate": "2026-01-15T13:54:59.000Z"
-    },
-    {
-      "title": "Five Bitcoin narratives analysts are watching beyond price",
-      "url": "https://cointelegraph.com/news/five-bitcoin-narratives-analysts-are-watching-beyond-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "13:52",
-      "pubDate": "2026-01-15T13:52:55.000Z"
-    },
-    {
-      "title": "US crypto market structure bill in limbo as industry pulls support",
-      "url": "https://cointelegraph.com/news/us-crypto-market-structure-bill-limbo-industry-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "13:46",
-      "pubDate": "2026-01-15T13:46:53.000Z"
-    },
-    {
-      "title": "Banijay & Sony In Rights Dispute Over 'The Girl With The Dragon Tattoo' TV Series",
-      "url": "https://deadline.com/2026/01/girl-with-the-dragon-tattoo-series-sony-banijay-rights-dispute-1236683954/",
-      "timestamp": "13:46",
-      "pubDate": "2026-01-15T13:46:35.000Z"
-    },
-    {
-      "title": "Spencer Thomas Says What We're All Thinking in a Pointed New Song",
-      "url": "https://www.rollingstone.com/music/music-news/spencer-thomas-the-world-is-fucked-and-i-love-you-song-1235499553/",
-      "timestamp": "13:45",
-      "pubDate": "2026-01-15T13:45:51.000Z"
-    },
-    {
-      "title": "Tom Keifer Sets 2026 Tour Dates",
-      "url": "https://ultimateclassicrock.com/tom-keifer-2026-tour-dates/",
-      "timestamp": "13:42",
-      "pubDate": "2026-01-15T13:42:51.000Z"
-    },
-    {
-      "title": "Spotify Reveals Price Hikes for Premium Subscribers in February",
-      "url": "https://www.hollywoodreporter.com/business/digital/spotify-reveals-price-hikes-for-premium-subscribers-in-february-1236474817/",
-      "timestamp": "13:40",
-      "pubDate": "2026-01-15T13:40:52.000Z"
-    },
-    {
-      "title": "ETFs Power Bitcoin Past $95,000 as Risk-on Mood Lifts Crypto",
-      "url": "https://news.bitcoin.com/etfs-power-bitcoin-past-95000-as-risk-on-mood-lifts-crypto/",
-      "timestamp": "13:40",
-      "pubDate": "2026-01-15T13:40:02.000Z"
-    },
-    {
-      "title": "Women In Ctrl asks ‘What is inclusion without authority?’",
-      "url": "https://musically.com/2026/01/15/women-in-ctrl-asks-what-is-inclusion-without-authority/",
-      "timestamp": "13:40",
-      "pubDate": "2026-01-15T13:40:00.000Z"
-    },
-    {
-      "title": "Amazon Music names its global ‘Artists to Watch’ for 2026",
-      "url": "https://musically.com/2026/01/15/amazon-music-names-its-global-artists-to-watch-for-2026/",
-      "timestamp": "13:40",
-      "pubDate": "2026-01-15T13:40:00.000Z"
-    },
-    {
-      "title": "Spotify Is Hiking U.S. Subscription Prices in the Next Month",
-      "url": "https://variety.com/2026/digital/news/spotify-price-increase-us-subscription-plans-1236632136/",
-      "timestamp": "13:33",
-      "pubDate": "2026-01-15T13:33:59.000Z"
-    },
-    {
-      "title": "The historic set-list for The Rolling Stones’ first-ever gig",
-      "url": "https://faroutmagazine.co.uk/what-did-the-rolling-stones-play-at-their-first-ever-gig/",
-      "timestamp": "13:33",
-      "pubDate": "2026-01-15T13:33:54.000Z"
-    },
-    {
-      "title": "Berezy – Fuzz Brain",
-      "url": "https://www.stereofox.com/berezy-fuzz-brain/",
-      "timestamp": "13:33",
-      "pubDate": "2026-01-15T13:33:21.000Z"
-    },
-    {
-      "title": "L.A. Rebellion Pioneer Haile Gerima To Debut ‘Black Lions – Roman Wolves’, His First Feature Film Since 2008, At Berlin Film Festival",
-      "url": "https://deadline.com/2026/01/haile-gerima-black-lions-roman-wolves-berlin-film-festival-1236683967/",
-      "timestamp": "13:32",
-      "pubDate": "2026-01-15T13:32:35.000Z"
-    },
-    {
-      "title": "Derek Cournoyer appointed Head of Strategy, Music Business Affairs at ElevenLabs",
-      "url": "https://www.musicbusinessworldwide.com/derek-cournoyer-appointed-head-of-strategy-music-business-affairs-at-elevenlabs/",
-      "timestamp": "13:31",
-      "pubDate": "2026-01-15T13:31:47.000Z"
-    },
-    {
-      "title": "Adrien Brody Sets Sights on New Role as Global Eyewear Ambassador for Lacoste",
-      "url": "https://www.hollywoodreporter.com/lifestyle/style/adrien-brody-lacoste-global-eyewear-ambassador-sunglasses-1236474248/",
-      "timestamp": "13:30",
-      "pubDate": "2026-01-15T13:30:00.000Z"
-    },
-    {
-      "title": "11 Best Smartwatches (2026): Apple, Wear OS, Hybrid & Kids’ Watches",
-      "url": "https://www.wired.com/gallery/best-smartwatches/",
-      "timestamp": "13:30",
-      "pubDate": "2026-01-15T13:30:00.000Z"
-    },
-    {
-      "title": "OpenAI quietly rolls out a dedicated ChatGPT translation tool",
-      "url": "https://www.engadget.com/ai/openai-quietly-rolls-out-a-dedicated-chatgpt-translation-tool-133000974.html?src=rss",
-      "timestamp": "13:30",
-      "pubDate": "2026-01-15T13:30:00.000Z"
-    },
-    {
-      "title": "UMG is piloting a new music-education programme in the UK",
-      "url": "https://musically.com/2026/01/15/umg-is-piloting-a-new-music-education-programme-in-the-uk/",
-      "timestamp": "13:30",
-      "pubDate": "2026-01-15T13:30:00.000Z"
+      "title": "‘Agatha Christie’s Seven Dials’ Review: Lavish Netflix Adaptation Builds to a Terrible Ending",
+      "url": "https://www.thewrap.com/creative-content/reviews/agatha-christie-seven-dials-review-netflix/",
+      "timestamp": "14:30",
+      "pubDate": "2026-01-15T14:30:00.000Z"
     }
   ],
   "musicReleases": [
     {
+      "title": "Feeling Optimistic? Zach Bryan Can Change That With 'Pocket Change'",
+      "url": "https://www.rollingstone.com/music/music-news/zach-bryan-pocket-change-1235499911/",
+      "timestamp": "15:18"
+    },
+    {
+      "title": "Foghat and Nazareth Reveal 2026 Tour Plans",
+      "url": "https://ultimateclassicrock.com/foghat-nazareth-2026-tour-dates/",
+      "timestamp": "15:02"
+    },
+    {
+      "title": "Richard Marx Talks New Album, ‘After Hours’: ‘I Have To Have a New Bucket List&#160;Now’",
+      "url": "https://www.billboard.com/music/pop/richard-marx-interview-after-hours-1236154939/",
+      "timestamp": "15:00"
+    },
+    {
+      "title": "Spotify Confirms U.S. Price Hike for Premium Plans Starting&#160;Soon",
+      "url": "https://www.billboard.com/pro/spotify-price-increase-premium-plans-details/",
+      "timestamp": "14:54"
+    },
+    {
+      "title": "Tim Robinson and the Art of Cringe Comedy",
+      "url": "https://www.spin.com/2026/01/tim-robinson-and-the-art-of-cringe-comedy/",
+      "timestamp": "14:51"
+    },
+    {
+      "title": "Footwork’s New Wave",
+      "url": "https://daily.bandcamp.com/lists/new-footwork-album-guide",
+      "timestamp": "14:51"
+    },
+    {
+      "title": "Xiu Xiu, “Xiu Mutha F—in’ Xiu: Vol. 1”",
+      "url": "https://daily.bandcamp.com/album-of-the-day/xiu-xiu-xiu-mutha-f-in-xiu-vol-1-review",
+      "timestamp": "14:51"
+    },
+    {
       "title": "\"The most electrifying\" music ever made, according to Brian Wilson: \"It turned me on so much\"",
       "url": "https://faroutmagazine.co.uk/album-brian-wilson-called-the-most-electrifying-music-ever/",
-      "timestamp": "14:24"
+      "timestamp": "14:40"
+    },
+    {
+      "title": "The director Anthony Hopkins called every bit as good as Stanley Kubrick, the Coen brothers, and John Huston",
+      "url": "https://faroutmagazine.co.uk/the-director-anthony-hopkins-called-every-bit-as-good-as-kubrick-the-coens-and-john-huston/",
+      "timestamp": "14:30"
     },
     {
       "title": "The metal frontman Bob Dylan thinks is being \"overlooked\" by everyone",
       "url": "https://faroutmagazine.co.uk/metal-frontman-bob-dylan-thinks-is-being-overlooked/",
       "timestamp": "14:01"
-    },
-    {
-      "title": "Far Out 40: The best songs about getting sober",
-      "url": "https://faroutmagazine.co.uk/far-out-40-songs-about-sober/",
-      "timestamp": "14:00"
     },
     {
       "title": "Freddie Mercury's \"secret daughter\" dies, aged 48",
@@ -402,50 +437,15 @@
       "timestamp": "04:56"
     },
     {
-      "title": "Bob Weir to Be Honored at San Francisco Celebration",
-      "url": "https://www.rollingstone.com/music/music-news/bob-weir-celebration-san-francisco-1235499411/",
-      "timestamp": "02:37"
-    },
-    {
       "title": "Japan And South Korea Leaders Conclude Bilateral Summit With K-Pop Drum Duet",
       "url": "https://stereogum.com/2485448/japan-and-south-korea-leaders-conclude-summit-with-k-pop-drum-duet/news/",
       "timestamp": "01:55"
     },
     {
-      "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
-      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
-      "timestamp": "00:03"
-    },
-    {
       "title": "Fake Artist Sienna Rose Dominates Spotify Viral Chart, will.i.am Says Oranges Are Oranges (?)",
       "url": "https://stereogum.com/2485396/ai-artist-sienna-rose-dominates-spotify-viral-50-playlist-selena-gomez-removes-her-song-from-her-instagram/news/",
       "timestamp": "22:40"
-    },
-    {
-      "title": "KXLLSWXTCH Makes Space for Discomfort on Latest Project ‘EYESORE’",
-      "url": "https://www.spin.com/2026/01/kxllswxtch-makes-space-for-discomfort-on-latest-project-eyesore/",
-      "timestamp": "22:29"
-    },
-    {
-      "title": "The Day NY Publishing Lost Its Soul",
-      "url": "https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul",
-      "timestamp": "21:32"
-    },
-    {
-      "title": "John Mellencamp Grew Tired of Being a 'F---ing Clown' for Fans",
-      "url": "https://ultimateclassicrock.com/john-mellencamp-f-ing-clown/",
-      "timestamp": "21:21"
-    },
-    {
-      "title": "'Stranger Things' brings Prince and Fleetwood Mac back to the charts",
-      "url": "https://www.npr.org/2026/01/14/nx-s1-5675147/stranger-things-prince-fleetwood-mac-kate-bush",
-      "timestamp": "21:02"
-    },
-    {
-      "title": "Jimmy Q – Moments (ft. Zac Colwell)",
-      "url": "https://www.stereofox.com/jimmy-q-moments-ft-zac-colwell/",
-      "timestamp": "21:00"
     }
   ],
-  "lastUpdated": "2026-01-15T14:28:54.286Z"
+  "lastUpdated": "2026-01-15T15:30:31.057Z"
 }
