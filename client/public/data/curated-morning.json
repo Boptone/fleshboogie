@@ -1,40 +1,27 @@
 {
-  "curatedAt": "2026-01-15T13:43:21.035Z",
+  "curatedAt": "2026-01-15T14:28:57.272Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "SPOTIFY REVEALS PRICE HIKES FOR PREMIUM SUBSCRIBERS IN FEBRUARY",
-      "url": "https://www.hollywoodreporter.com/business/digital/spotify-reveals-price-hikes-for-premium-subscribers-in-february-1236474817/",
-      "timestamp": "2026-01-15T13:43:18.145Z",
+      "title": "\"THE MOST ELECTRIFYING\" MUSIC EVER MADE, ACCORDING TO BRIAN WILSON: \"IT TURNED ME ON SO MUCH\"",
+      "url": "https://faroutmagazine.co.uk/album-brian-wilson-called-the-most-electrifying-music-ever/",
+      "timestamp": "2026-01-15T14:28:54.286Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
+        "impact": 0.5,
         "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.65
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
       {
-        "title": "SPOTIFY REVEALS PRICE HIKES FOR PREMIUM SUBSCRIBERS IN FEBRUARY",
-        "url": "https://www.hollywoodreporter.com/business/digital/spotify-reveals-price-hikes-for-premium-subscribers-in-february-1236474817/",
-        "timestamp": "2026-01-15T13:43:18.145Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.65
-        }
-      },
-      {
         "title": "The historic set-list for The Rolling Stones’ first-ever gig",
         "url": "https://faroutmagazine.co.uk/what-did-the-rolling-stones-play-at-their-first-ever-gig/",
         "timestamp": "13:33",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.8,
           "engagement": 0.55,
@@ -55,22 +42,22 @@
           "discovery": 0.3,
           "composite": 0.52
         }
+      },
+      {
+        "title": "L.A. Rebellion Pioneer Haile Gerima To Debut ‘Black Lions – Roman Wolves’, His First Feature Film Since 2008, At Berlin Film Festival",
+        "url": "https://deadline.com/2026/01/haile-gerima-black-lions-roman-wolves-berlin-film-festival-1236683967/",
+        "timestamp": "13:32",
+        "source": "automated",
+        "scores": {
+          "impact": 0.55,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.5050000000000001
+        }
       }
     ],
     "discovery": [
-      {
-        "title": "What Is VO2 Max? Here’s What You Need to Know About the Longevity Metric (2026)",
-        "url": "https://www.wired.com/story/what-is-vo2-max/",
-        "timestamp": "12:30",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.53
-        }
-      },
       {
         "title": "L.A. Rebellion Pioneer Haile Gerima To Debut ‘Black Lions – Roman Wolves’, His First Feature Film Since 2008, At Berlin Film Festival",
         "url": "https://deadline.com/2026/01/haile-gerima-black-lions-roman-wolves-berlin-film-festival-1236683967/",
@@ -85,33 +72,20 @@
         }
       },
       {
-        "title": "Ethereum’s surprising usage drop suggests the network solved the wrong problem with Fusaka upgrade",
-        "url": "https://cryptoslate.com/ethereum-fusakas-new-21-blob-ceiling-looks-tempting-but-blocks-above-16-show-a-worrying-miss-rate-jump/",
-        "timestamp": "13:05",
-        "source": "automated",
+        "title": "NAMM 2026: Everything You Need to Know – News, Facts and More!",
+        "url": "https://www.gearnews.com/namm-news-facts-gossip-leak-live/",
+        "timestamp": "14:17",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.65,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.44
+          "composite": 0.48500000000000004
         }
       }
     ],
     "conversation": [
-      {
-        "title": "What Is VO2 Max? Here’s What You Need to Know About the Longevity Metric (2026)",
-        "url": "https://www.wired.com/story/what-is-vo2-max/",
-        "timestamp": "12:30",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.53
-        }
-      },
       {
         "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
         "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
@@ -124,43 +98,56 @@
           "discovery": 0.3,
           "composite": 0.52
         }
+      },
+      {
+        "title": "L.A. Rebellion Pioneer Haile Gerima To Debut ‘Black Lions – Roman Wolves’, His First Feature Film Since 2008, At Berlin Film Festival",
+        "url": "https://deadline.com/2026/01/haile-gerima-black-lions-roman-wolves-berlin-film-festival-1236683967/",
+        "timestamp": "13:32",
+        "source": "automated",
+        "scores": {
+          "impact": 0.55,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.5050000000000001
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "SPOTIFY REVEALS PRICE HIKES FOR PREMIUM SUBSCRIBERS IN FEBRUARY",
-        "url": "https://www.hollywoodreporter.com/business/digital/spotify-reveals-price-hikes-for-premium-subscribers-in-february-1236474817/",
-        "timestamp": "2026-01-15T13:43:18.145Z",
+        "title": "\"THE MOST ELECTRIFYING\" MUSIC EVER MADE, ACCORDING TO BRIAN WILSON: \"IT TURNED ME ON SO MUCH\"",
+        "url": "https://faroutmagazine.co.uk/album-brian-wilson-called-the-most-electrifying-music-ever/",
+        "timestamp": "2026-01-15T14:28:54.286Z",
         "source": "splash",
         "scores": {
-          "impact": 0.6,
+          "impact": 0.5,
           "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.65
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "SPOTIFY REVEALS PRICE HIKES FOR PREMIUM SUBSCRIBERS IN FEBRUARY",
-      "url": "https://www.hollywoodreporter.com/business/digital/spotify-reveals-price-hikes-for-premium-subscribers-in-february-1236474817/",
-      "timestamp": "2026-01-15T13:43:18.145Z",
+      "title": "\"THE MOST ELECTRIFYING\" MUSIC EVER MADE, ACCORDING TO BRIAN WILSON: \"IT TURNED ME ON SO MUCH\"",
+      "url": "https://faroutmagazine.co.uk/album-brian-wilson-called-the-most-electrifying-music-ever/",
+      "timestamp": "2026-01-15T14:28:54.286Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
+        "impact": 0.5,
         "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.65
+        "composite": 0.6100000000000001
       }
     },
     {
       "title": "The historic set-list for The Rolling Stones’ first-ever gig",
       "url": "https://faroutmagazine.co.uk/what-did-the-rolling-stones-play-at-their-first-ever-gig/",
       "timestamp": "13:33",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.8,
         "engagement": 0.55,
@@ -183,19 +170,6 @@
       }
     },
     {
-      "title": "What Is VO2 Max? Here’s What You Need to Know About the Longevity Metric (2026)",
-      "url": "https://www.wired.com/story/what-is-vo2-max/",
-      "timestamp": "12:30",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.7999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.53
-      }
-    },
-    {
       "title": "L.A. Rebellion Pioneer Haile Gerima To Debut ‘Black Lions – Roman Wolves’, His First Feature Film Since 2008, At Berlin Film Festival",
       "url": "https://deadline.com/2026/01/haile-gerima-black-lions-roman-wolves-berlin-film-festival-1236683967/",
       "timestamp": "13:32",
@@ -209,16 +183,16 @@
       }
     },
     {
-      "title": "Ethereum’s surprising usage drop suggests the network solved the wrong problem with Fusaka upgrade",
-      "url": "https://cryptoslate.com/ethereum-fusakas-new-21-blob-ceiling-looks-tempting-but-blocks-above-16-show-a-worrying-miss-rate-jump/",
-      "timestamp": "13:05",
-      "source": "automated",
+      "title": "NAMM 2026: Everything You Need to Know – News, Facts and More!",
+      "url": "https://www.gearnews.com/namm-news-facts-gossip-leak-live/",
+      "timestamp": "14:17",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.65,
         "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.44
+        "composite": 0.48500000000000004
       }
     }
   ],
