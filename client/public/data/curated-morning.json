@@ -1,26 +1,39 @@
 {
-  "curatedAt": "2026-01-14T23:21:12.454Z",
+  "curatedAt": "2026-01-15T01:58:44.868Z",
   "totalAnalyzed": 66,
-  "totalSelected": 8,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "YEISON JIMÉNEZ REMEMBERED BY PAOLA JARA, JESSI URIBE & MORE THAN 14,000 FANS AT MOVISTAR ARENA IN&#160;BOGOTÁ",
-      "url": "https://www.billboard.com/music/latin/yeison-jimenez-memorial-movistar-arena-bogota-paola-jara-1236155359/",
-      "timestamp": "2026-01-14T23:21:09.431Z",
+      "title": "A$AP ROCKY'S 'DON'T BE DUMB' ALBUM TRACK LIST SPANS 15 SONGS",
+      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
+      "timestamp": "2026-01-15T01:58:41.853Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
+        "impact": 0.6,
         "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.65
       }
     },
     "deepDive": [
       {
-        "title": "Shane Gillis' Live Comedy Tour: How to Get Affordable Tickets&#160;Online",
-        "url": "https://www.billboard.com/culture/product-recommendations/shane-gillis-tour-tickets-buy-online-1236154884/",
-        "timestamp": "21:52",
+        "title": "A$AP ROCKY'S 'DON'T BE DUMB' ALBUM TRACK LIST SPANS 15 SONGS",
+        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
+        "timestamp": "2026-01-15T01:58:41.853Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.65
+        }
+      },
+      {
+        "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
+        "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
+        "timestamp": "00:03",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -29,40 +42,14 @@
           "discovery": 0.3,
           "composite": 0.52
         }
-      },
-      {
-        "title": "C2C Festival NYC 2026 lineup: Arca, Noursished by Time, and more",
-        "url": "https://www.thefader.com/2026/01/14/c2c-festival-nyc-2026-lineup-arca-nourished-by-time-yhwh-nailgun",
-        "timestamp": "18:21",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
-        }
-      },
-      {
-        "title": "John Mellencamp Promises Hits-Filled Sets for Summer 2026 Tour",
-        "url": "https://ultimateclassicrock.com/john-mellencamp-is-bringing-back-his-biggest-hits-for-2026-tour/",
-        "timestamp": "15:26",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
-        }
       }
     ],
     "discovery": [
       {
-        "title": "Gracie Abrams Set to Make Acting Debut in A24's 'Please'",
-        "url": "https://www.billboard.com/music/pop/gracie-abrams-acting-debut-please-film-1236155208/",
-        "timestamp": "22:09",
-        "source": "automated",
+        "title": "Buchla and Friends 2026: Everything You Need to Know About the Synth Anti-NAMM",
+        "url": "https://www.gearnews.com/buchla-and-friends-2026-synth/",
+        "timestamp": "01:12",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.5,
           "engagement": 0.6,
@@ -72,37 +59,24 @@
         }
       },
       {
-        "title": "'The Masked Singer' Season 14 Costume Gallery: Meet the Competitors &#124; Photos",
-        "url": "https://www.thewrap.com/creative-content/tv-shows/the-masked-singer-season-14-costumes-photos/",
-        "timestamp": "21:30",
+        "title": "Bitcoin Trades Elevated as CLARITY Act Nears, With Bulls Positioning for Fresh All-Time Highs",
+        "url": "https://news.bitcoin.com/bitcoin-trades-elevated-as-clarity-act-nears-with-bulls-positioning-for-fresh-all-time-highs/",
+        "timestamp": "00:30",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.5,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.47000000000000003
-        }
-      },
-      {
-        "title": "Watch Anderson .Paak Invade the K-Pop Scene in the Trailer for His Directorial Debut 'K-POPS!'",
-        "url": "https://www.billboard.com/music/rb-hip-hop/anderson-paak-trailer-k-pops-1236155031/",
-        "timestamp": "21:13",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.55,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.455
+          "composite": 0.44
         }
       }
     ],
     "conversation": [
       {
-        "title": "Shane Gillis' Live Comedy Tour: How to Get Affordable Tickets&#160;Online",
-        "url": "https://www.billboard.com/culture/product-recommendations/shane-gillis-tour-tickets-buy-online-1236154884/",
-        "timestamp": "21:52",
+        "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
+        "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
+        "timestamp": "00:03",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -116,7 +90,7 @@
         "title": "Here's How to Watch 'Fear Factor: House of Fear' Reboot Online for&#160;Free",
         "url": "https://www.billboard.com/culture/product-recommendations/watch-fear-factor-house-of-fear-reboot-online-free-1236155344/",
         "timestamp": "22:58",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.75,
@@ -128,38 +102,38 @@
     ],
     "wildcard": [
       {
-        "title": "YEISON JIMÉNEZ REMEMBERED BY PAOLA JARA, JESSI URIBE & MORE THAN 14,000 FANS AT MOVISTAR ARENA IN&#160;BOGOTÁ",
-        "url": "https://www.billboard.com/music/latin/yeison-jimenez-memorial-movistar-arena-bogota-paola-jara-1236155359/",
-        "timestamp": "2026-01-14T23:21:09.431Z",
+        "title": "A$AP ROCKY'S 'DON'T BE DUMB' ALBUM TRACK LIST SPANS 15 SONGS",
+        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
+        "timestamp": "2026-01-15T01:58:41.853Z",
         "source": "splash",
         "scores": {
-          "impact": 0.5,
+          "impact": 0.6,
           "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.65
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "YEISON JIMÉNEZ REMEMBERED BY PAOLA JARA, JESSI URIBE & MORE THAN 14,000 FANS AT MOVISTAR ARENA IN&#160;BOGOTÁ",
-      "url": "https://www.billboard.com/music/latin/yeison-jimenez-memorial-movistar-arena-bogota-paola-jara-1236155359/",
-      "timestamp": "2026-01-14T23:21:09.431Z",
+      "title": "A$AP ROCKY'S 'DON'T BE DUMB' ALBUM TRACK LIST SPANS 15 SONGS",
+      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
+      "timestamp": "2026-01-15T01:58:41.853Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
+        "impact": 0.6,
         "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.65
       }
     },
     {
-      "title": "Shane Gillis' Live Comedy Tour: How to Get Affordable Tickets&#160;Online",
-      "url": "https://www.billboard.com/culture/product-recommendations/shane-gillis-tour-tickets-buy-online-1236154884/",
-      "timestamp": "21:52",
+      "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
+      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
+      "timestamp": "00:03",
       "source": "automated",
       "scores": {
         "impact": 0.6,
@@ -170,36 +144,10 @@
       }
     },
     {
-      "title": "C2C Festival NYC 2026 lineup: Arca, Noursished by Time, and more",
-      "url": "https://www.thefader.com/2026/01/14/c2c-festival-nyc-2026-lineup-arca-nourished-by-time-yhwh-nailgun",
-      "timestamp": "18:21",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "John Mellencamp Promises Hits-Filled Sets for Summer 2026 Tour",
-      "url": "https://ultimateclassicrock.com/john-mellencamp-is-bringing-back-his-biggest-hits-for-2026-tour/",
-      "timestamp": "15:26",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "Gracie Abrams Set to Make Acting Debut in A24's 'Please'",
-      "url": "https://www.billboard.com/music/pop/gracie-abrams-acting-debut-please-film-1236155208/",
-      "timestamp": "22:09",
-      "source": "automated",
+      "title": "Buchla and Friends 2026: Everything You Need to Know About the Synth Anti-NAMM",
+      "url": "https://www.gearnews.com/buchla-and-friends-2026-synth/",
+      "timestamp": "01:12",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.5,
         "engagement": 0.6,
@@ -209,36 +157,23 @@
       }
     },
     {
-      "title": "'The Masked Singer' Season 14 Costume Gallery: Meet the Competitors &#124; Photos",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/the-masked-singer-season-14-costumes-photos/",
-      "timestamp": "21:30",
+      "title": "Bitcoin Trades Elevated as CLARITY Act Nears, With Bulls Positioning for Fresh All-Time Highs",
+      "url": "https://news.bitcoin.com/bitcoin-trades-elevated-as-clarity-act-nears-with-bulls-positioning-for-fresh-all-time-highs/",
+      "timestamp": "00:30",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.47000000000000003
-      }
-    },
-    {
-      "title": "Watch Anderson .Paak Invade the K-Pop Scene in the Trailer for His Directorial Debut 'K-POPS!'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/anderson-paak-trailer-k-pops-1236155031/",
-      "timestamp": "21:13",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.55,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.455
+        "composite": 0.44
       }
     },
     {
       "title": "Here's How to Watch 'Fear Factor: House of Fear' Reboot Online for&#160;Free",
       "url": "https://www.billboard.com/culture/product-recommendations/watch-fear-factor-house-of-fear-reboot-online-free-1236155344/",
       "timestamp": "22:58",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.75,
