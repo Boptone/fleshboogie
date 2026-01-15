@@ -4,7 +4,7 @@
   <!-- Homepage: Highest priority, updated every 15 minutes with fresh content -->
   <url>
     <loc>https://fleshboogie.com/</loc>
-    <lastmod>2026-01-15T05:29:29.749Z</lastmod>
+    <lastmod>2026-01-15T06:39:27.749Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,7 +12,7 @@
   <!-- Archive: High priority, updated daily with historical headlines -->
   <url>
     <loc>https://fleshboogie.com/archive</loc>
-    <lastmod>2026-01-15T05:29:29.749Z</lastmod>
+    <lastmod>2026-01-15T06:39:27.749Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
