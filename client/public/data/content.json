@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "DDA HIRES MATT ANDRÉE WILTENS, RYAN SMITH FOR KEY ROLES IN LOS ANGELES",
-    "url": "https://variety.com/2026/film/news/dda-hires-matt-andree-wiltens-ryan-smith-los-angeles-1236631912/",
+    "headline": "'DENIED ENTRY': TICKET GIANT AXS SUES COMPANY IT SAYS 'SPOOFED' CONCERT TICKETS & BURNED&#160;FANS",
+    "url": "https://www.billboard.com/pro/axs-lawsuit-company-copied-concert-tickets-hurt-fans/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "'Industry' Season 4 Premiere Viewership Jumps 20% From Season 3",
-      "url": "https://variety.com/2026/tv/news/industry-season-4-premiere-ratings-1236632570/",
-      "timestamp": "19:16",
+      "title": "Café Tacvba Reflects on Its Request to Remove Its Music From Spotify: 'This Process is Long, Tedious,&#160;Heavy'",
+      "url": "https://www.billboard.com/music/latin/cafe-tacvba-request-remove-music-spotify-interview-1236155854/",
+      "timestamp": "20:28",
       "pinned": false
     },
     {
-      "title": "When Jamie Lee Curtis begged Jack Black to rescue her: \"Where the fuck are you?\"",
-      "url": "https://faroutmagazine.co.uk/when-jamie-lee-curtis-begged-jack-black-to-rescue-her/",
-      "timestamp": "19:15",
+      "title": "This AI artist has three songs in the Spotify viral top 50 and has already fooled Selena Gomez",
+      "url": "https://www.nme.com/news/music/this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez-3923513?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez",
+      "timestamp": "20:26",
       "pinned": false
     },
     {
-      "title": "Why Real Palm Beachers Are Up in Arms Over Netflix’s ‘Members Only’",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/members-only-palm-beach-netflix-reactions-1236474253/",
-      "timestamp": "19:15",
+      "title": "Marty Supreme Originally Ended With Him Turning Into A Vampire At A Tears For Fears Concert",
+      "url": "https://stereogum.com/2485574/marty-supreme-vampire-ending-tears-for-fears/news/",
+      "timestamp": "20:21",
       "pinned": false
     },
     {
-      "title": "Why Stars Keep Dragging Their Moms to the Golden Globes",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/leonardo-dicaprio-glen-powell-moms-golden-globes-2026-1236474266/",
-      "timestamp": "19:15",
+      "title": "Miami’s Crisis of Memory: Eddie Arroyo’s December 3, 2024, 7:10 am Design District, 2025",
+      "url": "https://www.artforum.com/features/close-up-eddie-arroyo-miami-crisis-of-memory-1234742132/",
+      "timestamp": "20:16",
       "pinned": false
     },
     {
-      "title": "Chase Rice on Why He Decided to Quit Touring: 'Everything Felt Wrong'",
-      "url": "https://www.rollingstone.com/music/music-features/chase-rice-why-he-quit-touring-interview-1235499998/",
-      "timestamp": "19:13",
+      "title": "Teyana Taylor Walks Back Claim That Leonardo DiCaprio Was Speaking to Her in Viral Golden Globes Clip: “I Had to Call Leo”",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/teyana-taylor-walks-back-leonardo-dicaprio-golden-globes-1236475270/",
+      "timestamp": "20:15",
       "pinned": false
     }
   ],
@@ -105,6 +105,216 @@
   ],
   "automated": [
     {
+      "title": "'Denied Entry': Ticket Giant AXS Sues Company It Says 'Spoofed' Concert Tickets & Burned&#160;Fans",
+      "url": "https://www.billboard.com/pro/axs-lawsuit-company-copied-concert-tickets-hurt-fans/",
+      "timestamp": "20:29",
+      "pubDate": "2026-01-15T20:29:07.000Z"
+    },
+    {
+      "title": "Café Tacvba Reflects on Its Request to Remove Its Music From Spotify: 'This Process is Long, Tedious,&#160;Heavy'",
+      "url": "https://www.billboard.com/music/latin/cafe-tacvba-request-remove-music-spotify-interview-1236155854/",
+      "timestamp": "20:28",
+      "pubDate": "2026-01-15T20:28:06.000Z"
+    },
+    {
+      "title": "This AI artist has three songs in the Spotify viral top 50 and has already fooled Selena Gomez",
+      "url": "https://www.nme.com/news/music/this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez-3923513?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez",
+      "timestamp": "20:26",
+      "pubDate": "2026-01-15T20:26:57.000Z"
+    },
+    {
+      "title": "Marty Supreme Originally Ended With Him Turning Into A Vampire At A Tears For Fears Concert",
+      "url": "https://stereogum.com/2485574/marty-supreme-vampire-ending-tears-for-fears/news/",
+      "timestamp": "20:21",
+      "pubDate": "2026-01-15T20:21:16.000Z"
+    },
+    {
+      "title": "Miami’s Crisis of Memory: Eddie Arroyo’s December 3, 2024, 7:10 am Design District, 2025",
+      "url": "https://www.artforum.com/features/close-up-eddie-arroyo-miami-crisis-of-memory-1234742132/",
+      "timestamp": "20:16",
+      "pubDate": "2026-01-15T20:16:00.000Z"
+    },
+    {
+      "title": "Teyana Taylor Walks Back Claim That Leonardo DiCaprio Was Speaking to Her in Viral Golden Globes Clip: “I Had to Call Leo”",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/teyana-taylor-walks-back-leonardo-dicaprio-golden-globes-1236475270/",
+      "timestamp": "20:15",
+      "pubDate": "2026-01-15T20:15:58.000Z"
+    },
+    {
+      "title": "Not For Radio's Winter in the Garden Tour Casts a Trippy Spell",
+      "url": "https://www.rollingstone.com/music/music-live-reviews/not-for-radio-maria-zardoya-brooklyn-1235500189/",
+      "timestamp": "20:15",
+      "pubDate": "2026-01-15T20:15:00.000Z"
+    },
+    {
+      "title": "Jelly Roll, Alejandro Sanz & Grupo Frontera to Headline Carín León's La Cura&#160;Fest",
+      "url": "https://www.billboard.com/music/latin/jelly-roll-grupo-frontera-carin-leon-la-cura-fest-headliners-1236155909/",
+      "timestamp": "20:11",
+      "pubDate": "2026-01-15T20:11:15.000Z"
+    },
+    {
+      "title": "There’s Something So Embarrassing About Homeland Security’s New Drone Video That We’re Gonna Have to Sit Down for a Minute",
+      "url": "https://futurism.com/robots-and-machines/homeland-security-drone-china",
+      "timestamp": "20:10",
+      "pubDate": "2026-01-15T20:10:35.000Z"
+    },
+    {
+      "title": "Lauryn Hill Pays Tribute to John Forté: ‘This Loss Is Surreal…My Heart Aches’",
+      "url": "https://www.rollingstone.com/music/music-news/lauryn-hill-pays-tribute-john-forte-1235500225/",
+      "timestamp": "20:09",
+      "pubDate": "2026-01-15T20:09:42.000Z"
+    },
+    {
+      "title": "When To Avoid Seeking AI Assistance",
+      "url": "https://pub.towardsai.net/when-to-avoid-seeking-ai-assistance-cd0332b9bccf?source=rss----98111c9905da---4",
+      "timestamp": "20:03",
+      "pubDate": "2026-01-15T20:03:06.000Z"
+    },
+    {
+      "title": "Quince Taps A$AP Rocky for Its First Celebrity Collab Celebrating ‘Don’t Be Dumb’ Album Drop",
+      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/buy-asap-rocky-dont-be-dumb-vinyl-quince-merch-tee-1235500002/",
+      "timestamp": "20:01",
+      "pubDate": "2026-01-15T20:01:34.000Z"
+    },
+    {
+      "title": "Mick Fleetwood names the true leader of Fleetwood Mac: \"Took the bull by the horns\"",
+      "url": "https://faroutmagazine.co.uk/mick-fleetwood-names-the-true-leader-of-fleetwood-mac/",
+      "timestamp": "20:00",
+      "pubDate": "2026-01-15T20:00:00.000Z"
+    },
+    {
+      "title": "'Splitsville' Director Michael Angelo Covino Boards Netflix Comedy 'Last Fix'",
+      "url": "https://deadline.com/2026/01/splitsville-director-michael-angelo-covino-last-fix-1236684063/",
+      "timestamp": "20:00",
+      "pubDate": "2026-01-15T20:00:00.000Z"
+    },
+    {
+      "title": "Dakota Fanning Stars In Thriller Series Greenlighted By Apple TV From Alex Cary & Sony Pictures TV",
+      "url": "https://deadline.com/2026/01/dakota-fanning-thriller-apple-tv-series-alex-cary-1236684295/",
+      "timestamp": "20:00",
+      "pubDate": "2026-01-15T20:00:00.000Z"
+    },
+    {
+      "title": "Los Angeles On-Location Production Down 16.1% In 2025, But California's Revamped Tax Incentive Helps Fuel Small Growth In Q4 — Report",
+      "url": "https://deadline.com/2026/01/los-angeles-film-tv-on-location-production-2025-q4-filmla-1236684296/",
+      "timestamp": "20:00",
+      "pubDate": "2026-01-15T20:00:00.000Z"
+    },
+    {
+      "title": "'This Is Us' Alum Chris Sullivan Cast In ABC's 'The Rookie: North' Pilot",
+      "url": "https://deadline.com/2026/01/chris-sullivan-cast-abc-the-rookie-north-pilot-1236684330/",
+      "timestamp": "20:00",
+      "pubDate": "2026-01-15T20:00:00.000Z"
+    },
+    {
+      "title": "The Oscars Can’t Pretend Anime Doesn’t Exist Anymore",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/demon-slayer-kpop-demon-hunters-oscars-anime-1236473970/",
+      "timestamp": "20:00",
+      "pubDate": "2026-01-15T20:00:00.000Z"
+    },
+    {
+      "title": "'The Housemaid' Hits $200 Million Globally as Sydney Sweeney Preps Sequel",
+      "url": "https://variety.com/2026/film/box-office/housemaid-box-office-200-million-milestone-sydney-sweeney-amanda-seyfried-1236632546/",
+      "timestamp": "20:00",
+      "pubDate": "2026-01-15T20:00:00.000Z"
+    },
+    {
+      "title": "'Baywatch' Reboot Sets Open Casting Call; Performers Encouraged to Dress 'Baywatch Ready' but 'Avoid Overly Revealing Styles'",
+      "url": "https://variety.com/2026/tv/news/baywatch-reboot-open-casting-call-revealing-swimsuits-1236632613/",
+      "timestamp": "20:00",
+      "pubDate": "2026-01-15T20:00:00.000Z"
+    },
+    {
+      "title": "Creatorverse: Dubai Is Angling to Be Creator Home Base",
+      "url": "https://www.thewrap.com/commentary-analysis/columns/creatorverse-dubai-creator-home-base/",
+      "timestamp": "20:00",
+      "pubDate": "2026-01-15T20:00:00.000Z"
+    },
+    {
+      "title": "'Baywatch' Reboot Sets Open Casting Call in LA",
+      "url": "https://www.thewrap.com/industry-news/casting/baywatch-reboot-sets-open-casting-call-in-los-angeles/",
+      "timestamp": "20:00",
+      "pubDate": "2026-01-15T20:00:00.000Z"
+    },
+    {
+      "title": "Karoline Leavitt Melts Down Over Renee Good Question: 'You're a Left-Wing Hack' &#124; Video",
+      "url": "https://www.thewrap.com/media-platforms/journalism/karoline-leavitt-melts-down-over-renee-good-question/",
+      "timestamp": "19:55",
+      "pubDate": "2026-01-15T19:55:43.000Z"
+    },
+    {
+      "title": "Who Owns DMX’s Legacy?",
+      "url": "https://www.rollingstone.com/music/music-features/dmx-ordained-minister-church-legacy-1235498352/",
+      "timestamp": "19:47",
+      "pubDate": "2026-01-15T19:47:13.000Z"
+    },
+    {
+      "title": "Flaw in 17 Google Fast Pair audio devices could let hackers eavesdrop",
+      "url": "https://www.engadget.com/cybersecurity/flaw-in-17-google-fast-pair-audio-devices-could-let-hackers-eavesdrop-194613456.html?src=rss",
+      "timestamp": "19:46",
+      "pubDate": "2026-01-15T19:46:13.000Z"
+    },
+    {
+      "title": "The one guitarist Eddie Van Halen though could make his song better: \"I wish somebody would take that technique\"",
+      "url": "https://faroutmagazine.co.uk/one-guitarist-eddie-van-halen-though-could-make-his-song-better/",
+      "timestamp": "19:45",
+      "pubDate": "2026-01-15T19:45:03.000Z"
+    },
+    {
+      "title": "The most important star in modern Hollywood, according to Gwyneth Paltrow: \"She was that person\"",
+      "url": "https://faroutmagazine.co.uk/most-important-star-in-modern-hollywood-according-to-gwyneth-paltrow/",
+      "timestamp": "19:45",
+      "pubDate": "2026-01-15T19:45:00.000Z"
+    },
+    {
+      "title": "Robert Downey Jr. Calls Timothée Chalamet's 'Marty Supreme' Turn \"A Generation-Defining Performance\" in \"A Decade-Defining Film\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-downey-jr-praises-timothee-chalamet-marty-supreme-1236475044/",
+      "timestamp": "19:42",
+      "pubDate": "2026-01-15T19:42:18.000Z"
+    },
+    {
+      "title": "A View From the Easel",
+      "url": "https://hyperallergic.com/a-view-from-the-easel-320/",
+      "timestamp": "19:39",
+      "pubDate": "2026-01-15T19:39:30.000Z"
+    },
+    {
+      "title": "Building a Carousel Autosampler",
+      "url": "https://hackaday.com/2026/01/15/building-a-carousel-autosampler/",
+      "timestamp": "19:30",
+      "pubDate": "2026-01-15T19:30:27.000Z"
+    },
+    {
+      "title": "Did Elvis Presley really die of \"chronic constipation\"?",
+      "url": "https://faroutmagazine.co.uk/did-elvis-presley-really-die-of-chronic-constipation/",
+      "timestamp": "19:30",
+      "pubDate": "2026-01-15T19:30:00.000Z"
+    },
+    {
+      "title": "Kiernan Shipka Came of Age as Sally Draper. Now She’s Grown Up Enough for ‘Industry’",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/kiernan-shipka-interview-industry-mad-men-1236473540/",
+      "timestamp": "19:30",
+      "pubDate": "2026-01-15T19:30:00.000Z"
+    },
+    {
+      "title": "Jack O'Connell on Going From 'Sinners' to '28 Years Later: The Bone Temple' and His 'Amazing Year' of Villains: 'It Was Nothing but Sheer Luck'",
+      "url": "https://variety.com/2026/film/global/jack-o-connell-28-years-later-bone-temple-sinners-villains-1236630985/",
+      "timestamp": "19:30",
+      "pubDate": "2026-01-15T19:30:00.000Z"
+    },
+    {
+      "title": "Disney+ Boards Will Forte's 'The Last Man on Earth' Remake With Artus, the French Star of 'A Little Something Extra' (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/disney-boards-will-forte-the-last-man-on-earth-artus-1236632395/",
+      "timestamp": "19:30",
+      "pubDate": "2026-01-15T19:30:00.000Z"
+    },
+    {
+      "title": "Save $50 on the OnePlus Watch 3, Which Has Revolutionary Battery Tech",
+      "url": "https://www.wired.com/story/oneplus-watch-3-deal-126/",
+      "timestamp": "19:24",
+      "pubDate": "2026-01-15T19:24:56.000Z"
+    },
+    {
       "title": "DDA Hires Matt Andrée Wiltens, Ryan Smith for Key Roles in Los Angeles",
       "url": "https://variety.com/2026/film/news/dda-hires-matt-andree-wiltens-ryan-smith-los-angeles-1236631912/",
       "timestamp": "19:21",
@@ -133,243 +343,58 @@
       "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/leonardo-dicaprio-glen-powell-moms-golden-globes-2026-1236474266/",
       "timestamp": "19:15",
       "pubDate": "2026-01-15T19:15:00.000Z"
-    },
-    {
-      "title": "Chase Rice on Why He Decided to Quit Touring: 'Everything Felt Wrong'",
-      "url": "https://www.rollingstone.com/music/music-features/chase-rice-why-he-quit-touring-interview-1235499998/",
-      "timestamp": "19:13",
-      "pubDate": "2026-01-15T19:13:39.000Z"
-    },
-    {
-      "title": "The First Observation of the Fiery Lifecycle of a Massive Solar Storm",
-      "url": "https://nautil.us/the-first-observation-of-the-fiery-lifecycle-of-a-massive-solar-storm-1261785/",
-      "timestamp": "19:07",
-      "pubDate": "2026-01-15T19:07:56.000Z"
-    },
-    {
-      "title": "ASUS has stopped producing the NVIDIA RTX 5070 Ti and 5060 Ti 16GB, saying they've reached 'end of life'",
-      "url": "https://www.engadget.com/gaming/pc/asus-has-stopped-producing-the-nvidia-rtx-5070-ti-and-5060-ti-16gb-saying-theyve-reached-end-of-life-162012253.html?src=rss",
-      "timestamp": "19:07",
-      "pubDate": "2026-01-15T19:07:27.000Z"
-    },
-    {
-      "title": "How Mason Alexander Park Took on the Title Role of Cole Escola's 'Oh, Mary!' and Made London Fall in Love",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/mason-alexander-park-oh-mary-west-end-show-interview-cole-1236473429/",
-      "timestamp": "19:06",
-      "pubDate": "2026-01-15T19:06:40.000Z"
-    },
-    {
-      "title": "'Industry' Season 4 Hits Biggest Premiere Audience Ever With 800,000 Viewers",
-      "url": "https://www.thewrap.com/media-platforms/tv/industry-season-4-episode-1-ratings-hbo-max/",
-      "timestamp": "19:04",
-      "pubDate": "2026-01-15T19:04:19.000Z"
-    },
-    {
-      "title": "Gen Alpha Consumers Value Safety and Kindness Over Fame and Popularity, UCLA Study Finds",
-      "url": "https://variety.com/2026/biz/news/young-people-safety-kindness-fame-ucla-1236631815/",
-      "timestamp": "19:03",
-      "pubDate": "2026-01-15T19:03:50.000Z"
-    },
-    {
-      "title": "I walked 65,000 steps with the Garmin Venu 4 — 5 things I learned",
-      "url": "https://www.tomsguide.com/wellness/smartwatches/i-walked-65-000-steps-with-the-garmin-venu-4-5-things-i-learned",
-      "timestamp": "19:03",
-      "pubDate": "2026-01-15T19:03:34.000Z"
-    },
-    {
-      "title": "Amazon is making a Fallout Shelter competition reality TV show",
-      "url": "https://www.engadget.com/entertainment/tv-movies/amazon-is-making-a-fallout-shelter-competition-reality-tv-show-190151855.html?src=rss",
-      "timestamp": "19:01",
-      "pubDate": "2026-01-15T19:01:51.000Z"
-    },
-    {
-      "title": "'Abbott Elementary' Casts Khandi Alexander For Season 5",
-      "url": "https://deadline.com/2026/01/abbott-elementary-cast-khandi-alexander-season-5-1236684291/",
-      "timestamp": "19:00",
-      "pubDate": "2026-01-15T19:00:55.000Z"
-    },
-    {
-      "title": "The group that claimed to “play like Hendrix” and “record like Motown”",
-      "url": "https://faroutmagazine.co.uk/the-group-that-claimed-to-play-like-hendrix-and-record-like-motown/",
-      "timestamp": "19:00",
-      "pubDate": "2026-01-15T19:00:00.000Z"
-    },
-    {
-      "title": "Range Signs 'The Chair Company' Actor Will Price",
-      "url": "https://deadline.com/2026/01/range-chair-company-will-price-1236684229/",
-      "timestamp": "19:00",
-      "pubDate": "2026-01-15T19:00:00.000Z"
-    },
-    {
-      "title": "Cate Blanchett Returns as Valka for Live-Action 'How to Train Your Dragon 2'",
-      "url": "https://www.thewrap.com/creative-content/movies/cate-blanchett-valka-how-to-train-your-dragon-2-live-action/",
-      "timestamp": "18:50",
-      "pubDate": "2026-01-15T18:50:31.000Z"
-    },
-    {
-      "title": "The Xgimi Horizon 20 Pro is a potent projector suited to brighter rooms — but it comes with a catch",
-      "url": "https://www.tomsguide.com/tvs/xgimi-horizon-20-pro-review",
-      "timestamp": "18:47",
-      "pubDate": "2026-01-15T18:47:25.000Z"
-    },
-    {
-      "title": "Who is the only actor to appear in three consecutive 'Best Picture' winners?",
-      "url": "https://faroutmagazine.co.uk/actor-to-appear-in-three-consecutive-best-picture-winners/",
-      "timestamp": "18:45",
-      "pubDate": "2026-01-15T18:45:00.000Z"
-    },
-    {
-      "title": "OpenAI is pushing ChatGPT as a translation tool — and it could rival Google Translate",
-      "url": "https://www.tomsguide.com/ai/chatgpt-translate-wants-to-become-your-new-essential-ai-translation-tool",
-      "timestamp": "18:43",
-      "pubDate": "2026-01-15T18:43:05.000Z"
-    },
-    {
-      "title": "PinkPantheress and Zara Larsson Get an Ego Boost in 'Stateside' Video",
-      "url": "https://www.rollingstone.com/music/music-news/pinkpantheress-zara-larsson-stateside-video-1235500046/",
-      "timestamp": "18:42",
-      "pubDate": "2026-01-15T18:42:53.000Z"
-    },
-    {
-      "title": "Nigel Farage tricked into paying tribute to late paedophile and shamed Lostprophets singer Ian Watkins on Cameo",
-      "url": "https://www.nme.com/news/music/nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo-3923505?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo",
-      "timestamp": "18:36",
-      "pubDate": "2026-01-15T18:36:41.000Z"
-    },
-    {
-      "title": "DDA Taps Matt Andrée Wiltens, Ryan Smith for Key Roles in U.S. Expansion",
-      "url": "https://www.hollywoodreporter.com/business/business-news/dda-taps-matt-andree-wiltens-ryan-smith-1236475162/",
-      "timestamp": "18:32",
-      "pubDate": "2026-01-15T18:32:58.000Z"
-    },
-    {
-      "title": "Holywater Raises $22 Million in Financing Amid Microdramas Arms Race",
-      "url": "https://www.hollywoodreporter.com/business/business-news/holywater-22-million-financing-microdramas-arms-race-1236475083/",
-      "timestamp": "18:32",
-      "pubDate": "2026-01-15T18:32:42.000Z"
-    },
-    {
-      "title": "The songwriter Bob Dylan called the pinnacle of music: \"At the top\"",
-      "url": "https://faroutmagazine.co.uk/the-songwriter-bob-dylan-called-the-pinnacle-of-music/",
-      "timestamp": "18:30",
-      "pubDate": "2026-01-15T18:30:00.000Z"
-    },
-    {
-      "title": "Annie Ilonzeh, Tyler Lepley And Mike Merrill Board ‘Loving Venus’ Thriller From Director Jamal Hill And Manny Halley Productions",
-      "url": "https://deadline.com/2026/01/loving-venus-cast-annie-ilonzeh-tyler-lepley-mike-merrill-1236683501/",
-      "timestamp": "18:30",
-      "pubDate": "2026-01-15T18:30:00.000Z"
-    },
-    {
-      "title": "Starz Acquires Sky's Will Sharpe-Starring Period Drama 'Amadeus'",
-      "url": "https://deadline.com/2026/01/starz-amadeus-will-sharpe-sky-1236684149/",
-      "timestamp": "18:30",
-      "pubDate": "2026-01-15T18:30:00.000Z"
-    },
-    {
-      "title": "Starz Grabs U.S. Rights to ‘Amadeus’ Limited Series With Will Sharpe, Paul Bettany",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/amadeus-limited-series-starz-1236475007/",
-      "timestamp": "18:30",
-      "pubDate": "2026-01-15T18:30:00.000Z"
-    },
-    {
-      "title": "How 'No Other Choice' Turns a House Into a Capitalist Nightmare",
-      "url": "https://www.indiewire.com/features/interviews/park-chan-wook-no-other-choice-director-interview-house-1235159060/",
-      "timestamp": "18:30",
-      "pubDate": "2026-01-15T18:30:00.000Z"
-    },
-    {
-      "title": "'Amadeus,' Sky's Mozart Series Starring Will Sharpe and Paul Bettany, Acquired by Starz for U.S.",
-      "url": "https://variety.com/2026/tv/global/amadeus-will-sharpe-mozart-starz-us-1236632240/",
-      "timestamp": "18:30",
-      "pubDate": "2026-01-15T18:30:00.000Z"
-    },
-    {
-      "title": "'Amadeus' Heads to Starz as Streamer Bolsters Period Drama Slate",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/amadeus-premieres-starz-paul-bettany-will-sharpe/",
-      "timestamp": "18:30",
-      "pubDate": "2026-01-15T18:30:00.000Z"
-    },
-    {
-      "title": "Is Tony Dokoupil's 'CBS Evening News' Overhaul Worth the Trouble?",
-      "url": "https://www.thewrap.com/commentary-analysis/columns/tony-dokoupils-cbs-evening-news-overhaul-ratings/",
-      "timestamp": "18:30",
-      "pubDate": "2026-01-15T18:30:00.000Z"
-    },
-    {
-      "title": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
-      "url": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
-      "timestamp": "18:24",
-      "pubDate": "2026-01-15T18:24:51.000Z"
-    },
-    {
-      "title": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
-      "url": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
-      "timestamp": "18:24",
-      "pubDate": "2026-01-15T18:24:51.000Z"
-    },
-    {
-      "title": "Cate Blanchett to Star in 'How to Train Your Dragon 2' Live-Action Movie, Reprising Role as Valka",
-      "url": "https://variety.com/2026/film/news/cate-blanchett-how-to-train-your-dragon-2-live-action-movie-valka-1236632505/",
-      "timestamp": "18:23",
-      "pubDate": "2026-01-15T18:23:47.000Z"
-    },
-    {
-      "title": "Minnesota Is Just the Beginning. California and New York Are ‘Next’",
-      "url": "https://www.wired.com/story/california-and-new-york-are-next/",
-      "timestamp": "18:22",
-      "pubDate": "2026-01-15T18:22:33.000Z"
-    },
-    {
-      "title": "CME Group Moves Deeper Into Crypto Futures With ADA, LINK, and XLM Contracts",
-      "url": "https://news.bitcoin.com/cme-group-moves-deeper-into-crypto-futures-with-ada-link-and-xlm-contracts/",
-      "timestamp": "18:20",
-      "pubDate": "2026-01-15T18:20:48.000Z"
-    },
-    {
-      "title": "Paul McCartney Remembers Sharing a Stage With Bob Weir: He 'Inspired Many People'",
-      "url": "https://www.rollingstone.com/music/music-news/paul-mccartney-bob-weir-tribute-1235500053/",
-      "timestamp": "18:19",
-      "pubDate": "2026-01-15T18:19:52.000Z"
-    },
-    {
-      "title": "Lauryn Hill Remembers Fugees Collaborator John Forté: 'I Loved Him, My Family Loved&#160;Him'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/lauryn-hill-honors-john-forte-fugees-collaborator-1236155757/",
-      "timestamp": "18:15",
-      "pubDate": "2026-01-15T18:15:11.000Z"
-    },
-    {
-      "title": "No, Mr. Bond, We Expect You to Lie: Why the 007 Rumor Mill Keeps Churning Out Duds",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/james-bond-casting-rumors-wrong-1236474205/",
-      "timestamp": "18:15",
-      "pubDate": "2026-01-15T18:15:00.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "When Jamie Lee Curtis begged Jack Black to rescue her: \"Where the fuck are you?\"",
-      "url": "https://faroutmagazine.co.uk/when-jamie-lee-curtis-begged-jack-black-to-rescue-her/",
-      "timestamp": "19:15"
+      "title": "'Denied Entry': Ticket Giant AXS Sues Company It Says 'Spoofed' Concert Tickets & Burned&#160;Fans",
+      "url": "https://www.billboard.com/pro/axs-lawsuit-company-copied-concert-tickets-hurt-fans/",
+      "timestamp": "20:29"
     },
     {
-      "title": "Chase Rice on Why He Decided to Quit Touring: 'Everything Felt Wrong'",
-      "url": "https://www.rollingstone.com/music/music-features/chase-rice-why-he-quit-touring-interview-1235499998/",
-      "timestamp": "19:13"
+      "title": "Café Tacvba Reflects on Its Request to Remove Its Music From Spotify: 'This Process is Long, Tedious,&#160;Heavy'",
+      "url": "https://www.billboard.com/music/latin/cafe-tacvba-request-remove-music-spotify-interview-1236155854/",
+      "timestamp": "20:28"
     },
     {
-      "title": "The group that claimed to “play like Hendrix” and “record like Motown”",
-      "url": "https://faroutmagazine.co.uk/the-group-that-claimed-to-play-like-hendrix-and-record-like-motown/",
-      "timestamp": "19:00"
+      "title": "Marty Supreme Originally Ended With Him Turning Into A Vampire At A Tears For Fears Concert",
+      "url": "https://stereogum.com/2485574/marty-supreme-vampire-ending-tears-for-fears/news/",
+      "timestamp": "20:21"
     },
     {
-      "title": "Who is the only actor to appear in three consecutive 'Best Picture' winners?",
-      "url": "https://faroutmagazine.co.uk/actor-to-appear-in-three-consecutive-best-picture-winners/",
-      "timestamp": "18:45"
+      "title": "Not For Radio's Winter in the Garden Tour Casts a Trippy Spell",
+      "url": "https://www.rollingstone.com/music/music-live-reviews/not-for-radio-maria-zardoya-brooklyn-1235500189/",
+      "timestamp": "20:15"
     },
     {
-      "title": "PinkPantheress and Zara Larsson Get an Ego Boost in 'Stateside' Video",
-      "url": "https://www.rollingstone.com/music/music-news/pinkpantheress-zara-larsson-stateside-video-1235500046/",
-      "timestamp": "18:42"
+      "title": "Jelly Roll, Alejandro Sanz & Grupo Frontera to Headline Carín León's La Cura&#160;Fest",
+      "url": "https://www.billboard.com/music/latin/jelly-roll-grupo-frontera-carin-leon-la-cura-fest-headliners-1236155909/",
+      "timestamp": "20:11"
+    },
+    {
+      "title": "Lauryn Hill Pays Tribute to John Forté: ‘This Loss Is Surreal…My Heart Aches’",
+      "url": "https://www.rollingstone.com/music/music-news/lauryn-hill-pays-tribute-john-forte-1235500225/",
+      "timestamp": "20:09"
+    },
+    {
+      "title": "Mick Fleetwood names the true leader of Fleetwood Mac: \"Took the bull by the horns\"",
+      "url": "https://faroutmagazine.co.uk/mick-fleetwood-names-the-true-leader-of-fleetwood-mac/",
+      "timestamp": "20:00"
+    },
+    {
+      "title": "Who Owns DMX’s Legacy?",
+      "url": "https://www.rollingstone.com/music/music-features/dmx-ordained-minister-church-legacy-1235498352/",
+      "timestamp": "19:47"
+    },
+    {
+      "title": "The one guitarist Eddie Van Halen though could make his song better: \"I wish somebody would take that technique\"",
+      "url": "https://faroutmagazine.co.uk/one-guitarist-eddie-van-halen-though-could-make-his-song-better/",
+      "timestamp": "19:45"
+    },
+    {
+      "title": "The most important star in modern Hollywood, according to Gwyneth Paltrow: \"She was that person\"",
+      "url": "https://faroutmagazine.co.uk/most-important-star-in-modern-hollywood-according-to-gwyneth-paltrow/",
+      "timestamp": "19:45"
     },
     {
       "title": "Nigel Farage tricked into paying tribute to late paedophile and shamed Lostprophets singer Ian Watkins on Cameo",
@@ -377,29 +402,9 @@
       "timestamp": "18:36"
     },
     {
-      "title": "Paul McCartney Remembers Sharing a Stage With Bob Weir: He 'Inspired Many People'",
-      "url": "https://www.rollingstone.com/music/music-news/paul-mccartney-bob-weir-tribute-1235500053/",
-      "timestamp": "18:19"
-    },
-    {
-      "title": "Lauryn Hill Remembers Fugees Collaborator John Forté: 'I Loved Him, My Family Loved&#160;Him'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/lauryn-hill-honors-john-forte-fugees-collaborator-1236155757/",
-      "timestamp": "18:15"
-    },
-    {
       "title": "Angel to Embark on 2026-2027 Farewell Tour",
       "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
       "timestamp": "17:54"
-    },
-    {
-      "title": "Billboard Staff’s Greatest Pop Stars of 2025: Honorable Mentions",
-      "url": "https://www.billboard.com/lists/greatest-pop-stars-2025-honorable-mentions/",
-      "timestamp": "17:39"
-    },
-    {
-      "title": "Looking Ahead: A Release Calendar of Upcoming Albums&#160;in 2026",
-      "url": "https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
-      "timestamp": "17:24"
     },
     {
       "title": "Iggy Pop, Bikini Kill Motor To Mosswood Meltdown",
@@ -440,12 +445,7 @@
       "title": "Xiu Xiu, “Xiu Mutha F—in’ Xiu: Vol. 1”",
       "url": "https://daily.bandcamp.com/album-of-the-day/xiu-xiu-xiu-mutha-f-in-xiu-vol-1-review",
       "timestamp": "14:51"
-    },
-    {
-      "title": "Sleater-Kinney & Fred Armisen Start Ramones Cover Band",
-      "url": "https://stereogum.com/2485475/sleater-kinney-fred-armisen-start-ramones-cover-band/news/",
-      "timestamp": "14:30"
     }
   ],
-  "lastUpdated": "2026-01-15T19:27:50.835Z"
+  "lastUpdated": "2026-01-15T20:30:31.873Z"
 }

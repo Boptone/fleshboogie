@@ -1,39 +1,39 @@
 {
-  "curatedAt": "2026-01-15T19:27:53.852Z",
+  "curatedAt": "2026-01-15T20:30:34.830Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "DDA HIRES MATT ANDRÉE WILTENS, RYAN SMITH FOR KEY ROLES IN LOS ANGELES",
-      "url": "https://variety.com/2026/film/news/dda-hires-matt-andree-wiltens-ryan-smith-los-angeles-1236631912/",
-      "timestamp": "2026-01-15T19:27:50.835Z",
+      "title": "'DENIED ENTRY': TICKET GIANT AXS SUES COMPANY IT SAYS 'SPOOFED' CONCERT TICKETS & BURNED&#160;FANS",
+      "url": "https://www.billboard.com/pro/axs-lawsuit-company-copied-concert-tickets-hurt-fans/",
+      "timestamp": "2026-01-15T20:30:31.873Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
       {
-        "title": "Billboard Staff’s Greatest Pop Stars of 2025: Honorable Mentions",
-        "url": "https://www.billboard.com/lists/greatest-pop-stars-2025-honorable-mentions/",
-        "timestamp": "17:39",
-        "source": "musicReleases",
+        "title": "Café Tacvba Reflects on Its Request to Remove Its Music From Spotify: 'This Process is Long, Tedious,&#160;Heavy'",
+        "url": "https://www.billboard.com/music/latin/cafe-tacvba-request-remove-music-spotify-interview-1236155854/",
+        "timestamp": "20:28",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.7,
+          "engagement": 0.6,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.52
+          "composite": 0.49
         }
       },
       {
-        "title": "Chase Rice on Why He Decided to Quit Touring: 'Everything Felt Wrong'",
-        "url": "https://www.rollingstone.com/music/music-features/chase-rice-why-he-quit-touring-interview-1235499998/",
-        "timestamp": "19:13",
+        "title": "This AI artist has three songs in the Spotify viral top 50 and has already fooled Selena Gomez",
+        "url": "https://www.nme.com/news/music/this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez-3923513?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez",
+        "timestamp": "20:26",
         "source": "mainColumn",
         "scores": {
           "impact": 0.6,
@@ -57,96 +57,82 @@
         }
       }
     ],
-    "discovery": [
-      {
-        "title": "Cate Blanchett to Star in 'How to Train Your Dragon 2' Live-Action Movie, Reprising Role as Valka",
-        "url": "https://variety.com/2026/film/news/cate-blanchett-how-to-train-your-dragon-2-live-action-movie-valka-1236632505/",
-        "timestamp": "18:23",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.5000000000000001
-        }
-      }
-    ],
+    "discovery": [],
     "conversation": [
       {
-        "title": "Billboard Staff’s Greatest Pop Stars of 2025: Honorable Mentions",
-        "url": "https://www.billboard.com/lists/greatest-pop-stars-2025-honorable-mentions/",
-        "timestamp": "17:39",
+        "title": "The Best (and Worst) Solo LP From Every Member of Fleetwood Mac",
+        "url": "https://ultimateclassicrock.com/fleetwood-mac-best-solo-albums/",
+        "timestamp": "16:25",
         "source": "musicReleases",
         "scores": {
-          "impact": 0.6,
+          "impact": 0.5,
           "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.52
+          "composite": 0.4800000000000001
         }
       },
       {
-        "title": "Cate Blanchett to Star in 'How to Train Your Dragon 2' Live-Action Movie, Reprising Role as Valka",
-        "url": "https://variety.com/2026/film/news/cate-blanchett-how-to-train-your-dragon-2-live-action-movie-valka-1236632505/",
-        "timestamp": "18:23",
+        "title": "Save $50 on the OnePlus Watch 3, Which Has Revolutionary Battery Tech",
+        "url": "https://www.wired.com/story/oneplus-watch-3-deal-126/",
+        "timestamp": "19:24",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7,
+          "engagement": 0.65,
           "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.5000000000000001
+          "discovery": 0.3,
+          "composite": 0.4650000000000001
         }
       }
     ],
     "wildcard": [
       {
-        "title": "DDA HIRES MATT ANDRÉE WILTENS, RYAN SMITH FOR KEY ROLES IN LOS ANGELES",
-        "url": "https://variety.com/2026/film/news/dda-hires-matt-andree-wiltens-ryan-smith-los-angeles-1236631912/",
-        "timestamp": "2026-01-15T19:27:50.835Z",
+        "title": "'DENIED ENTRY': TICKET GIANT AXS SUES COMPANY IT SAYS 'SPOOFED' CONCERT TICKETS & BURNED&#160;FANS",
+        "url": "https://www.billboard.com/pro/axs-lawsuit-company-copied-concert-tickets-hurt-fans/",
+        "timestamp": "2026-01-15T20:30:31.873Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "DDA HIRES MATT ANDRÉE WILTENS, RYAN SMITH FOR KEY ROLES IN LOS ANGELES",
-      "url": "https://variety.com/2026/film/news/dda-hires-matt-andree-wiltens-ryan-smith-los-angeles-1236631912/",
-      "timestamp": "2026-01-15T19:27:50.835Z",
+      "title": "'DENIED ENTRY': TICKET GIANT AXS SUES COMPANY IT SAYS 'SPOOFED' CONCERT TICKETS & BURNED&#160;FANS",
+      "url": "https://www.billboard.com/pro/axs-lawsuit-company-copied-concert-tickets-hurt-fans/",
+      "timestamp": "2026-01-15T20:30:31.873Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     {
-      "title": "Billboard Staff’s Greatest Pop Stars of 2025: Honorable Mentions",
-      "url": "https://www.billboard.com/lists/greatest-pop-stars-2025-honorable-mentions/",
-      "timestamp": "17:39",
-      "source": "musicReleases",
+      "title": "Café Tacvba Reflects on Its Request to Remove Its Music From Spotify: 'This Process is Long, Tedious,&#160;Heavy'",
+      "url": "https://www.billboard.com/music/latin/cafe-tacvba-request-remove-music-spotify-interview-1236155854/",
+      "timestamp": "20:28",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.7,
+        "engagement": 0.6,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.52
+        "composite": 0.49
       }
     },
     {
-      "title": "Chase Rice on Why He Decided to Quit Touring: 'Everything Felt Wrong'",
-      "url": "https://www.rollingstone.com/music/music-features/chase-rice-why-he-quit-touring-interview-1235499998/",
-      "timestamp": "19:13",
+      "title": "This AI artist has three songs in the Spotify viral top 50 and has already fooled Selena Gomez",
+      "url": "https://www.nme.com/news/music/this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez-3923513?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=this-ai-artist-has-three-songs-in-the-spotify-viral-top-50-and-has-already-fooled-selena-gomez",
+      "timestamp": "20:26",
       "source": "mainColumn",
       "scores": {
         "impact": 0.6,
@@ -170,16 +156,29 @@
       }
     },
     {
-      "title": "Cate Blanchett to Star in 'How to Train Your Dragon 2' Live-Action Movie, Reprising Role as Valka",
-      "url": "https://variety.com/2026/film/news/cate-blanchett-how-to-train-your-dragon-2-live-action-movie-valka-1236632505/",
-      "timestamp": "18:23",
-      "source": "automated",
+      "title": "The Best (and Worst) Solo LP From Every Member of Fleetwood Mac",
+      "url": "https://ultimateclassicrock.com/fleetwood-mac-best-solo-albums/",
+      "timestamp": "16:25",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.5,
         "engagement": 0.7,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.5000000000000001
+        "discovery": 0.3,
+        "composite": 0.4800000000000001
+      }
+    },
+    {
+      "title": "Save $50 on the OnePlus Watch 3, Which Has Revolutionary Battery Tech",
+      "url": "https://www.wired.com/story/oneplus-watch-3-deal-126/",
+      "timestamp": "19:24",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.65,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.4650000000000001
       }
     }
   ],
