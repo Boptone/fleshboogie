@@ -1,53 +1,40 @@
 {
-  "curatedAt": "2026-01-15T22:26:18.821Z",
+  "curatedAt": "2026-01-15T23:25:20.552Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "TRANNIE ANDERSON TALKS REVEALING MORE OF HER HEART ON ‘HEART LIKE A SONGWRITER’ & PICKING ‘SONGS THAT INTRODUCE WHO I&#160;AM’",
-      "url": "https://www.billboard.com/music/country/trannie-anderson-album-heart-like-a-songwriter-1236155880/",
-      "timestamp": "2026-01-15T22:26:15.839Z",
+      "title": "KAISER PERMANENTE REACHES $46 MILLION SETTLEMENT OVER DATA BREACH — HOW TO FILE YOUR CLAIM",
+      "url": "https://www.tomsguide.com/computing/online-security/kaiser-permanente-reaches-usd46-million-settlement-over-data-breach-how-to-file-your-claim",
+      "timestamp": "2026-01-15T23:25:17.593Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.65,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.625
+        "composite": 0.6400000000000001
       }
     },
     "deepDive": [
       {
-        "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
-        "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
-        "timestamp": "21:11",
+        "title": "‘Jujutsu Kaisen Modulo’ Vol. 1 Debuts at No. 1 on Japan Book Hot&#160;100",
+        "url": "https://www.billboard.com/music/music-news/jujutsu-kaisen-modulo-vol-1-number-one-japan-book-hot-100-1236156046/",
+        "timestamp": "22:51",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.65,
+          "engagement": 0.6,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.525
+          "composite": 0.51
         }
       },
       {
-        "title": "Meet the Artist in El Salvador’s First-Ever Venice Biennale Pavilion",
-        "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
-        "timestamp": "21:23",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.55,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.49500000000000005
-        }
-      },
-      {
-        "title": "All of Myke Towers No. 1 Billboard Hits: 'LaLa,' 'Degenere' &&#160;More",
-        "url": "https://www.billboard.com/music/latin/myke-towers-no-1-billboard-hits-latin-airplay-chart-1236155920/",
-        "timestamp": "21:35",
-        "source": "automated",
+        "title": "Angel to Embark on 2026-2027 Farewell Tour",
+        "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
+        "timestamp": "17:54",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
@@ -55,138 +42,112 @@
           "discovery": 0.3,
           "composite": 0.49
         }
+      },
+      {
+        "title": "‘The Pitt’ Season 2 Premiere Ratings Soar",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/the-pitt-season-2-premiere-ratings-1236475439/",
+        "timestamp": "22:16",
+        "source": "automated",
+        "scores": {
+          "impact": 0.55,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.4700000000000001
+        }
       }
     ],
     "discovery": [
       {
-        "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
-        "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
-        "timestamp": "21:11",
+        "title": "‘Jujutsu Kaisen Modulo’ Vol. 1 Debuts at No. 1 on Japan Book Hot&#160;100",
+        "url": "https://www.billboard.com/music/music-news/jujutsu-kaisen-modulo-vol-1-number-one-japan-book-hot-100-1236156046/",
+        "timestamp": "22:51",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.525
-        }
-      },
-      {
-        "title": "Meet the Artist in El Salvador’s First-Ever Venice Biennale Pavilion",
-        "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
-        "timestamp": "21:23",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.55,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.49500000000000005
-        }
-      },
-      {
-        "title": "'The Pitt' Returns To HBO Max With Nearly 200% U.S. Audience Increase For Season 2 Debut",
-        "url": "https://deadline.com/2026/01/the-pitt-season-2-premiere-ratings-hbo-max-1236684439/",
-        "timestamp": "20:49",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
           "engagement": 0.6,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.47000000000000003
+          "composite": 0.51
         }
       }
     ],
     "conversation": [
       {
-        "title": "TRANNIE ANDERSON TALKS REVEALING MORE OF HER HEART ON ‘HEART LIKE A SONGWRITER’ & PICKING ‘SONGS THAT INTRODUCE WHO I&#160;AM’",
-        "url": "https://www.billboard.com/music/country/trannie-anderson-album-heart-like-a-songwriter-1236155880/",
-        "timestamp": "2026-01-15T22:26:15.839Z",
+        "title": "KAISER PERMANENTE REACHES $46 MILLION SETTLEMENT OVER DATA BREACH — HOW TO FILE YOUR CLAIM",
+        "url": "https://www.tomsguide.com/computing/online-security/kaiser-permanente-reaches-usd46-million-settlement-over-data-breach-how-to-file-your-claim",
+        "timestamp": "2026-01-15T23:25:17.593Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.65,
+          "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.625
+          "composite": 0.6400000000000001
         }
       },
       {
-        "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
-        "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
-        "timestamp": "21:11",
+        "title": "How to watch 'Animal Control' Season 4 online from anywhere — stream new episodes",
+        "url": "https://www.tomsguide.com/entertainment/hulu/how-to-watch-animal-control-season-4-online-from-anywhere-stream-new-episodes",
+        "timestamp": "22:35",
         "source": "automated",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.65,
+          "impact": 0.5,
+          "engagement": 0.85,
           "timeliness": 0.2,
-          "discovery": 0.5,
+          "discovery": 0.3,
           "composite": 0.525
         }
       }
     ],
     "wildcard": [
       {
-        "title": "TRANNIE ANDERSON TALKS REVEALING MORE OF HER HEART ON ‘HEART LIKE A SONGWRITER’ & PICKING ‘SONGS THAT INTRODUCE WHO I&#160;AM’",
-        "url": "https://www.billboard.com/music/country/trannie-anderson-album-heart-like-a-songwriter-1236155880/",
-        "timestamp": "2026-01-15T22:26:15.839Z",
+        "title": "KAISER PERMANENTE REACHES $46 MILLION SETTLEMENT OVER DATA BREACH — HOW TO FILE YOUR CLAIM",
+        "url": "https://www.tomsguide.com/computing/online-security/kaiser-permanente-reaches-usd46-million-settlement-over-data-breach-how-to-file-your-claim",
+        "timestamp": "2026-01-15T23:25:17.593Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.65,
+          "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.625
+          "composite": 0.6400000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "TRANNIE ANDERSON TALKS REVEALING MORE OF HER HEART ON ‘HEART LIKE A SONGWRITER’ & PICKING ‘SONGS THAT INTRODUCE WHO I&#160;AM’",
-      "url": "https://www.billboard.com/music/country/trannie-anderson-album-heart-like-a-songwriter-1236155880/",
-      "timestamp": "2026-01-15T22:26:15.839Z",
+      "title": "KAISER PERMANENTE REACHES $46 MILLION SETTLEMENT OVER DATA BREACH — HOW TO FILE YOUR CLAIM",
+      "url": "https://www.tomsguide.com/computing/online-security/kaiser-permanente-reaches-usd46-million-settlement-over-data-breach-how-to-file-your-claim",
+      "timestamp": "2026-01-15T23:25:17.593Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.65,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.625
+        "composite": 0.6400000000000001
       }
     },
     {
-      "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
-      "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
-      "timestamp": "21:11",
+      "title": "‘Jujutsu Kaisen Modulo’ Vol. 1 Debuts at No. 1 on Japan Book Hot&#160;100",
+      "url": "https://www.billboard.com/music/music-news/jujutsu-kaisen-modulo-vol-1-number-one-japan-book-hot-100-1236156046/",
+      "timestamp": "22:51",
       "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.65,
+        "engagement": 0.6,
         "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.525
+        "composite": 0.51
       }
     },
     {
-      "title": "Meet the Artist in El Salvador’s First-Ever Venice Biennale Pavilion",
-      "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
-      "timestamp": "21:23",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.55,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.49500000000000005
-      }
-    },
-    {
-      "title": "All of Myke Towers No. 1 Billboard Hits: 'LaLa,' 'Degenere' &&#160;More",
-      "url": "https://www.billboard.com/music/latin/myke-towers-no-1-billboard-hits-latin-airplay-chart-1236155920/",
-      "timestamp": "21:35",
-      "source": "automated",
+      "title": "Angel to Embark on 2026-2027 Farewell Tour",
+      "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
+      "timestamp": "17:54",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
@@ -196,16 +157,29 @@
       }
     },
     {
-      "title": "'The Pitt' Returns To HBO Max With Nearly 200% U.S. Audience Increase For Season 2 Debut",
-      "url": "https://deadline.com/2026/01/the-pitt-season-2-premiere-ratings-hbo-max-1236684439/",
-      "timestamp": "20:49",
+      "title": "‘The Pitt’ Season 2 Premiere Ratings Soar",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-pitt-season-2-premiere-ratings-1236475439/",
+      "timestamp": "22:16",
+      "source": "automated",
+      "scores": {
+        "impact": 0.55,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.4700000000000001
+      }
+    },
+    {
+      "title": "How to watch 'Animal Control' Season 4 online from anywhere — stream new episodes",
+      "url": "https://www.tomsguide.com/entertainment/hulu/how-to-watch-animal-control-season-4-online-from-anywhere-stream-new-episodes",
+      "timestamp": "22:35",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.85,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.47000000000000003
+        "discovery": 0.3,
+        "composite": 0.525
       }
     }
   ],
