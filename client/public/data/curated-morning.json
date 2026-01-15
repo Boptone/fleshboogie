@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-15T11:24:16.725Z",
+  "curatedAt": "2026-01-15T12:53:50.152Z",
   "totalAnalyzed": 66,
-  "totalSelected": 4,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "3 NEW TO NETFLIX THRILLER MOVIES TO STREAM THIS WEEK — ONE OF THEM HAS A SHOCKING TWIST (JAN 15-21)",
-      "url": "https://www.tomsguide.com/entertainment/netflix/3-new-to-netflix-thriller-movies-to-stream-this-week-one-of-them-has-a-shocking-twist-jan-15-21",
-      "timestamp": "2026-01-15T11:24:13.707Z",
+      "title": "YAMAHA URX SERIES AUDIO INTERFACES AND CC1 DAW CONTROLLER: POST-PRODUCTION PARADISE",
+      "url": "https://www.gearnews.com/yamaha-urx-cc1-studio/",
+      "timestamp": "2026-01-15T12:53:47.159Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
@@ -31,10 +31,23 @@
         }
       },
       {
+        "title": "I just discovered these 5 hidden features on the Oura Ring — and you need to know about them",
+        "url": "https://www.tomsguide.com/wellness/smart-rings/i-just-discovered-these-5-hidden-features-on-the-oura-ring-and-you-need-to-know-about-them",
+        "timestamp": "11:48",
+        "source": "automated",
+        "scores": {
+          "impact": 0.55,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.7,
+          "composite": 0.51
+        }
+      },
+      {
         "title": "Pulp confirm Adelaide Festival show will still go ahead following appointment of new board",
         "url": "https://faroutmagazine.co.uk/pulp-confirm-adelaide-festival-appointment-of-new-board/",
         "timestamp": "11:07",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.65,
@@ -42,48 +55,48 @@
           "discovery": 0.3,
           "composite": 0.505
         }
-      },
-      {
-        "title": "Director Alli Haapasalo Talks High-Profile Göteborg Debut ‘Tell Everyone,’ a Period Drama That’s ‘Just as Relevant’ Today as Trailer Debuts (EXCLUSIVE)",
-        "url": "https://variety.com/2026/film/global/alli-haapasalo-tell-everyone-goteborg-bow-levelk-1236631263/",
-        "timestamp": "09:05",
-        "source": "automated",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.49000000000000005
-        }
       }
     ],
     "discovery": [
       {
-        "title": "Director Alli Haapasalo Talks High-Profile Göteborg Debut ‘Tell Everyone,’ a Period Drama That’s ‘Just as Relevant’ Today as Trailer Debuts (EXCLUSIVE)",
-        "url": "https://variety.com/2026/film/global/alli-haapasalo-tell-everyone-goteborg-bow-levelk-1236631263/",
-        "timestamp": "09:05",
+        "title": "What Is VO2 Max? Here’s What You Need to Know About the Longevity Metric (2026)",
+        "url": "https://www.wired.com/story/what-is-vo2-max/",
+        "timestamp": "12:30",
+        "source": "mainColumn",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.53
+        }
+      },
+      {
+        "title": "I just discovered these 5 hidden features on the Oura Ring — and you need to know about them",
+        "url": "https://www.tomsguide.com/wellness/smart-rings/i-just-discovered-these-5-hidden-features-on-the-oura-ring-and-you-need-to-know-about-them",
+        "timestamp": "11:48",
         "source": "automated",
         "scores": {
           "impact": 0.55,
           "engagement": 0.6,
           "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.49000000000000005
+          "discovery": 0.7,
+          "composite": 0.51
         }
       }
     ],
     "conversation": [
       {
-        "title": "3 NEW TO NETFLIX THRILLER MOVIES TO STREAM THIS WEEK — ONE OF THEM HAS A SHOCKING TWIST (JAN 15-21)",
-        "url": "https://www.tomsguide.com/entertainment/netflix/3-new-to-netflix-thriller-movies-to-stream-this-week-one-of-them-has-a-shocking-twist-jan-15-21",
-        "timestamp": "2026-01-15T11:24:13.707Z",
-        "source": "splash",
+        "title": "What Is VO2 Max? Here’s What You Need to Know About the Longevity Metric (2026)",
+        "url": "https://www.wired.com/story/what-is-vo2-max/",
+        "timestamp": "12:30",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6400000000000001
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.53
         }
       },
       {
@@ -102,32 +115,32 @@
     ],
     "wildcard": [
       {
-        "title": "3 NEW TO NETFLIX THRILLER MOVIES TO STREAM THIS WEEK — ONE OF THEM HAS A SHOCKING TWIST (JAN 15-21)",
-        "url": "https://www.tomsguide.com/entertainment/netflix/3-new-to-netflix-thriller-movies-to-stream-this-week-one-of-them-has-a-shocking-twist-jan-15-21",
-        "timestamp": "2026-01-15T11:24:13.707Z",
+        "title": "YAMAHA URX SERIES AUDIO INTERFACES AND CC1 DAW CONTROLLER: POST-PRODUCTION PARADISE",
+        "url": "https://www.gearnews.com/yamaha-urx-cc1-studio/",
+        "timestamp": "2026-01-15T12:53:47.159Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6400000000000001
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "3 NEW TO NETFLIX THRILLER MOVIES TO STREAM THIS WEEK — ONE OF THEM HAS A SHOCKING TWIST (JAN 15-21)",
-      "url": "https://www.tomsguide.com/entertainment/netflix/3-new-to-netflix-thriller-movies-to-stream-this-week-one-of-them-has-a-shocking-twist-jan-15-21",
-      "timestamp": "2026-01-15T11:24:13.707Z",
+      "title": "YAMAHA URX SERIES AUDIO INTERFACES AND CC1 DAW CONTROLLER: POST-PRODUCTION PARADISE",
+      "url": "https://www.gearnews.com/yamaha-urx-cc1-studio/",
+      "timestamp": "2026-01-15T12:53:47.159Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.6100000000000001
       }
     },
     {
@@ -144,10 +157,23 @@
       }
     },
     {
+      "title": "I just discovered these 5 hidden features on the Oura Ring — and you need to know about them",
+      "url": "https://www.tomsguide.com/wellness/smart-rings/i-just-discovered-these-5-hidden-features-on-the-oura-ring-and-you-need-to-know-about-them",
+      "timestamp": "11:48",
+      "source": "automated",
+      "scores": {
+        "impact": 0.55,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.7,
+        "composite": 0.51
+      }
+    },
+    {
       "title": "Pulp confirm Adelaide Festival show will still go ahead following appointment of new board",
       "url": "https://faroutmagazine.co.uk/pulp-confirm-adelaide-festival-appointment-of-new-board/",
       "timestamp": "11:07",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.65,
@@ -157,16 +183,16 @@
       }
     },
     {
-      "title": "Director Alli Haapasalo Talks High-Profile Göteborg Debut ‘Tell Everyone,’ a Period Drama That’s ‘Just as Relevant’ Today as Trailer Debuts (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/alli-haapasalo-tell-everyone-goteborg-bow-levelk-1236631263/",
-      "timestamp": "09:05",
-      "source": "automated",
+      "title": "What Is VO2 Max? Here’s What You Need to Know About the Longevity Metric (2026)",
+      "url": "https://www.wired.com/story/what-is-vo2-max/",
+      "timestamp": "12:30",
+      "source": "mainColumn",
       "scores": {
-        "impact": 0.55,
-        "engagement": 0.6,
+        "impact": 0.5,
+        "engagement": 0.7999999999999999,
         "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.49000000000000005
+        "composite": 0.53
       }
     }
   ],
