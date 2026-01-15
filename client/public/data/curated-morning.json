@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-15T09:32:08.355Z",
+  "curatedAt": "2026-01-15T10:29:32.601Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "THIS $2 APP LETS YOU PLAY FLAPPY BIRD ON YOUR GARMIN WATCH, AND I’M HOOKED",
-      "url": "https://www.tomsguide.com/wellness/smartwatches/this-usd2-app-lets-you-play-flappy-bird-on-your-garmin-watch-and-im-hooked",
-      "timestamp": "2026-01-15T09:32:05.364Z",
+      "title": "THESE WERE THE MOST LISTENED TO SONGS FROM EACH DECADE IN 2025",
+      "url": "https://www.nme.com/news/music/these-were-the-most-listened-to-songs-from-each-decade-in-2025-3923330?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=these-were-the-most-listened-to-songs-from-each-decade-in-2025",
+      "timestamp": "2026-01-15T10:29:29.586Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.65,
+        "engagement": 0.75,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.625
+        "composite": 0.655
       }
     },
     "deepDive": [
@@ -34,7 +34,7 @@
         "title": "Director Alli Haapasalo Talks High-Profile Göteborg Debut ‘Tell Everyone,’ a Period Drama That’s ‘Just as Relevant’ Today as Trailer Debuts (EXCLUSIVE)",
         "url": "https://variety.com/2026/film/global/alli-haapasalo-tell-everyone-goteborg-bow-levelk-1236631263/",
         "timestamp": "09:05",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.55,
           "engagement": 0.6,
@@ -62,7 +62,7 @@
         "title": "Director Alli Haapasalo Talks High-Profile Göteborg Debut ‘Tell Everyone,’ a Period Drama That’s ‘Just as Relevant’ Today as Trailer Debuts (EXCLUSIVE)",
         "url": "https://variety.com/2026/film/global/alli-haapasalo-tell-everyone-goteborg-bow-levelk-1236631263/",
         "timestamp": "09:05",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.55,
           "engagement": 0.6,
@@ -70,33 +70,20 @@
           "discovery": 0.5,
           "composite": 0.49000000000000005
         }
-      },
-      {
-        "title": "AlphaTheta introduces RMX-IGNITE next generation effector",
-        "url": "https://rekkerd.org/alphatheta-introduces-rmx-ignite-next-generation-effector/",
-        "timestamp": "05:56",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.5,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.44
-        }
       }
     ],
     "conversation": [
       {
-        "title": "THIS $2 APP LETS YOU PLAY FLAPPY BIRD ON YOUR GARMIN WATCH, AND I’M HOOKED",
-        "url": "https://www.tomsguide.com/wellness/smartwatches/this-usd2-app-lets-you-play-flappy-bird-on-your-garmin-watch-and-im-hooked",
-        "timestamp": "2026-01-15T09:32:05.364Z",
+        "title": "THESE WERE THE MOST LISTENED TO SONGS FROM EACH DECADE IN 2025",
+        "url": "https://www.nme.com/news/music/these-were-the-most-listened-to-songs-from-each-decade-in-2025-3923330?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=these-were-the-most-listened-to-songs-from-each-decade-in-2025",
+        "timestamp": "2026-01-15T10:29:29.586Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.65,
+          "engagement": 0.75,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.625
+          "composite": 0.655
         }
       },
       {
@@ -115,32 +102,32 @@
     ],
     "wildcard": [
       {
-        "title": "THIS $2 APP LETS YOU PLAY FLAPPY BIRD ON YOUR GARMIN WATCH, AND I’M HOOKED",
-        "url": "https://www.tomsguide.com/wellness/smartwatches/this-usd2-app-lets-you-play-flappy-bird-on-your-garmin-watch-and-im-hooked",
-        "timestamp": "2026-01-15T09:32:05.364Z",
+        "title": "THESE WERE THE MOST LISTENED TO SONGS FROM EACH DECADE IN 2025",
+        "url": "https://www.nme.com/news/music/these-were-the-most-listened-to-songs-from-each-decade-in-2025-3923330?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=these-were-the-most-listened-to-songs-from-each-decade-in-2025",
+        "timestamp": "2026-01-15T10:29:29.586Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.65,
+          "engagement": 0.75,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.625
+          "composite": 0.655
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "THIS $2 APP LETS YOU PLAY FLAPPY BIRD ON YOUR GARMIN WATCH, AND I’M HOOKED",
-      "url": "https://www.tomsguide.com/wellness/smartwatches/this-usd2-app-lets-you-play-flappy-bird-on-your-garmin-watch-and-im-hooked",
-      "timestamp": "2026-01-15T09:32:05.364Z",
+      "title": "THESE WERE THE MOST LISTENED TO SONGS FROM EACH DECADE IN 2025",
+      "url": "https://www.nme.com/news/music/these-were-the-most-listened-to-songs-from-each-decade-in-2025-3923330?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=these-were-the-most-listened-to-songs-from-each-decade-in-2025",
+      "timestamp": "2026-01-15T10:29:29.586Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.65,
+        "engagement": 0.75,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.625
+        "composite": 0.655
       }
     },
     {
@@ -160,7 +147,7 @@
       "title": "Director Alli Haapasalo Talks High-Profile Göteborg Debut ‘Tell Everyone,’ a Period Drama That’s ‘Just as Relevant’ Today as Trailer Debuts (EXCLUSIVE)",
       "url": "https://variety.com/2026/film/global/alli-haapasalo-tell-everyone-goteborg-bow-levelk-1236631263/",
       "timestamp": "09:05",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.55,
         "engagement": 0.6,
@@ -180,19 +167,6 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.49
-      }
-    },
-    {
-      "title": "AlphaTheta introduces RMX-IGNITE next generation effector",
-      "url": "https://rekkerd.org/alphatheta-introduces-rmx-ignite-next-generation-effector/",
-      "timestamp": "05:56",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.44
       }
     }
   ],
