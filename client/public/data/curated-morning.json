@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-15T03:47:41.864Z",
+  "curatedAt": "2026-01-15T04:44:20.047Z",
   "totalAnalyzed": 66,
   "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "VERIZON SAYS ITS SERVICE IS BACK AFTER A 10-HOUR OUTAGE",
-      "url": "https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss",
-      "timestamp": "2026-01-15T03:47:38.886Z",
+      "title": "BLOCKCHAIN FIRM EYES $200M IN TOKENIZED WATER PROJECTS ACROSS SEA",
+      "url": "https://cointelegraph.com/news/200m-tokenized-water-infrastructure-plan-southeast-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "2026-01-15T04:44:17.025Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -21,7 +21,7 @@
         "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
         "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
         "timestamp": "00:03",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -31,10 +31,10 @@
         }
       },
       {
-        "title": "A$AP Rocky's 'Don't Be Dumb' Album Track List Spans 15 Songs",
-        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
-        "timestamp": "01:54",
-        "source": "automated",
+        "title": "Witches, Vampires and Aliens: How Genre Films Like 'Sinners' and 'Weapons' Factor Into the Oscar Race",
+        "url": "https://variety.com/2026/film/actors/horror-movies-vampires-witches-wicked-for-good-sinners-1236631566/",
+        "timestamp": "04:03",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
@@ -44,10 +44,10 @@
         }
       },
       {
-        "title": "C2C Festival NYC 2026 lineup: Arca, Noursished by Time, and more",
-        "url": "https://www.thefader.com/2026/01/14/c2c-festival-nyc-2026-lineup-arca-nourished-by-time-yhwh-nailgun",
-        "timestamp": "18:21",
-        "source": "musicReleases",
+        "title": "A$AP Rocky's 'Don't Be Dumb' Album Track List Spans 15 Songs",
+        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
+        "timestamp": "01:54",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
@@ -90,7 +90,7 @@
         "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
         "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
         "timestamp": "00:03",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -100,24 +100,24 @@
         }
       },
       {
-        "title": "Bravo Reveals ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Cast: See Who's Hitting the Road From Each Franchise",
-        "url": "https://www.hollywoodreporter.com/lists/real-housewives-ultimate-girls-road-trip-cast/",
-        "timestamp": "03:25",
+        "title": "Shah Rukh Khan's 'King' Tops IMDb's Most Anticipated Indian Films of 2026 List (EXCLUSIVE)",
+        "url": "https://variety.com/2026/film/news/shah-rukh-khan-king-imdb-most-anticipated-indian-films-2026-1236630785/",
+        "timestamp": "04:30",
         "source": "mainColumn",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7,
+          "engagement": 0.75,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.4800000000000001
+          "composite": 0.495
         }
       }
     ],
     "wildcard": [
       {
-        "title": "VERIZON SAYS ITS SERVICE IS BACK AFTER A 10-HOUR OUTAGE",
-        "url": "https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss",
-        "timestamp": "2026-01-15T03:47:38.886Z",
+        "title": "BLOCKCHAIN FIRM EYES $200M IN TOKENIZED WATER PROJECTS ACROSS SEA",
+        "url": "https://cointelegraph.com/news/200m-tokenized-water-infrastructure-plan-southeast-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "2026-01-15T04:44:17.025Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -131,9 +131,9 @@
   },
   "stories": [
     {
-      "title": "VERIZON SAYS ITS SERVICE IS BACK AFTER A 10-HOUR OUTAGE",
-      "url": "https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss",
-      "timestamp": "2026-01-15T03:47:38.886Z",
+      "title": "BLOCKCHAIN FIRM EYES $200M IN TOKENIZED WATER PROJECTS ACROSS SEA",
+      "url": "https://cointelegraph.com/news/200m-tokenized-water-infrastructure-plan-southeast-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "2026-01-15T04:44:17.025Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -147,7 +147,7 @@
       "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
       "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
       "timestamp": "00:03",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.7,
@@ -157,10 +157,10 @@
       }
     },
     {
-      "title": "A$AP Rocky's 'Don't Be Dumb' Album Track List Spans 15 Songs",
-      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
-      "timestamp": "01:54",
-      "source": "automated",
+      "title": "Witches, Vampires and Aliens: How Genre Films Like 'Sinners' and 'Weapons' Factor Into the Oscar Race",
+      "url": "https://variety.com/2026/film/actors/horror-movies-vampires-witches-wicked-for-good-sinners-1236631566/",
+      "timestamp": "04:03",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
@@ -170,10 +170,10 @@
       }
     },
     {
-      "title": "C2C Festival NYC 2026 lineup: Arca, Noursished by Time, and more",
-      "url": "https://www.thefader.com/2026/01/14/c2c-festival-nyc-2026-lineup-arca-nourished-by-time-yhwh-nailgun",
-      "timestamp": "18:21",
-      "source": "musicReleases",
+      "title": "A$AP Rocky's 'Don't Be Dumb' Album Track List Spans 15 Songs",
+      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
+      "timestamp": "01:54",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
@@ -209,16 +209,16 @@
       }
     },
     {
-      "title": "Bravo Reveals ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Cast: See Who's Hitting the Road From Each Franchise",
-      "url": "https://www.hollywoodreporter.com/lists/real-housewives-ultimate-girls-road-trip-cast/",
-      "timestamp": "03:25",
+      "title": "Shah Rukh Khan's 'King' Tops IMDb's Most Anticipated Indian Films of 2026 List (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/shah-rukh-khan-king-imdb-most-anticipated-indian-films-2026-1236630785/",
+      "timestamp": "04:30",
       "source": "mainColumn",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.75,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.4800000000000001
+        "composite": 0.495
       }
     }
   ],

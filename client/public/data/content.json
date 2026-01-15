@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "VERIZON SAYS ITS SERVICE IS BACK AFTER A 10-HOUR OUTAGE",
-    "url": "https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss",
+    "headline": "BLOCKCHAIN FIRM EYES $200M IN TOKENIZED WATER PROJECTS ACROSS SEA",
+    "url": "https://cointelegraph.com/news/200m-tokenized-water-infrastructure-plan-southeast-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Solana Mobile to airdrop 1.8B SKR tokens to users, 141M to devs",
-      "url": "https://cointelegraph.com/news/solana-mobile-airdrop-nearly-2b-seeker-users-and-devs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "03:29",
+      "title": "Strive Locks in Semler Approval, Positioning for a 12,798 Bitcoin Treasury",
+      "url": "https://news.bitcoin.com/strive-locks-in-semler-approval-positioning-for-a-12798-bitcoin-treasury/",
+      "timestamp": "04:30",
       "pinned": false
     },
     {
-      "title": "Nene Leakes Sets Bravo Return With 'Real Housewives: Ultimate Road Trip': \"This Has Been A Really Long, Long Journey\"",
-      "url": "https://deadline.com/2026/01/nene-leakes-bravo-return-real-housewives-ultimate-road-trip-1236683727/",
-      "timestamp": "03:27",
+      "title": "Shah Rukh Khan's 'King' Tops IMDb's Most Anticipated Indian Films of 2026 List (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/shah-rukh-khan-king-imdb-most-anticipated-indian-films-2026-1236630785/",
+      "timestamp": "04:30",
       "pinned": false
     },
     {
-      "title": "Bravo Reveals ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Cast: See Who's Hitting the Road From Each Franchise",
-      "url": "https://www.hollywoodreporter.com/lists/real-housewives-ultimate-girls-road-trip-cast/",
-      "timestamp": "03:25",
+      "title": "Matt Damon Recalls the Time Clint Eastwood Asked Him If He Wants to \"Waste Everybody’s Time\" Filming More Takes",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/matt-damon-clint-eastwood-waste-everybodys-time-takes-1236474642/",
+      "timestamp": "04:25",
       "pinned": false
     },
     {
-      "title": "'Ultimate Girls Trip' Cast: Bravo Assembles Seven Real Housewives All-Stars to Celebrate Franchise Turning 20",
-      "url": "https://variety.com/2026/tv/news/real-housewives-ultimate-girls-trip-cast-lisa-barlow-kyle-richards-nene-leakes-1236631751/",
-      "timestamp": "03:25",
+      "title": "Todd and Julie Chrisley on Why They Did 'The Masked Singer' and Potential Criticism: 'Their Issue Is Who Pardoned Us'",
+      "url": "https://variety.com/2026/tv/news/todd-julie-chrisley-critics-pardon-trump-masked-singer-1236631887/",
+      "timestamp": "04:15",
       "pinned": false
     },
     {
-      "title": "TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens",
-      "url": "https://decrypt.co/354684/td-cowen-trims-strategy-price-target-bitcoin-yield",
-      "timestamp": "03:07",
+      "title": "Witches, Vampires and Aliens: How Genre Films Like 'Sinners' and 'Weapons' Factor Into the Oscar Race",
+      "url": "https://variety.com/2026/film/actors/horror-movies-vampires-witches-wicked-for-good-sinners-1236631566/",
+      "timestamp": "04:03",
       "pinned": false
     }
   ],
@@ -104,6 +104,60 @@
     }
   ],
   "automated": [
+    {
+      "title": "Blockchain firm eyes $200M in tokenized water projects across SEA",
+      "url": "https://cointelegraph.com/news/200m-tokenized-water-infrastructure-plan-southeast-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "04:41",
+      "pubDate": "2026-01-15T04:41:49.000Z"
+    },
+    {
+      "title": "Strive Locks in Semler Approval, Positioning for a 12,798 Bitcoin Treasury",
+      "url": "https://news.bitcoin.com/strive-locks-in-semler-approval-positioning-for-a-12798-bitcoin-treasury/",
+      "timestamp": "04:30",
+      "pubDate": "2026-01-15T04:30:59.000Z"
+    },
+    {
+      "title": "Shah Rukh Khan's 'King' Tops IMDb's Most Anticipated Indian Films of 2026 List (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/shah-rukh-khan-king-imdb-most-anticipated-indian-films-2026-1236630785/",
+      "timestamp": "04:30",
+      "pubDate": "2026-01-15T04:30:00.000Z"
+    },
+    {
+      "title": "Matt Damon Recalls the Time Clint Eastwood Asked Him If He Wants to \"Waste Everybody’s Time\" Filming More Takes",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/matt-damon-clint-eastwood-waste-everybodys-time-takes-1236474642/",
+      "timestamp": "04:25",
+      "pubDate": "2026-01-15T04:25:00.000Z"
+    },
+    {
+      "title": "Todd and Julie Chrisley on Why They Did 'The Masked Singer' and Potential Criticism: 'Their Issue Is Who Pardoned Us'",
+      "url": "https://variety.com/2026/tv/news/todd-julie-chrisley-critics-pardon-trump-masked-singer-1236631887/",
+      "timestamp": "04:15",
+      "pubDate": "2026-01-15T04:15:00.000Z"
+    },
+    {
+      "title": "Witches, Vampires and Aliens: How Genre Films Like 'Sinners' and 'Weapons' Factor Into the Oscar Race",
+      "url": "https://variety.com/2026/film/actors/horror-movies-vampires-witches-wicked-for-good-sinners-1236631566/",
+      "timestamp": "04:03",
+      "pubDate": "2026-01-15T04:03:34.000Z"
+    },
+    {
+      "title": "The surreal moment Eddie Murphy met Paul McCartney: \"It was in the studio at his house\"",
+      "url": "https://faroutmagazine.co.uk/surreal-moment-eddie-murphy-met-paul-mccartney/",
+      "timestamp": "04:00",
+      "pubDate": "2026-01-15T04:00:00.000Z"
+    },
+    {
+      "title": "So you got another pair of bed socks for Christmas? Here’s why they could be the key to helping you sleep through the night",
+      "url": "https://www.tomsguide.com/wellness/sleep/so-you-got-another-pair-of-bed-socks-for-christmas-heres-why-they-could-be-the-key-to-helping-you-sleep-through-the-night",
+      "timestamp": "04:00",
+      "pubDate": "2026-01-15T04:00:00.000Z"
+    },
+    {
+      "title": "Crypto Fear & Greed index flips to ‘greed’ for first time since October",
+      "url": "https://cointelegraph.com/news/crypto-fear-greed-hits-greed-bitcoin-two-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "03:54",
+      "pubDate": "2026-01-15T03:54:49.000Z"
+    },
     {
       "title": "Verizon says its service is back after a 10-hour outage",
       "url": "https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss",
@@ -207,6 +261,12 @@
       "pubDate": "2026-01-15T02:00:00.000Z"
     },
     {
+      "title": "Japan And South Korea Leaders Conclude Summit With K-Pop Drum Duet",
+      "url": "https://stereogum.com/2485448/japan-and-south-korea-leaders-conclude-summit-with-k-pop-drum-duet/news/",
+      "timestamp": "01:55",
+      "pubDate": "2026-01-15T01:55:07.000Z"
+    },
+    {
       "title": "A$AP Rocky's 'Don't Be Dumb' Album Track List Spans 15 Songs",
       "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
       "timestamp": "01:54",
@@ -283,69 +343,14 @@
       "url": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
       "timestamp": "00:04",
       "pubDate": "2026-01-15T00:04:46.000Z"
-    },
-    {
-      "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
-      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
-      "timestamp": "00:03",
-      "pubDate": "2026-01-15T00:03:55.000Z"
-    },
-    {
-      "title": "'Dracula' Goes Designer: Dior's Latest Collection Pays Homage to Classic Literature",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/dior-book-cover-collection-shop-dior-book-tote-saddle-bag-1236473980/",
-      "timestamp": "00:03",
-      "pubDate": "2026-01-15T00:03:13.000Z"
-    },
-    {
-      "title": "Context Engineering: Your AI Demo Works. That’s Exactly Why Production Will Fail.",
-      "url": "https://pub.towardsai.net/context-engineering-your-ai-demo-works-thats-exactly-why-production-will-fail-e2f89840292e?source=rss----98111c9905da---4",
-      "timestamp": "00:02",
-      "pubDate": "2026-01-15T00:02:48.000Z"
-    },
-    {
-      "title": "Pete Davidson's New Video Podcast Will Be Filmed From His Garage",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/pete-davidson-video-podcast-netflix-garage-1235499769/",
-      "timestamp": "00:02",
-      "pubDate": "2026-01-15T00:02:02.000Z"
-    },
-    {
-      "title": "Dad Makes Kid's Balance Bike Into Electric Snow Trike Like a Boss",
-      "url": "https://hackaday.com/2026/01/14/dad-makes-kids-balance-bike-into-electric-snow-trike-like-a-boss/",
-      "timestamp": "00:00",
-      "pubDate": "2026-01-15T00:00:47.000Z"
-    },
-    {
-      "title": "The singer Madonna called \"eternally tortured\"",
-      "url": "https://faroutmagazine.co.uk/singer-madonna-called-eternally-tortured/",
-      "timestamp": "00:00",
-      "pubDate": "2026-01-15T00:00:00.000Z"
-    },
-    {
-      "title": "Matt Damon Condemns Lack of Training Within ICE After ‘Incredibly Alarming’ Killing of Renee Good &#124; Video",
-      "url": "https://www.thewrap.com/media-platforms/politics/matt-damon-condemns-ice-after-renee-good-killing/",
-      "timestamp": "23:52",
-      "pubDate": "2026-01-14T23:52:17.000Z"
-    },
-    {
-      "title": "‘Palm Royale’ Boss and Kristen Wiig on Whether That Finale Wedding Twist Means the Show Is Over",
-      "url": "https://variety.com/2026/tv/news/palm-royale-season-2-finale-season-3-tease-1236630388/",
-      "timestamp": "23:30",
-      "pubDate": "2026-01-14T23:30:00.000Z"
-    },
-    {
-      "title": "J. Cole Tells Life Story in Reverse in New Song & Video 'Disc 2 Track&#160;2'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/j-cole-disc-2-track-2-music-video-1236155314/",
-      "timestamp": "23:22",
-      "pubDate": "2026-01-14T23:22:42.000Z"
-    },
-    {
-      "title": "Yeison Jiménez Remembered by Paola Jara, Jessi Uribe & More Than 14,000 Fans at Movistar Arena in&#160;Bogotá",
-      "url": "https://www.billboard.com/music/latin/yeison-jimenez-memorial-movistar-arena-bogota-paola-jara-1236155359/",
-      "timestamp": "23:16",
-      "pubDate": "2026-01-14T23:16:03.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "The surreal moment Eddie Murphy met Paul McCartney: \"It was in the studio at his house\"",
+      "url": "https://faroutmagazine.co.uk/surreal-moment-eddie-murphy-met-paul-mccartney/",
+      "timestamp": "04:00"
+    },
     {
       "title": "The world lost the chance to see Pedro Pascal in the Wild West: \"I wrote letters and stuff\"",
       "url": "https://faroutmagazine.co.uk/movie-pedro-pascal-desperately-wanted/",
@@ -362,19 +367,34 @@
       "timestamp": "02:00"
     },
     {
+      "title": "Japan And South Korea Leaders Conclude Summit With K-Pop Drum Duet",
+      "url": "https://stereogum.com/2485448/japan-and-south-korea-leaders-conclude-summit-with-k-pop-drum-duet/news/",
+      "timestamp": "01:55"
+    },
+    {
       "title": "A$AP Rocky's 'Don't Be Dumb' Album Track List Spans 15 Songs",
       "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-track-list-1235499783/",
       "timestamp": "01:54"
     },
     {
-      "title": "The one actor Denis Villeneuve said was capable of doing anything: \"Really impressive\"",
-      "url": "https://faroutmagazine.co.uk/the-actor-denis-villeneuve-called-capable-of-doing-anything/",
-      "timestamp": "01:00"
-    },
-    {
       "title": "A$AP Rocky Reveals 'Don't Be Dumb' Track List Ahead of Album's&#160;Arrival",
       "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-track-list-1236155378/",
       "timestamp": "00:03"
+    },
+    {
+      "title": "Today's Wordle answer and hints for #1671 on January 15",
+      "url": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=heres-the-wordle-answer-for-today",
+      "timestamp": "00:01"
+    },
+    {
+      "title": "'Connections' answers and hints for today, January 15",
+      "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=connections-answers-hints-groups-today",
+      "timestamp": "00:00"
+    },
+    {
+      "title": "Globle answer today – here’s the answer and hints for January 15",
+      "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globle-hint-answer-today",
+      "timestamp": "00:00"
     },
     {
       "title": "J. Cole Tells Life Story in Reverse in New Song & Video 'Disc 2 Track&#160;2'",
@@ -412,11 +432,6 @@
       "timestamp": "21:00"
     },
     {
-      "title": "Siblings Who Say Michael Jackson Molested Them Appear in Court to Fight Arbitration",
-      "url": "https://www.rollingstone.com/music/music-news/michael-jackson-siblings-molested-1235499441/",
-      "timestamp": "20:56"
-    },
-    {
       "title": "Trilucid – Let Go Of Your Pain",
       "url": "https://www.stereofox.com/trilucid-let-go-of-your-pain/",
       "timestamp": "20:35"
@@ -430,22 +445,7 @@
       "title": "Noah Kahan Covers Radiohead, MJ Lenderman, Sufjan Stevens, & More At Out Of The Blue Festival",
       "url": "https://stereogum.com/2485349/noah-kahan-covers-radiohead-mj-lenderman-sufjan-stevens-more-at-out-of-the-blue-festival/news/",
       "timestamp": "18:59"
-    },
-    {
-      "title": "MLK Day concert held annually at the Kennedy Center for 23 years is relocating",
-      "url": "https://www.npr.org/2026/01/14/nx-s1-5668206/mlk-celebration-kennedy-center",
-      "timestamp": "18:37"
-    },
-    {
-      "title": "C2C Festival NYC 2026 lineup: Arca, Noursished by Time, and more",
-      "url": "https://www.thefader.com/2026/01/14/c2c-festival-nyc-2026-lineup-arca-nourished-by-time-yhwh-nailgun",
-      "timestamp": "18:21"
-    },
-    {
-      "title": "John Mellencamp Promises Hits-Filled Sets for Summer 2026 Tour",
-      "url": "https://ultimateclassicrock.com/john-mellencamp-is-bringing-back-his-biggest-hits-for-2026-tour/",
-      "timestamp": "15:26"
     }
   ],
-  "lastUpdated": "2026-01-15T03:47:38.886Z"
+  "lastUpdated": "2026-01-15T04:44:17.025Z"
 }
