@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-15T18:41:51.531Z",
+  "curatedAt": "2026-01-15T19:27:53.852Z",
   "totalAnalyzed": 66,
-  "totalSelected": 7,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "NIGEL FARAGE TRICKED INTO PAYING TRIBUTE TO LATE PAEDOPHILE AND SHAMED LOSTPROPHETS SINGER IAN WATKINS ON CAMEO",
-      "url": "https://www.nme.com/news/music/nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo-3923505?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo",
-      "timestamp": "2026-01-15T18:41:48.605Z",
+      "title": "DDA HIRES MATT ANDRÉE WILTENS, RYAN SMITH FOR KEY ROLES IN LOS ANGELES",
+      "url": "https://variety.com/2026/film/news/dda-hires-matt-andree-wiltens-ryan-smith-los-angeles-1236631912/",
+      "timestamp": "2026-01-15T19:27:50.835Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -31,23 +31,23 @@
         }
       },
       {
-        "title": "‘Peter Hujar's Day’ Lands Criterion Streaming Date, Ira Sachs Joins ‘Meet The Filmmakers’ Interview Series — Clip",
-        "url": "https://deadline.com/2026/01/peter-hujars-day-criterion-streaming-ira-sachs-1236683903/",
-        "timestamp": "18:00",
-        "source": "automated",
+        "title": "Chase Rice on Why He Decided to Quit Touring: 'Everything Felt Wrong'",
+        "url": "https://www.rollingstone.com/music/music-features/chase-rice-why-he-quit-touring-interview-1235499998/",
+        "timestamp": "19:13",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.55,
+          "engagement": 0.6,
           "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.49500000000000005
+          "discovery": 0.3,
+          "composite": 0.49
         }
       },
       {
         "title": "Angel to Embark on 2026-2027 Farewell Tour",
         "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
         "timestamp": "17:54",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
@@ -70,48 +70,9 @@
           "discovery": 0.5,
           "composite": 0.5000000000000001
         }
-      },
-      {
-        "title": "‘Peter Hujar's Day’ Lands Criterion Streaming Date, Ira Sachs Joins ‘Meet The Filmmakers’ Interview Series — Clip",
-        "url": "https://deadline.com/2026/01/peter-hujars-day-criterion-streaming-ira-sachs-1236683903/",
-        "timestamp": "18:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.55,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.49500000000000005
-        }
-      },
-      {
-        "title": "How to Distribute Your Music As an Independent Artist",
-        "url": "https://www.rollingstone.com/product-recommendations/tech/how-to-release-music-online-streaming-services-distrokid-1235499787/",
-        "timestamp": "18:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.47000000000000003
-        }
       }
     ],
     "conversation": [
-      {
-        "title": "What was the best-selling song of 1985?",
-        "url": "https://faroutmagazine.co.uk/what-was-the-best-selling-song-of-1985/",
-        "timestamp": "18:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.8999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.54
-        }
-      },
       {
         "title": "Billboard Staff’s Greatest Pop Stars of 2025: Honorable Mentions",
         "url": "https://www.billboard.com/lists/greatest-pop-stars-2025-honorable-mentions/",
@@ -124,13 +85,26 @@
           "discovery": 0.3,
           "composite": 0.52
         }
+      },
+      {
+        "title": "Cate Blanchett to Star in 'How to Train Your Dragon 2' Live-Action Movie, Reprising Role as Valka",
+        "url": "https://variety.com/2026/film/news/cate-blanchett-how-to-train-your-dragon-2-live-action-movie-valka-1236632505/",
+        "timestamp": "18:23",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.5000000000000001
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "NIGEL FARAGE TRICKED INTO PAYING TRIBUTE TO LATE PAEDOPHILE AND SHAMED LOSTPROPHETS SINGER IAN WATKINS ON CAMEO",
-        "url": "https://www.nme.com/news/music/nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo-3923505?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo",
-        "timestamp": "2026-01-15T18:41:48.605Z",
+        "title": "DDA HIRES MATT ANDRÉE WILTENS, RYAN SMITH FOR KEY ROLES IN LOS ANGELES",
+        "url": "https://variety.com/2026/film/news/dda-hires-matt-andree-wiltens-ryan-smith-los-angeles-1236631912/",
+        "timestamp": "2026-01-15T19:27:50.835Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -144,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "NIGEL FARAGE TRICKED INTO PAYING TRIBUTE TO LATE PAEDOPHILE AND SHAMED LOSTPROPHETS SINGER IAN WATKINS ON CAMEO",
-      "url": "https://www.nme.com/news/music/nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo-3923505?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nigel-farage-tricked-into-paying-tribute-to-late-paedophile-and-shamed-lostprophets-singer-ian-watkins-on-cameo",
-      "timestamp": "2026-01-15T18:41:48.605Z",
+      "title": "DDA HIRES MATT ANDRÉE WILTENS, RYAN SMITH FOR KEY ROLES IN LOS ANGELES",
+      "url": "https://variety.com/2026/film/news/dda-hires-matt-andree-wiltens-ryan-smith-los-angeles-1236631912/",
+      "timestamp": "2026-01-15T19:27:50.835Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -170,23 +144,23 @@
       }
     },
     {
-      "title": "‘Peter Hujar's Day’ Lands Criterion Streaming Date, Ira Sachs Joins ‘Meet The Filmmakers’ Interview Series — Clip",
-      "url": "https://deadline.com/2026/01/peter-hujars-day-criterion-streaming-ira-sachs-1236683903/",
-      "timestamp": "18:00",
-      "source": "automated",
+      "title": "Chase Rice on Why He Decided to Quit Touring: 'Everything Felt Wrong'",
+      "url": "https://www.rollingstone.com/music/music-features/chase-rice-why-he-quit-touring-interview-1235499998/",
+      "timestamp": "19:13",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.55,
+        "engagement": 0.6,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.49500000000000005
+        "discovery": 0.3,
+        "composite": 0.49
       }
     },
     {
       "title": "Angel to Embark on 2026-2027 Farewell Tour",
       "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
       "timestamp": "17:54",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
@@ -206,32 +180,6 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.5000000000000001
-      }
-    },
-    {
-      "title": "How to Distribute Your Music As an Independent Artist",
-      "url": "https://www.rollingstone.com/product-recommendations/tech/how-to-release-music-online-streaming-services-distrokid-1235499787/",
-      "timestamp": "18:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.47000000000000003
-      }
-    },
-    {
-      "title": "What was the best-selling song of 1985?",
-      "url": "https://faroutmagazine.co.uk/what-was-the-best-selling-song-of-1985/",
-      "timestamp": "18:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.8999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.54
       }
     }
   ],
