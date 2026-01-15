@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-15T16:39:39.158Z",
+  "curatedAt": "2026-01-15T17:36:21.316Z",
   "totalAnalyzed": 66,
-  "totalSelected": 4,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "‘FALLOUT’-INSPIRED COMPETITION SHOW A GO AT PRIME VIDEO",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/fallout-competition-show-prime-video-1236474949/",
-      "timestamp": "2026-01-15T16:39:36.141Z",
+      "title": "LAMB OF GOD PRESENT 'INTO OBLIVION,' A SONG ABOUT 'WHERE WE'RE HEADED' IN AMERICA",
+      "url": "https://www.rollingstone.com/music/music-news/lamb-of-god-into-oblivon-1235500018/",
+      "timestamp": "2026-01-15T17:36:18.409Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
@@ -21,7 +21,7 @@
         "title": "Chartbreaker: How Paddington, Sobriety and a ‘Loosie Song’ Resulted in Medium Build’s&#160;Breakthrough",
         "url": "https://www.billboard.com/music/rock/medium-build-last-time-radio-january-2026-chartbreaker-1236155215/",
         "timestamp": "16:00",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -44,10 +44,10 @@
         }
       },
       {
-        "title": "Madison Beer's New Album Is Her Pop Breakthrough",
+        "title": "Madison Beer’s New Album Is Her Pop Breakthrough",
         "url": "https://www.rollingstone.com/music/music-album-reviews/madison-beer-new-album-locket-review-1235499390/",
         "timestamp": "15:52",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.7,
           "engagement": 0.55,
@@ -57,13 +57,27 @@
         }
       }
     ],
-    "discovery": [],
+    "discovery": [
+      {
+        "title": "Bitcoin’s renewed push to $100K sparked by fresh institutional demand",
+        "url": "https://cointelegraph.com/news/bitcoin-renewed-push-100k-fresh-institutional-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "16:59",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.48500000000000004
+        }
+      }
+    ],
     "conversation": [
       {
         "title": "Chartbreaker: How Paddington, Sobriety and a ‘Loosie Song’ Resulted in Medium Build’s&#160;Breakthrough",
         "url": "https://www.billboard.com/music/rock/medium-build-last-time-radio-january-2026-chartbreaker-1236155215/",
         "timestamp": "16:00",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -88,39 +102,39 @@
     ],
     "wildcard": [
       {
-        "title": "‘FALLOUT’-INSPIRED COMPETITION SHOW A GO AT PRIME VIDEO",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/fallout-competition-show-prime-video-1236474949/",
-        "timestamp": "2026-01-15T16:39:36.141Z",
+        "title": "LAMB OF GOD PRESENT 'INTO OBLIVION,' A SONG ABOUT 'WHERE WE'RE HEADED' IN AMERICA",
+        "url": "https://www.rollingstone.com/music/music-news/lamb-of-god-into-oblivon-1235500018/",
+        "timestamp": "2026-01-15T17:36:18.409Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "‘FALLOUT’-INSPIRED COMPETITION SHOW A GO AT PRIME VIDEO",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/fallout-competition-show-prime-video-1236474949/",
-      "timestamp": "2026-01-15T16:39:36.141Z",
+      "title": "LAMB OF GOD PRESENT 'INTO OBLIVION,' A SONG ABOUT 'WHERE WE'RE HEADED' IN AMERICA",
+      "url": "https://www.rollingstone.com/music/music-news/lamb-of-god-into-oblivon-1235500018/",
+      "timestamp": "2026-01-15T17:36:18.409Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
     {
       "title": "Chartbreaker: How Paddington, Sobriety and a ‘Loosie Song’ Resulted in Medium Build’s&#160;Breakthrough",
       "url": "https://www.billboard.com/music/rock/medium-build-last-time-radio-january-2026-chartbreaker-1236155215/",
       "timestamp": "16:00",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.7,
@@ -143,16 +157,29 @@
       }
     },
     {
-      "title": "Madison Beer's New Album Is Her Pop Breakthrough",
+      "title": "Madison Beer’s New Album Is Her Pop Breakthrough",
       "url": "https://www.rollingstone.com/music/music-album-reviews/madison-beer-new-album-locket-review-1235499390/",
       "timestamp": "15:52",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.7,
         "engagement": 0.55,
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.515
+      }
+    },
+    {
+      "title": "Bitcoin’s renewed push to $100K sparked by fresh institutional demand",
+      "url": "https://cointelegraph.com/news/bitcoin-renewed-push-100k-fresh-institutional-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "16:59",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.65,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.48500000000000004
       }
     }
   ],
