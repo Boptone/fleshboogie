@@ -1,40 +1,27 @@
 {
-  "curatedAt": "2026-01-15T21:26:07.059Z",
+  "curatedAt": "2026-01-15T22:26:18.821Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "MEET THE ARTIST IN EL SALVADOR’S FIRST-EVER VENICE BIENNALE PAVILION",
-      "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
-      "timestamp": "2026-01-15T21:26:04.042Z",
+      "title": "TRANNIE ANDERSON TALKS REVEALING MORE OF HER HEART ON ‘HEART LIKE A SONGWRITER’ & PICKING ‘SONGS THAT INTRODUCE WHO I&#160;AM’",
+      "url": "https://www.billboard.com/music/country/trannie-anderson-album-heart-like-a-songwriter-1236155880/",
+      "timestamp": "2026-01-15T22:26:15.839Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
-        "engagement": 0.55,
+        "impact": 0.5,
+        "engagement": 0.65,
         "timeliness": 1,
-        "discovery": 0.5,
-        "composite": 0.655
+        "discovery": 0.3,
+        "composite": 0.625
       }
     },
     "deepDive": [
       {
-        "title": "MEET THE ARTIST IN EL SALVADOR’S FIRST-EVER VENICE BIENNALE PAVILION",
-        "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
-        "timestamp": "2026-01-15T21:26:04.042Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.55,
-          "timeliness": 1,
-          "discovery": 0.5,
-          "composite": 0.655
-        }
-      },
-      {
         "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
         "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
         "timestamp": "21:11",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.65,
@@ -44,9 +31,22 @@
         }
       },
       {
-        "title": "The Rolling Stones song that saved Brian Wilson's life: \"What I needed\"",
-        "url": "https://faroutmagazine.co.uk/the-rolling-stones-song-saved-brian-wilson-life/",
-        "timestamp": "20:30",
+        "title": "Meet the Artist in El Salvador’s First-Ever Venice Biennale Pavilion",
+        "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
+        "timestamp": "21:23",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.55,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.49500000000000005
+        }
+      },
+      {
+        "title": "All of Myke Towers No. 1 Billboard Hits: 'LaLa,' 'Degenere' &&#160;More",
+        "url": "https://www.billboard.com/music/latin/myke-towers-no-1-billboard-hits-latin-airplay-chart-1236155920/",
+        "timestamp": "21:35",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -59,29 +59,29 @@
     ],
     "discovery": [
       {
-        "title": "MEET THE ARTIST IN EL SALVADOR’S FIRST-EVER VENICE BIENNALE PAVILION",
-        "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
-        "timestamp": "2026-01-15T21:26:04.042Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.55,
-          "timeliness": 1,
-          "discovery": 0.5,
-          "composite": 0.655
-        }
-      },
-      {
         "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
         "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
         "timestamp": "21:11",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.65,
           "timeliness": 0.2,
           "discovery": 0.5,
           "composite": 0.525
+        }
+      },
+      {
+        "title": "Meet the Artist in El Salvador’s First-Ever Venice Biennale Pavilion",
+        "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
+        "timestamp": "21:23",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.55,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.49500000000000005
         }
       },
       {
@@ -100,10 +100,23 @@
     ],
     "conversation": [
       {
+        "title": "TRANNIE ANDERSON TALKS REVEALING MORE OF HER HEART ON ‘HEART LIKE A SONGWRITER’ & PICKING ‘SONGS THAT INTRODUCE WHO I&#160;AM’",
+        "url": "https://www.billboard.com/music/country/trannie-anderson-album-heart-like-a-songwriter-1236155880/",
+        "timestamp": "2026-01-15T22:26:15.839Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.65,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.625
+        }
+      },
+      {
         "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
         "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
         "timestamp": "21:11",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.65,
@@ -111,56 +124,43 @@
           "discovery": 0.5,
           "composite": 0.525
         }
-      },
-      {
-        "title": "The Best (and Worst) Solo LP From Every Member of Fleetwood Mac",
-        "url": "https://ultimateclassicrock.com/fleetwood-mac-best-solo-albums/",
-        "timestamp": "16:25",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.4800000000000001
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "MEET THE ARTIST IN EL SALVADOR’S FIRST-EVER VENICE BIENNALE PAVILION",
-        "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
-        "timestamp": "2026-01-15T21:26:04.042Z",
+        "title": "TRANNIE ANDERSON TALKS REVEALING MORE OF HER HEART ON ‘HEART LIKE A SONGWRITER’ & PICKING ‘SONGS THAT INTRODUCE WHO I&#160;AM’",
+        "url": "https://www.billboard.com/music/country/trannie-anderson-album-heart-like-a-songwriter-1236155880/",
+        "timestamp": "2026-01-15T22:26:15.839Z",
         "source": "splash",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.55,
+          "impact": 0.5,
+          "engagement": 0.65,
           "timeliness": 1,
-          "discovery": 0.5,
-          "composite": 0.655
+          "discovery": 0.3,
+          "composite": 0.625
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "MEET THE ARTIST IN EL SALVADOR’S FIRST-EVER VENICE BIENNALE PAVILION",
-      "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
-      "timestamp": "2026-01-15T21:26:04.042Z",
+      "title": "TRANNIE ANDERSON TALKS REVEALING MORE OF HER HEART ON ‘HEART LIKE A SONGWRITER’ & PICKING ‘SONGS THAT INTRODUCE WHO I&#160;AM’",
+      "url": "https://www.billboard.com/music/country/trannie-anderson-album-heart-like-a-songwriter-1236155880/",
+      "timestamp": "2026-01-15T22:26:15.839Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
-        "engagement": 0.55,
+        "impact": 0.5,
+        "engagement": 0.65,
         "timeliness": 1,
-        "discovery": 0.5,
-        "composite": 0.655
+        "discovery": 0.3,
+        "composite": 0.625
       }
     },
     {
       "title": "'Fallout' Season 2 Debuts to 794 Million Viewing Minutes, Landing as Nielsen's No. 4 Streaming Series",
       "url": "https://www.thewrap.com/media-platforms/tv/fallout-season-2-premiere-ratings-prime-video-nielsen/",
       "timestamp": "21:11",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.65,
@@ -170,9 +170,22 @@
       }
     },
     {
-      "title": "The Rolling Stones song that saved Brian Wilson's life: \"What I needed\"",
-      "url": "https://faroutmagazine.co.uk/the-rolling-stones-song-saved-brian-wilson-life/",
-      "timestamp": "20:30",
+      "title": "Meet the Artist in El Salvador’s First-Ever Venice Biennale Pavilion",
+      "url": "https://hyperallergic.com/meet-the-artist-in-el-salvadors-first-ever-venice-biennale-pavilion/",
+      "timestamp": "21:23",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.55,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.49500000000000005
+      }
+    },
+    {
+      "title": "All of Myke Towers No. 1 Billboard Hits: 'LaLa,' 'Degenere' &&#160;More",
+      "url": "https://www.billboard.com/music/latin/myke-towers-no-1-billboard-hits-latin-airplay-chart-1236155920/",
+      "timestamp": "21:35",
       "source": "automated",
       "scores": {
         "impact": 0.6,
@@ -193,19 +206,6 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.47000000000000003
-      }
-    },
-    {
-      "title": "The Best (and Worst) Solo LP From Every Member of Fleetwood Mac",
-      "url": "https://ultimateclassicrock.com/fleetwood-mac-best-solo-albums/",
-      "timestamp": "16:25",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.4800000000000001
       }
     }
   ],
