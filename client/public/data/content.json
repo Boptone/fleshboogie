@@ -1,11 +1,29 @@
 {
   "splash": {
-    "headline": "‘HONEYJOON’ REVIEW: A PLAIN MOTHER-DAUGHTER VACATION IN THE THROES OF GRIEF",
-    "url": "https://variety.com/2026/film/reviews/honeyjoon-review-1236620798/",
+    "headline": "CHLOÉ ZHAO NAMES HER THREE FILMMAKING MENTORS: \"YOU REALLY FEEL THE ELEVATION\"",
+    "url": "https://faroutmagazine.co.uk/chloe-zhao-names-her-three-filmmaking-mentors/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
+    {
+      "title": "Eurorack in Techno 2026: Why Does a Modular System Belong in a Modern Techno Setup?",
+      "url": "https://www.gearnews.com/eurorack-in-techno-synths/",
+      "timestamp": "07:00",
+      "pinned": false
+    },
+    {
+      "title": "Techivation releases M-EQ linear-phase equalizer plugin",
+      "url": "https://rekkerd.org/techivation-releases-m-eq-linear-phase-equalizer-plugin/",
+      "timestamp": "06:49",
+      "pinned": false
+    },
+    {
+      "title": "‘Honeyjoon’ Review: A Plain Mother-Daughter Vacation in the Throes of Grief",
+      "url": "https://variety.com/2026/film/reviews/honeyjoon-review-1236620798/",
+      "timestamp": "06:15",
+      "pinned": false
+    },
     {
       "title": "KORG Filter Ark: 14 Gorgeous KORG Filters to Float Your Boat",
       "url": "https://www.gearnews.com/korg-filter-ark-synth/",
@@ -16,24 +34,6 @@
       "title": "Philips Kid's Kit Revisited",
       "url": "https://hackaday.com/2026/01/14/philips-kids-kit-revisited/",
       "timestamp": "06:00",
-      "pinned": false
-    },
-    {
-      "title": "The Roger McGuinn hit that pre-dated The Byrds: \"It was an exciting time\"",
-      "url": "https://faroutmagazine.co.uk/the-roger-mcguinn-hit-that-pre-dated-the-byrds/",
-      "timestamp": "06:00",
-      "pinned": false
-    },
-    {
-      "title": "Bitcoin open interest falls 30%, setting up bullish recovery: Analyst",
-      "url": "https://cointelegraph.com/news/bitcoin-oi-falls-30-resetting-markets-bullish-recovery-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "05:34",
-      "pinned": false
-    },
-    {
-      "title": "Binance Wallet Adds Perpetual Futures Trading to Self‑Custody Ecosystem",
-      "url": "https://news.bitcoin.com/binance-wallet-adds-perpetual-futures-trading-to-self%e2%80%91custody-ecosystem/",
-      "timestamp": "05:30",
       "pinned": false
     }
   ],
@@ -104,6 +104,24 @@
     }
   ],
   "automated": [
+    {
+      "title": "Chloé Zhao names her three filmmaking mentors: \"You really feel the elevation\"",
+      "url": "https://faroutmagazine.co.uk/chloe-zhao-names-her-three-filmmaking-mentors/",
+      "timestamp": "07:00",
+      "pubDate": "2026-01-15T07:00:00.000Z"
+    },
+    {
+      "title": "Eurorack in Techno 2026: Why Does a Modular System Belong in a Modern Techno Setup?",
+      "url": "https://www.gearnews.com/eurorack-in-techno-synths/",
+      "timestamp": "07:00",
+      "pubDate": "2026-01-15T07:00:00.000Z"
+    },
+    {
+      "title": "Techivation releases M-EQ linear-phase equalizer plugin",
+      "url": "https://rekkerd.org/techivation-releases-m-eq-linear-phase-equalizer-plugin/",
+      "timestamp": "06:49",
+      "pubDate": "2026-01-15T06:49:25.000Z"
+    },
     {
       "title": "‘Honeyjoon’ Review: A Plain Mother-Daughter Vacation in the Throes of Grief",
       "url": "https://variety.com/2026/film/reviews/honeyjoon-review-1236620798/",
@@ -325,24 +343,6 @@
       "url": "https://www.rollingstone.com/music/music-news/bob-weir-celebration-san-francisco-1235499411/",
       "timestamp": "02:37",
       "pubDate": "2026-01-15T02:37:45.000Z"
-    },
-    {
-      "title": "Carol Burnett, Laura Dern on 'Palm Royale' Finale Twist and Secret Dinners With the Late Diane Ladd",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/palm-royale-finale-twist-carol-burnett-laura-dern-interview-1236451267/",
-      "timestamp": "02:30",
-      "pubDate": "2026-01-15T02:30:00.000Z"
-    },
-    {
-      "title": "Radford Lot to Be Turned Over to Lenders After Hackman Defaults (Report)",
-      "url": "https://variety.com/2026/film/news/radford-lot-goldman-hackman-capital-partners-1236631832/",
-      "timestamp": "02:22",
-      "pubDate": "2026-01-15T02:22:39.000Z"
-    },
-    {
-      "title": "'Palm Royale' Boss Explains Carol Burnett's Finale Song and Season 3 Hopes",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/palm-royale-season-2-episode-10-creator-abe-sylvia-interview-carol-burnett-song/",
-      "timestamp": "02:20",
-      "pubDate": "2026-01-15T02:20:06.000Z"
     }
   ],
   "musicReleases": [
@@ -447,5 +447,5 @@
       "timestamp": "19:13"
     }
   ],
-  "lastUpdated": "2026-01-15T06:39:27.749Z"
+  "lastUpdated": "2026-01-15T07:28:42.743Z"
 }

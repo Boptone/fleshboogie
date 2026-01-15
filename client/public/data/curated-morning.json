@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-15T06:39:30.735Z",
+  "curatedAt": "2026-01-15T07:28:45.709Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "‘HONEYJOON’ REVIEW: A PLAIN MOTHER-DAUGHTER VACATION IN THE THROES OF GRIEF",
-      "url": "https://variety.com/2026/film/reviews/honeyjoon-review-1236620798/",
-      "timestamp": "2026-01-15T06:39:27.749Z",
+      "title": "CHLOÉ ZHAO NAMES HER THREE FILMMAKING MENTORS: \"YOU REALLY FEEL THE ELEVATION\"",
+      "url": "https://faroutmagazine.co.uk/chloe-zhao-names-her-three-filmmaking-mentors/",
+      "timestamp": "2026-01-15T07:28:42.743Z",
       "source": "splash",
       "scores": {
-        "impact": 0.55,
+        "impact": 0.5,
         "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6000000000000001
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
@@ -87,47 +87,47 @@
         }
       },
       {
-        "title": "Shah Rukh Khan's 'King' Tops IMDb's Most Anticipated Indian Films of 2026 List (EXCLUSIVE)",
-        "url": "https://variety.com/2026/film/news/shah-rukh-khan-king-imdb-most-anticipated-indian-films-2026-1236630785/",
-        "timestamp": "04:30",
-        "source": "automated",
+        "title": "Eurorack in Techno 2026: Why Does a Modular System Belong in a Modern Techno Setup?",
+        "url": "https://www.gearnews.com/eurorack-in-techno-synths/",
+        "timestamp": "07:00",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.75,
+          "engagement": 0.7999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.495
+          "composite": 0.51
         }
       }
     ],
     "wildcard": [
       {
-        "title": "‘HONEYJOON’ REVIEW: A PLAIN MOTHER-DAUGHTER VACATION IN THE THROES OF GRIEF",
-        "url": "https://variety.com/2026/film/reviews/honeyjoon-review-1236620798/",
-        "timestamp": "2026-01-15T06:39:27.749Z",
+        "title": "CHLOÉ ZHAO NAMES HER THREE FILMMAKING MENTORS: \"YOU REALLY FEEL THE ELEVATION\"",
+        "url": "https://faroutmagazine.co.uk/chloe-zhao-names-her-three-filmmaking-mentors/",
+        "timestamp": "2026-01-15T07:28:42.743Z",
         "source": "splash",
         "scores": {
-          "impact": 0.55,
+          "impact": 0.5,
           "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6000000000000001
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "‘HONEYJOON’ REVIEW: A PLAIN MOTHER-DAUGHTER VACATION IN THE THROES OF GRIEF",
-      "url": "https://variety.com/2026/film/reviews/honeyjoon-review-1236620798/",
-      "timestamp": "2026-01-15T06:39:27.749Z",
+      "title": "CHLOÉ ZHAO NAMES HER THREE FILMMAKING MENTORS: \"YOU REALLY FEEL THE ELEVATION\"",
+      "url": "https://faroutmagazine.co.uk/chloe-zhao-names-her-three-filmmaking-mentors/",
+      "timestamp": "2026-01-15T07:28:42.743Z",
       "source": "splash",
       "scores": {
-        "impact": 0.55,
+        "impact": 0.5,
         "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6000000000000001
+        "composite": 0.5800000000000001
       }
     },
     {
@@ -170,16 +170,16 @@
       }
     },
     {
-      "title": "Shah Rukh Khan's 'King' Tops IMDb's Most Anticipated Indian Films of 2026 List (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/shah-rukh-khan-king-imdb-most-anticipated-indian-films-2026-1236630785/",
-      "timestamp": "04:30",
-      "source": "automated",
+      "title": "Eurorack in Techno 2026: Why Does a Modular System Belong in a Modern Techno Setup?",
+      "url": "https://www.gearnews.com/eurorack-in-techno-synths/",
+      "timestamp": "07:00",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.75,
+        "engagement": 0.7999999999999999,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.495
+        "composite": 0.51
       }
     }
   ],

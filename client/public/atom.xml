@@ -4,7 +4,7 @@
   <link href="https://fleshboogie.com" />
   <link href="https://fleshboogie.com/atom.xml" rel="self" type="application/atom+xml" />
   <id>https://fleshboogie.com/</id>
-  <updated>2026-01-15T06:39:27.749Z</updated>
+  <updated>2026-01-15T07:28:42.743Z</updated>
   <subtitle>Curated music and culture links from across the web. Updated 24/7 with the latest news, reviews, and discoveries in music, film, art, and underground culture.</subtitle>
   <rights>Copyright 2026 Fleshboogie. All content aggregated under Fair Use (17 U.S.C. § 107).</rights>
   <author>
@@ -16,12 +16,45 @@
   <logo>https://fleshboogie.com/og-image.png</logo>
 
   <entry>
-    <title>‘HONEYJOON’ REVIEW: A PLAIN MOTHER-DAUGHTER VACATION IN THE THROES OF GRIEF</title>
+    <title>CHLOÉ ZHAO NAMES HER THREE FILMMAKING MENTORS: &quot;YOU REALLY FEEL THE ELEVATION&quot;</title>
+    <link href="https://faroutmagazine.co.uk/chloe-zhao-names-her-three-filmmaking-mentors/" />
+    <id>https://faroutmagazine.co.uk/chloe-zhao-names-her-three-filmmaking-mentors/</id>
+    <updated>2026-01-15T07:28:42.743Z</updated>
+    <summary>Featured Story: CHLOÉ ZHAO NAMES HER THREE FILMMAKING MENTORS: &quot;YOU REALLY FEEL THE ELEVATION&quot;</summary>
+    <category term="Featured" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Eurorack in Techno 2026: Why Does a Modular System Belong in a Modern Techno Setup?</title>
+    <link href="https://www.gearnews.com/eurorack-in-techno-synths/" />
+    <id>https://www.gearnews.com/eurorack-in-techno-synths/</id>
+    <updated>2026-01-15T07:28:42.743Z</updated>
+    <summary>Eurorack in Techno 2026: Why Does a Modular System Belong in a Modern Techno Setup?</summary>
+    <category term="Main Story" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Techivation releases M-EQ linear-phase equalizer plugin</title>
+    <link href="https://rekkerd.org/techivation-releases-m-eq-linear-phase-equalizer-plugin/" />
+    <id>https://rekkerd.org/techivation-releases-m-eq-linear-phase-equalizer-plugin/</id>
+    <updated>2026-01-15T07:28:42.743Z</updated>
+    <summary>Techivation releases M-EQ linear-phase equalizer plugin</summary>
+    <category term="Main Story" />
+    <author>
+      <name>Fleshboogie Editorial</name>
+    </author>
+  </entry>
+  <entry>
+    <title>‘Honeyjoon’ Review: A Plain Mother-Daughter Vacation in the Throes of Grief</title>
     <link href="https://variety.com/2026/film/reviews/honeyjoon-review-1236620798/" />
     <id>https://variety.com/2026/film/reviews/honeyjoon-review-1236620798/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
-    <summary>Featured Story: ‘HONEYJOON’ REVIEW: A PLAIN MOTHER-DAUGHTER VACATION IN THE THROES OF GRIEF</summary>
-    <category term="Featured" />
+    <updated>2026-01-15T07:28:42.743Z</updated>
+    <summary>‘Honeyjoon’ Review: A Plain Mother-Daughter Vacation in the Throes of Grief</summary>
+    <category term="Main Story" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
@@ -30,7 +63,7 @@
     <title>KORG Filter Ark: 14 Gorgeous KORG Filters to Float Your Boat</title>
     <link href="https://www.gearnews.com/korg-filter-ark-synth/" />
     <id>https://www.gearnews.com/korg-filter-ark-synth/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>KORG Filter Ark: 14 Gorgeous KORG Filters to Float Your Boat</summary>
     <category term="Main Story" />
     <author>
@@ -41,7 +74,7 @@
     <title>Philips Kid&apos;s Kit Revisited</title>
     <link href="https://hackaday.com/2026/01/14/philips-kids-kit-revisited/" />
     <id>https://hackaday.com/2026/01/14/philips-kids-kit-revisited/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Philips Kid&apos;s Kit Revisited</summary>
     <category term="Main Story" />
     <author>
@@ -49,34 +82,34 @@
     </author>
   </entry>
   <entry>
-    <title>The Roger McGuinn hit that pre-dated The Byrds: &quot;It was an exciting time&quot;</title>
-    <link href="https://faroutmagazine.co.uk/the-roger-mcguinn-hit-that-pre-dated-the-byrds/" />
-    <id>https://faroutmagazine.co.uk/the-roger-mcguinn-hit-that-pre-dated-the-byrds/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
-    <summary>The Roger McGuinn hit that pre-dated The Byrds: &quot;It was an exciting time&quot;</summary>
-    <category term="Main Story" />
+    <title>Chloé Zhao names her three filmmaking mentors: &quot;You really feel the elevation&quot;</title>
+    <link href="https://faroutmagazine.co.uk/chloe-zhao-names-her-three-filmmaking-mentors/" />
+    <id>https://faroutmagazine.co.uk/chloe-zhao-names-her-three-filmmaking-mentors/</id>
+    <updated>2026-01-15T07:28:42.743Z</updated>
+    <summary>Chloé Zhao names her three filmmaking mentors: &quot;You really feel the elevation&quot;</summary>
+    <category term="Music News" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
   </entry>
   <entry>
-    <title>Bitcoin open interest falls 30%, setting up bullish recovery: Analyst</title>
-    <link href="https://cointelegraph.com/news/bitcoin-oi-falls-30-resetting-markets-bullish-recovery-cryptoquant?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
-    <id>https://cointelegraph.com/news/bitcoin-oi-falls-30-resetting-markets-bullish-recovery-cryptoquant?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
-    <summary>Bitcoin open interest falls 30%, setting up bullish recovery: Analyst</summary>
-    <category term="Main Story" />
+    <title>Eurorack in Techno 2026: Why Does a Modular System Belong in a Modern Techno Setup?</title>
+    <link href="https://www.gearnews.com/eurorack-in-techno-synths/" />
+    <id>https://www.gearnews.com/eurorack-in-techno-synths/</id>
+    <updated>2026-01-15T07:28:42.743Z</updated>
+    <summary>Eurorack in Techno 2026: Why Does a Modular System Belong in a Modern Techno Setup?</summary>
+    <category term="Music News" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
   </entry>
   <entry>
-    <title>Binance Wallet Adds Perpetual Futures Trading to Self‑Custody Ecosystem</title>
-    <link href="https://news.bitcoin.com/binance-wallet-adds-perpetual-futures-trading-to-self%e2%80%91custody-ecosystem/" />
-    <id>https://news.bitcoin.com/binance-wallet-adds-perpetual-futures-trading-to-self%e2%80%91custody-ecosystem/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
-    <summary>Binance Wallet Adds Perpetual Futures Trading to Self‑Custody Ecosystem</summary>
-    <category term="Main Story" />
+    <title>Techivation releases M-EQ linear-phase equalizer plugin</title>
+    <link href="https://rekkerd.org/techivation-releases-m-eq-linear-phase-equalizer-plugin/" />
+    <id>https://rekkerd.org/techivation-releases-m-eq-linear-phase-equalizer-plugin/</id>
+    <updated>2026-01-15T07:28:42.743Z</updated>
+    <summary>Techivation releases M-EQ linear-phase equalizer plugin</summary>
+    <category term="Music News" />
     <author>
       <name>Fleshboogie Editorial</name>
     </author>
@@ -85,7 +118,7 @@
     <title>‘Honeyjoon’ Review: A Plain Mother-Daughter Vacation in the Throes of Grief</title>
     <link href="https://variety.com/2026/film/reviews/honeyjoon-review-1236620798/" />
     <id>https://variety.com/2026/film/reviews/honeyjoon-review-1236620798/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>‘Honeyjoon’ Review: A Plain Mother-Daughter Vacation in the Throes of Grief</summary>
     <category term="Music News" />
     <author>
@@ -96,7 +129,7 @@
     <title>KORG Filter Ark: 14 Gorgeous KORG Filters to Float Your Boat</title>
     <link href="https://www.gearnews.com/korg-filter-ark-synth/" />
     <id>https://www.gearnews.com/korg-filter-ark-synth/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>KORG Filter Ark: 14 Gorgeous KORG Filters to Float Your Boat</summary>
     <category term="Music News" />
     <author>
@@ -107,7 +140,7 @@
     <title>Philips Kid&apos;s Kit Revisited</title>
     <link href="https://hackaday.com/2026/01/14/philips-kids-kit-revisited/" />
     <id>https://hackaday.com/2026/01/14/philips-kids-kit-revisited/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Philips Kid&apos;s Kit Revisited</summary>
     <category term="Music News" />
     <author>
@@ -118,7 +151,7 @@
     <title>The Roger McGuinn hit that pre-dated The Byrds: &quot;It was an exciting time&quot;</title>
     <link href="https://faroutmagazine.co.uk/the-roger-mcguinn-hit-that-pre-dated-the-byrds/" />
     <id>https://faroutmagazine.co.uk/the-roger-mcguinn-hit-that-pre-dated-the-byrds/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>The Roger McGuinn hit that pre-dated The Byrds: &quot;It was an exciting time&quot;</summary>
     <category term="Music News" />
     <author>
@@ -129,7 +162,7 @@
     <title>Bitcoin open interest falls 30%, setting up bullish recovery: Analyst</title>
     <link href="https://cointelegraph.com/news/bitcoin-oi-falls-30-resetting-markets-bullish-recovery-cryptoquant?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
     <id>https://cointelegraph.com/news/bitcoin-oi-falls-30-resetting-markets-bullish-recovery-cryptoquant?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Bitcoin open interest falls 30%, setting up bullish recovery: Analyst</summary>
     <category term="Music News" />
     <author>
@@ -140,7 +173,7 @@
     <title>Binance Wallet Adds Perpetual Futures Trading to Self‑Custody Ecosystem</title>
     <link href="https://news.bitcoin.com/binance-wallet-adds-perpetual-futures-trading-to-self%e2%80%91custody-ecosystem/" />
     <id>https://news.bitcoin.com/binance-wallet-adds-perpetual-futures-trading-to-self%e2%80%91custody-ecosystem/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Binance Wallet Adds Perpetual Futures Trading to Self‑Custody Ecosystem</summary>
     <category term="Music News" />
     <author>
@@ -151,7 +184,7 @@
     <title>KORG Liano LIVE!: Piano for the TikTok Generation</title>
     <link href="https://www.gearnews.com/korg-liano-live-piano/" />
     <id>https://www.gearnews.com/korg-liano-live-piano/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>KORG Liano LIVE!: Piano for the TikTok Generation</summary>
     <category term="Music News" />
     <author>
@@ -162,7 +195,7 @@
     <title>Your AirPods have a hidden camera remote feature — here&apos;s how to use it</title>
     <link href="https://www.tomsguide.com/audio/airpods/your-airpods-have-a-hidden-camera-feature-heres-how-to-use-it" />
     <id>https://www.tomsguide.com/audio/airpods/your-airpods-have-a-hidden-camera-feature-heres-how-to-use-it</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Your AirPods have a hidden camera remote feature — here&apos;s how to use it</summary>
     <category term="Music News" />
     <author>
@@ -173,7 +206,7 @@
     <title>&apos;Saturday Night Live&apos;s Kam Patterson Says Show Is &quot;Really Gay,&quot; Jokes He&apos;s &quot;Never Seen&quot; It</title>
     <link href="https://deadline.com/2026/01/saturday-night-live-kam-patterson-really-gay-1236683776/" />
     <id>https://deadline.com/2026/01/saturday-night-live-kam-patterson-really-gay-1236683776/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>&apos;Saturday Night Live&apos;s Kam Patterson Says Show Is &quot;Really Gay,&quot; Jokes He&apos;s &quot;Never Seen&quot; It</summary>
     <category term="Music News" />
     <author>
@@ -184,7 +217,7 @@
     <title>5 hidden Windows 11 features you need to know about</title>
     <link href="https://www.tomsguide.com/computing/windows-operating-systems/5-hidden-windows-11-features-you-need-to-know-about" />
     <id>https://www.tomsguide.com/computing/windows-operating-systems/5-hidden-windows-11-features-you-need-to-know-about</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>5 hidden Windows 11 features you need to know about</summary>
     <category term="Music News" />
     <author>
@@ -195,7 +228,7 @@
     <title>Jason Bateman names the greatest comedy actor of all time: &quot;He never asks for a laugh&quot;</title>
     <link href="https://faroutmagazine.co.uk/jason-bateman-names-greatest-comedy-actor-all-time/" />
     <id>https://faroutmagazine.co.uk/jason-bateman-names-greatest-comedy-actor-all-time/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Jason Bateman names the greatest comedy actor of all time: &quot;He never asks for a laugh&quot;</summary>
     <category term="Music News" />
     <author>
@@ -206,7 +239,7 @@
     <title>Manhattan DA Urges Lawmakers to Strengthen Crypto Enforcement Tools</title>
     <link href="https://decrypt.co/354689/manhattan-da-urges-lawmakers-strengthen-crypto-enforcement" />
     <id>https://decrypt.co/354689/manhattan-da-urges-lawmakers-strengthen-crypto-enforcement</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Manhattan DA Urges Lawmakers to Strengthen Crypto Enforcement Tools</summary>
     <category term="Music News" />
     <author>
@@ -217,7 +250,7 @@
     <title>Merlin Welcomes Five New Board&amp;#160;Members</title>
     <link href="https://www.billboard.com/pro/merlin-five-new-board-members/" />
     <id>https://www.billboard.com/pro/merlin-five-new-board-members/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Merlin Welcomes Five New Board&amp;#160;Members</summary>
     <category term="Music News" />
     <author>
@@ -228,7 +261,7 @@
     <title>Learning CUDA From First Principles</title>
     <link href="https://pub.towardsai.net/learning-cuda-from-first-principles-b6b6670319c8?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/learning-cuda-from-first-principles-b6b6670319c8?source=rss----98111c9905da---4</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Learning CUDA From First Principles</summary>
     <category term="Music News" />
     <author>
@@ -239,7 +272,7 @@
     <title>Decision-Making Algorithms with Python: Thompson Sampling</title>
     <link href="https://pub.towardsai.net/decision-making-algorithms-with-python-thompson-sampling-00885d3c4933?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/decision-making-algorithms-with-python-thompson-sampling-00885d3c4933?source=rss----98111c9905da---4</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Decision-Making Algorithms with Python: Thompson Sampling</summary>
     <category term="Music News" />
     <author>
@@ -250,7 +283,7 @@
     <title>The Context Advantage: How Palantir AIP Operates the Modern Enterprise</title>
     <link href="https://pub.towardsai.net/the-context-advantage-how-palantir-aip-operates-the-modern-enterprise-210c4af39727?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/the-context-advantage-how-palantir-aip-operates-the-modern-enterprise-210c4af39727?source=rss----98111c9905da---4</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>The Context Advantage: How Palantir AIP Operates the Modern Enterprise</summary>
     <category term="Music News" />
     <author>
@@ -261,7 +294,7 @@
     <title>DELIVERY DELAY PREDICTOR: Machine Learning System for Logistics Optimization</title>
     <link href="https://pub.towardsai.net/delivery-delay-predictor-machine-learning-system-for-logistics-optimization-cb5c6d6cd49a?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/delivery-delay-predictor-machine-learning-system-for-logistics-optimization-cb5c6d6cd49a?source=rss----98111c9905da---4</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>DELIVERY DELAY PREDICTOR: Machine Learning System for Logistics Optimization</summary>
     <category term="Music News" />
     <author>
@@ -272,7 +305,7 @@
     <title>Blockchain firm eyes $200M in tokenized water projects across Asia</title>
     <link href="https://cointelegraph.com/news/200m-tokenized-water-infrastructure-plan-southeast-asia?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
     <id>https://cointelegraph.com/news/200m-tokenized-water-infrastructure-plan-southeast-asia?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Blockchain firm eyes $200M in tokenized water projects across Asia</summary>
     <category term="Music News" />
     <author>
@@ -283,7 +316,7 @@
     <title>LLM Evaluation Analysis with Python</title>
     <link href="https://pub.towardsai.net/llm-evaluation-analysis-with-python-8053be4aa4b6?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/llm-evaluation-analysis-with-python-8053be4aa4b6?source=rss----98111c9905da---4</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>LLM Evaluation Analysis with Python</summary>
     <category term="Music News" />
     <author>
@@ -294,7 +327,7 @@
     <title>Your AI Agent Works in Demo. It Dies in Production. Here’s Why.</title>
     <link href="https://pub.towardsai.net/your-ai-agent-works-in-demo-it-dies-in-production-heres-why-e4f732186c9c?source=rss----98111c9905da---4" />
     <id>https://pub.towardsai.net/your-ai-agent-works-in-demo-it-dies-in-production-heres-why-e4f732186c9c?source=rss----98111c9905da---4</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Your AI Agent Works in Demo. It Dies in Production. Here’s Why.</summary>
     <category term="Music News" />
     <author>
@@ -305,7 +338,7 @@
     <title>Strive Locks in Semler Approval, Positioning for a 12,798 Bitcoin Treasury</title>
     <link href="https://news.bitcoin.com/strive-locks-in-semler-approval-positioning-for-a-12798-bitcoin-treasury/" />
     <id>https://news.bitcoin.com/strive-locks-in-semler-approval-positioning-for-a-12798-bitcoin-treasury/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Strive Locks in Semler Approval, Positioning for a 12,798 Bitcoin Treasury</summary>
     <category term="Music News" />
     <author>
@@ -316,7 +349,7 @@
     <title>Shah Rukh Khan&apos;s &apos;King&apos; Tops IMDb&apos;s Most Anticipated Indian Films of 2026 List (EXCLUSIVE)</title>
     <link href="https://variety.com/2026/film/news/shah-rukh-khan-king-imdb-most-anticipated-indian-films-2026-1236630785/" />
     <id>https://variety.com/2026/film/news/shah-rukh-khan-king-imdb-most-anticipated-indian-films-2026-1236630785/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Shah Rukh Khan&apos;s &apos;King&apos; Tops IMDb&apos;s Most Anticipated Indian Films of 2026 List (EXCLUSIVE)</summary>
     <category term="Music News" />
     <author>
@@ -327,7 +360,7 @@
     <title>Matt Damon Recalls the Time Clint Eastwood Asked Him If He Wants to &quot;Waste Everybody’s Time&quot; Filming More Takes</title>
     <link href="https://www.hollywoodreporter.com/movies/movie-news/matt-damon-clint-eastwood-waste-everybodys-time-takes-1236474642/" />
     <id>https://www.hollywoodreporter.com/movies/movie-news/matt-damon-clint-eastwood-waste-everybodys-time-takes-1236474642/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Matt Damon Recalls the Time Clint Eastwood Asked Him If He Wants to &quot;Waste Everybody’s Time&quot; Filming More Takes</summary>
     <category term="Music News" />
     <author>
@@ -338,7 +371,7 @@
     <title>Todd and Julie Chrisley on Why They Did &apos;The Masked Singer&apos; and Potential Criticism: &apos;Their Issue Is Who Pardoned Us&apos;</title>
     <link href="https://variety.com/2026/tv/news/todd-julie-chrisley-critics-pardon-trump-masked-singer-1236631887/" />
     <id>https://variety.com/2026/tv/news/todd-julie-chrisley-critics-pardon-trump-masked-singer-1236631887/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Todd and Julie Chrisley on Why They Did &apos;The Masked Singer&apos; and Potential Criticism: &apos;Their Issue Is Who Pardoned Us&apos;</summary>
     <category term="Music News" />
     <author>
@@ -349,7 +382,7 @@
     <title>Witches, Vampires and Aliens: How Genre Films Like &apos;Sinners&apos; and &apos;Weapons&apos; Factor Into the Oscar Race</title>
     <link href="https://variety.com/2026/film/actors/horror-movies-vampires-witches-wicked-for-good-sinners-1236631566/" />
     <id>https://variety.com/2026/film/actors/horror-movies-vampires-witches-wicked-for-good-sinners-1236631566/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Witches, Vampires and Aliens: How Genre Films Like &apos;Sinners&apos; and &apos;Weapons&apos; Factor Into the Oscar Race</summary>
     <category term="Music News" />
     <author>
@@ -360,7 +393,7 @@
     <title>The surreal moment Eddie Murphy met Paul McCartney: &quot;It was in the studio at his house&quot;</title>
     <link href="https://faroutmagazine.co.uk/surreal-moment-eddie-murphy-met-paul-mccartney/" />
     <id>https://faroutmagazine.co.uk/surreal-moment-eddie-murphy-met-paul-mccartney/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>The surreal moment Eddie Murphy met Paul McCartney: &quot;It was in the studio at his house&quot;</summary>
     <category term="Music News" />
     <author>
@@ -371,7 +404,7 @@
     <title>So you got another pair of bed socks for Christmas? Here’s why they could be the key to helping you sleep through the night</title>
     <link href="https://www.tomsguide.com/wellness/sleep/so-you-got-another-pair-of-bed-socks-for-christmas-heres-why-they-could-be-the-key-to-helping-you-sleep-through-the-night" />
     <id>https://www.tomsguide.com/wellness/sleep/so-you-got-another-pair-of-bed-socks-for-christmas-heres-why-they-could-be-the-key-to-helping-you-sleep-through-the-night</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>So you got another pair of bed socks for Christmas? Here’s why they could be the key to helping you sleep through the night</summary>
     <category term="Music News" />
     <author>
@@ -382,7 +415,7 @@
     <title>Crypto Fear &amp; Greed index flips to ‘greed’ for first time since October</title>
     <link href="https://cointelegraph.com/news/crypto-fear-greed-hits-greed-bitcoin-two-month-high?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
     <id>https://cointelegraph.com/news/crypto-fear-greed-hits-greed-bitcoin-two-month-high?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Crypto Fear &amp; Greed index flips to ‘greed’ for first time since October</summary>
     <category term="Music News" />
     <author>
@@ -393,7 +426,7 @@
     <title>Verizon says its service is back after a 10-hour outage</title>
     <link href="https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss" />
     <id>https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Verizon says its service is back after a 10-hour outage</summary>
     <category term="Music News" />
     <author>
@@ -404,7 +437,7 @@
     <title>Solana Mobile to airdrop 1.8B SKR tokens to users, 141M to devs</title>
     <link href="https://cointelegraph.com/news/solana-mobile-airdrop-nearly-2b-seeker-users-and-devs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" />
     <id>https://cointelegraph.com/news/solana-mobile-airdrop-nearly-2b-seeker-users-and-devs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Solana Mobile to airdrop 1.8B SKR tokens to users, 141M to devs</summary>
     <category term="Music News" />
     <author>
@@ -415,7 +448,7 @@
     <title>Nene Leakes Sets Bravo Return With &apos;Real Housewives: Ultimate Road Trip&apos;: &quot;This Has Been A Really Long, Long Journey&quot;</title>
     <link href="https://deadline.com/2026/01/nene-leakes-bravo-return-real-housewives-ultimate-road-trip-1236683727/" />
     <id>https://deadline.com/2026/01/nene-leakes-bravo-return-real-housewives-ultimate-road-trip-1236683727/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Nene Leakes Sets Bravo Return With &apos;Real Housewives: Ultimate Road Trip&apos;: &quot;This Has Been A Really Long, Long Journey&quot;</summary>
     <category term="Music News" />
     <author>
@@ -426,7 +459,7 @@
     <title>Bravo Reveals ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Cast: See Who&apos;s Hitting the Road From Each Franchise</title>
     <link href="https://www.hollywoodreporter.com/lists/real-housewives-ultimate-girls-road-trip-cast/" />
     <id>https://www.hollywoodreporter.com/lists/real-housewives-ultimate-girls-road-trip-cast/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Bravo Reveals ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Cast: See Who&apos;s Hitting the Road From Each Franchise</summary>
     <category term="Music News" />
     <author>
@@ -437,7 +470,7 @@
     <title>&apos;Ultimate Girls Trip&apos; Cast: Bravo Assembles Seven Real Housewives All-Stars to Celebrate Franchise Turning 20</title>
     <link href="https://variety.com/2026/tv/news/real-housewives-ultimate-girls-trip-cast-lisa-barlow-kyle-richards-nene-leakes-1236631751/" />
     <id>https://variety.com/2026/tv/news/real-housewives-ultimate-girls-trip-cast-lisa-barlow-kyle-richards-nene-leakes-1236631751/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>&apos;Ultimate Girls Trip&apos; Cast: Bravo Assembles Seven Real Housewives All-Stars to Celebrate Franchise Turning 20</summary>
     <category term="Music News" />
     <author>
@@ -448,7 +481,7 @@
     <title>TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens</title>
     <link href="https://decrypt.co/354684/td-cowen-trims-strategy-price-target-bitcoin-yield" />
     <id>https://decrypt.co/354684/td-cowen-trims-strategy-price-target-bitcoin-yield</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens</summary>
     <category term="Music News" />
     <author>
@@ -459,7 +492,7 @@
     <title>The world lost the chance to see Pedro Pascal in the Wild West: &quot;I wrote letters and stuff&quot;</title>
     <link href="https://faroutmagazine.co.uk/movie-pedro-pascal-desperately-wanted/" />
     <id>https://faroutmagazine.co.uk/movie-pedro-pascal-desperately-wanted/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>The world lost the chance to see Pedro Pascal in the Wild West: &quot;I wrote letters and stuff&quot;</summary>
     <category term="Music News" />
     <author>
@@ -470,7 +503,7 @@
     <title>These 3 hidden iPhone features will stop you from doom scrolling so you actually get the sleep you need — here&apos;s how to find them</title>
     <link href="https://www.tomsguide.com/wellness/sleep/these-3-hidden-iphone-features-will-stop-you-from-doom-scrolling-so-you-actually-get-the-sleep-you-need-heres-how-to-find-them" />
     <id>https://www.tomsguide.com/wellness/sleep/these-3-hidden-iphone-features-will-stop-you-from-doom-scrolling-so-you-actually-get-the-sleep-you-need-heres-how-to-find-them</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>These 3 hidden iPhone features will stop you from doom scrolling so you actually get the sleep you need — here&apos;s how to find them</summary>
     <category term="Music News" />
     <author>
@@ -481,41 +514,8 @@
     <title>Bob Weir to Be Honored at San Francisco Celebration</title>
     <link href="https://www.rollingstone.com/music/music-news/bob-weir-celebration-san-francisco-1235499411/" />
     <id>https://www.rollingstone.com/music/music-news/bob-weir-celebration-san-francisco-1235499411/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Bob Weir to Be Honored at San Francisco Celebration</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Carol Burnett, Laura Dern on &apos;Palm Royale&apos; Finale Twist and Secret Dinners With the Late Diane Ladd</title>
-    <link href="https://www.hollywoodreporter.com/tv/tv-features/palm-royale-finale-twist-carol-burnett-laura-dern-interview-1236451267/" />
-    <id>https://www.hollywoodreporter.com/tv/tv-features/palm-royale-finale-twist-carol-burnett-laura-dern-interview-1236451267/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
-    <summary>Carol Burnett, Laura Dern on &apos;Palm Royale&apos; Finale Twist and Secret Dinners With the Late Diane Ladd</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Radford Lot to Be Turned Over to Lenders After Hackman Defaults (Report)</title>
-    <link href="https://variety.com/2026/film/news/radford-lot-goldman-hackman-capital-partners-1236631832/" />
-    <id>https://variety.com/2026/film/news/radford-lot-goldman-hackman-capital-partners-1236631832/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
-    <summary>Radford Lot to Be Turned Over to Lenders After Hackman Defaults (Report)</summary>
-    <category term="Music News" />
-    <author>
-      <name>Fleshboogie Editorial</name>
-    </author>
-  </entry>
-  <entry>
-    <title>&apos;Palm Royale&apos; Boss Explains Carol Burnett&apos;s Finale Song and Season 3 Hopes</title>
-    <link href="https://www.thewrap.com/creative-content/tv-shows/palm-royale-season-2-episode-10-creator-abe-sylvia-interview-carol-burnett-song/" />
-    <id>https://www.thewrap.com/creative-content/tv-shows/palm-royale-season-2-episode-10-creator-abe-sylvia-interview-carol-burnett-song/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
-    <summary>&apos;Palm Royale&apos; Boss Explains Carol Burnett&apos;s Finale Song and Season 3 Hopes</summary>
     <category term="Music News" />
     <author>
       <name>Fleshboogie Editorial</name>
@@ -525,7 +525,7 @@
     <title>Will &apos;Stranger Things&apos; ever return for season six?</title>
     <link href="https://www.nme.com/news/tv/will-stranger-things-ever-return-for-season-six-3922257?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=will-stranger-things-ever-return-for-season-six" />
     <id>https://www.nme.com/news/tv/will-stranger-things-ever-return-for-season-six-3922257?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=will-stranger-things-ever-return-for-season-six</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Will &apos;Stranger Things&apos; ever return for season six?</summary>
     <category term="Culture" />
     <author>
@@ -536,7 +536,7 @@
     <title>Téo Amo – Hold Somebody</title>
     <link href="https://www.stereofox.com/teo-amo-hold-somebody/" />
     <id>https://www.stereofox.com/teo-amo-hold-somebody/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Téo Amo – Hold Somebody</summary>
     <category term="Culture" />
     <author>
@@ -547,7 +547,7 @@
     <title>Watch Robyn&apos;s sensual performance of &apos;Sexistential&apos; on &apos;Colbert&apos;</title>
     <link href="https://www.nme.com/news/music/watch-robyn-sensual-performance-of-sexistential-on-colbert-3922234?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=watch-robyn-sensual-performance-of-sexistential-on-colbert" />
     <id>https://www.nme.com/news/music/watch-robyn-sensual-performance-of-sexistential-on-colbert-3922234?utm_source=rss&amp;#038;utm_medium=rss&amp;#038;utm_campaign=watch-robyn-sensual-performance-of-sexistential-on-colbert</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>Watch Robyn&apos;s sensual performance of &apos;Sexistential&apos; on &apos;Colbert&apos;</summary>
     <category term="Culture" />
     <author>
@@ -558,7 +558,7 @@
     <title>The Messthetics and James Brandon Lewis Reconvene for New Album and Tour</title>
     <link href="https://pitchfork.com/news/the-messthetics-and-james-brandon-lewis-reconvene-for-new-album-and-tour/" />
     <id>https://pitchfork.com/news/the-messthetics-and-james-brandon-lewis-reconvene-for-new-album-and-tour/</id>
-    <updated>2026-01-15T06:39:27.749Z</updated>
+    <updated>2026-01-15T07:28:42.743Z</updated>
     <summary>The Messthetics and James Brandon Lewis Reconvene for New Album and Tour</summary>
     <category term="Culture" />
     <author>
