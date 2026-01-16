@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-16T07:28:25.842Z",
+  "curatedAt": "2026-01-16T08:35:24.932Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "WHAT IS 'PITTING'? THIS COMMON MISTAKE WILL CAUSE PERMANENT DAMAGE TO YOUR INDUCTION COOKTOP",
-      "url": "https://www.tomsguide.com/home/kitchen-dining/what-is-pitting-this-common-mistake-will-cause-permanent-damage-to-your-induction-cooktop",
-      "timestamp": "2026-01-16T07:28:22.896Z",
+      "title": "WHEN IS '28 YEARS LATER: THE BONE TEMPLE' COMING TO STREAMING?",
+      "url": "https://www.tomsguide.com/entertainment/streaming/when-is-28-years-later-the-bone-temple-coming-to-streaming",
+      "timestamp": "2026-01-16T08:35:21.932Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.75,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.655
       }
     },
     "deepDive": [
@@ -47,6 +47,49 @@
         "title": "A$AP Rocky's Long-Awaited New Album 'Don't Be Dumb' Featuring Tyler, The Creator & Doechii Is Finally&#160;Here",
         "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-new-album-stream-1236155865/",
         "timestamp": "05:04",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.505
+        }
+      }
+    ],
+    "discovery": [
+      {
+        "title": "David Thewlis, Jason Watkins, Asim Chaudhry & BAFTA Rising Star Nominee Posy Sterling Set For Channel 4 Factual Drama ‘Dirty Business’",
+        "url": "https://deadline.com/2026/01/david-thewlis-jason-watkins-posy-sterling-dirty-business-1236684906/",
+        "timestamp": "07:57",
+        "source": "automated",
+        "scores": {
+          "impact": 0.4,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.5,
+          "composite": 0.43
+        }
+      }
+    ],
+    "conversation": [
+      {
+        "title": "WHEN IS '28 YEARS LATER: THE BONE TEMPLE' COMING TO STREAMING?",
+        "url": "https://www.tomsguide.com/entertainment/streaming/when-is-28-years-later-the-bone-temple-coming-to-streaming",
+        "timestamp": "2026-01-16T08:35:21.932Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.75,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.655
+        }
+      },
+      {
+        "title": "Google AI Releases TranslateGemma: A New Family of Open Translation Models Built on Gemma 3 with Support for 55 Languages",
+        "url": "https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/",
+        "timestamp": "05:39",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -57,63 +100,34 @@
         }
       }
     ],
-    "discovery": [],
-    "conversation": [
-      {
-        "title": "WHAT IS 'PITTING'? THIS COMMON MISTAKE WILL CAUSE PERMANENT DAMAGE TO YOUR INDUCTION COOKTOP",
-        "url": "https://www.tomsguide.com/home/kitchen-dining/what-is-pitting-this-common-mistake-will-cause-permanent-damage-to-your-induction-cooktop",
-        "timestamp": "2026-01-16T07:28:22.896Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6400000000000001
-        }
-      },
-      {
-        "title": "Doctor reveals why remote workers are struggling to sleep this winter — plus 3 simple fixes",
-        "url": "https://www.tomsguide.com/wellness/sleep-problems/doctor-reveals-why-remote-workers-are-struggling-to-sleep-this-winter-plus-3-simple-fixes",
-        "timestamp": "04:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.51
-        }
-      }
-    ],
     "wildcard": [
       {
-        "title": "WHAT IS 'PITTING'? THIS COMMON MISTAKE WILL CAUSE PERMANENT DAMAGE TO YOUR INDUCTION COOKTOP",
-        "url": "https://www.tomsguide.com/home/kitchen-dining/what-is-pitting-this-common-mistake-will-cause-permanent-damage-to-your-induction-cooktop",
-        "timestamp": "2026-01-16T07:28:22.896Z",
+        "title": "WHEN IS '28 YEARS LATER: THE BONE TEMPLE' COMING TO STREAMING?",
+        "url": "https://www.tomsguide.com/entertainment/streaming/when-is-28-years-later-the-bone-temple-coming-to-streaming",
+        "timestamp": "2026-01-16T08:35:21.932Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7,
+          "engagement": 0.75,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6400000000000001
+          "composite": 0.655
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "WHAT IS 'PITTING'? THIS COMMON MISTAKE WILL CAUSE PERMANENT DAMAGE TO YOUR INDUCTION COOKTOP",
-      "url": "https://www.tomsguide.com/home/kitchen-dining/what-is-pitting-this-common-mistake-will-cause-permanent-damage-to-your-induction-cooktop",
-      "timestamp": "2026-01-16T07:28:22.896Z",
+      "title": "WHEN IS '28 YEARS LATER: THE BONE TEMPLE' COMING TO STREAMING?",
+      "url": "https://www.tomsguide.com/entertainment/streaming/when-is-28-years-later-the-bone-temple-coming-to-streaming",
+      "timestamp": "2026-01-16T08:35:21.932Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.75,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.655
       }
     },
     {
@@ -146,7 +160,7 @@
       "title": "A$AP Rocky's Long-Awaited New Album 'Don't Be Dumb' Featuring Tyler, The Creator & Doechii Is Finally&#160;Here",
       "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-new-album-stream-1236155865/",
       "timestamp": "05:04",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.65,
@@ -156,16 +170,16 @@
       }
     },
     {
-      "title": "Doctor reveals why remote workers are struggling to sleep this winter — plus 3 simple fixes",
-      "url": "https://www.tomsguide.com/wellness/sleep-problems/doctor-reveals-why-remote-workers-are-struggling-to-sleep-this-winter-plus-3-simple-fixes",
-      "timestamp": "04:00",
+      "title": "David Thewlis, Jason Watkins, Asim Chaudhry & BAFTA Rising Star Nominee Posy Sterling Set For Channel 4 Factual Drama ‘Dirty Business’",
+      "url": "https://deadline.com/2026/01/david-thewlis-jason-watkins-posy-sterling-dirty-business-1236684906/",
+      "timestamp": "07:57",
       "source": "automated",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.7999999999999999,
+        "impact": 0.4,
+        "engagement": 0.6,
         "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.51
+        "discovery": 0.5,
+        "composite": 0.43
       }
     }
   ],
