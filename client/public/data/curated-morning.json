@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-16T22:25:29.670Z",
+  "curatedAt": "2026-01-16T23:23:57.028Z",
   "totalAnalyzed": 66,
   "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "MEGYN KELLY FLAMES MELISSA GILBERT FOR POSTING HER LIFESTYLE BRAND AMID TIMOTHY BUSFIELD CHARGES: 'HEAL THYSELF, PREACHER' &#124; VIDEO",
-      "url": "https://www.thewrap.com/culture-lifestyle/culture/megyn-kelly-melissa-gilbert-lifestyle-brand-timothy-busfield-charges/",
-      "timestamp": "2026-01-16T22:25:26.691Z",
+      "title": "OTOJA ABIT SETS STARS FOR INDIE 'VERONICA & JULIAN'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/veronica-julian-blake-jenner-nadia-bjorlin-kyler-pettis-1236476826/",
+      "timestamp": "2026-01-16T23:23:54.029Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
@@ -74,47 +74,47 @@
         }
       },
       {
-        "title": "HHS Gave a $1.6 Million Grant to a Controversial Vaccine Study. These Emails Show How That Happened",
-        "url": "https://www.rollingstone.com/politics/politics-news/danish-vaccine-study-emails-hhs-rfk-jr-1235498456/",
-        "timestamp": "21:15",
+        "title": "The 3 Best Movies to Watch on Netflix This Weekend",
+        "url": "https://www.thewrap.com/creative-content/what-to-watch/3-best-movies-to-watch-on-netflix-this-weekend-jan-16-18/",
+        "timestamp": "23:00",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7999999999999999,
+          "engagement": 0.75,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.51
+          "composite": 0.495
         }
       }
     ],
     "wildcard": [
       {
-        "title": "MEGYN KELLY FLAMES MELISSA GILBERT FOR POSTING HER LIFESTYLE BRAND AMID TIMOTHY BUSFIELD CHARGES: 'HEAL THYSELF, PREACHER' &#124; VIDEO",
-        "url": "https://www.thewrap.com/culture-lifestyle/culture/megyn-kelly-melissa-gilbert-lifestyle-brand-timothy-busfield-charges/",
-        "timestamp": "2026-01-16T22:25:26.691Z",
+        "title": "OTOJA ABIT SETS STARS FOR INDIE 'VERONICA & JULIAN'",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/veronica-julian-blake-jenner-nadia-bjorlin-kyler-pettis-1236476826/",
+        "timestamp": "2026-01-16T23:23:54.029Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "MEGYN KELLY FLAMES MELISSA GILBERT FOR POSTING HER LIFESTYLE BRAND AMID TIMOTHY BUSFIELD CHARGES: 'HEAL THYSELF, PREACHER' &#124; VIDEO",
-      "url": "https://www.thewrap.com/culture-lifestyle/culture/megyn-kelly-melissa-gilbert-lifestyle-brand-timothy-busfield-charges/",
-      "timestamp": "2026-01-16T22:25:26.691Z",
+      "title": "OTOJA ABIT SETS STARS FOR INDIE 'VERONICA & JULIAN'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/veronica-julian-blake-jenner-nadia-bjorlin-kyler-pettis-1236476826/",
+      "timestamp": "2026-01-16T23:23:54.029Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
     {
@@ -170,16 +170,16 @@
       }
     },
     {
-      "title": "HHS Gave a $1.6 Million Grant to a Controversial Vaccine Study. These Emails Show How That Happened",
-      "url": "https://www.rollingstone.com/politics/politics-news/danish-vaccine-study-emails-hhs-rfk-jr-1235498456/",
-      "timestamp": "21:15",
+      "title": "The 3 Best Movies to Watch on Netflix This Weekend",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/3-best-movies-to-watch-on-netflix-this-weekend-jan-16-18/",
+      "timestamp": "23:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7999999999999999,
+        "engagement": 0.75,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.51
+        "composite": 0.495
       }
     }
   ],
