@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-16T21:25:42.369Z",
+  "curatedAt": "2026-01-16T22:25:29.670Z",
   "totalAnalyzed": 66,
   "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "DTCC &#39;NOT BUILDING WALLED GARDENS&#39; FOR TOKENIZATION, SAYS DIGITAL ASSETS HEAD",
-      "url": "https://decrypt.co/354791/dtcc-walled-gardens-tokenization-digital-assets-head",
-      "timestamp": "2026-01-16T21:25:39.448Z",
+      "title": "MEGYN KELLY FLAMES MELISSA GILBERT FOR POSTING HER LIFESTYLE BRAND AMID TIMOTHY BUSFIELD CHARGES: 'HEAL THYSELF, PREACHER' &#124; VIDEO",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/megyn-kelly-melissa-gilbert-lifestyle-brand-timothy-busfield-charges/",
+      "timestamp": "2026-01-16T22:25:26.691Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -18,23 +18,10 @@
     },
     "deepDive": [
       {
-        "title": "Billboard Staff’s Greatest Pop Stars of 2025: Comeback Artist of the Year — Clipse",
-        "url": "https://www.billboard.com/music/pop/clipse-greatest-pop-stars-2025-comeback-of-the-year-1236156777/",
-        "timestamp": "20:36",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.52
-        }
-      },
-      {
-        "title": "Black Forest Labs Releases FLUX.2 [klein]: Compact Flow Models for Interactive Visual Intelligence",
-        "url": "https://www.marktechpost.com/2026/01/16/black-forest-labs-releases-flux-2-klein-compact-flow-models-for-interactive-visual-intelligence/",
-        "timestamp": "20:31",
-        "source": "automated",
+        "title": "Essential Releases, January 16, 2026",
+        "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
+        "timestamp": "15:16",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
@@ -44,10 +31,10 @@
         }
       },
       {
-        "title": "Morrissey Has Canceled 14 Percent of His Planned 2026 Tour Dates",
-        "url": "https://www.rollingstone.com/music/music-news/morrissey-canceled-tour-dates-2026-1235500792/",
-        "timestamp": "20:26",
-        "source": "automated",
+        "title": "5 Albums I Can’t Live Without: Ryan Key of Yellowcard",
+        "url": "https://www.spin.com/2026/01/5-albums-i-cant-live-without-ryan-key-of-yellowcard/",
+        "timestamp": "15:00",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
@@ -59,10 +46,10 @@
     ],
     "discovery": [
       {
-        "title": "A$AP Rocky, Hilary Duff, Charli XCX and All the Songs You Need to Know This Week",
-        "url": "https://www.rollingstone.com/music/music-features/asap-rocky-hilary-duff-charli-xcx-songs-you-need-to-know-1235498966/",
-        "timestamp": "18:43",
-        "source": "musicReleases",
+        "title": "Yellowcard Go Back in Time With Good Charlotte for 'Bedroom Posters'",
+        "url": "https://www.rollingstone.com/music/music-news/yellowcard-good-charlotte-bedroom-posters-1235500517/",
+        "timestamp": "22:03",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.5,
@@ -74,23 +61,23 @@
     ],
     "conversation": [
       {
-        "title": "Billboard Staff’s Greatest Pop Stars of 2025: Comeback Artist of the Year — Clipse",
-        "url": "https://www.billboard.com/music/pop/clipse-greatest-pop-stars-2025-comeback-of-the-year-1236156777/",
-        "timestamp": "20:36",
+        "title": "What's Getting Nominated for Best Animated Short?",
+        "url": "https://www.indiewire.com/features/commentary/oscars-animated-short-nomination-preview-1235173458/",
+        "timestamp": "22:00",
         "source": "automated",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
+          "impact": 0.5,
+          "engagement": 0.7999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.52
+          "composite": 0.51
         }
       },
       {
         "title": "HHS Gave a $1.6 Million Grant to a Controversial Vaccine Study. These Emails Show How That Happened",
         "url": "https://www.rollingstone.com/politics/politics-news/danish-vaccine-study-emails-hhs-rfk-jr-1235498456/",
         "timestamp": "21:15",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.7999999999999999,
@@ -102,9 +89,9 @@
     ],
     "wildcard": [
       {
-        "title": "DTCC &#39;NOT BUILDING WALLED GARDENS&#39; FOR TOKENIZATION, SAYS DIGITAL ASSETS HEAD",
-        "url": "https://decrypt.co/354791/dtcc-walled-gardens-tokenization-digital-assets-head",
-        "timestamp": "2026-01-16T21:25:39.448Z",
+        "title": "MEGYN KELLY FLAMES MELISSA GILBERT FOR POSTING HER LIFESTYLE BRAND AMID TIMOTHY BUSFIELD CHARGES: 'HEAL THYSELF, PREACHER' &#124; VIDEO",
+        "url": "https://www.thewrap.com/culture-lifestyle/culture/megyn-kelly-melissa-gilbert-lifestyle-brand-timothy-busfield-charges/",
+        "timestamp": "2026-01-16T22:25:26.691Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -118,9 +105,9 @@
   },
   "stories": [
     {
-      "title": "DTCC &#39;NOT BUILDING WALLED GARDENS&#39; FOR TOKENIZATION, SAYS DIGITAL ASSETS HEAD",
-      "url": "https://decrypt.co/354791/dtcc-walled-gardens-tokenization-digital-assets-head",
-      "timestamp": "2026-01-16T21:25:39.448Z",
+      "title": "MEGYN KELLY FLAMES MELISSA GILBERT FOR POSTING HER LIFESTYLE BRAND AMID TIMOTHY BUSFIELD CHARGES: 'HEAL THYSELF, PREACHER' &#124; VIDEO",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/megyn-kelly-melissa-gilbert-lifestyle-brand-timothy-busfield-charges/",
+      "timestamp": "2026-01-16T22:25:26.691Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -131,49 +118,36 @@
       }
     },
     {
-      "title": "Billboard Staff’s Greatest Pop Stars of 2025: Comeback Artist of the Year — Clipse",
-      "url": "https://www.billboard.com/music/pop/clipse-greatest-pop-stars-2025-comeback-of-the-year-1236156777/",
-      "timestamp": "20:36",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.52
-      }
-    },
-    {
-      "title": "Black Forest Labs Releases FLUX.2 [klein]: Compact Flow Models for Interactive Visual Intelligence",
-      "url": "https://www.marktechpost.com/2026/01/16/black-forest-labs-releases-flux-2-klein-compact-flow-models-for-interactive-visual-intelligence/",
-      "timestamp": "20:31",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "Morrissey Has Canceled 14 Percent of His Planned 2026 Tour Dates",
-      "url": "https://www.rollingstone.com/music/music-news/morrissey-canceled-tour-dates-2026-1235500792/",
-      "timestamp": "20:26",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.49
-      }
-    },
-    {
-      "title": "A$AP Rocky, Hilary Duff, Charli XCX and All the Songs You Need to Know This Week",
-      "url": "https://www.rollingstone.com/music/music-features/asap-rocky-hilary-duff-charli-xcx-songs-you-need-to-know-1235498966/",
-      "timestamp": "18:43",
+      "title": "Essential Releases, January 16, 2026",
+      "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
+      "timestamp": "15:16",
       "source": "musicReleases",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.49
+      }
+    },
+    {
+      "title": "5 Albums I Can’t Live Without: Ryan Key of Yellowcard",
+      "url": "https://www.spin.com/2026/01/5-albums-i-cant-live-without-ryan-key-of-yellowcard/",
+      "timestamp": "15:00",
+      "source": "musicReleases",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.49
+      }
+    },
+    {
+      "title": "Yellowcard Go Back in Time With Good Charlotte for 'Bedroom Posters'",
+      "url": "https://www.rollingstone.com/music/music-news/yellowcard-good-charlotte-bedroom-posters-1235500517/",
+      "timestamp": "22:03",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.5,
@@ -183,10 +157,23 @@
       }
     },
     {
+      "title": "What's Getting Nominated for Best Animated Short?",
+      "url": "https://www.indiewire.com/features/commentary/oscars-animated-short-nomination-preview-1235173458/",
+      "timestamp": "22:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.7999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.51
+      }
+    },
+    {
       "title": "HHS Gave a $1.6 Million Grant to a Controversial Vaccine Study. These Emails Show How That Happened",
       "url": "https://www.rollingstone.com/politics/politics-news/danish-vaccine-study-emails-hhs-rfk-jr-1235498456/",
       "timestamp": "21:15",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.7999999999999999,
