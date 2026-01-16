@@ -1,53 +1,53 @@
 {
-  "curatedAt": "2026-01-16T15:28:36.772Z",
+  "curatedAt": "2026-01-16T16:34:50.851Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "ESSENTIAL RELEASES, JANUARY 16, 2026",
-      "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
-      "timestamp": "2026-01-16T15:28:33.811Z",
+      "title": "VERTICAL ACQUIRES CONTEMPORARY 'HAMLET' ADAPTATION STARRING RIZ AHMED",
+      "url": "https://deadline.com/2026/01/riz-ahmed-hamlet-movie-release-date-vertical-1236685185/",
+      "timestamp": "2026-01-16T16:34:47.875Z",
       "source": "splash",
       "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
+        "impact": 0.5,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.65
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
       {
-        "title": "ESSENTIAL RELEASES, JANUARY 16, 2026",
-        "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
-        "timestamp": "2026-01-16T15:28:33.811Z",
-        "source": "splash",
+        "title": "The album that sent Donald Fagen into a depression: \"I didn't like what I was doing\"",
+        "url": "https://faroutmagazine.co.uk/the-album-that-sent-donald-fagen-into-a-depression/",
+        "timestamp": "16:13",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
-          "timeliness": 1,
+          "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.65
+          "composite": 0.49
+        }
+      },
+      {
+        "title": "Essential Releases, January 16, 2026",
+        "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
+        "timestamp": "15:16",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.49
         }
       },
       {
         "title": "5 Albums I Can’t Live Without: Ryan Key of Yellowcard",
         "url": "https://www.spin.com/2026/01/5-albums-i-cant-live-without-ryan-key-of-yellowcard/",
         "timestamp": "15:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.49
-        }
-      },
-      {
-        "title": "Spotify to raise its Premium prices in the US by $1 next month",
-        "url": "https://musically.com/2026/01/16/spotify-to-raise-its-premium-prices-in-the-us-by-1-next-month/",
-        "timestamp": "14:34",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
@@ -57,84 +57,96 @@
         }
       }
     ],
-    "discovery": [
-      {
-        "title": "2016 Nostalgia: 16 Films and TV Shows That Debuted a Decade Ago",
-        "url": "https://www.hollywoodreporter.com/lists/2016-movies-tv-shows-premiered-10-year-anniversary/",
-        "timestamp": "15:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.5000000000000001
-        }
-      }
-    ],
+    "discovery": [],
     "conversation": [
       {
-        "title": "2016 Nostalgia: 16 Films and TV Shows That Debuted a Decade Ago",
-        "url": "https://www.hollywoodreporter.com/lists/2016-movies-tv-shows-premiered-10-year-anniversary/",
-        "timestamp": "15:00",
+        "title": "3 best science fiction shows you can stream on Apple TV right now — including the streamer's most-watched series of all time",
+        "url": "https://www.tomsguide.com/entertainment/apple-tv/3-best-science-fiction-shows-you-can-stream-on-apple-tv-right-now-including-the-streamers-most-watched-series-of-all-time",
+        "timestamp": "16:11",
         "source": "automated",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
+          "impact": 0.4,
+          "engagement": 1,
           "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.5000000000000001
+          "discovery": 0.3,
+          "composite": 0.53
         }
       },
       {
-        "title": "Transmedia IP Studio the Orangery, Behind Hit Graphic Novel Series 'Traveling to Mars' and 'Sweet Paprika,' Signs With WME (EXCLUSIVE)",
-        "url": "https://variety.com/2026/digital/global/the-orangery-ip-studio-sweet-paprika-wme-1236632948/",
-        "timestamp": "14:40",
+        "title": "3 new to Prime Video shows to binge-watch this weekend (Jan. 16-18)",
+        "url": "https://www.tomsguide.com/entertainment/prime-video/3-new-to-prime-video-shows-to-binge-watch-this-weekend-jan-16-18",
+        "timestamp": "15:23",
         "source": "automated",
         "scores": {
-          "impact": 0.55,
-          "engagement": 0.65,
+          "impact": 0.5,
+          "engagement": 0.7999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.4850000000000001
+          "composite": 0.51
         }
       }
     ],
     "wildcard": [
       {
-        "title": "ESSENTIAL RELEASES, JANUARY 16, 2026",
-        "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
-        "timestamp": "2026-01-16T15:28:33.811Z",
+        "title": "VERTICAL ACQUIRES CONTEMPORARY 'HAMLET' ADAPTATION STARRING RIZ AHMED",
+        "url": "https://deadline.com/2026/01/riz-ahmed-hamlet-movie-release-date-vertical-1236685185/",
+        "timestamp": "2026-01-16T16:34:47.875Z",
         "source": "splash",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
+          "impact": 0.5,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.65
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "ESSENTIAL RELEASES, JANUARY 16, 2026",
-      "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
-      "timestamp": "2026-01-16T15:28:33.811Z",
+      "title": "VERTICAL ACQUIRES CONTEMPORARY 'HAMLET' ADAPTATION STARRING RIZ AHMED",
+      "url": "https://deadline.com/2026/01/riz-ahmed-hamlet-movie-release-date-vertical-1236685185/",
+      "timestamp": "2026-01-16T16:34:47.875Z",
       "source": "splash",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.5,
+        "timeliness": 1,
+        "discovery": 0.3,
+        "composite": 0.5800000000000001
+      }
+    },
+    {
+      "title": "The album that sent Donald Fagen into a depression: \"I didn't like what I was doing\"",
+      "url": "https://faroutmagazine.co.uk/the-album-that-sent-donald-fagen-into-a-depression/",
+      "timestamp": "16:13",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
-        "timeliness": 1,
+        "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.65
+        "composite": 0.49
+      }
+    },
+    {
+      "title": "Essential Releases, January 16, 2026",
+      "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
+      "timestamp": "15:16",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.49
       }
     },
     {
       "title": "5 Albums I Can’t Live Without: Ryan Key of Yellowcard",
       "url": "https://www.spin.com/2026/01/5-albums-i-cant-live-without-ryan-key-of-yellowcard/",
       "timestamp": "15:00",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
@@ -144,42 +156,29 @@
       }
     },
     {
-      "title": "Spotify to raise its Premium prices in the US by $1 next month",
-      "url": "https://musically.com/2026/01/16/spotify-to-raise-its-premium-prices-in-the-us-by-1-next-month/",
-      "timestamp": "14:34",
+      "title": "3 best science fiction shows you can stream on Apple TV right now — including the streamer's most-watched series of all time",
+      "url": "https://www.tomsguide.com/entertainment/apple-tv/3-best-science-fiction-shows-you-can-stream-on-apple-tv-right-now-including-the-streamers-most-watched-series-of-all-time",
+      "timestamp": "16:11",
       "source": "automated",
       "scores": {
-        "impact": 0.6,
-        "engagement": 0.6,
+        "impact": 0.4,
+        "engagement": 1,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.49
+        "composite": 0.53
       }
     },
     {
-      "title": "2016 Nostalgia: 16 Films and TV Shows That Debuted a Decade Ago",
-      "url": "https://www.hollywoodreporter.com/lists/2016-movies-tv-shows-premiered-10-year-anniversary/",
-      "timestamp": "15:00",
+      "title": "3 new to Prime Video shows to binge-watch this weekend (Jan. 16-18)",
+      "url": "https://www.tomsguide.com/entertainment/prime-video/3-new-to-prime-video-shows-to-binge-watch-this-weekend-jan-16-18",
+      "timestamp": "15:23",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.5000000000000001
-      }
-    },
-    {
-      "title": "Transmedia IP Studio the Orangery, Behind Hit Graphic Novel Series 'Traveling to Mars' and 'Sweet Paprika,' Signs With WME (EXCLUSIVE)",
-      "url": "https://variety.com/2026/digital/global/the-orangery-ip-studio-sweet-paprika-wme-1236632948/",
-      "timestamp": "14:40",
-      "source": "automated",
-      "scores": {
-        "impact": 0.55,
-        "engagement": 0.65,
+        "engagement": 0.7999999999999999,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.4850000000000001
+        "composite": 0.51
       }
     }
   ],
