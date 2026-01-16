@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-16T12:53:20.245Z",
+  "curatedAt": "2026-01-16T13:40:11.631Z",
   "totalAnalyzed": 66,
-  "totalSelected": 7,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "SMART PLUG GUIDE (2026): WHEN YOU SHOULD AND SHOULDN’T USE ONE",
-      "url": "https://www.wired.com/story/do-you-need-a-smart-plug/",
-      "timestamp": "2026-01-16T12:53:17.303Z",
+      "title": "HERE’S WHAT HAPPENED IN CRYPTO TODAY",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "2026-01-16T13:40:08.618Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -31,29 +31,29 @@
         }
       },
       {
-        "title": "DJI Action 6 Review: The Best Action Camera Is Now Better",
-        "url": "https://www.wired.com/review/dji-action-6/",
-        "timestamp": "12:00",
+        "title": "Up the Hill: Billboard Crossword (Jan. 16, 2026)",
+        "url": "https://www.billboard.com/culture/lifestyle/up-hill-billboard-crossword-jan-16-2026-1236156101/",
+        "timestamp": "13:00",
         "source": "automated",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.5000000000000001
-        }
-      },
-      {
-        "title": "Angel to Embark on 2026-2027 Farewell Tour",
-        "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
-        "timestamp": "17:54",
-        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
           "timeliness": 0.2,
           "discovery": 0.3,
           "composite": 0.49
+        }
+      },
+      {
+        "title": "A$AP Rocky's New Album, 'Don't Be Dumb,' Is Here",
+        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-release-1235500476/",
+        "timestamp": "08:13",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.55,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.4750000000000001
         }
       }
     ],
@@ -62,7 +62,7 @@
         "title": "Oscar Isaac's favourite heavy metal album: \"Metal meets Gregorian chants\"",
         "url": "https://faroutmagazine.co.uk/oscar-isaacs-favourite-heavy-metal-album/",
         "timestamp": "12:30",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.7,
           "engagement": 0.5,
@@ -87,24 +87,24 @@
         }
       },
       {
-        "title": "Your weekend binge list: 10 new shows and movies to stream on Netflix, Hulu and more (Jan. 16-18)",
-        "url": "https://www.tomsguide.com/entertainment/streaming/your-weekend-binge-list-10-new-shows-and-movies-to-stream-on-netflix-hulu-and-more-jan-16-18",
-        "timestamp": "12:00",
-        "source": "automated",
+        "title": "A$AP Rocky's Long-Awaited New Album 'Don't Be Dumb' Featuring Tyler, The Creator & Doechii Is Finally&#160;Here",
+        "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-new-album-stream-1236155865/",
+        "timestamp": "05:04",
+        "source": "musicReleases",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
+          "impact": 0.6,
+          "engagement": 0.65,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.51
+          "composite": 0.505
         }
       }
     ],
     "wildcard": [
       {
-        "title": "SMART PLUG GUIDE (2026): WHEN YOU SHOULD AND SHOULDN’T USE ONE",
-        "url": "https://www.wired.com/story/do-you-need-a-smart-plug/",
-        "timestamp": "2026-01-16T12:53:17.303Z",
+        "title": "HERE’S WHAT HAPPENED IN CRYPTO TODAY",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "2026-01-16T13:40:08.618Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -118,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "SMART PLUG GUIDE (2026): WHEN YOU SHOULD AND SHOULDN’T USE ONE",
-      "url": "https://www.wired.com/story/do-you-need-a-smart-plug/",
-      "timestamp": "2026-01-16T12:53:17.303Z",
+      "title": "HERE’S WHAT HAPPENED IN CRYPTO TODAY",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "2026-01-16T13:40:08.618Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -144,23 +144,10 @@
       }
     },
     {
-      "title": "DJI Action 6 Review: The Best Action Camera Is Now Better",
-      "url": "https://www.wired.com/review/dji-action-6/",
-      "timestamp": "12:00",
+      "title": "Up the Hill: Billboard Crossword (Jan. 16, 2026)",
+      "url": "https://www.billboard.com/culture/lifestyle/up-hill-billboard-crossword-jan-16-2026-1236156101/",
+      "timestamp": "13:00",
       "source": "automated",
-      "scores": {
-        "impact": 0.55,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.5000000000000001
-      }
-    },
-    {
-      "title": "Angel to Embark on 2026-2027 Farewell Tour",
-      "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
-      "timestamp": "17:54",
-      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
@@ -170,10 +157,23 @@
       }
     },
     {
+      "title": "A$AP Rocky's New Album, 'Don't Be Dumb,' Is Here",
+      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-release-1235500476/",
+      "timestamp": "08:13",
+      "source": "musicReleases",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.55,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.4750000000000001
+      }
+    },
+    {
       "title": "Oscar Isaac's favourite heavy metal album: \"Metal meets Gregorian chants\"",
       "url": "https://faroutmagazine.co.uk/oscar-isaacs-favourite-heavy-metal-album/",
       "timestamp": "12:30",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.7,
         "engagement": 0.5,
@@ -186,19 +186,6 @@
       "title": "What will give you the marketing edge in 2026?",
       "url": "https://musically.com/2026/01/16/what-will-give-you-the-marketing-edge-in-2026/",
       "timestamp": "12:09",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.7999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.51
-      }
-    },
-    {
-      "title": "Your weekend binge list: 10 new shows and movies to stream on Netflix, Hulu and more (Jan. 16-18)",
-      "url": "https://www.tomsguide.com/entertainment/streaming/your-weekend-binge-list-10-new-shows-and-movies-to-stream-on-netflix-hulu-and-more-jan-16-18",
-      "timestamp": "12:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,

@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "SMART PLUG GUIDE (2026): WHEN YOU SHOULD AND SHOULDN’T USE ONE",
-    "url": "https://www.wired.com/story/do-you-need-a-smart-plug/",
+    "headline": "HERE’S WHAT HAPPENED IN CRYPTO TODAY",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Jefferies’ ‘Greed & Fear’ strategist cuts Bitcoin allocation to zero on quantum risk",
-      "url": "https://cointelegraph.com/news/efferies-greed-fear-strategist-cuts-bitcoin-allocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "12:35",
+      "title": "John Mellencamp Recalls Being 'Totally Humiliated' at Rock Hall",
+      "url": "https://ultimateclassicrock.com/john-mellencamp-rock-hall-of-fame/",
+      "timestamp": "13:18",
       "pinned": false
     },
     {
-      "title": "10K Audio updates Gyro with User Samples and MIDI Out in v1.1 update",
-      "url": "https://rekkerd.org/10k-audio-updates-gyro-with-user-samples-and-midi-out-in-v1-1-update/",
-      "timestamp": "12:33",
+      "title": "Nord Electro 7: New Synth Engine, new Organs & More!",
+      "url": "https://www.gearnews.com/nord-electro-7-keyboard/",
+      "timestamp": "13:14",
       "pinned": false
     },
     {
-      "title": "Artemis: Crypto Cards Grew to Rival P2P Stablecoin Payments",
-      "url": "https://news.bitcoin.com/artemis-crypto-cards-grew-to-rival-p2p-stablecoin-payments/",
-      "timestamp": "12:30",
+      "title": "One of our favorite budgeting apps is only $50 for the year for new users",
+      "url": "https://www.engadget.com/apps/one-of-our-favorite-budgeting-apps-is-only-50-for-the-year-for-new-users-204507183.html?src=rss",
+      "timestamp": "13:13",
       "pinned": false
     },
     {
-      "title": "Oscar Isaac's favourite heavy metal album: \"Metal meets Gregorian chants\"",
-      "url": "https://faroutmagazine.co.uk/oscar-isaacs-favourite-heavy-metal-album/",
-      "timestamp": "12:30",
+      "title": "ASUS changes mind, will continue selling the RTX 5070 Ti after all",
+      "url": "https://www.engadget.com/computing/accessories/asus-changes-mind-will-continue-selling-the-rtx-5070-ti-after-all-130934271.html?src=rss",
+      "timestamp": "13:09",
       "pinned": false
     },
     {
-      "title": "How Jack O'Connell Became Hollywood's Favorite Bad Guy",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/jack-o-connell-sinners-28-years-bone-temple-jimmy-interview-1236472152/",
-      "timestamp": "12:30",
+      "title": "Pamela Anderson wants Seth Rogen to apologise for his role in 'Pam and Tommy'",
+      "url": "https://faroutmagazine.co.uk/pamela-anderson-wants-seth-rogen-to-apologise-role-pam-and-tommy/",
+      "timestamp": "13:09",
       "pinned": false
     }
   ],
@@ -104,6 +104,114 @@
     }
   ],
   "automated": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "13:20",
+      "pubDate": "2026-01-16T13:20:03.000Z"
+    },
+    {
+      "title": "John Mellencamp Recalls Being 'Totally Humiliated' at Rock Hall",
+      "url": "https://ultimateclassicrock.com/john-mellencamp-rock-hall-of-fame/",
+      "timestamp": "13:18",
+      "pubDate": "2026-01-16T13:18:42.000Z"
+    },
+    {
+      "title": "Nord Electro 7: New Synth Engine, new Organs & More!",
+      "url": "https://www.gearnews.com/nord-electro-7-keyboard/",
+      "timestamp": "13:14",
+      "pubDate": "2026-01-16T13:14:44.000Z"
+    },
+    {
+      "title": "One of our favorite budgeting apps is only $50 for the year for new users",
+      "url": "https://www.engadget.com/apps/one-of-our-favorite-budgeting-apps-is-only-50-for-the-year-for-new-users-204507183.html?src=rss",
+      "timestamp": "13:13",
+      "pubDate": "2026-01-16T13:13:18.000Z"
+    },
+    {
+      "title": "ASUS changes mind, will continue selling the RTX 5070 Ti after all",
+      "url": "https://www.engadget.com/computing/accessories/asus-changes-mind-will-continue-selling-the-rtx-5070-ti-after-all-130934271.html?src=rss",
+      "timestamp": "13:09",
+      "pubDate": "2026-01-16T13:09:34.000Z"
+    },
+    {
+      "title": "Pamela Anderson wants Seth Rogen to apologise for his role in 'Pam and Tommy'",
+      "url": "https://faroutmagazine.co.uk/pamela-anderson-wants-seth-rogen-to-apologise-role-pam-and-tommy/",
+      "timestamp": "13:09",
+      "pubDate": "2026-01-16T13:09:06.000Z"
+    },
+    {
+      "title": "Vice Media Bolsters C-Suite in Bid to Remake Itself as a Production Player",
+      "url": "https://www.hollywoodreporter.com/business/business-news/vice-media-joe-friedman-devak-shah-cfo-strategy-1236474815/",
+      "timestamp": "13:05",
+      "pubDate": "2026-01-16T13:05:00.000Z"
+    },
+    {
+      "title": "IV. FastAPI — The Three-Layer Architecture Pattern",
+      "url": "https://pub.towardsai.net/iv-fastapi-the-three-layer-architecture-pattern-09cc78d833da?source=rss----98111c9905da---4",
+      "timestamp": "13:02",
+      "pubDate": "2026-01-16T13:02:41.000Z"
+    },
+    {
+      "title": "Mitski Will Channel 'Grey Gardens' and 'Hill House' on Her Next Album, 'Nothing's About to Happen to Me'",
+      "url": "https://www.rollingstone.com/music/music-news/mitski-new-music-nothings-about-to-happen-to-me-1235499986/",
+      "timestamp": "13:00",
+      "pubDate": "2026-01-16T13:00:00.000Z"
+    },
+    {
+      "title": "The song Billy Joel originally wrote in the persona of Mick Jagger",
+      "url": "https://faroutmagazine.co.uk/song-billy-joel-wrote-persona-mick-jagger/",
+      "timestamp": "13:00",
+      "pubDate": "2026-01-16T13:00:00.000Z"
+    },
+    {
+      "title": "9 Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming",
+      "url": "https://www.wired.com/gallery/best-wifi-routers/",
+      "timestamp": "13:00",
+      "pubDate": "2026-01-16T13:00:00.000Z"
+    },
+    {
+      "title": "TikTok tightens age verification across Europe",
+      "url": "https://www.engadget.com/social-media/tiktok-tightens-age-verification-across-europe-130000847.html?src=rss",
+      "timestamp": "13:00",
+      "pubDate": "2026-01-16T13:00:00.000Z"
+    },
+    {
+      "title": "Up the Hill: Billboard Crossword (Jan. 16, 2026)",
+      "url": "https://www.billboard.com/culture/lifestyle/up-hill-billboard-crossword-jan-16-2026-1236156101/",
+      "timestamp": "13:00",
+      "pubDate": "2026-01-16T13:00:00.000Z"
+    },
+    {
+      "title": "The Download: cut through AI coding hype, and biotech trends to watch",
+      "url": "https://www.technologyreview.com/2026/01/16/1131375/the-download-ai-coding-hype-and-biotech-trends-to-watch/",
+      "timestamp": "12:59",
+      "pubDate": "2026-01-16T12:59:42.000Z"
+    },
+    {
+      "title": "'Marty Supreme' almost ended with Timothée Chalamet turning into a vampire, reveals Josh Safdie",
+      "url": "https://www.nme.com/news/film/marty-supreme-almost-ended-timothee-chalamet-turning-vampire-3923658?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=marty-supreme-almost-ended-timothee-chalamet-turning-vampire",
+      "timestamp": "12:59",
+      "pubDate": "2026-01-16T12:59:23.000Z"
+    },
+    {
+      "title": "Will there be a season three of 'Landman'?",
+      "url": "https://www.nme.com/news/tv/will-there-be-a-season-three-of-landman-3923673?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=will-there-be-a-season-three-of-landman",
+      "timestamp": "12:56",
+      "pubDate": "2026-01-16T12:56:48.000Z"
+    },
+    {
+      "title": "Here’s Why Bitcoin is a Better Scarce Asset Than Gold: Ark Invest&#39;s Cathie Wood",
+      "url": "https://decrypt.co/354873/heres-why-bitcoin-is-a-better-scarce-asset-than-gold-ark-invests-cathie-wood",
+      "timestamp": "12:54",
+      "pubDate": "2026-01-16T12:54:13.000Z"
+    },
+    {
+      "title": "'That's not going to last': Jeff Bezos believes AI will force you to rent your PC from the cloud, and the RAM crisis is accelerating it",
+      "url": "https://www.tomsguide.com/computing/thats-not-going-to-last-jeff-bezos-believes-ai-will-force-you-to-rent-your-pc-from-the-cloud-and-the-ram-crisis-is-accelerating-it",
+      "timestamp": "12:50",
+      "pubDate": "2026-01-16T12:50:35.000Z"
+    },
     {
       "title": "Smart Plug Guide (2026): When You Should and Shouldn’t Use One",
       "url": "https://www.wired.com/story/do-you-need-a-smart-plug/",
@@ -235,117 +343,39 @@
       "url": "https://hackaday.com/2026/01/16/wch-ch32m030-another-microcontroller-to-watch-out-for/",
       "timestamp": "12:00",
       "pubDate": "2026-01-16T12:00:53.000Z"
-    },
-    {
-      "title": "London Film Critics’ Circle To Fete Guillermo Del Toro",
-      "url": "https://deadline.com/2026/01/london-film-critics-circle-guillermo-del-toro-2026-1236684979/",
-      "timestamp": "12:00",
-      "pubDate": "2026-01-16T12:00:00.000Z"
-    },
-    {
-      "title": "How Does the Hive Mind Work in ‘Pluribus?",
-      "url": "https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/",
-      "timestamp": "12:00",
-      "pubDate": "2026-01-16T12:00:00.000Z"
-    },
-    {
-      "title": "DJI Action 6 Review: The Best Action Camera Is Now Better",
-      "url": "https://www.wired.com/review/dji-action-6/",
-      "timestamp": "12:00",
-      "pubDate": "2026-01-16T12:00:00.000Z"
-    },
-    {
-      "title": "Your weekend binge list: 10 new shows and movies to stream on Netflix, Hulu and more (Jan. 16-18)",
-      "url": "https://www.tomsguide.com/entertainment/streaming/your-weekend-binge-list-10-new-shows-and-movies-to-stream-on-netflix-hulu-and-more-jan-16-18",
-      "timestamp": "12:00",
-      "pubDate": "2026-01-16T12:00:00.000Z"
-    },
-    {
-      "title": "How the most creative people are using AI to reach new levels",
-      "url": "https://www.fastcompany.com/91472893/ai-creativity?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
-      "timestamp": "12:00",
-      "pubDate": "2026-01-16T12:00:00.000Z"
-    },
-    {
-      "title": "How Does the Hive Mind Work in ‘Pluribus?",
-      "url": "https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/",
-      "timestamp": "12:00",
-      "pubDate": "2026-01-16T12:00:00.000Z"
-    },
-    {
-      "title": "Mitski is leaking her phone number to fans",
-      "url": "https://musically.com/2026/01/16/mitski-is-leaking-her-phone-number-to-fans/",
-      "timestamp": "11:57",
-      "pubDate": "2026-01-16T11:57:10.000Z"
-    },
-    {
-      "title": "Baltra – Just Me & U",
-      "url": "https://www.stereofox.com/baltra-just-me-u/",
-      "timestamp": "11:54",
-      "pubDate": "2026-01-16T11:54:26.000Z"
-    },
-    {
-      "title": "iPhone 18 Pro tipped for major upgrades inside and out — here's what's rumored for the next-gen iPhone's cameras, performance and more",
-      "url": "https://www.tomsguide.com/phones/iphones/iphone-18-pro-tipped-for-major-upgrades-inside-and-out-heres-whats-rumored-for-the-next-gen-iphones-cameras-performance-and-more",
-      "timestamp": "11:47",
-      "pubDate": "2026-01-16T11:47:37.000Z"
-    },
-    {
-      "title": "Nvidia insists all RTX 50-series GPUs will ‘continue to ship’ — here’s what that actually means",
-      "url": "https://www.tomsguide.com/computing/gpus/nvidia-insists-all-rtx-50-series-gpus-will-continue-to-ship-heres-what-that-actually-means",
-      "timestamp": "11:38",
-      "pubDate": "2026-01-16T11:38:39.000Z"
-    },
-    {
-      "title": "Brian May explains his issue with The Beatles biopics: \"I would dread it if that happened to Queen\"",
-      "url": "https://faroutmagazine.co.uk/brian-may-issue-the-beatles-biopics-i-would-dread-it-queen/",
-      "timestamp": "11:31",
-      "pubDate": "2026-01-16T11:31:16.000Z"
-    },
-    {
-      "title": "The \"true artist\" Matt Damon called the ultimate \"goal\"",
-      "url": "https://faroutmagazine.co.uk/true-artist-matt-damon-called-the-ultimate-goal/",
-      "timestamp": "11:27",
-      "pubDate": "2026-01-16T11:27:07.000Z"
-    },
-    {
-      "title": "Tributes paid to early Siouxsie And The Banshees drummer Kenny Morris, age 68: \"A kind, delicate, cool and talented soul”",
-      "url": "https://www.nme.com/news/music/tributes-paid-to-siouxsie-and-the-banshees-drummer-kenny-morris-3923625?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tributes-paid-to-siouxsie-and-the-banshees-drummer-kenny-morris",
-      "timestamp": "11:26",
-      "pubDate": "2026-01-16T11:26:27.000Z"
-    },
-    {
-      "title": "75 Years of the Telecaster: Why This Guitar Still Does It All Today",
-      "url": "https://www.gearnews.com/75-years-of-the-telecaster-guitar/",
-      "timestamp": "11:17",
-      "pubDate": "2026-01-16T11:17:41.000Z"
-    },
-    {
-      "title": "3 new to Netflix movies to stream this weekend (Jan. 16-18)",
-      "url": "https://www.tomsguide.com/entertainment/netflix/3-new-to-netflix-movies-to-stream-this-weekend-jan-16-18",
-      "timestamp": "11:09",
-      "pubDate": "2026-01-16T11:09:49.000Z"
-    },
-    {
-      "title": "Book Publishers Seek Entry Into Google AI Copyright Fight",
-      "url": "https://decrypt.co/354846/book-publishers-seek-entry-into-google-ai-copyright-fight",
-      "timestamp": "11:06",
-      "pubDate": "2026-01-16T11:06:42.000Z"
-    },
-    {
-      "title": "Proel Digipad8: A Compact Digital Mixer with Motorized Faders",
-      "url": "https://www.gearnews.com/proel-digipad8-live/",
-      "timestamp": "11:05",
-      "pubDate": "2026-01-16T11:05:26.000Z"
-    },
-    {
-      "title": "Brian May rules Queen out of Glastonbury because they are \"killing badgers\"",
-      "url": "https://faroutmagazine.co.uk/brian-may-rules-queen-out-of-glastonbury-killing-badgers/",
-      "timestamp": "11:04",
-      "pubDate": "2026-01-16T11:04:00.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "John Mellencamp Recalls Being 'Totally Humiliated' at Rock Hall",
+      "url": "https://ultimateclassicrock.com/john-mellencamp-rock-hall-of-fame/",
+      "timestamp": "13:18"
+    },
+    {
+      "title": "Pamela Anderson wants Seth Rogen to apologise for his role in 'Pam and Tommy'",
+      "url": "https://faroutmagazine.co.uk/pamela-anderson-wants-seth-rogen-to-apologise-role-pam-and-tommy/",
+      "timestamp": "13:09"
+    },
+    {
+      "title": "Mitski Will Channel 'Grey Gardens' and 'Hill House' on Her Next Album, 'Nothing's About to Happen to Me'",
+      "url": "https://www.rollingstone.com/music/music-news/mitski-new-music-nothings-about-to-happen-to-me-1235499986/",
+      "timestamp": "13:00"
+    },
+    {
+      "title": "The song Billy Joel originally wrote in the persona of Mick Jagger",
+      "url": "https://faroutmagazine.co.uk/song-billy-joel-wrote-persona-mick-jagger/",
+      "timestamp": "13:00"
+    },
+    {
+      "title": "Up the Hill: Billboard Crossword (Jan. 16, 2026)",
+      "url": "https://www.billboard.com/culture/lifestyle/up-hill-billboard-crossword-jan-16-2026-1236156101/",
+      "timestamp": "13:00"
+    },
+    {
+      "title": "'Marty Supreme' almost ended with Timothée Chalamet turning into a vampire, reveals Josh Safdie",
+      "url": "https://www.nme.com/news/film/marty-supreme-almost-ended-timothee-chalamet-turning-vampire-3923658?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=marty-supreme-almost-ended-timothee-chalamet-turning-vampire",
+      "timestamp": "12:59"
+    },
     {
       "title": "Oscar Isaac's favourite heavy metal album: \"Metal meets Gregorian chants\"",
       "url": "https://faroutmagazine.co.uk/oscar-isaacs-favourite-heavy-metal-album/",
@@ -355,11 +385,6 @@
       "title": "Foo Fighters celebrate Dave Grohl's birthday with famous friends and 16,000 fans at benefit show",
       "url": "https://www.nme.com/news/music/foo-fighters-celebrate-dave-grohls-birthday-with-famous-friends-and-16000-fans-at-benefit-show-3923645?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-celebrate-dave-grohls-birthday-with-famous-friends-and-16000-fans-at-benefit-show",
       "timestamp": "12:29"
-    },
-    {
-      "title": "Track of the week: Mitski returns in a fit of apathetic mania on 'Where's My Phone?'",
-      "url": "https://faroutmagazine.co.uk/track-of-the-week-mitski-returns-wheres-my-phone/",
-      "timestamp": "12:23"
     },
     {
       "title": "Isabelle Eberdean – Brew Boy (Bella Boo Remix)",
@@ -375,11 +400,6 @@
       "title": "Baltra – Just Me & U",
       "url": "https://www.stereofox.com/baltra-just-me-u/",
       "timestamp": "11:54"
-    },
-    {
-      "title": "Brian May explains his issue with The Beatles biopics: \"I would dread it if that happened to Queen\"",
-      "url": "https://faroutmagazine.co.uk/brian-may-issue-the-beatles-biopics-i-would-dread-it-queen/",
-      "timestamp": "11:31"
     },
     {
       "title": "Tributes paid to early Siouxsie And The Banshees drummer Kenny Morris, age 68: \"A kind, delicate, cool and talented soul”",
@@ -422,30 +442,10 @@
       "timestamp": "05:02"
     },
     {
-      "title": "Hilary Duff's New Single Is About 'When Life Is Life-ing, Babe'",
-      "url": "https://www.rollingstone.com/music/music-news/hilary-duff-single-roommates-video-1235496722/",
-      "timestamp": "00:05"
-    },
-    {
       "title": "Robbie Williams: Britpop review | Alexis Petridis's album of the week",
       "url": "https://www.theguardian.com/music/2026/jan/16/robbie-williams-britpop-review",
       "timestamp": "00:01"
-    },
-    {
-      "title": "Iam6teen – Escapism",
-      "url": "https://www.stereofox.com/iam6teen-escapism/",
-      "timestamp": "20:45"
-    },
-    {
-      "title": "Marty Supreme Originally Ended With Him Turning Into A Vampire At A Tears For Fears Concert",
-      "url": "https://stereogum.com/2485574/marty-supreme-vampire-ending-tears-for-fears/news/",
-      "timestamp": "20:21"
-    },
-    {
-      "title": "Angel to Embark on 2026-2027 Farewell Tour",
-      "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
-      "timestamp": "17:54"
     }
   ],
-  "lastUpdated": "2026-01-16T12:53:17.303Z"
+  "lastUpdated": "2026-01-16T13:40:08.618Z"
 }
