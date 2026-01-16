@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-16T20:26:16.588Z",
+  "curatedAt": "2026-01-16T21:25:42.369Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "BULLS EXHAUSTED? BITCOIN MOMENTUM FADES AS ETF BUYING FRENZY SLOWS",
-      "url": "https://news.bitcoin.com/bulls-exhausted-bitcoin-momentum-fades-as-etf-buying-frenzy-slows/",
-      "timestamp": "2026-01-16T20:26:13.579Z",
+      "title": "DTCC &#39;NOT BUILDING WALLED GARDENS&#39; FOR TOKENIZATION, SAYS DIGITAL ASSETS HEAD",
+      "url": "https://decrypt.co/354791/dtcc-walled-gardens-tokenization-digital-assets-head",
+      "timestamp": "2026-01-16T21:25:39.448Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -18,42 +18,42 @@
     },
     "deepDive": [
       {
-        "title": "Who has the most consecutive Oscar nominations for 'Best Picture'?",
-        "url": "https://faroutmagazine.co.uk/most-consecutive-oscar-nominations-for-best-picture/",
-        "timestamp": "19:45",
+        "title": "Billboard Staff’s Greatest Pop Stars of 2025: Comeback Artist of the Year — Clipse",
+        "url": "https://www.billboard.com/music/pop/clipse-greatest-pop-stars-2025-comeback-of-the-year-1236156777/",
+        "timestamp": "20:36",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.7999999999999999,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.55
+          "composite": 0.52
         }
       },
       {
-        "title": "Arcángel's Sober Album 'La 8va Maravilla' & More Best New Music&#160;Latin",
-        "url": "https://www.billboard.com/music/latin/best-new-music-latin-arcangel-album-more-releases-1236156330/",
-        "timestamp": "18:50",
-        "source": "musicReleases",
+        "title": "Black Forest Labs Releases FLUX.2 [klein]: Compact Flow Models for Interactive Visual Intelligence",
+        "url": "https://www.marktechpost.com/2026/01/16/black-forest-labs-releases-flux-2-klein-compact-flow-models-for-interactive-visual-intelligence/",
+        "timestamp": "20:31",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.75,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.535
-        }
-      },
-      {
-        "title": "Happy Birthday, Dolly! Here’s Every Parton Album That Has Topped a Billboard Chart, Including a Few&#160;Surprises",
-        "url": "https://www.billboard.com/lists/dolly-parton-album-charts-topped-birthday/",
-        "timestamp": "18:55",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.7,
           "engagement": 0.6,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.53
+          "composite": 0.49
+        }
+      },
+      {
+        "title": "Morrissey Has Canceled 14 Percent of His Planned 2026 Tour Dates",
+        "url": "https://www.rollingstone.com/music/music-news/morrissey-canceled-tour-dates-2026-1235500792/",
+        "timestamp": "20:26",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.49
         }
       }
     ],
@@ -74,37 +74,37 @@
     ],
     "conversation": [
       {
-        "title": "Who has the most consecutive Oscar nominations for 'Best Picture'?",
-        "url": "https://faroutmagazine.co.uk/most-consecutive-oscar-nominations-for-best-picture/",
-        "timestamp": "19:45",
+        "title": "Billboard Staff’s Greatest Pop Stars of 2025: Comeback Artist of the Year — Clipse",
+        "url": "https://www.billboard.com/music/pop/clipse-greatest-pop-stars-2025-comeback-of-the-year-1236156777/",
+        "timestamp": "20:36",
         "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.7999999999999999,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.55
+          "composite": 0.52
         }
       },
       {
-        "title": "Arcángel's Sober Album 'La 8va Maravilla' & More Best New Music&#160;Latin",
-        "url": "https://www.billboard.com/music/latin/best-new-music-latin-arcangel-album-more-releases-1236156330/",
-        "timestamp": "18:50",
-        "source": "musicReleases",
+        "title": "HHS Gave a $1.6 Million Grant to a Controversial Vaccine Study. These Emails Show How That Happened",
+        "url": "https://www.rollingstone.com/politics/politics-news/danish-vaccine-study-emails-hhs-rfk-jr-1235498456/",
+        "timestamp": "21:15",
+        "source": "mainColumn",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.75,
+          "impact": 0.5,
+          "engagement": 0.7999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.535
+          "composite": 0.51
         }
       }
     ],
     "wildcard": [
       {
-        "title": "BULLS EXHAUSTED? BITCOIN MOMENTUM FADES AS ETF BUYING FRENZY SLOWS",
-        "url": "https://news.bitcoin.com/bulls-exhausted-bitcoin-momentum-fades-as-etf-buying-frenzy-slows/",
-        "timestamp": "2026-01-16T20:26:13.579Z",
+        "title": "DTCC &#39;NOT BUILDING WALLED GARDENS&#39; FOR TOKENIZATION, SAYS DIGITAL ASSETS HEAD",
+        "url": "https://decrypt.co/354791/dtcc-walled-gardens-tokenization-digital-assets-head",
+        "timestamp": "2026-01-16T21:25:39.448Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -118,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "BULLS EXHAUSTED? BITCOIN MOMENTUM FADES AS ETF BUYING FRENZY SLOWS",
-      "url": "https://news.bitcoin.com/bulls-exhausted-bitcoin-momentum-fades-as-etf-buying-frenzy-slows/",
-      "timestamp": "2026-01-16T20:26:13.579Z",
+      "title": "DTCC &#39;NOT BUILDING WALLED GARDENS&#39; FOR TOKENIZATION, SAYS DIGITAL ASSETS HEAD",
+      "url": "https://decrypt.co/354791/dtcc-walled-gardens-tokenization-digital-assets-head",
+      "timestamp": "2026-01-16T21:25:39.448Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -131,42 +131,42 @@
       }
     },
     {
-      "title": "Who has the most consecutive Oscar nominations for 'Best Picture'?",
-      "url": "https://faroutmagazine.co.uk/most-consecutive-oscar-nominations-for-best-picture/",
-      "timestamp": "19:45",
+      "title": "Billboard Staff’s Greatest Pop Stars of 2025: Comeback Artist of the Year — Clipse",
+      "url": "https://www.billboard.com/music/pop/clipse-greatest-pop-stars-2025-comeback-of-the-year-1236156777/",
+      "timestamp": "20:36",
       "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.7999999999999999,
+        "engagement": 0.7,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.55
+        "composite": 0.52
       }
     },
     {
-      "title": "Arcángel's Sober Album 'La 8va Maravilla' & More Best New Music&#160;Latin",
-      "url": "https://www.billboard.com/music/latin/best-new-music-latin-arcangel-album-more-releases-1236156330/",
-      "timestamp": "18:50",
-      "source": "musicReleases",
+      "title": "Black Forest Labs Releases FLUX.2 [klein]: Compact Flow Models for Interactive Visual Intelligence",
+      "url": "https://www.marktechpost.com/2026/01/16/black-forest-labs-releases-flux-2-klein-compact-flow-models-for-interactive-visual-intelligence/",
+      "timestamp": "20:31",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.75,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.535
-      }
-    },
-    {
-      "title": "Happy Birthday, Dolly! Here’s Every Parton Album That Has Topped a Billboard Chart, Including a Few&#160;Surprises",
-      "url": "https://www.billboard.com/lists/dolly-parton-album-charts-topped-birthday/",
-      "timestamp": "18:55",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.7,
         "engagement": 0.6,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.53
+        "composite": 0.49
+      }
+    },
+    {
+      "title": "Morrissey Has Canceled 14 Percent of His Planned 2026 Tour Dates",
+      "url": "https://www.rollingstone.com/music/music-news/morrissey-canceled-tour-dates-2026-1235500792/",
+      "timestamp": "20:26",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.6,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.49
       }
     },
     {
@@ -180,6 +180,19 @@
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.44
+      }
+    },
+    {
+      "title": "HHS Gave a $1.6 Million Grant to a Controversial Vaccine Study. These Emails Show How That Happened",
+      "url": "https://www.rollingstone.com/politics/politics-news/danish-vaccine-study-emails-hhs-rfk-jr-1235498456/",
+      "timestamp": "21:15",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.7999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.51
       }
     }
   ],
