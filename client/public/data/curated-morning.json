@@ -1,26 +1,39 @@
 {
-  "curatedAt": "2026-01-16T14:28:12.527Z",
+  "curatedAt": "2026-01-16T15:28:36.772Z",
   "totalAnalyzed": 66,
-  "totalSelected": 7,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "THE RISE OF 'MICRO' APPS: NON-DEVELOPERS ARE WRITING APPS INSTEAD OF BUYING THEM",
-      "url": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
-      "timestamp": "2026-01-16T14:28:09.628Z",
+      "title": "ESSENTIAL RELEASES, JANUARY 16, 2026",
+      "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
+      "timestamp": "2026-01-16T15:28:33.811Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
+        "impact": 0.6,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.65
       }
     },
     "deepDive": [
       {
-        "title": "Blake Shelton, Alabama & Luke Bryan Join the Late Dan Seals on 'The Last Duet' Album: Full Track&#160;List",
-        "url": "https://www.billboard.com/music/country/dan-seals-last-duet-album-track-list-blake-shelton-alabama-1236156134/",
-        "timestamp": "14:00",
+        "title": "ESSENTIAL RELEASES, JANUARY 16, 2026",
+        "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
+        "timestamp": "2026-01-16T15:28:33.811Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.6,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.65
+        }
+      },
+      {
+        "title": "5 Albums I Can’t Live Without: Ryan Key of Yellowcard",
+        "url": "https://www.spin.com/2026/01/5-albums-i-cant-live-without-ryan-key-of-yellowcard/",
+        "timestamp": "15:00",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -31,9 +44,9 @@
         }
       },
       {
-        "title": "Up the Hill: Billboard Crossword (Jan. 16, 2026)",
-        "url": "https://www.billboard.com/culture/lifestyle/up-hill-billboard-crossword-jan-16-2026-1236156101/",
-        "timestamp": "13:00",
+        "title": "Spotify to raise its Premium prices in the US by $1 next month",
+        "url": "https://musically.com/2026/01/16/spotify-to-raise-its-premium-prices-in-the-us-by-1-next-month/",
+        "timestamp": "14:34",
         "source": "automated",
         "scores": {
           "impact": 0.6,
@@ -41,99 +54,86 @@
           "timeliness": 0.2,
           "discovery": 0.3,
           "composite": 0.49
-        }
-      },
-      {
-        "title": "A$AP Rocky's New Album, 'Don't Be Dumb,' Is Here",
-        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-release-1235500476/",
-        "timestamp": "08:13",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.55,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.4750000000000001
         }
       }
     ],
     "discovery": [
       {
-        "title": "Meta is closing down its VR meeting rooms as part of its wider cull",
-        "url": "https://www.engadget.com/big-tech/meta-is-closing-down-its-vr-meeting-rooms-as-part-of-its-wider-cull-140000422.html?src=rss",
-        "timestamp": "14:00",
+        "title": "2016 Nostalgia: 16 Films and TV Shows That Debuted a Decade Ago",
+        "url": "https://www.hollywoodreporter.com/lists/2016-movies-tv-shows-premiered-10-year-anniversary/",
+        "timestamp": "15:00",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.7,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.44
+          "composite": 0.5000000000000001
         }
       }
     ],
     "conversation": [
       {
-        "title": "Ethereum ETF buying outpaces new supply: Will it push ETH price to $4.5K?",
-        "url": "https://cointelegraph.com/news/ethereum-etf-buying-outpaces-new-supply-eth-price-4-5k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "13:58",
+        "title": "2016 Nostalgia: 16 Films and TV Shows That Debuted a Decade Ago",
+        "url": "https://www.hollywoodreporter.com/lists/2016-movies-tv-shows-premiered-10-year-anniversary/",
+        "timestamp": "15:00",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.75,
+          "engagement": 0.7,
           "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.495
+          "discovery": 0.5,
+          "composite": 0.5000000000000001
         }
       },
       {
-        "title": "9 Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming",
-        "url": "https://www.wired.com/gallery/best-wifi-routers/",
-        "timestamp": "13:00",
+        "title": "Transmedia IP Studio the Orangery, Behind Hit Graphic Novel Series 'Traveling to Mars' and 'Sweet Paprika,' Signs With WME (EXCLUSIVE)",
+        "url": "https://variety.com/2026/digital/global/the-orangery-ip-studio-sweet-paprika-wme-1236632948/",
+        "timestamp": "14:40",
         "source": "automated",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.75,
+          "impact": 0.55,
+          "engagement": 0.65,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.495
+          "composite": 0.4850000000000001
         }
       }
     ],
     "wildcard": [
       {
-        "title": "THE RISE OF 'MICRO' APPS: NON-DEVELOPERS ARE WRITING APPS INSTEAD OF BUYING THEM",
-        "url": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
-        "timestamp": "2026-01-16T14:28:09.628Z",
+        "title": "ESSENTIAL RELEASES, JANUARY 16, 2026",
+        "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
+        "timestamp": "2026-01-16T15:28:33.811Z",
         "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.5,
+          "impact": 0.6,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.65
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "THE RISE OF 'MICRO' APPS: NON-DEVELOPERS ARE WRITING APPS INSTEAD OF BUYING THEM",
-      "url": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
-      "timestamp": "2026-01-16T14:28:09.628Z",
+      "title": "ESSENTIAL RELEASES, JANUARY 16, 2026",
+      "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
+      "timestamp": "2026-01-16T15:28:33.811Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.5,
+        "impact": 0.6,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.65
       }
     },
     {
-      "title": "Blake Shelton, Alabama & Luke Bryan Join the Late Dan Seals on 'The Last Duet' Album: Full Track&#160;List",
-      "url": "https://www.billboard.com/music/country/dan-seals-last-duet-album-track-list-blake-shelton-alabama-1236156134/",
-      "timestamp": "14:00",
+      "title": "5 Albums I Can’t Live Without: Ryan Key of Yellowcard",
+      "url": "https://www.spin.com/2026/01/5-albums-i-cant-live-without-ryan-key-of-yellowcard/",
+      "timestamp": "15:00",
       "source": "automated",
       "scores": {
         "impact": 0.6,
@@ -144,9 +144,9 @@
       }
     },
     {
-      "title": "Up the Hill: Billboard Crossword (Jan. 16, 2026)",
-      "url": "https://www.billboard.com/culture/lifestyle/up-hill-billboard-crossword-jan-16-2026-1236156101/",
-      "timestamp": "13:00",
+      "title": "Spotify to raise its Premium prices in the US by $1 next month",
+      "url": "https://musically.com/2026/01/16/spotify-to-raise-its-premium-prices-in-the-us-by-1-next-month/",
+      "timestamp": "14:34",
       "source": "automated",
       "scores": {
         "impact": 0.6,
@@ -157,55 +157,29 @@
       }
     },
     {
-      "title": "A$AP Rocky's New Album, 'Don't Be Dumb,' Is Here",
-      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-release-1235500476/",
-      "timestamp": "08:13",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.55,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.4750000000000001
-      }
-    },
-    {
-      "title": "Meta is closing down its VR meeting rooms as part of its wider cull",
-      "url": "https://www.engadget.com/big-tech/meta-is-closing-down-its-vr-meeting-rooms-as-part-of-its-wider-cull-140000422.html?src=rss",
-      "timestamp": "14:00",
+      "title": "2016 Nostalgia: 16 Films and TV Shows That Debuted a Decade Ago",
+      "url": "https://www.hollywoodreporter.com/lists/2016-movies-tv-shows-premiered-10-year-anniversary/",
+      "timestamp": "15:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.7,
         "timeliness": 0.2,
         "discovery": 0.5,
-        "composite": 0.44
+        "composite": 0.5000000000000001
       }
     },
     {
-      "title": "Ethereum ETF buying outpaces new supply: Will it push ETH price to $4.5K?",
-      "url": "https://cointelegraph.com/news/ethereum-etf-buying-outpaces-new-supply-eth-price-4-5k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "13:58",
+      "title": "Transmedia IP Studio the Orangery, Behind Hit Graphic Novel Series 'Traveling to Mars' and 'Sweet Paprika,' Signs With WME (EXCLUSIVE)",
+      "url": "https://variety.com/2026/digital/global/the-orangery-ip-studio-sweet-paprika-wme-1236632948/",
+      "timestamp": "14:40",
       "source": "automated",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.75,
+        "impact": 0.55,
+        "engagement": 0.65,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.495
-      }
-    },
-    {
-      "title": "9 Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming",
-      "url": "https://www.wired.com/gallery/best-wifi-routers/",
-      "timestamp": "13:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.75,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.495
+        "composite": 0.4850000000000001
       }
     }
   ],
