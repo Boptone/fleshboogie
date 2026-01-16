@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-16T05:29:50.271Z",
+  "curatedAt": "2026-01-16T06:39:33.106Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "CRYPTO PLUMBING, POLICY IMPROVED IN 2025, BUT PRICES ‘DID NOT COOPERATE’: BINANCE",
-      "url": "https://cointelegraph.com/news/crypto-2025-volatility-regulation-stablecoins-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "2026-01-16T05:29:47.260Z",
+      "title": "ARCHITECTING ENTERPRISE RAG WITH SPARK, EMR ON EKS & AIRFLOW 3",
+      "url": "https://pub.towardsai.net/architecting-enterprise-rag-with-spark-emr-on-eks-airflow-3-3d25055a2ddc?source=rss----98111c9905da---4",
+      "timestamp": "2026-01-16T06:39:30.115Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -44,16 +44,16 @@
         }
       },
       {
-        "title": "‘Jujutsu Kaisen Modulo’ Vol. 1 Debuts at No. 1 on Japan Book Hot&#160;100",
-        "url": "https://www.billboard.com/music/music-news/jujutsu-kaisen-modulo-vol-1-number-one-japan-book-hot-100-1236156046/",
-        "timestamp": "22:51",
-        "source": "musicReleases",
+        "title": "Google AI Releases TranslateGemma: A New Family of Open Translation Models Built on Gemma 3 with Support for 55 Languages",
+        "url": "https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/",
+        "timestamp": "05:39",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.6,
+          "engagement": 0.65,
           "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.51
+          "discovery": 0.3,
+          "composite": 0.505
         }
       }
     ],
@@ -69,19 +69,6 @@
           "timeliness": 0.2,
           "discovery": 0.5,
           "composite": 0.55
-        }
-      },
-      {
-        "title": "‘Jujutsu Kaisen Modulo’ Vol. 1 Debuts at No. 1 on Japan Book Hot&#160;100",
-        "url": "https://www.billboard.com/music/music-news/jujutsu-kaisen-modulo-vol-1-number-one-japan-book-hot-100-1236156046/",
-        "timestamp": "22:51",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.6,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.51
         }
       }
     ],
@@ -115,9 +102,9 @@
     ],
     "wildcard": [
       {
-        "title": "CRYPTO PLUMBING, POLICY IMPROVED IN 2025, BUT PRICES ‘DID NOT COOPERATE’: BINANCE",
-        "url": "https://cointelegraph.com/news/crypto-2025-volatility-regulation-stablecoins-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "2026-01-16T05:29:47.260Z",
+        "title": "ARCHITECTING ENTERPRISE RAG WITH SPARK, EMR ON EKS & AIRFLOW 3",
+        "url": "https://pub.towardsai.net/architecting-enterprise-rag-with-spark-emr-on-eks-airflow-3-3d25055a2ddc?source=rss----98111c9905da---4",
+        "timestamp": "2026-01-16T06:39:30.115Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -131,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "CRYPTO PLUMBING, POLICY IMPROVED IN 2025, BUT PRICES ‘DID NOT COOPERATE’: BINANCE",
-      "url": "https://cointelegraph.com/news/crypto-2025-volatility-regulation-stablecoins-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "2026-01-16T05:29:47.260Z",
+      "title": "ARCHITECTING ENTERPRISE RAG WITH SPARK, EMR ON EKS & AIRFLOW 3",
+      "url": "https://pub.towardsai.net/architecting-enterprise-rag-with-spark-emr-on-eks-airflow-3-3d25055a2ddc?source=rss----98111c9905da---4",
+      "timestamp": "2026-01-16T06:39:30.115Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -170,16 +157,16 @@
       }
     },
     {
-      "title": "‘Jujutsu Kaisen Modulo’ Vol. 1 Debuts at No. 1 on Japan Book Hot&#160;100",
-      "url": "https://www.billboard.com/music/music-news/jujutsu-kaisen-modulo-vol-1-number-one-japan-book-hot-100-1236156046/",
-      "timestamp": "22:51",
-      "source": "musicReleases",
+      "title": "Google AI Releases TranslateGemma: A New Family of Open Translation Models Built on Gemma 3 with Support for 55 Languages",
+      "url": "https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/",
+      "timestamp": "05:39",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.6,
+        "engagement": 0.65,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.51
+        "discovery": 0.3,
+        "composite": 0.505
       }
     },
     {

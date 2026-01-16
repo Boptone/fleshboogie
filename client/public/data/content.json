@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "CRYPTO PLUMBING, POLICY IMPROVED IN 2025, BUT PRICES ‘DID NOT COOPERATE’: BINANCE",
-    "url": "https://cointelegraph.com/news/crypto-2025-volatility-regulation-stablecoins-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "headline": "ARCHITECTING ENTERPRISE RAG WITH SPARK, EMR ON EKS & AIRFLOW 3",
+    "url": "https://pub.towardsai.net/architecting-enterprise-rag-with-spark-emr-on-eks-airflow-3-3d25055a2ddc?source=rss----98111c9905da---4",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "A$AP Rocky's Long-Awaited New Album 'Don't Be Dumb' Featuring Tyler, The Creator & Doechii Is Finally&#160;Here",
-      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-new-album-stream-1236155865/",
-      "timestamp": "05:04",
+      "title": "State Street rolls out new crypto tokenization tools",
+      "url": "https://cointelegraph.com/news/state-street-rolls-out-tokenization-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "06:04",
       "pinned": false
     },
     {
-      "title": "See Dolly Parton's Star-Studded New 'Light of a Clear Blue Morning' Video",
-      "url": "https://www.rollingstone.com/music/music-country/dolly-parton-light-of-a-clear-blue-morning-video-1235500268/",
-      "timestamp": "05:02",
+      "title": "My iPhone’s camera app was holding me back, so I ditched it for this alternative that lets me take mobile photography to the next level",
+      "url": "https://www.tomsguide.com/phones/iphones/my-iphones-camera-app-was-holding-me-back-so-i-ditched-it-for-this-alternative-that-lets-me-take-mobile-photography-to-the-next-level",
+      "timestamp": "06:01",
       "pinned": false
     },
     {
-      "title": "5 shows like 'Heated Rivalry' to watch next",
-      "url": "https://www.tomsguide.com/entertainment/streaming/5-shows-like-heated-rivalry-to-watch-next",
-      "timestamp": "05:01",
+      "title": "What Happens When a Bug Rears its Head at Mach Two?",
+      "url": "https://hackaday.com/2026/01/15/what-happens-when-a-bug-rears-its-head-at-mach-two/",
+      "timestamp": "06:00",
       "pinned": false
     },
     {
-      "title": "The movie James Marsden wishes he hadn't turned down: \"I didn't know if I trusted myself\"",
-      "url": "https://faroutmagazine.co.uk/the-movie-james-marsden-wishes-he-hadnt-turned-down/",
-      "timestamp": "05:00",
+      "title": "The greatest guitar solo of Mark Knopfler's entire career: \"I think they’re perfect notes\"",
+      "url": "https://faroutmagazine.co.uk/the-greatest-guitar-solo-of-mark-knopflers-entire-career/",
+      "timestamp": "06:00",
       "pinned": false
     },
     {
-      "title": "KORG KAOSS PAD V: The Pad Is Back With New Effects, Dual-Touch Control, and Guitar Input",
-      "url": "https://www.gearnews.com/korg-kaoss-pad-v-studio/",
-      "timestamp": "05:00",
+      "title": "Policy Forces Reshape Bitcoin Trading as Four-Year Cycle Weakens",
+      "url": "https://decrypt.co/354842/policy-forces-reshape-bitcoin-trading-four-year-cycle",
+      "timestamp": "05:59",
       "pinned": false
     }
   ],
@@ -104,6 +104,102 @@
     }
   ],
   "automated": [
+    {
+      "title": "Architecting Enterprise RAG with Spark, EMR on EKS & Airflow 3",
+      "url": "https://pub.towardsai.net/architecting-enterprise-rag-with-spark-emr-on-eks-airflow-3-3d25055a2ddc?source=rss----98111c9905da---4",
+      "timestamp": "06:05",
+      "pubDate": "2026-01-16T06:05:41.000Z"
+    },
+    {
+      "title": "State Street rolls out new crypto tokenization tools",
+      "url": "https://cointelegraph.com/news/state-street-rolls-out-tokenization-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "06:04",
+      "pubDate": "2026-01-16T06:04:36.000Z"
+    },
+    {
+      "title": "My iPhone’s camera app was holding me back, so I ditched it for this alternative that lets me take mobile photography to the next level",
+      "url": "https://www.tomsguide.com/phones/iphones/my-iphones-camera-app-was-holding-me-back-so-i-ditched-it-for-this-alternative-that-lets-me-take-mobile-photography-to-the-next-level",
+      "timestamp": "06:01",
+      "pubDate": "2026-01-16T06:01:00.000Z"
+    },
+    {
+      "title": "What Happens When a Bug Rears its Head at Mach Two?",
+      "url": "https://hackaday.com/2026/01/15/what-happens-when-a-bug-rears-its-head-at-mach-two/",
+      "timestamp": "06:00",
+      "pubDate": "2026-01-16T06:00:58.000Z"
+    },
+    {
+      "title": "The greatest guitar solo of Mark Knopfler's entire career: \"I think they’re perfect notes\"",
+      "url": "https://faroutmagazine.co.uk/the-greatest-guitar-solo-of-mark-knopflers-entire-career/",
+      "timestamp": "06:00",
+      "pubDate": "2026-01-16T06:00:00.000Z"
+    },
+    {
+      "title": "Policy Forces Reshape Bitcoin Trading as Four-Year Cycle Weakens",
+      "url": "https://decrypt.co/354842/policy-forces-reshape-bitcoin-trading-four-year-cycle",
+      "timestamp": "05:59",
+      "pubDate": "2026-01-16T05:59:12.000Z"
+    },
+    {
+      "title": "Dropshot Audio updates Smackbox V2 drum synthesizer to v1.1.0",
+      "url": "https://rekkerd.org/dropshot-audio-updates-smackbox-v2-drum-synthesizer-to-v1-1-0/",
+      "timestamp": "05:55",
+      "pubDate": "2026-01-16T05:55:30.000Z"
+    },
+    {
+      "title": "How to Estimate Volatility with EWMA (Risk Control) — Python Solution",
+      "url": "https://pub.towardsai.net/how-to-estimate-volatility-with-ewma-risk-control-python-solution-08234324c518?source=rss----98111c9905da---4",
+      "timestamp": "05:48",
+      "pubDate": "2026-01-16T05:48:24.000Z"
+    },
+    {
+      "title": "How Google Solves the AI Problem Everybody Forgets",
+      "url": "https://pub.towardsai.net/how-google-solves-the-ai-problem-everybody-forgets-1641f654e361?source=rss----98111c9905da---4",
+      "timestamp": "05:48",
+      "pubDate": "2026-01-16T05:48:14.000Z"
+    },
+    {
+      "title": "Portfolio Optimization with Python: Mean-Variance vs Risk Parity vs Min-Vol",
+      "url": "https://pub.towardsai.net/portfolio-optimization-with-python-mean-variance-vs-risk-parity-vs-min-vol-28fee8192d2f?source=rss----98111c9905da---4",
+      "timestamp": "05:42",
+      "pubDate": "2026-01-16T05:42:06.000Z"
+    },
+    {
+      "title": "Google AI Releases TranslateGemma: A New Family of Open Translation Models Built on Gemma 3 with Support for 55 Languages",
+      "url": "https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/",
+      "timestamp": "05:39",
+      "pubDate": "2026-01-16T05:39:55.000Z"
+    },
+    {
+      "title": "A Practical 6D Pose Estimation Pipeline for High-Mix Manufacturing",
+      "url": "https://pub.towardsai.net/a-practical-6d-pose-estimation-pipeline-for-high-mix-manufacturing-d3031ac2c40d?source=rss----98111c9905da---4",
+      "timestamp": "05:39",
+      "pubDate": "2026-01-16T05:39:45.000Z"
+    },
+    {
+      "title": "Gaming GPUs vs AI GPUs: Same Silicon, Very Different Minds",
+      "url": "https://pub.towardsai.net/gaming-gpus-vs-ai-gpus-same-silicon-very-different-minds-d91c2025d13d?source=rss----98111c9905da---4",
+      "timestamp": "05:34",
+      "pubDate": "2026-01-16T05:34:49.000Z"
+    },
+    {
+      "title": "Management with Anthropic Claude: A Guide to Smarter, Longer Conversations",
+      "url": "https://pub.towardsai.net/management-with-anthropic-claude-a-guide-to-smarter-longer-conversations-bd51a89b6f8a?source=rss----98111c9905da---4",
+      "timestamp": "05:34",
+      "pubDate": "2026-01-16T05:34:14.000Z"
+    },
+    {
+      "title": "Fragmentation or Evolution? Experts Say the Zcash Multi-Entity Split Strengthens the Network",
+      "url": "https://news.bitcoin.com/fragmentation-or-evolution-experts-say-the-zcash-multi-entity-split-strengthens-the-network/",
+      "timestamp": "05:30",
+      "pubDate": "2026-01-16T05:30:36.000Z"
+    },
+    {
+      "title": "I built a ‘free forever’ AI stack — and it gives you Pro features for $0",
+      "url": "https://www.tomsguide.com/ai/i-built-a-free-forever-ai-stack-and-it-gives-you-pro-features-for-usd0",
+      "timestamp": "05:30",
+      "pubDate": "2026-01-16T05:30:00.000Z"
+    },
     {
       "title": "Crypto plumbing, policy improved in 2025, but prices ‘did not cooperate’: Binance",
       "url": "https://cointelegraph.com/news/crypto-2025-volatility-regulation-stablecoins-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -247,105 +343,14 @@
       "url": "https://faroutmagazine.co.uk/10-songs-from-1989-that-shouldve-been-in-the-stranger-things-finale/",
       "timestamp": "02:00",
       "pubDate": "2026-01-16T02:00:00.000Z"
-    },
-    {
-      "title": "Nexo to pay $500K fine to California regulator over ‘risky loans’",
-      "url": "https://cointelegraph.com/news/california-dfpi-nexo-fine-crypto-backed-loans-risky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "01:59",
-      "pubDate": "2026-01-16T01:59:26.000Z"
-    },
-    {
-      "title": "Arthur Hayes Says Fed Liquidity Shift Could Send Bitcoin Back Above $110K",
-      "url": "https://news.bitcoin.com/arthur-hayes-says-fed-liquidity-shift-could-send-bitcoin-back-above-110k/",
-      "timestamp": "01:30",
-      "pubDate": "2026-01-16T01:30:16.000Z"
-    },
-    {
-      "title": "Daniel Stern Exits ABC Pilot 'Do You Want Kids?' After Prostitution Solicitation Charge",
-      "url": "https://www.thewrap.com/media-platforms/tv/daniel-stern-exits-abc-pilot-do-you-want-kids-prostitution-solicitation-charge/",
-      "timestamp": "01:15",
-      "pubDate": "2026-01-16T01:15:30.000Z"
-    },
-    {
-      "title": "Pamela Anderson Felt \"Yucky\" Seeing Seth Rogen At Golden Globes After 'Pam & Tommy'",
-      "url": "https://deadline.com/2026/01/pamela-anderson-yucky-seeing-seth-rogen-golden-globes-1236684690/",
-      "timestamp": "01:13",
-      "pubDate": "2026-01-16T01:13:28.000Z"
-    },
-    {
-      "title": "Kaito winds down crypto-backed ‘Yaps’ as X bans payments for ‘AI slop’",
-      "url": "https://cointelegraph.com/news/kaito-cookie-slide-as-x-bans-payment-ai-powered-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "01:09",
-      "pubDate": "2026-01-16T01:09:27.000Z"
-    },
-    {
-      "title": "KORG Intros Filter Ark For Mac & Windows",
-      "url": "https://www.synthtopia.com/content/2026/01/15/korg-intros-filter-ark-for-mac-windows/",
-      "timestamp": "00:59",
-      "pubDate": "2026-01-16T00:59:04.000Z"
-    },
-    {
-      "title": "Where to Buy Tickets to Phish's 2026 Sphere Residency in Las Vegas",
-      "url": "https://www.rollingstone.com/product-recommendations/tickets/phish-sphere-tickets-las-vegas-2026-buy-online-1235500386/",
-      "timestamp": "00:47",
-      "pubDate": "2026-01-16T00:47:54.000Z"
-    },
-    {
-      "title": "Tesseract: Glen Powell in talks to star in Sam Esmail's sci-fi movie",
-      "url": "https://www.joblo.com/tesseract-glen-powell-sam-esmail-movie/",
-      "timestamp": "00:44",
-      "pubDate": "2026-01-16T00:44:12.000Z"
-    },
-    {
-      "title": "Yamaha Intros SEQTRAK 2.0, Here's What's New",
-      "url": "https://www.synthtopia.com/content/2026/01/15/yamaha-intros-seqtrak-2-0-heres-whats-new/",
-      "timestamp": "00:31",
-      "pubDate": "2026-01-16T00:31:40.000Z"
-    },
-    {
-      "title": "XRP Could Explode as XRPL Targets Weak Links and Long-Trapped Liquidity",
-      "url": "https://news.bitcoin.com/xrp-could-explode-as-xrpl-targets-weak-links-and-long-trapped-liquidity/",
-      "timestamp": "00:30",
-      "pubDate": "2026-01-16T00:30:03.000Z"
-    },
-    {
-      "title": "Reese Witherspoon Urges Fans Not to Engage With People Impersonating Her Online: \"I Would Never Manipulate You\"",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/reese-witherspoon-warns-fans-online-impersonators-1236475019/",
-      "timestamp": "00:05",
-      "pubDate": "2026-01-16T00:05:52.000Z"
-    },
-    {
-      "title": "Hilary Duff's New Single Is About 'When Life Is Life-ing, Babe'",
-      "url": "https://www.rollingstone.com/music/music-news/hilary-duff-single-roommates-video-1235496722/",
-      "timestamp": "00:05",
-      "pubDate": "2026-01-16T00:05:20.000Z"
-    },
-    {
-      "title": "Stop Asking “What’s the Best LLM?” — Here’s the Right Question",
-      "url": "https://pub.towardsai.net/stop-asking-whats-the-best-llm-here-s-the-right-question-6b53e8c4869f?source=rss----98111c9905da---4",
-      "timestamp": "00:02",
-      "pubDate": "2026-01-16T00:02:50.000Z"
-    },
-    {
-      "title": "Robbie Williams: Britpop review | Alexis Petridis's album of the week",
-      "url": "https://www.theguardian.com/music/2026/jan/16/robbie-williams-britpop-review",
-      "timestamp": "00:01",
-      "pubDate": "2026-01-16T00:01:54.000Z"
-    },
-    {
-      "title": "Robbie Williams – ‘Britpop’ review: a love letter to the '90s and bid to live forever",
-      "url": "https://www.nme.com/reviews/album/robbie-williams-britpop-album-review-3923209?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=robbie-williams-britpop-album-review",
-      "timestamp": "00:01",
-      "pubDate": "2026-01-16T00:01:41.000Z"
-    },
-    {
-      "title": "Today's Wordle answer and hints for #1672 on January 16",
-      "url": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=heres-the-wordle-answer-for-today",
-      "timestamp": "00:01",
-      "pubDate": "2026-01-16T00:01:34.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "The greatest guitar solo of Mark Knopfler's entire career: \"I think they’re perfect notes\"",
+      "url": "https://faroutmagazine.co.uk/the-greatest-guitar-solo-of-mark-knopflers-entire-career/",
+      "timestamp": "06:00"
+    },
     {
       "title": "A$AP Rocky's Long-Awaited New Album 'Don't Be Dumb' Featuring Tyler, The Creator & Doechii Is Finally&#160;Here",
       "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-new-album-stream-1236155865/",
@@ -365,11 +370,6 @@
       "title": "The one band Michael Shannon can always find solace in: \"Really incredible music\"",
       "url": "https://faroutmagazine.co.uk/the-one-band-michael-shannon-can-always-find-solace-in/",
       "timestamp": "03:00"
-    },
-    {
-      "title": "10 songs from 1989 that should have been in the ‘Stranger Things’ finale",
-      "url": "https://faroutmagazine.co.uk/10-songs-from-1989-that-shouldve-been-in-the-stranger-things-finale/",
-      "timestamp": "02:00"
     },
     {
       "title": "Hilary Duff's New Single Is About 'When Life Is Life-ing, Babe'",
@@ -402,11 +402,6 @@
       "timestamp": "00:00"
     },
     {
-      "title": "‘Jujutsu Kaisen Modulo’ Vol. 1 Debuts at No. 1 on Japan Book Hot&#160;100",
-      "url": "https://www.billboard.com/music/music-news/jujutsu-kaisen-modulo-vol-1-number-one-japan-book-hot-100-1236156046/",
-      "timestamp": "22:51"
-    },
-    {
       "title": "Iam6teen – Escapism",
       "url": "https://www.stereofox.com/iam6teen-escapism/",
       "timestamp": "20:45"
@@ -437,15 +432,20 @@
       "timestamp": "16:18"
     },
     {
-      "title": "Teyana Taylor Explains Leonardo DiCaprio's KPop Kiki-ing",
-      "url": "https://stereogum.com/2485488/teyana-taylor-performs-on-fallon-explains-leonardo-dicaprios-viral-kpop-moment-wont-abandon-kanye-west/news/",
-      "timestamp": "15:54"
-    },
-    {
       "title": "RMX-Ignite Wants to Blow Open What a DJ Set Can Be",
       "url": "https://www.thefader.com/2026/01/15/rmx-ignite-wants-to-blow-open-what-a-dj-set-can-be",
       "timestamp": "15:35"
+    },
+    {
+      "title": "Bob Weir to Be Honored With Procession in San Francisco",
+      "url": "https://ultimateclassicrock.com/bob-weir-memorial-gathering/",
+      "timestamp": "15:30"
+    },
+    {
+      "title": "Tim Robinson and the Art of Cringe Comedy",
+      "url": "https://www.spin.com/2026/01/tim-robinson-and-the-art-of-cringe-comedy/",
+      "timestamp": "14:51"
     }
   ],
-  "lastUpdated": "2026-01-16T05:29:47.260Z"
+  "lastUpdated": "2026-01-16T06:39:30.115Z"
 }
