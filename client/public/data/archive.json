@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "headline": "THE RISE OF 'MICRO' APPS: NON-DEVELOPERS ARE WRITING APPS INSTEAD OF BUYING THEM",
+      "url": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
+      "date": "2026-01-16T14:28:09.661Z"
+    },
+    {
       "headline": "SMART PLUG GUIDE (2026): WHEN YOU SHOULD AND SHOULDN’T USE ONE",
       "url": "https://www.wired.com/story/do-you-need-a-smart-plug/",
       "date": "2026-01-16T12:53:17.340Z"
@@ -691,5 +696,5 @@
       "date": "2026-01-06T22:20:25.062Z"
     }
   ],
-  "lastUpdated": "2026-01-16T12:53:17.340Z"
+  "lastUpdated": "2026-01-16T14:28:09.661Z"
 }

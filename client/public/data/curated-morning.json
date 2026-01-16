@@ -1,33 +1,33 @@
 {
-  "curatedAt": "2026-01-16T13:40:11.631Z",
+  "curatedAt": "2026-01-16T14:28:12.527Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "HERE’S WHAT HAPPENED IN CRYPTO TODAY",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "2026-01-16T13:40:08.618Z",
+      "title": "THE RISE OF 'MICRO' APPS: NON-DEVELOPERS ARE WRITING APPS INSTEAD OF BUYING THEM",
+      "url": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
+      "timestamp": "2026-01-16T14:28:09.628Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
       {
-        "title": "A$AP Rocky's Long-Awaited New Album 'Don't Be Dumb' Featuring Tyler, The Creator & Doechii Is Finally&#160;Here",
-        "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-new-album-stream-1236155865/",
-        "timestamp": "05:04",
-        "source": "musicReleases",
+        "title": "Blake Shelton, Alabama & Luke Bryan Join the Late Dan Seals on 'The Last Duet' Album: Full Track&#160;List",
+        "url": "https://www.billboard.com/music/country/dan-seals-last-duet-album-track-list-blake-shelton-alabama-1236156134/",
+        "timestamp": "14:00",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.65,
+          "engagement": 0.6,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.505
+          "composite": 0.49
         }
       },
       {
@@ -59,88 +59,88 @@
     ],
     "discovery": [
       {
-        "title": "Oscar Isaac's favourite heavy metal album: \"Metal meets Gregorian chants\"",
-        "url": "https://faroutmagazine.co.uk/oscar-isaacs-favourite-heavy-metal-album/",
-        "timestamp": "12:30",
+        "title": "Meta is closing down its VR meeting rooms as part of its wider cull",
+        "url": "https://www.engadget.com/big-tech/meta-is-closing-down-its-vr-meeting-rooms-as-part-of-its-wider-cull-140000422.html?src=rss",
+        "timestamp": "14:00",
         "source": "automated",
         "scores": {
-          "impact": 0.7,
+          "impact": 0.5,
           "engagement": 0.5,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.52
+          "composite": 0.44
         }
       }
     ],
     "conversation": [
       {
-        "title": "What will give you the marketing edge in 2026?",
-        "url": "https://musically.com/2026/01/16/what-will-give-you-the-marketing-edge-in-2026/",
-        "timestamp": "12:09",
+        "title": "Ethereum ETF buying outpaces new supply: Will it push ETH price to $4.5K?",
+        "url": "https://cointelegraph.com/news/ethereum-etf-buying-outpaces-new-supply-eth-price-4-5k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "13:58",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7999999999999999,
+          "engagement": 0.75,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.51
+          "composite": 0.495
         }
       },
       {
-        "title": "A$AP Rocky's Long-Awaited New Album 'Don't Be Dumb' Featuring Tyler, The Creator & Doechii Is Finally&#160;Here",
-        "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-new-album-stream-1236155865/",
-        "timestamp": "05:04",
-        "source": "musicReleases",
+        "title": "9 Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming",
+        "url": "https://www.wired.com/gallery/best-wifi-routers/",
+        "timestamp": "13:00",
+        "source": "automated",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.65,
+          "impact": 0.5,
+          "engagement": 0.75,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.505
+          "composite": 0.495
         }
       }
     ],
     "wildcard": [
       {
-        "title": "HERE’S WHAT HAPPENED IN CRYPTO TODAY",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "2026-01-16T13:40:08.618Z",
+        "title": "THE RISE OF 'MICRO' APPS: NON-DEVELOPERS ARE WRITING APPS INSTEAD OF BUYING THEM",
+        "url": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
+        "timestamp": "2026-01-16T14:28:09.628Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "HERE’S WHAT HAPPENED IN CRYPTO TODAY",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "2026-01-16T13:40:08.618Z",
+      "title": "THE RISE OF 'MICRO' APPS: NON-DEVELOPERS ARE WRITING APPS INSTEAD OF BUYING THEM",
+      "url": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
+      "timestamp": "2026-01-16T14:28:09.628Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
     {
-      "title": "A$AP Rocky's Long-Awaited New Album 'Don't Be Dumb' Featuring Tyler, The Creator & Doechii Is Finally&#160;Here",
-      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-new-album-stream-1236155865/",
-      "timestamp": "05:04",
-      "source": "musicReleases",
+      "title": "Blake Shelton, Alabama & Luke Bryan Join the Late Dan Seals on 'The Last Duet' Album: Full Track&#160;List",
+      "url": "https://www.billboard.com/music/country/dan-seals-last-duet-album-track-list-blake-shelton-alabama-1236156134/",
+      "timestamp": "14:00",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
-        "engagement": 0.65,
+        "engagement": 0.6,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.505
+        "composite": 0.49
       }
     },
     {
@@ -170,29 +170,42 @@
       }
     },
     {
-      "title": "Oscar Isaac's favourite heavy metal album: \"Metal meets Gregorian chants\"",
-      "url": "https://faroutmagazine.co.uk/oscar-isaacs-favourite-heavy-metal-album/",
-      "timestamp": "12:30",
-      "source": "automated",
-      "scores": {
-        "impact": 0.7,
-        "engagement": 0.5,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.52
-      }
-    },
-    {
-      "title": "What will give you the marketing edge in 2026?",
-      "url": "https://musically.com/2026/01/16/what-will-give-you-the-marketing-edge-in-2026/",
-      "timestamp": "12:09",
+      "title": "Meta is closing down its VR meeting rooms as part of its wider cull",
+      "url": "https://www.engadget.com/big-tech/meta-is-closing-down-its-vr-meeting-rooms-as-part-of-its-wider-cull-140000422.html?src=rss",
+      "timestamp": "14:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7999999999999999,
+        "engagement": 0.5,
+        "timeliness": 0.2,
+        "discovery": 0.5,
+        "composite": 0.44
+      }
+    },
+    {
+      "title": "Ethereum ETF buying outpaces new supply: Will it push ETH price to $4.5K?",
+      "url": "https://cointelegraph.com/news/ethereum-etf-buying-outpaces-new-supply-eth-price-4-5k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "13:58",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.75,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.51
+        "composite": 0.495
+      }
+    },
+    {
+      "title": "9 Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming",
+      "url": "https://www.wired.com/gallery/best-wifi-routers/",
+      "timestamp": "13:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.75,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.495
       }
     }
   ],
