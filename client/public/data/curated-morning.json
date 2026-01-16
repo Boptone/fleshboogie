@@ -1,35 +1,22 @@
 {
-  "curatedAt": "2026-01-16T06:39:33.106Z",
+  "curatedAt": "2026-01-16T07:28:25.842Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "ARCHITECTING ENTERPRISE RAG WITH SPARK, EMR ON EKS & AIRFLOW 3",
-      "url": "https://pub.towardsai.net/architecting-enterprise-rag-with-spark-emr-on-eks-airflow-3-3d25055a2ddc?source=rss----98111c9905da---4",
-      "timestamp": "2026-01-16T06:39:30.115Z",
+      "title": "WHAT IS 'PITTING'? THIS COMMON MISTAKE WILL CAUSE PERMANENT DAMAGE TO YOUR INDUCTION COOKTOP",
+      "url": "https://www.tomsguide.com/home/kitchen-dining/what-is-pitting-this-common-mistake-will-cause-permanent-damage-to-your-induction-cooktop",
+      "timestamp": "2026-01-16T07:28:22.896Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.6400000000000001
       }
     },
     "deepDive": [
-      {
-        "title": "'Fallout' Returns To Nielsen Top 10 With Season 2 Debut — How Does Its Premiere-Week Performance Compare To Season 1?",
-        "url": "https://deadline.com/2026/01/fallout-season-2-premiere-viewership-nielsen-streaming-1236684793/",
-        "timestamp": "02:25",
-        "source": "automated",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.55
-        }
-      },
       {
         "title": "Robbie Williams Surprise Releases New Album 'Britpop'",
         "url": "https://www.billboard.com/music/music-news/robbie-williams-new-album-britpop-surprise-release-1236155620/",
@@ -55,35 +42,34 @@
           "discovery": 0.3,
           "composite": 0.505
         }
-      }
-    ],
-    "discovery": [
+      },
       {
-        "title": "'Fallout' Returns To Nielsen Top 10 With Season 2 Debut — How Does Its Premiere-Week Performance Compare To Season 1?",
-        "url": "https://deadline.com/2026/01/fallout-season-2-premiere-viewership-nielsen-streaming-1236684793/",
-        "timestamp": "02:25",
+        "title": "A$AP Rocky's Long-Awaited New Album 'Don't Be Dumb' Featuring Tyler, The Creator & Doechii Is Finally&#160;Here",
+        "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-new-album-stream-1236155865/",
+        "timestamp": "05:04",
         "source": "automated",
         "scores": {
-          "impact": 0.55,
-          "engagement": 0.7999999999999999,
+          "impact": 0.6,
+          "engagement": 0.65,
           "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.55
+          "discovery": 0.3,
+          "composite": 0.505
         }
       }
     ],
+    "discovery": [],
     "conversation": [
       {
-        "title": "'Fallout' Returns To Nielsen Top 10 With Season 2 Debut — How Does Its Premiere-Week Performance Compare To Season 1?",
-        "url": "https://deadline.com/2026/01/fallout-season-2-premiere-viewership-nielsen-streaming-1236684793/",
-        "timestamp": "02:25",
-        "source": "automated",
+        "title": "WHAT IS 'PITTING'? THIS COMMON MISTAKE WILL CAUSE PERMANENT DAMAGE TO YOUR INDUCTION COOKTOP",
+        "url": "https://www.tomsguide.com/home/kitchen-dining/what-is-pitting-this-common-mistake-will-cause-permanent-damage-to-your-induction-cooktop",
+        "timestamp": "2026-01-16T07:28:22.896Z",
+        "source": "splash",
         "scores": {
-          "impact": 0.55,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.55
+          "impact": 0.5,
+          "engagement": 0.7,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.6400000000000001
         }
       },
       {
@@ -102,45 +88,32 @@
     ],
     "wildcard": [
       {
-        "title": "ARCHITECTING ENTERPRISE RAG WITH SPARK, EMR ON EKS & AIRFLOW 3",
-        "url": "https://pub.towardsai.net/architecting-enterprise-rag-with-spark-emr-on-eks-airflow-3-3d25055a2ddc?source=rss----98111c9905da---4",
-        "timestamp": "2026-01-16T06:39:30.115Z",
+        "title": "WHAT IS 'PITTING'? THIS COMMON MISTAKE WILL CAUSE PERMANENT DAMAGE TO YOUR INDUCTION COOKTOP",
+        "url": "https://www.tomsguide.com/home/kitchen-dining/what-is-pitting-this-common-mistake-will-cause-permanent-damage-to-your-induction-cooktop",
+        "timestamp": "2026-01-16T07:28:22.896Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.7,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.6400000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "ARCHITECTING ENTERPRISE RAG WITH SPARK, EMR ON EKS & AIRFLOW 3",
-      "url": "https://pub.towardsai.net/architecting-enterprise-rag-with-spark-emr-on-eks-airflow-3-3d25055a2ddc?source=rss----98111c9905da---4",
-      "timestamp": "2026-01-16T06:39:30.115Z",
+      "title": "WHAT IS 'PITTING'? THIS COMMON MISTAKE WILL CAUSE PERMANENT DAMAGE TO YOUR INDUCTION COOKTOP",
+      "url": "https://www.tomsguide.com/home/kitchen-dining/what-is-pitting-this-common-mistake-will-cause-permanent-damage-to-your-induction-cooktop",
+      "timestamp": "2026-01-16T07:28:22.896Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.7,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
-      }
-    },
-    {
-      "title": "'Fallout' Returns To Nielsen Top 10 With Season 2 Debut — How Does Its Premiere-Week Performance Compare To Season 1?",
-      "url": "https://deadline.com/2026/01/fallout-season-2-premiere-viewership-nielsen-streaming-1236684793/",
-      "timestamp": "02:25",
-      "source": "automated",
-      "scores": {
-        "impact": 0.55,
-        "engagement": 0.7999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.55
+        "composite": 0.6400000000000001
       }
     },
     {
@@ -160,6 +133,19 @@
       "title": "Google AI Releases TranslateGemma: A New Family of Open Translation Models Built on Gemma 3 with Support for 55 Languages",
       "url": "https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/",
       "timestamp": "05:39",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.65,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.505
+      }
+    },
+    {
+      "title": "A$AP Rocky's Long-Awaited New Album 'Don't Be Dumb' Featuring Tyler, The Creator & Doechii Is Finally&#160;Here",
+      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-dont-be-dumb-new-album-stream-1236155865/",
+      "timestamp": "05:04",
       "source": "automated",
       "scores": {
         "impact": 0.6,

@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "headline": "WHAT IS 'PITTING'? THIS COMMON MISTAKE WILL CAUSE PERMANENT DAMAGE TO YOUR INDUCTION COOKTOP",
+      "url": "https://www.tomsguide.com/home/kitchen-dining/what-is-pitting-this-common-mistake-will-cause-permanent-damage-to-your-induction-cooktop",
+      "date": "2026-01-16T07:28:22.929Z"
+    },
+    {
       "headline": "ARCHITECTING ENTERPRISE RAG WITH SPARK, EMR ON EKS & AIRFLOW 3",
       "url": "https://pub.towardsai.net/architecting-enterprise-rag-with-spark-emr-on-eks-airflow-3-3d25055a2ddc?source=rss----98111c9905da---4",
       "date": "2026-01-16T06:39:30.149Z"
@@ -661,5 +666,5 @@
       "date": "2026-01-06T22:20:25.062Z"
     }
   ],
-  "lastUpdated": "2026-01-16T06:39:30.150Z"
+  "lastUpdated": "2026-01-16T07:28:22.929Z"
 }

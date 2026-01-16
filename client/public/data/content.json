@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "ARCHITECTING ENTERPRISE RAG WITH SPARK, EMR ON EKS & AIRFLOW 3",
-    "url": "https://pub.towardsai.net/architecting-enterprise-rag-with-spark-emr-on-eks-airflow-3-3d25055a2ddc?source=rss----98111c9905da---4",
+    "headline": "WHAT IS 'PITTING'? THIS COMMON MISTAKE WILL CAUSE PERMANENT DAMAGE TO YOUR INDUCTION COOKTOP",
+    "url": "https://www.tomsguide.com/home/kitchen-dining/what-is-pitting-this-common-mistake-will-cause-permanent-damage-to-your-induction-cooktop",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "State Street rolls out new crypto tokenization tools",
-      "url": "https://cointelegraph.com/news/state-street-rolls-out-tokenization-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "06:04",
+      "title": "Sony Pictures Networks India Restructures Leadership in Strategic Shift",
+      "url": "https://variety.com/2026/tv/news/sony-pictures-networks-india-leadership-restructure-1236632887/",
+      "timestamp": "07:14",
       "pinned": false
     },
     {
-      "title": "My iPhone’s camera app was holding me back, so I ditched it for this alternative that lets me take mobile photography to the next level",
-      "url": "https://www.tomsguide.com/phones/iphones/my-iphones-camera-app-was-holding-me-back-so-i-ditched-it-for-this-alternative-that-lets-me-take-mobile-photography-to-the-next-level",
-      "timestamp": "06:01",
+      "title": "Initial Audio updates SourceLab virtual instrument to v1.3.0 + FREE Synthwave Expansion",
+      "url": "https://rekkerd.org/initial-audio-updates-sourcelab-virtual-instrument-to-v1-3-0-free-synthwave-expansion/",
+      "timestamp": "07:10",
       "pinned": false
     },
     {
-      "title": "What Happens When a Bug Rears its Head at Mach Two?",
-      "url": "https://hackaday.com/2026/01/15/what-happens-when-a-bug-rears-its-head-at-mach-two/",
-      "timestamp": "06:00",
+      "title": "Melissa Leo Says Her Oscar Win 'Has Not Been Good' For Her Career",
+      "url": "https://www.thewrap.com/industry-news/awards/melissa-leo-oscar-win-career-criticism/",
+      "timestamp": "07:00",
       "pinned": false
     },
     {
-      "title": "The greatest guitar solo of Mark Knopfler's entire career: \"I think they’re perfect notes\"",
-      "url": "https://faroutmagazine.co.uk/the-greatest-guitar-solo-of-mark-knopflers-entire-career/",
-      "timestamp": "06:00",
+      "title": "I asked ChatGPT and a board-certified sleep doctor what the 'perfect' nighttime routine looks like — here's the clear winner and why",
+      "url": "https://www.tomsguide.com/wellness/sleep-problems/i-asked-chatgpt-and-a-board-certified-sleep-doctor-what-the-perfect-nighttime-routine-looks-like-heres-the-clear-winner-and-why",
+      "timestamp": "07:00",
       "pinned": false
     },
     {
-      "title": "Policy Forces Reshape Bitcoin Trading as Four-Year Cycle Weakens",
-      "url": "https://decrypt.co/354842/policy-forces-reshape-bitcoin-trading-four-year-cycle",
-      "timestamp": "05:59",
+      "title": "Switched to Mac? These 5 'missing' Windows features are actually hiding in plain sight",
+      "url": "https://www.tomsguide.com/computing/macbooks/switched-to-mac-these-5-missing-windows-features-are-actually-hiding-in-plain-sight",
+      "timestamp": "07:00",
       "pinned": false
     }
   ],
@@ -104,6 +104,72 @@
     }
   ],
   "automated": [
+    {
+      "title": "What is 'pitting'? This common mistake will cause permanent damage to your induction cooktop",
+      "url": "https://www.tomsguide.com/home/kitchen-dining/what-is-pitting-this-common-mistake-will-cause-permanent-damage-to-your-induction-cooktop",
+      "timestamp": "07:15",
+      "pubDate": "2026-01-16T07:15:00.000Z"
+    },
+    {
+      "title": "Sony Pictures Networks India Restructures Leadership in Strategic Shift",
+      "url": "https://variety.com/2026/tv/news/sony-pictures-networks-india-leadership-restructure-1236632887/",
+      "timestamp": "07:14",
+      "pubDate": "2026-01-16T07:14:02.000Z"
+    },
+    {
+      "title": "Initial Audio updates SourceLab virtual instrument to v1.3.0 + FREE Synthwave Expansion",
+      "url": "https://rekkerd.org/initial-audio-updates-sourcelab-virtual-instrument-to-v1-3-0-free-synthwave-expansion/",
+      "timestamp": "07:10",
+      "pubDate": "2026-01-16T07:10:12.000Z"
+    },
+    {
+      "title": "Melissa Leo Says Her Oscar Win 'Has Not Been Good' For Her Career",
+      "url": "https://www.thewrap.com/industry-news/awards/melissa-leo-oscar-win-career-criticism/",
+      "timestamp": "07:00",
+      "pubDate": "2026-01-16T07:00:39.000Z"
+    },
+    {
+      "title": "I asked ChatGPT and a board-certified sleep doctor what the 'perfect' nighttime routine looks like — here's the clear winner and why",
+      "url": "https://www.tomsguide.com/wellness/sleep-problems/i-asked-chatgpt-and-a-board-certified-sleep-doctor-what-the-perfect-nighttime-routine-looks-like-heres-the-clear-winner-and-why",
+      "timestamp": "07:00",
+      "pubDate": "2026-01-16T07:00:00.000Z"
+    },
+    {
+      "title": "Switched to Mac? These 5 'missing' Windows features are actually hiding in plain sight",
+      "url": "https://www.tomsguide.com/computing/macbooks/switched-to-mac-these-5-missing-windows-features-are-actually-hiding-in-plain-sight",
+      "timestamp": "07:00",
+      "pubDate": "2026-01-16T07:00:00.000Z"
+    },
+    {
+      "title": "Silvertone Ukulele 852 Hula: 100 Years of Beach Vibes",
+      "url": "https://www.gearnews.com/silvertone-ukulele-852-hula-100-years-beach-vibes/",
+      "timestamp": "07:00",
+      "pubDate": "2026-01-16T07:00:00.000Z"
+    },
+    {
+      "title": "'Power Book IV: Force' Series Finale Eliminates More Enemies While Setting Up Possible Continuation With The Return of *Spoiler*",
+      "url": "https://deadline.com/2026/01/power-book-iv-force-series-finale-explanation-1236682045/",
+      "timestamp": "06:58",
+      "pubDate": "2026-01-16T06:58:42.000Z"
+    },
+    {
+      "title": "Olivia Dean Outpoints The Kid LAROI For Australia’s Chart&#160;Title",
+      "url": "https://www.billboard.com/music/chart-beat/olivia-dean-the-kid-laroi-australia-aria-chart-1236156263/",
+      "timestamp": "06:45",
+      "pubDate": "2026-01-16T06:45:11.000Z"
+    },
+    {
+      "title": "Valentine’s Day 2026: the best early gift ideas from Apple, Birkenstock, Kindle and more",
+      "url": "https://www.tomsguide.com/sales-events/valentines-day-2026-the-best-early-gift-ideas-from-apple-birkenstock-kindle-and-more",
+      "timestamp": "06:45",
+      "pubDate": "2026-01-16T06:45:00.000Z"
+    },
+    {
+      "title": "How to Build a Safe, Autonomous Prior Authorization Agent for Healthcare Revenue Cycle Management with Human-in-the-Loop Controls",
+      "url": "https://www.marktechpost.com/2026/01/15/how-to-build-a-safe-autonomous-prior-authorization-agent-for-healthcare-revenue-cycle-management-with-human-in-the-loop-controls/",
+      "timestamp": "06:42",
+      "pubDate": "2026-01-16T06:42:52.000Z"
+    },
     {
       "title": "Architecting Enterprise RAG with Spark, EMR on EKS & Airflow 3",
       "url": "https://pub.towardsai.net/architecting-enterprise-rag-with-spark-emr-on-eks-airflow-3-3d25055a2ddc?source=rss----98111c9905da---4",
@@ -277,75 +343,14 @@
       "url": "https://news.bitcoin.com/us-lawmakers-say-crypto-market-structure-bill-is-closer-than-ever-as-bipartisan-negotiations-continue/",
       "timestamp": "03:30",
       "pubDate": "2026-01-16T03:30:49.000Z"
-    },
-    {
-      "title": "'The Pitt' Actress Taylor Dearden on How Learning of Langdon's Time in Rehab Affects Her Character: \"She's a Different Doctor\"",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-pitt-taylor-dearden-mel-reaction-langdon-rehab-1236475829/",
-      "timestamp": "03:20",
-      "pubDate": "2026-01-16T03:20:21.000Z"
-    },
-    {
-      "title": "Pamela Anderson Says She 'Felt a Bit Weird' Seeing Seth Rogen at the Golden Globes After 'Pam & Tommy' Series &#124; Video",
-      "url": "https://www.thewrap.com/culture-lifestyle/culture/pamela-anderson-seth-rogen-golden-globes-run-in/",
-      "timestamp": "03:08",
-      "pubDate": "2026-01-16T03:08:15.000Z"
-    },
-    {
-      "title": "'The Pitt': R. Scott Gemmill & John Wells Share Insight On Dr. Robby's State Of Mind & Challenges He Will Face In Season 2",
-      "url": "https://deadline.com/2026/01/the-pitt-r-scott-gemmill-john-wells-interview-season-2-1236684787/",
-      "timestamp": "03:02",
-      "pubDate": "2026-01-16T03:02:25.000Z"
-    },
-    {
-      "title": "The one band Michael Shannon can always find solace in: \"Really incredible music\"",
-      "url": "https://faroutmagazine.co.uk/the-one-band-michael-shannon-can-always-find-solace-in/",
-      "timestamp": "03:00",
-      "pubDate": "2026-01-16T03:00:00.000Z"
-    },
-    {
-      "title": "This is the best time to put your heat on in the morning to sleep better and save money",
-      "url": "https://www.tomsguide.com/wellness/sleep-problems/should-you-leave-the-heat-on-overnight-for-better-sleep",
-      "timestamp": "03:00",
-      "pubDate": "2026-01-16T03:00:00.000Z"
-    },
-    {
-      "title": "Meghan McCain Calls Out Marjorie Taylor Greene for Trying to Audition for 'The View'",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/meghan-mccain-marjorie-taylor-greene-the-view-audition-1236475732/",
-      "timestamp": "02:54",
-      "pubDate": "2026-01-16T02:54:03.000Z"
-    },
-    {
-      "title": "'The Pitt' Star Sepideh Moafi Says New Doctor's Headbutting With Robby Is Like 'Jazz Tones Clashing'",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/the-pitt-season-2-episode-2-sepideh-moafi-interview/",
-      "timestamp": "02:46",
-      "pubDate": "2026-01-16T02:46:00.000Z"
-    },
-    {
-      "title": "Analyst Calls Silver Generational Bottom, Sees Long-Term Bull Market Ahead",
-      "url": "https://news.bitcoin.com/analyst-calls-silver-generational-bottom-sees-long-term-bull-market-ahead/",
-      "timestamp": "02:30",
-      "pubDate": "2026-01-16T02:30:35.000Z"
-    },
-    {
-      "title": "'Fallout' Returns To Nielsen Top 10 With Season 2 Debut — How Does Its Premiere-Week Performance Compare To Season 1?",
-      "url": "https://deadline.com/2026/01/fallout-season-2-premiere-viewership-nielsen-streaming-1236684793/",
-      "timestamp": "02:25",
-      "pubDate": "2026-01-16T02:25:26.000Z"
-    },
-    {
-      "title": "'Heated Rivalry's Connor Storrie Gives Season 2 Filming Update",
-      "url": "https://deadline.com/2026/01/heated-rivalry-connor-storrie-season-2-filming-update-1236684805/",
-      "timestamp": "02:15",
-      "pubDate": "2026-01-16T02:15:49.000Z"
-    },
-    {
-      "title": "10 songs from 1989 that should have been in the ‘Stranger Things’ finale",
-      "url": "https://faroutmagazine.co.uk/10-songs-from-1989-that-shouldve-been-in-the-stranger-things-finale/",
-      "timestamp": "02:00",
-      "pubDate": "2026-01-16T02:00:00.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "Olivia Dean Outpoints The Kid LAROI For Australia’s Chart&#160;Title",
+      "url": "https://www.billboard.com/music/chart-beat/olivia-dean-the-kid-laroi-australia-aria-chart-1236156263/",
+      "timestamp": "06:45"
+    },
     {
       "title": "The greatest guitar solo of Mark Knopfler's entire career: \"I think they’re perfect notes\"",
       "url": "https://faroutmagazine.co.uk/the-greatest-guitar-solo-of-mark-knopflers-entire-career/",
@@ -432,20 +437,15 @@
       "timestamp": "16:18"
     },
     {
+      "title": "Teyana Taylor Explains Leonardo DiCaprio's KPop Kiki-ing",
+      "url": "https://stereogum.com/2485488/teyana-taylor-performs-on-fallon-explains-leonardo-dicaprios-viral-kpop-moment-wont-abandon-kanye-west/news/",
+      "timestamp": "15:54"
+    },
+    {
       "title": "RMX-Ignite Wants to Blow Open What a DJ Set Can Be",
       "url": "https://www.thefader.com/2026/01/15/rmx-ignite-wants-to-blow-open-what-a-dj-set-can-be",
       "timestamp": "15:35"
-    },
-    {
-      "title": "Bob Weir to Be Honored With Procession in San Francisco",
-      "url": "https://ultimateclassicrock.com/bob-weir-memorial-gathering/",
-      "timestamp": "15:30"
-    },
-    {
-      "title": "Tim Robinson and the Art of Cringe Comedy",
-      "url": "https://www.spin.com/2026/01/tim-robinson-and-the-art-of-cringe-comedy/",
-      "timestamp": "14:51"
     }
   ],
-  "lastUpdated": "2026-01-16T06:39:30.115Z"
+  "lastUpdated": "2026-01-16T07:28:22.896Z"
 }
