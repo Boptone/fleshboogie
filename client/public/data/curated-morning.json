@@ -1,27 +1,40 @@
 {
-  "curatedAt": "2026-01-16T19:22:21.114Z",
+  "curatedAt": "2026-01-16T20:26:16.588Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "THE ONE ROLE MICHAEL CAINE SWORE HE'D NEVER PLAY: \"EMOTIONALLY, I COULDN'T DO IT\"",
-      "url": "https://faroutmagazine.co.uk/one-role-michael-caine-swore-hed-never-play/",
-      "timestamp": "2026-01-16T19:22:18.131Z",
+      "title": "BULLS EXHAUSTED? BITCOIN MOMENTUM FADES AS ETF BUYING FRENZY SLOWS",
+      "url": "https://news.bitcoin.com/bulls-exhausted-bitcoin-momentum-fades-as-etf-buying-frenzy-slows/",
+      "timestamp": "2026-01-16T20:26:13.579Z",
       "source": "splash",
       "scores": {
-        "impact": 0.4,
+        "impact": 0.5,
         "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5700000000000001
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
       {
+        "title": "Who has the most consecutive Oscar nominations for 'Best Picture'?",
+        "url": "https://faroutmagazine.co.uk/most-consecutive-oscar-nominations-for-best-picture/",
+        "timestamp": "19:45",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.55
+        }
+      },
+      {
         "title": "Arcángel's Sober Album 'La 8va Maravilla' & More Best New Music&#160;Latin",
         "url": "https://www.billboard.com/music/latin/best-new-music-latin-arcangel-album-more-releases-1236156330/",
         "timestamp": "18:50",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.75,
@@ -34,26 +47,13 @@
         "title": "Happy Birthday, Dolly! Here’s Every Parton Album That Has Topped a Billboard Chart, Including a Few&#160;Surprises",
         "url": "https://www.billboard.com/lists/dolly-parton-album-charts-topped-birthday/",
         "timestamp": "18:55",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.7,
           "engagement": 0.6,
           "timeliness": 0.2,
           "discovery": 0.3,
           "composite": 0.53
-        }
-      },
-      {
-        "title": "Severance actor Ólafur Darri Ólafsson joins the cast of How to Train Your Dragon 2 as the villain Drago Bludvist",
-        "url": "https://www.joblo.com/how-to-train-your-dragon-2-drago-villain/",
-        "timestamp": "19:03",
-        "source": "mainColumn",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.5000000000000001
         }
       }
     ],
@@ -62,7 +62,7 @@
         "title": "A$AP Rocky, Hilary Duff, Charli XCX and All the Songs You Need to Know This Week",
         "url": "https://www.rollingstone.com/music/music-features/asap-rocky-hilary-duff-charli-xcx-songs-you-need-to-know-1235498966/",
         "timestamp": "18:43",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.5,
           "engagement": 0.5,
@@ -74,10 +74,23 @@
     ],
     "conversation": [
       {
+        "title": "Who has the most consecutive Oscar nominations for 'Best Picture'?",
+        "url": "https://faroutmagazine.co.uk/most-consecutive-oscar-nominations-for-best-picture/",
+        "timestamp": "19:45",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.55
+        }
+      },
+      {
         "title": "Arcángel's Sober Album 'La 8va Maravilla' & More Best New Music&#160;Latin",
         "url": "https://www.billboard.com/music/latin/best-new-music-latin-arcangel-album-more-releases-1236156330/",
         "timestamp": "18:50",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.75,
@@ -85,56 +98,56 @@
           "discovery": 0.3,
           "composite": 0.535
         }
-      },
-      {
-        "title": "How Did Our 2025 Pop Star Rookie of the Year Olivia Dean Take Over the World So&#160;Quickly?",
-        "url": "https://www.billboard.com/music/pop/olivia-dean-podcast-greatest-pop-stars-rookie-of-the-year-1236156568/",
-        "timestamp": "18:05",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.51
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "THE ONE ROLE MICHAEL CAINE SWORE HE'D NEVER PLAY: \"EMOTIONALLY, I COULDN'T DO IT\"",
-        "url": "https://faroutmagazine.co.uk/one-role-michael-caine-swore-hed-never-play/",
-        "timestamp": "2026-01-16T19:22:18.131Z",
+        "title": "BULLS EXHAUSTED? BITCOIN MOMENTUM FADES AS ETF BUYING FRENZY SLOWS",
+        "url": "https://news.bitcoin.com/bulls-exhausted-bitcoin-momentum-fades-as-etf-buying-frenzy-slows/",
+        "timestamp": "2026-01-16T20:26:13.579Z",
         "source": "splash",
         "scores": {
-          "impact": 0.4,
+          "impact": 0.5,
           "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5700000000000001
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "THE ONE ROLE MICHAEL CAINE SWORE HE'D NEVER PLAY: \"EMOTIONALLY, I COULDN'T DO IT\"",
-      "url": "https://faroutmagazine.co.uk/one-role-michael-caine-swore-hed-never-play/",
-      "timestamp": "2026-01-16T19:22:18.131Z",
+      "title": "BULLS EXHAUSTED? BITCOIN MOMENTUM FADES AS ETF BUYING FRENZY SLOWS",
+      "url": "https://news.bitcoin.com/bulls-exhausted-bitcoin-momentum-fades-as-etf-buying-frenzy-slows/",
+      "timestamp": "2026-01-16T20:26:13.579Z",
       "source": "splash",
       "scores": {
-        "impact": 0.4,
+        "impact": 0.5,
         "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5700000000000001
+        "composite": 0.6100000000000001
+      }
+    },
+    {
+      "title": "Who has the most consecutive Oscar nominations for 'Best Picture'?",
+      "url": "https://faroutmagazine.co.uk/most-consecutive-oscar-nominations-for-best-picture/",
+      "timestamp": "19:45",
+      "source": "automated",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.55
       }
     },
     {
       "title": "Arcángel's Sober Album 'La 8va Maravilla' & More Best New Music&#160;Latin",
       "url": "https://www.billboard.com/music/latin/best-new-music-latin-arcangel-album-more-releases-1236156330/",
       "timestamp": "18:50",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.75,
@@ -147,7 +160,7 @@
       "title": "Happy Birthday, Dolly! Here’s Every Parton Album That Has Topped a Billboard Chart, Including a Few&#160;Surprises",
       "url": "https://www.billboard.com/lists/dolly-parton-album-charts-topped-birthday/",
       "timestamp": "18:55",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.7,
         "engagement": 0.6,
@@ -157,42 +170,16 @@
       }
     },
     {
-      "title": "Severance actor Ólafur Darri Ólafsson joins the cast of How to Train Your Dragon 2 as the villain Drago Bludvist",
-      "url": "https://www.joblo.com/how-to-train-your-dragon-2-drago-villain/",
-      "timestamp": "19:03",
-      "source": "mainColumn",
-      "scores": {
-        "impact": 0.55,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.5000000000000001
-      }
-    },
-    {
       "title": "A$AP Rocky, Hilary Duff, Charli XCX and All the Songs You Need to Know This Week",
       "url": "https://www.rollingstone.com/music/music-features/asap-rocky-hilary-duff-charli-xcx-songs-you-need-to-know-1235498966/",
       "timestamp": "18:43",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.5,
         "engagement": 0.5,
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.44
-      }
-    },
-    {
-      "title": "How Did Our 2025 Pop Star Rookie of the Year Olivia Dean Take Over the World So&#160;Quickly?",
-      "url": "https://www.billboard.com/music/pop/olivia-dean-podcast-greatest-pop-stars-rookie-of-the-year-1236156568/",
-      "timestamp": "18:05",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.7999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.51
       }
     }
   ],
