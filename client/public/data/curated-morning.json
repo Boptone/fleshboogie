@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-16T16:34:50.851Z",
+  "curatedAt": "2026-01-16T17:27:43.559Z",
   "totalAnalyzed": 66,
   "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "VERTICAL ACQUIRES CONTEMPORARY 'HAMLET' ADAPTATION STARRING RIZ AHMED",
-      "url": "https://deadline.com/2026/01/riz-ahmed-hamlet-movie-release-date-vertical-1236685185/",
-      "timestamp": "2026-01-16T16:34:47.875Z",
+      "title": "X HAS BEEN DOWN FOR MOST OF THE MORNING",
+      "url": "https://www.engadget.com/social-media/x-has-been-down-for-most-of-the-morning-171843527.html?src=rss",
+      "timestamp": "2026-01-16T17:27:40.549Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
@@ -34,7 +34,7 @@
         "title": "Essential Releases, January 16, 2026",
         "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
         "timestamp": "15:16",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.6,
@@ -73,47 +73,47 @@
         }
       },
       {
-        "title": "3 new to Prime Video shows to binge-watch this weekend (Jan. 16-18)",
-        "url": "https://www.tomsguide.com/entertainment/prime-video/3-new-to-prime-video-shows-to-binge-watch-this-weekend-jan-16-18",
-        "timestamp": "15:23",
+        "title": "5 Shows To Binge-Watch on Netflix If You Miss 'Stranger Things'",
+        "url": "https://www.thewrap.com/creative-content/what-to-watch/shows-to-binge-watch-after-stranger-things/",
+        "timestamp": "17:00",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7999999999999999,
+          "engagement": 0.75,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.51
+          "composite": 0.495
         }
       }
     ],
     "wildcard": [
       {
-        "title": "VERTICAL ACQUIRES CONTEMPORARY 'HAMLET' ADAPTATION STARRING RIZ AHMED",
-        "url": "https://deadline.com/2026/01/riz-ahmed-hamlet-movie-release-date-vertical-1236685185/",
-        "timestamp": "2026-01-16T16:34:47.875Z",
+        "title": "X HAS BEEN DOWN FOR MOST OF THE MORNING",
+        "url": "https://www.engadget.com/social-media/x-has-been-down-for-most-of-the-morning-171843527.html?src=rss",
+        "timestamp": "2026-01-16T17:27:40.549Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "VERTICAL ACQUIRES CONTEMPORARY 'HAMLET' ADAPTATION STARRING RIZ AHMED",
-      "url": "https://deadline.com/2026/01/riz-ahmed-hamlet-movie-release-date-vertical-1236685185/",
-      "timestamp": "2026-01-16T16:34:47.875Z",
+      "title": "X HAS BEEN DOWN FOR MOST OF THE MORNING",
+      "url": "https://www.engadget.com/social-media/x-has-been-down-for-most-of-the-morning-171843527.html?src=rss",
+      "timestamp": "2026-01-16T17:27:40.549Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     {
@@ -133,7 +133,7 @@
       "title": "Essential Releases, January 16, 2026",
       "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
       "timestamp": "15:16",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.6,
@@ -169,16 +169,16 @@
       }
     },
     {
-      "title": "3 new to Prime Video shows to binge-watch this weekend (Jan. 16-18)",
-      "url": "https://www.tomsguide.com/entertainment/prime-video/3-new-to-prime-video-shows-to-binge-watch-this-weekend-jan-16-18",
-      "timestamp": "15:23",
+      "title": "5 Shows To Binge-Watch on Netflix If You Miss 'Stranger Things'",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/shows-to-binge-watch-after-stranger-things/",
+      "timestamp": "17:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7999999999999999,
+        "engagement": 0.75,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.51
+        "composite": 0.495
       }
     }
   ],
