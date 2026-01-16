@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "75 YEARS OF THE TELECASTER: WHY THIS GUITAR STILL DOES IT ALL TODAY",
-    "url": "https://www.gearnews.com/75-years-of-the-telecaster-guitar/",
+    "headline": "SMART PLUG GUIDE (2026): WHEN YOU SHOULD AND SHOULDN’T USE ONE",
+    "url": "https://www.wired.com/story/do-you-need-a-smart-plug/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "3 new to Netflix movies to stream this weekend (Jan. 16-18)",
-      "url": "https://www.tomsguide.com/entertainment/netflix/3-new-to-netflix-movies-to-stream-this-weekend-jan-16-18",
-      "timestamp": "11:09",
+      "title": "Jefferies’ ‘Greed & Fear’ strategist cuts Bitcoin allocation to zero on quantum risk",
+      "url": "https://cointelegraph.com/news/efferies-greed-fear-strategist-cuts-bitcoin-allocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "12:35",
       "pinned": false
     },
     {
-      "title": "Book Publishers Seek Entry Into Google AI Copyright Fight",
-      "url": "https://decrypt.co/354846/book-publishers-seek-entry-into-google-ai-copyright-fight",
-      "timestamp": "11:06",
+      "title": "10K Audio updates Gyro with User Samples and MIDI Out in v1.1 update",
+      "url": "https://rekkerd.org/10k-audio-updates-gyro-with-user-samples-and-midi-out-in-v1-1-update/",
+      "timestamp": "12:33",
       "pinned": false
     },
     {
-      "title": "Proel Digipad8: A Compact Digital Mixer with Motorized Faders",
-      "url": "https://www.gearnews.com/proel-digipad8-live/",
-      "timestamp": "11:05",
+      "title": "Artemis: Crypto Cards Grew to Rival P2P Stablecoin Payments",
+      "url": "https://news.bitcoin.com/artemis-crypto-cards-grew-to-rival-p2p-stablecoin-payments/",
+      "timestamp": "12:30",
       "pinned": false
     },
     {
-      "title": "Brian May rules Queen out of Glastonbury because they are \"killing badgers\"",
-      "url": "https://faroutmagazine.co.uk/brian-may-rules-queen-out-of-glastonbury-killing-badgers/",
-      "timestamp": "11:04",
+      "title": "Oscar Isaac's favourite heavy metal album: \"Metal meets Gregorian chants\"",
+      "url": "https://faroutmagazine.co.uk/oscar-isaacs-favourite-heavy-metal-album/",
+      "timestamp": "12:30",
       "pinned": false
     },
     {
-      "title": "Best Crypto Exchanges of 2026 So Far – Mid-January Market Leaders",
-      "url": "https://news.bitcoin.com/best-crypto-exchanges-2026-so-far/",
-      "timestamp": "11:03",
+      "title": "How Jack O'Connell Became Hollywood's Favorite Bad Guy",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/jack-o-connell-sinners-28-years-bone-temple-jimmy-interview-1236472152/",
+      "timestamp": "12:30",
       "pinned": false
     }
   ],
@@ -105,6 +105,216 @@
   ],
   "automated": [
     {
+      "title": "Smart Plug Guide (2026): When You Should and Shouldn’t Use One",
+      "url": "https://www.wired.com/story/do-you-need-a-smart-plug/",
+      "timestamp": "12:37",
+      "pubDate": "2026-01-16T12:37:00.000Z"
+    },
+    {
+      "title": "Jefferies’ ‘Greed & Fear’ strategist cuts Bitcoin allocation to zero on quantum risk",
+      "url": "https://cointelegraph.com/news/efferies-greed-fear-strategist-cuts-bitcoin-allocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "12:35",
+      "pubDate": "2026-01-16T12:35:03.000Z"
+    },
+    {
+      "title": "10K Audio updates Gyro with User Samples and MIDI Out in v1.1 update",
+      "url": "https://rekkerd.org/10k-audio-updates-gyro-with-user-samples-and-midi-out-in-v1-1-update/",
+      "timestamp": "12:33",
+      "pubDate": "2026-01-16T12:33:56.000Z"
+    },
+    {
+      "title": "Artemis: Crypto Cards Grew to Rival P2P Stablecoin Payments",
+      "url": "https://news.bitcoin.com/artemis-crypto-cards-grew-to-rival-p2p-stablecoin-payments/",
+      "timestamp": "12:30",
+      "pubDate": "2026-01-16T12:30:39.000Z"
+    },
+    {
+      "title": "Oscar Isaac's favourite heavy metal album: \"Metal meets Gregorian chants\"",
+      "url": "https://faroutmagazine.co.uk/oscar-isaacs-favourite-heavy-metal-album/",
+      "timestamp": "12:30",
+      "pubDate": "2026-01-16T12:30:00.000Z"
+    },
+    {
+      "title": "How Jack O'Connell Became Hollywood's Favorite Bad Guy",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/jack-o-connell-sinners-28-years-bone-temple-jimmy-interview-1236472152/",
+      "timestamp": "12:30",
+      "pubDate": "2026-01-16T12:30:00.000Z"
+    },
+    {
+      "title": "I tested ChatGPT Translate vs Google Translate — one was the clear winner",
+      "url": "https://www.tomsguide.com/ai/i-tested-chatgpt-translate-vs-google-translate-one-came-out-as-the-clear-winner",
+      "timestamp": "12:30",
+      "pubDate": "2026-01-16T12:30:00.000Z"
+    },
+    {
+      "title": "Foo Fighters celebrate Dave Grohl's birthday with famous friends and 16,000 fans at benefit show",
+      "url": "https://www.nme.com/news/music/foo-fighters-celebrate-dave-grohls-birthday-with-famous-friends-and-16000-fans-at-benefit-show-3923645?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-celebrate-dave-grohls-birthday-with-famous-friends-and-16000-fans-at-benefit-show",
+      "timestamp": "12:29",
+      "pubDate": "2026-01-16T12:29:36.000Z"
+    },
+    {
+      "title": "Lola Shoneyin’s Novel ‘The Secret Lives Of Baba Segi’s Wives’ To Be Adapted For Big Screen With Mo Abudu’s EbonyLife Films",
+      "url": "https://deadline.com/2026/01/lola-shoneyinthe-secret-lives-of-baba-segis-wives-mo-abudu-1236684946/",
+      "timestamp": "12:23",
+      "pubDate": "2026-01-16T12:23:55.000Z"
+    },
+    {
+      "title": "Track of the week: Mitski returns in a fit of apathetic mania on 'Where's My Phone?'",
+      "url": "https://faroutmagazine.co.uk/track-of-the-week-mitski-returns-wheres-my-phone/",
+      "timestamp": "12:23",
+      "pubDate": "2026-01-16T12:23:41.000Z"
+    },
+    {
+      "title": "Isabelle Eberdean – Brew Boy (Bella Boo Remix)",
+      "url": "https://www.stereofox.com/isabelle-eberdean-brew-boy-bella-boo-remix-ft-bella-boo/",
+      "timestamp": "12:18",
+      "pubDate": "2026-01-16T12:18:19.000Z"
+    },
+    {
+      "title": "Sam Raimi praises \"original and frightening\" 'Weapons' and reveals favourite horror movies",
+      "url": "https://www.nme.com/news/film/sam-raimi-praises-original-frightening-weapons-reveals-favourite-horror-movies-3923629?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sam-raimi-praises-original-frightening-weapons-reveals-favourite-horror-movies",
+      "timestamp": "12:13",
+      "pubDate": "2026-01-16T12:13:33.000Z"
+    },
+    {
+      "title": "Berlin Film Festival to Open With Afghan Director Shahrbanoo Sadat's Romantic Comedy 'No Good Men'",
+      "url": "https://variety.com/2026/film/global/afghan-shahrbanoo-sadat-no-good-men-berlin-film-festival-1236632975/",
+      "timestamp": "12:13",
+      "pubDate": "2026-01-16T12:13:00.000Z"
+    },
+    {
+      "title": "Berlin Film Festival to Open With 'No Good Men' From Afghan Director Shahrbanoo Sadat",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/berlin-film-festival-2026-open-no-good-men-shahrbanoo-sadat-1236476138/",
+      "timestamp": "12:11",
+      "pubDate": "2026-01-16T12:11:33.000Z"
+    },
+    {
+      "title": "Slate Digital ML-2A: Small-Diaphragm Mic Pair for VMS",
+      "url": "https://www.gearnews.com/slate-digital-ml-2a-studio/",
+      "timestamp": "12:10",
+      "pubDate": "2026-01-16T12:10:23.000Z"
+    },
+    {
+      "title": "What will give you the marketing edge in 2026?",
+      "url": "https://musically.com/2026/01/16/what-will-give-you-the-marketing-edge-in-2026/",
+      "timestamp": "12:09",
+      "pubDate": "2026-01-16T12:09:01.000Z"
+    },
+    {
+      "title": "Berlin Film Festival To Open With ‘No Good Men’ By Afghan Director Shahrbanoo Sadat",
+      "url": "https://deadline.com/2026/01/berlin-film-festival-no-good-men-shahrbanoo-sadat-2026-1236684969/",
+      "timestamp": "12:04",
+      "pubDate": "2026-01-16T12:04:13.000Z"
+    },
+    {
+      "title": "Instagram adds new Edits app updates",
+      "url": "https://musically.com/2026/01/16/instagram-adds-new-edits-app-updates/",
+      "timestamp": "12:03",
+      "pubDate": "2026-01-16T12:03:57.000Z"
+    },
+    {
+      "title": "Don't make the same mistake I did — this is the safest place to keep your air fryer in your kitchen",
+      "url": "https://www.tomsguide.com/home/air-fryers/dont-make-the-same-mistake-i-did-this-is-the-safest-place-to-keep-your-air-fryer-in-your-kitchen",
+      "timestamp": "12:02",
+      "pubDate": "2026-01-16T12:02:52.000Z"
+    },
+    {
+      "title": "Langchain: Example of Perstitence With Short-term momory in Postgres database",
+      "url": "https://pub.towardsai.net/langchain-example-of-perstitence-with-short-term-momory-in-postgres-database-67ecb3236659?source=rss----98111c9905da---4",
+      "timestamp": "12:01",
+      "pubDate": "2026-01-16T12:01:59.000Z"
+    },
+    {
+      "title": "Add to playlist: the dark fog of Los Angeles saxophonist Aaron Shaw and the week’s best new tracks",
+      "url": "https://www.theguardian.com/music/2026/jan/16/add-to-playlist-saxophonist-aaron-shaw",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-16T12:00:56.000Z"
+    },
+    {
+      "title": "WCH CH32M030: Another Microcontroller To Watch Out For",
+      "url": "https://hackaday.com/2026/01/16/wch-ch32m030-another-microcontroller-to-watch-out-for/",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-16T12:00:53.000Z"
+    },
+    {
+      "title": "London Film Critics’ Circle To Fete Guillermo Del Toro",
+      "url": "https://deadline.com/2026/01/london-film-critics-circle-guillermo-del-toro-2026-1236684979/",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-16T12:00:00.000Z"
+    },
+    {
+      "title": "How Does the Hive Mind Work in ‘Pluribus?",
+      "url": "https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-16T12:00:00.000Z"
+    },
+    {
+      "title": "DJI Action 6 Review: The Best Action Camera Is Now Better",
+      "url": "https://www.wired.com/review/dji-action-6/",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-16T12:00:00.000Z"
+    },
+    {
+      "title": "Your weekend binge list: 10 new shows and movies to stream on Netflix, Hulu and more (Jan. 16-18)",
+      "url": "https://www.tomsguide.com/entertainment/streaming/your-weekend-binge-list-10-new-shows-and-movies-to-stream-on-netflix-hulu-and-more-jan-16-18",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-16T12:00:00.000Z"
+    },
+    {
+      "title": "How the most creative people are using AI to reach new levels",
+      "url": "https://www.fastcompany.com/91472893/ai-creativity?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-16T12:00:00.000Z"
+    },
+    {
+      "title": "How Does the Hive Mind Work in ‘Pluribus?",
+      "url": "https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/",
+      "timestamp": "12:00",
+      "pubDate": "2026-01-16T12:00:00.000Z"
+    },
+    {
+      "title": "Mitski is leaking her phone number to fans",
+      "url": "https://musically.com/2026/01/16/mitski-is-leaking-her-phone-number-to-fans/",
+      "timestamp": "11:57",
+      "pubDate": "2026-01-16T11:57:10.000Z"
+    },
+    {
+      "title": "Baltra – Just Me & U",
+      "url": "https://www.stereofox.com/baltra-just-me-u/",
+      "timestamp": "11:54",
+      "pubDate": "2026-01-16T11:54:26.000Z"
+    },
+    {
+      "title": "iPhone 18 Pro tipped for major upgrades inside and out — here's what's rumored for the next-gen iPhone's cameras, performance and more",
+      "url": "https://www.tomsguide.com/phones/iphones/iphone-18-pro-tipped-for-major-upgrades-inside-and-out-heres-whats-rumored-for-the-next-gen-iphones-cameras-performance-and-more",
+      "timestamp": "11:47",
+      "pubDate": "2026-01-16T11:47:37.000Z"
+    },
+    {
+      "title": "Nvidia insists all RTX 50-series GPUs will ‘continue to ship’ — here’s what that actually means",
+      "url": "https://www.tomsguide.com/computing/gpus/nvidia-insists-all-rtx-50-series-gpus-will-continue-to-ship-heres-what-that-actually-means",
+      "timestamp": "11:38",
+      "pubDate": "2026-01-16T11:38:39.000Z"
+    },
+    {
+      "title": "Brian May explains his issue with The Beatles biopics: \"I would dread it if that happened to Queen\"",
+      "url": "https://faroutmagazine.co.uk/brian-may-issue-the-beatles-biopics-i-would-dread-it-queen/",
+      "timestamp": "11:31",
+      "pubDate": "2026-01-16T11:31:16.000Z"
+    },
+    {
+      "title": "The \"true artist\" Matt Damon called the ultimate \"goal\"",
+      "url": "https://faroutmagazine.co.uk/true-artist-matt-damon-called-the-ultimate-goal/",
+      "timestamp": "11:27",
+      "pubDate": "2026-01-16T11:27:07.000Z"
+    },
+    {
+      "title": "Tributes paid to early Siouxsie And The Banshees drummer Kenny Morris, age 68: \"A kind, delicate, cool and talented soul”",
+      "url": "https://www.nme.com/news/music/tributes-paid-to-siouxsie-and-the-banshees-drummer-kenny-morris-3923625?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tributes-paid-to-siouxsie-and-the-banshees-drummer-kenny-morris",
+      "timestamp": "11:26",
+      "pubDate": "2026-01-16T11:26:27.000Z"
+    },
+    {
       "title": "75 Years of the Telecaster: Why This Guitar Still Does It All Today",
       "url": "https://www.gearnews.com/75-years-of-the-telecaster-guitar/",
       "timestamp": "11:17",
@@ -133,252 +343,57 @@
       "url": "https://faroutmagazine.co.uk/brian-may-rules-queen-out-of-glastonbury-killing-badgers/",
       "timestamp": "11:04",
       "pubDate": "2026-01-16T11:04:00.000Z"
-    },
-    {
-      "title": "Best Crypto Exchanges of 2026 So Far – Mid-January Market Leaders",
-      "url": "https://news.bitcoin.com/best-crypto-exchanges-2026-so-far/",
-      "timestamp": "11:03",
-      "pubDate": "2026-01-16T11:03:44.000Z"
-    },
-    {
-      "title": "A Very 2026 Art Reading List",
-      "url": "https://hyperallergic.com/a-very-2026-art-reading-list/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-16T11:00:59.000Z"
-    },
-    {
-      "title": "Benedict Cumberbatch's weird first meeting with Radiohead: \"I was really nervous\"",
-      "url": "https://faroutmagazine.co.uk/benedict-cumberbatch-weird-first-meeting-with-radiohead/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-16T11:00:00.000Z"
-    },
-    {
-      "title": "\"Culture Is an Act of Resistance,\" Says Outgoing European Film Academy Chair Mike Downey",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/mike-downey-on-stepping-down-as-efa-chairman-1236475414/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-16T11:00:00.000Z"
-    },
-    {
-      "title": "5 AirPods features we want to see on other wireless earbuds",
-      "url": "https://www.tomsguide.com/feature/5-Airpods-features-we-want-to-see-on-other-wireless-earbuds",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-16T11:00:00.000Z"
-    },
-    {
-      "title": "Sleeping with your bedroom door closed could be why you keep waking up at night — a doctor explains why",
-      "url": "https://www.tomsguide.com/wellness/sleep/sleeping-with-your-bedroom-door-closed-could-be-why-you-keep-waking-up-at-night-a-doctor-explains-why",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-16T11:00:00.000Z"
-    },
-    {
-      "title": "Crypto exchanges face ban in South Korea as Google Play updates rules",
-      "url": "https://cointelegraph.com/news/google-play-crypto-app-rules-south-korea-exchanges-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "10:39",
-      "pubDate": "2026-01-16T10:39:00.000Z"
-    },
-    {
-      "title": "11 EH/s: Bitmain Eyes a New Bitcoin Mining Proxy? – Miner Weekly",
-      "url": "https://news.bitcoin.com/11-eh-s-bitmain-eyes-a-new-bitcoin-mining-proxy-miner-weekly/",
-      "timestamp": "10:30",
-      "pubDate": "2026-01-16T10:30:55.000Z"
-    },
-    {
-      "title": "Will Hisense release new versions of its most popular TVs this year? Here’s what we know so far",
-      "url": "https://www.tomsguide.com/tvs/qled-tvs/will-hisense-release-new-versions-of-its-most-popular-tvs-this-year-heres-what-we-know-so-far",
-      "timestamp": "10:30",
-      "pubDate": "2026-01-16T10:30:00.000Z"
-    },
-    {
-      "title": "Remembering David Lynch: why the surreal master will live on forever",
-      "url": "https://faroutmagazine.co.uk/remembering-david-lynch-surreal-master/",
-      "timestamp": "10:24",
-      "pubDate": "2026-01-16T10:24:14.000Z"
-    },
-    {
-      "title": "Netflix just got one of 2025’s most chilling dark thriller movies — and I bet you can’t guess the twist",
-      "url": "https://www.tomsguide.com/entertainment/netflix/netflix-just-got-one-of-2025s-most-chilling-dark-thriller-movies-and-i-bet-you-cant-guess-the-twist",
-      "timestamp": "10:15",
-      "pubDate": "2026-01-16T10:15:00.000Z"
-    },
-    {
-      "title": "The ending of 'His & Hers' explained: who is revealed to be the killer?",
-      "url": "https://www.nme.com/news/tv/the-ending-of-his-hers-explained-who-is-revealed-to-be-the-killer-3923590?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-ending-of-his-hers-explained-who-is-revealed-to-be-the-killer",
-      "timestamp": "10:05",
-      "pubDate": "2026-01-16T10:05:31.000Z"
-    },
-    {
-      "title": "The best midrange smartphone for 2026",
-      "url": "https://www.engadget.com/mobile/smartphones/best-midrange-smartphone-183006463.html?src=rss",
-      "timestamp": "10:01",
-      "pubDate": "2026-01-16T10:01:27.000Z"
-    },
-    {
-      "title": "Pamela Anderson says seeing Seth Rogen at the Golden Globes \"felt yucky\" after 'Pam & Tommy' fallout",
-      "url": "https://www.nme.com/news/tv/pamela-anderson-says-seeing-seth-rogen-golden-globes-felt-yucky-3923575?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pamela-anderson-says-seeing-seth-rogen-golden-globes-felt-yucky",
-      "timestamp": "10:01",
-      "pubDate": "2026-01-16T10:01:04.000Z"
-    },
-    {
-      "title": "Remembering jazz singer Rebecca Kilgore",
-      "url": "https://www.npr.org/2026/01/16/nx-s1-5677530/remembering-jazz-singer-rebecca-kilgore",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-16T10:00:00.000Z"
-    },
-    {
-      "title": "John Fogerty: Tiny Desk Concert",
-      "url": "https://www.npr.org/2026/01/16/g-s1-104915/john-fogerty-tiny-desk-concert",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-16T10:00:00.000Z"
-    },
-    {
-      "title": "The artist Elton John called \"one of the best songwriters\"",
-      "url": "https://faroutmagazine.co.uk/the-singer-elton-john-called-one-of-the-british-songwriters/",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-16T10:00:00.000Z"
-    },
-    {
-      "title": "I was worried about Apple’s rumored iPhone 18 release plans but now I think users will benefit",
-      "url": "https://www.tomsguide.com/phones/iphones/i-was-worried-about-apples-rumored-iphone-18-release-plans-but-now-i-think-users-will-benefit",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-16T10:00:00.000Z"
-    },
-    {
-      "title": "Three technologies that will shape biotech in 2026",
-      "url": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-16T10:00:00.000Z"
-    },
-    {
-      "title": "Are we ready for OpenAI to put ads into ChatGPT?",
-      "url": "https://www.fastcompany.com/91472395/openai-chatgpt-advertising-television-trust?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-16T10:00:00.000Z"
-    },
-    {
-      "title": "The world is getting tougher on kids’ online safety in 2026",
-      "url": "https://www.fastcompany.com/91474179/the-world-is-getting-tougher-on-kids-online-safety-in-2026?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss",
-      "timestamp": "10:00",
-      "pubDate": "2026-01-16T10:00:00.000Z"
-    },
-    {
-      "title": "Polygon trims workforce amid $250M stablecoin payments pivot",
-      "url": "https://cointelegraph.com/news/polygon-labs-layoffs-payments-first-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "09:54",
-      "pubDate": "2026-01-16T09:54:11.000Z"
-    },
-    {
-      "title": "Leonard Cohen's emotional final encore at his last ever performance: “Friends, I want to thank you\"",
-      "url": "https://faroutmagazine.co.uk/leonard-cohen-final-encore-show-performance/",
-      "timestamp": "09:38",
-      "pubDate": "2026-01-16T09:38:57.000Z"
-    },
-    {
-      "title": "‘This standing abs sequence challenges your core through rotation, balance, and controlled strength’ — and it's demanding, effective and easy to do at home, according to a personal trainer",
-      "url": "https://www.tomsguide.com/wellness/fitness/this-standing-abs-sequence-challenges-your-core-through-rotation-balance-and-controlled-strength-and-its-demanding-effective-and-easy-to-do-at-home-according-to-a-personal-trainer",
-      "timestamp": "09:30",
-      "pubDate": "2026-01-16T09:30:00.000Z"
-    },
-    {
-      "title": "Discord is suddenly locking down servers for the same alarming reason X just purged these crypto developers",
-      "url": "https://cryptoslate.com/discord-is-suddenly-locking-down-servers-for-the-same-alarming-reason-x-just-purged-these-crypto-developers/",
-      "timestamp": "09:12",
-      "pubDate": "2026-01-16T09:12:38.000Z"
-    },
-    {
-      "title": "Waking up at 5am? An expert explains why your thermostat might be to blame",
-      "url": "https://www.tomsguide.com/wellness/sleep/why-your-thermostat-is-waking-you-up-at-5am",
-      "timestamp": "09:09",
-      "pubDate": "2026-01-16T09:09:34.000Z"
-    },
-    {
-      "title": "Jessie Buckley's favourite song: \"You think about the things that you've left behind\"",
-      "url": "https://faroutmagazine.co.uk/jessie-buckleys-favourite-song-of-all-time/",
-      "timestamp": "09:00",
-      "pubDate": "2026-01-16T09:00:00.000Z"
-    },
-    {
-      "title": "Rice water is the secret to bigger, healthier plants — here's how to use it",
-      "url": "https://www.tomsguide.com/home/gardening/rice-water-is-the-secret-to-bigger-healthier-plants-heres-how-to-use-it",
-      "timestamp": "09:00",
-      "pubDate": "2026-01-16T09:00:00.000Z"
-    },
-    {
-      "title": "A PSOne In the Palm of Your Hand",
-      "url": "https://hackaday.com/2026/01/16/a-psone-in-the-palm-of-your-hand/",
-      "timestamp": "09:00",
-      "pubDate": "2026-01-16T09:00:00.000Z"
-    },
-    {
-      "title": "BTS Reveal 'Deeply Reflective' Title for Their Comeback Album",
-      "url": "https://www.rollingstone.com/music/music-news/bts-comeback-album-title-1235500483/",
-      "timestamp": "08:37",
-      "pubDate": "2026-01-16T08:37:17.000Z"
-    },
-    {
-      "title": "When is '28 Years Later: The Bone Temple' coming to streaming? Here's our best guess",
-      "url": "https://www.tomsguide.com/entertainment/streaming/when-is-28-years-later-the-bone-temple-coming-to-streaming",
-      "timestamp": "08:30",
-      "pubDate": "2026-01-16T08:30:00.000Z"
-    },
-    {
-      "title": "Charlie Puth’s ‘Beat Yourself Up’ Is a Trip Back In Time: Stream It&#160;Out",
-      "url": "https://www.billboard.com/music/pop/charlie-puth-beat-yourself-up-stream-it-out-1236156277/",
-      "timestamp": "08:16",
-      "pubDate": "2026-01-16T08:16:51.000Z"
-    },
-    {
-      "title": "A$AP Rocky's New Album, 'Don't Be Dumb,' Is Here",
-      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-release-1235500476/",
-      "timestamp": "08:13",
-      "pubDate": "2026-01-16T08:13:08.000Z"
-    },
-    {
-      "title": "7 hidden Apple Watch features I swear by",
-      "url": "https://www.tomsguide.com/wellness/smartwatches/7-hidden-apple-watch-features-i-swear-by",
-      "timestamp": "08:01",
-      "pubDate": "2026-01-16T08:01:00.000Z"
-    },
-    {
-      "title": "Sleaford Mods: The Demise of Planet X review – vulnerability and versatility widen potty-mouthed appeal",
-      "url": "https://www.theguardian.com/music/2026/jan/16/sleaford-mods-the-demise-of-planet-x-review-rough-trade",
-      "timestamp": "08:00",
-      "pubDate": "2026-01-16T08:00:05.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "Brian May rules Queen out of Glastonbury because they are \"killing badgers\"",
-      "url": "https://faroutmagazine.co.uk/brian-may-rules-queen-out-of-glastonbury-killing-badgers/",
-      "timestamp": "11:04"
+      "title": "Oscar Isaac's favourite heavy metal album: \"Metal meets Gregorian chants\"",
+      "url": "https://faroutmagazine.co.uk/oscar-isaacs-favourite-heavy-metal-album/",
+      "timestamp": "12:30"
     },
     {
-      "title": "Benedict Cumberbatch's weird first meeting with Radiohead: \"I was really nervous\"",
-      "url": "https://faroutmagazine.co.uk/benedict-cumberbatch-weird-first-meeting-with-radiohead/",
-      "timestamp": "11:00"
+      "title": "Foo Fighters celebrate Dave Grohl's birthday with famous friends and 16,000 fans at benefit show",
+      "url": "https://www.nme.com/news/music/foo-fighters-celebrate-dave-grohls-birthday-with-famous-friends-and-16000-fans-at-benefit-show-3923645?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=foo-fighters-celebrate-dave-grohls-birthday-with-famous-friends-and-16000-fans-at-benefit-show",
+      "timestamp": "12:29"
     },
     {
-      "title": "Remembering David Lynch: why the surreal master will live on forever",
-      "url": "https://faroutmagazine.co.uk/remembering-david-lynch-surreal-master/",
-      "timestamp": "10:24"
+      "title": "Track of the week: Mitski returns in a fit of apathetic mania on 'Where's My Phone?'",
+      "url": "https://faroutmagazine.co.uk/track-of-the-week-mitski-returns-wheres-my-phone/",
+      "timestamp": "12:23"
     },
     {
-      "title": "The ending of 'His & Hers' explained: who is revealed to be the killer?",
-      "url": "https://www.nme.com/news/tv/the-ending-of-his-hers-explained-who-is-revealed-to-be-the-killer-3923590?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-ending-of-his-hers-explained-who-is-revealed-to-be-the-killer",
-      "timestamp": "10:05"
+      "title": "Isabelle Eberdean – Brew Boy (Bella Boo Remix)",
+      "url": "https://www.stereofox.com/isabelle-eberdean-brew-boy-bella-boo-remix-ft-bella-boo/",
+      "timestamp": "12:18"
     },
     {
-      "title": "Pamela Anderson says seeing Seth Rogen at the Golden Globes \"felt yucky\" after 'Pam & Tommy' fallout",
-      "url": "https://www.nme.com/news/tv/pamela-anderson-says-seeing-seth-rogen-golden-globes-felt-yucky-3923575?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pamela-anderson-says-seeing-seth-rogen-golden-globes-felt-yucky",
-      "timestamp": "10:01"
+      "title": "Add to playlist: the dark fog of Los Angeles saxophonist Aaron Shaw and the week’s best new tracks",
+      "url": "https://www.theguardian.com/music/2026/jan/16/add-to-playlist-saxophonist-aaron-shaw",
+      "timestamp": "12:00"
     },
     {
-      "title": "Remembering jazz singer Rebecca Kilgore",
-      "url": "https://www.npr.org/2026/01/16/nx-s1-5677530/remembering-jazz-singer-rebecca-kilgore",
-      "timestamp": "10:00"
+      "title": "Baltra – Just Me & U",
+      "url": "https://www.stereofox.com/baltra-just-me-u/",
+      "timestamp": "11:54"
+    },
+    {
+      "title": "Brian May explains his issue with The Beatles biopics: \"I would dread it if that happened to Queen\"",
+      "url": "https://faroutmagazine.co.uk/brian-may-issue-the-beatles-biopics-i-would-dread-it-queen/",
+      "timestamp": "11:31"
+    },
+    {
+      "title": "Tributes paid to early Siouxsie And The Banshees drummer Kenny Morris, age 68: \"A kind, delicate, cool and talented soul”",
+      "url": "https://www.nme.com/news/music/tributes-paid-to-siouxsie-and-the-banshees-drummer-kenny-morris-3923625?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tributes-paid-to-siouxsie-and-the-banshees-drummer-kenny-morris",
+      "timestamp": "11:26"
     },
     {
       "title": "John Fogerty: Tiny Desk Concert",
       "url": "https://www.npr.org/2026/01/16/g-s1-104915/john-fogerty-tiny-desk-concert",
+      "timestamp": "10:00"
+    },
+    {
+      "title": "Remembering jazz singer Rebecca Kilgore",
+      "url": "https://www.npr.org/2026/01/16/nx-s1-5677530/remembering-jazz-singer-rebecca-kilgore",
       "timestamp": "10:00"
     },
     {
@@ -430,22 +445,7 @@
       "title": "Angel to Embark on 2026-2027 Farewell Tour",
       "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
       "timestamp": "17:54"
-    },
-    {
-      "title": "Iggy Pop, Bikini Kill Motor To Mosswood Meltdown",
-      "url": "https://www.spin.com/2026/01/mosswood-meltdown-lineup/",
-      "timestamp": "17:00"
-    },
-    {
-      "title": "The Best (and Worst) Solo LP From Every Member of Fleetwood Mac",
-      "url": "https://ultimateclassicrock.com/fleetwood-mac-best-solo-albums/",
-      "timestamp": "16:25"
-    },
-    {
-      "title": "Michelle Branch Covers Turnstile",
-      "url": "https://stereogum.com/2485509/michelle-branch-covers-turnstile/news/",
-      "timestamp": "16:18"
     }
   ],
-  "lastUpdated": "2026-01-16T11:23:18.601Z"
+  "lastUpdated": "2026-01-16T12:53:17.303Z"
 }

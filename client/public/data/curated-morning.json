@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-16T11:23:21.593Z",
+  "curatedAt": "2026-01-16T12:53:20.245Z",
   "totalAnalyzed": 66,
   "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "75 YEARS OF THE TELECASTER: WHY THIS GUITAR STILL DOES IT ALL TODAY",
-      "url": "https://www.gearnews.com/75-years-of-the-telecaster-guitar/",
-      "timestamp": "2026-01-16T11:23:18.601Z",
+      "title": "SMART PLUG GUIDE (2026): WHEN YOU SHOULD AND SHOULDN’T USE ONE",
+      "url": "https://www.wired.com/story/do-you-need-a-smart-plug/",
+      "timestamp": "2026-01-16T12:53:17.303Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
@@ -31,6 +31,19 @@
         }
       },
       {
+        "title": "DJI Action 6 Review: The Best Action Camera Is Now Better",
+        "url": "https://www.wired.com/review/dji-action-6/",
+        "timestamp": "12:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.55,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.5000000000000001
+        }
+      },
+      {
         "title": "Angel to Embark on 2026-2027 Farewell Tour",
         "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
         "timestamp": "17:54",
@@ -42,105 +55,79 @@
           "discovery": 0.3,
           "composite": 0.49
         }
-      },
-      {
-        "title": "7 hidden Apple Watch features I swear by",
-        "url": "https://www.tomsguide.com/wellness/smartwatches/7-hidden-apple-watch-features-i-swear-by",
-        "timestamp": "08:01",
-        "source": "automated",
-        "scores": {
-          "impact": 0.55,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.4850000000000001
-        }
       }
     ],
     "discovery": [
       {
-        "title": "Benedict Cumberbatch's weird first meeting with Radiohead: \"I was really nervous\"",
-        "url": "https://faroutmagazine.co.uk/benedict-cumberbatch-weird-first-meeting-with-radiohead/",
-        "timestamp": "11:00",
-        "source": "automated",
+        "title": "Oscar Isaac's favourite heavy metal album: \"Metal meets Gregorian chants\"",
+        "url": "https://faroutmagazine.co.uk/oscar-isaacs-favourite-heavy-metal-album/",
+        "timestamp": "12:30",
+        "source": "mainColumn",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.55,
+          "impact": 0.7,
+          "engagement": 0.5,
           "timeliness": 0.2,
           "discovery": 0.5,
-          "composite": 0.455
-        }
-      },
-      {
-        "title": "Sleeping with your bedroom door closed could be why you keep waking up at night — a doctor explains why",
-        "url": "https://www.tomsguide.com/wellness/sleep/sleeping-with-your-bedroom-door-closed-could-be-why-you-keep-waking-up-at-night-a-doctor-explains-why",
-        "timestamp": "11:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.4,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.445
+          "composite": 0.52
         }
       }
     ],
     "conversation": [
       {
-        "title": "75 YEARS OF THE TELECASTER: WHY THIS GUITAR STILL DOES IT ALL TODAY",
-        "url": "https://www.gearnews.com/75-years-of-the-telecaster-guitar/",
-        "timestamp": "2026-01-16T11:23:18.601Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6400000000000001
-        }
-      },
-      {
-        "title": "Will Hisense release new versions of its most popular TVs this year? Here’s what we know so far",
-        "url": "https://www.tomsguide.com/tvs/qled-tvs/will-hisense-release-new-versions-of-its-most-popular-tvs-this-year-heres-what-we-know-so-far",
-        "timestamp": "10:30",
+        "title": "What will give you the marketing edge in 2026?",
+        "url": "https://musically.com/2026/01/16/what-will-give-you-the-marketing-edge-in-2026/",
+        "timestamp": "12:09",
         "source": "automated",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.85,
+          "engagement": 0.7999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.525
+          "composite": 0.51
+        }
+      },
+      {
+        "title": "Your weekend binge list: 10 new shows and movies to stream on Netflix, Hulu and more (Jan. 16-18)",
+        "url": "https://www.tomsguide.com/entertainment/streaming/your-weekend-binge-list-10-new-shows-and-movies-to-stream-on-netflix-hulu-and-more-jan-16-18",
+        "timestamp": "12:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.7999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.51
         }
       }
     ],
     "wildcard": [
       {
-        "title": "75 YEARS OF THE TELECASTER: WHY THIS GUITAR STILL DOES IT ALL TODAY",
-        "url": "https://www.gearnews.com/75-years-of-the-telecaster-guitar/",
-        "timestamp": "2026-01-16T11:23:18.601Z",
+        "title": "SMART PLUG GUIDE (2026): WHEN YOU SHOULD AND SHOULDN’T USE ONE",
+        "url": "https://www.wired.com/story/do-you-need-a-smart-plug/",
+        "timestamp": "2026-01-16T12:53:17.303Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6400000000000001
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "75 YEARS OF THE TELECASTER: WHY THIS GUITAR STILL DOES IT ALL TODAY",
-      "url": "https://www.gearnews.com/75-years-of-the-telecaster-guitar/",
-      "timestamp": "2026-01-16T11:23:18.601Z",
+      "title": "SMART PLUG GUIDE (2026): WHEN YOU SHOULD AND SHOULDN’T USE ONE",
+      "url": "https://www.wired.com/story/do-you-need-a-smart-plug/",
+      "timestamp": "2026-01-16T12:53:17.303Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.6100000000000001
       }
     },
     {
@@ -157,6 +144,19 @@
       }
     },
     {
+      "title": "DJI Action 6 Review: The Best Action Camera Is Now Better",
+      "url": "https://www.wired.com/review/dji-action-6/",
+      "timestamp": "12:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.55,
+        "engagement": 0.7,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.5000000000000001
+      }
+    },
+    {
       "title": "Angel to Embark on 2026-2027 Farewell Tour",
       "url": "https://ultimateclassicrock.com/angel-farewell-tour/",
       "timestamp": "17:54",
@@ -170,55 +170,42 @@
       }
     },
     {
-      "title": "7 hidden Apple Watch features I swear by",
-      "url": "https://www.tomsguide.com/wellness/smartwatches/7-hidden-apple-watch-features-i-swear-by",
-      "timestamp": "08:01",
-      "source": "automated",
+      "title": "Oscar Isaac's favourite heavy metal album: \"Metal meets Gregorian chants\"",
+      "url": "https://faroutmagazine.co.uk/oscar-isaacs-favourite-heavy-metal-album/",
+      "timestamp": "12:30",
+      "source": "mainColumn",
       "scores": {
-        "impact": 0.55,
-        "engagement": 0.65,
+        "impact": 0.7,
+        "engagement": 0.5,
         "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.4850000000000001
+        "discovery": 0.5,
+        "composite": 0.52
       }
     },
     {
-      "title": "Benedict Cumberbatch's weird first meeting with Radiohead: \"I was really nervous\"",
-      "url": "https://faroutmagazine.co.uk/benedict-cumberbatch-weird-first-meeting-with-radiohead/",
-      "timestamp": "11:00",
+      "title": "What will give you the marketing edge in 2026?",
+      "url": "https://musically.com/2026/01/16/what-will-give-you-the-marketing-edge-in-2026/",
+      "timestamp": "12:09",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.55,
+        "engagement": 0.7999999999999999,
         "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.455
+        "discovery": 0.3,
+        "composite": 0.51
       }
     },
     {
-      "title": "Sleeping with your bedroom door closed could be why you keep waking up at night — a doctor explains why",
-      "url": "https://www.tomsguide.com/wellness/sleep/sleeping-with-your-bedroom-door-closed-could-be-why-you-keep-waking-up-at-night-a-doctor-explains-why",
-      "timestamp": "11:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.4,
-        "engagement": 0.65,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.445
-      }
-    },
-    {
-      "title": "Will Hisense release new versions of its most popular TVs this year? Here’s what we know so far",
-      "url": "https://www.tomsguide.com/tvs/qled-tvs/will-hisense-release-new-versions-of-its-most-popular-tvs-this-year-heres-what-we-know-so-far",
-      "timestamp": "10:30",
+      "title": "Your weekend binge list: 10 new shows and movies to stream on Netflix, Hulu and more (Jan. 16-18)",
+      "url": "https://www.tomsguide.com/entertainment/streaming/your-weekend-binge-list-10-new-shows-and-movies-to-stream-on-netflix-hulu-and-more-jan-16-18",
+      "timestamp": "12:00",
       "source": "automated",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.85,
+        "engagement": 0.7999999999999999,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.525
+        "composite": 0.51
       }
     }
   ],
