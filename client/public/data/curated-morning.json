@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-16T04:03:42.801Z",
+  "curatedAt": "2026-01-16T05:29:50.271Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "THE OZZY OSBOURNE PERFORMANCE THAT MADE CHARLES BRADLEY CRY: \"SO TOUCHING\"",
-      "url": "https://faroutmagazine.co.uk/ozzy-osbourne-performance-that-made-charles-bradley-cry/",
-      "timestamp": "2026-01-16T04:03:39.818Z",
+      "title": "CRYPTO PLUMBING, POLICY IMPROVED IN 2025, BUT PRICES ‘DID NOT COOPERATE’: BINANCE",
+      "url": "https://cointelegraph.com/news/crypto-2025-volatility-regulation-stablecoins-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "2026-01-16T05:29:47.260Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
@@ -34,7 +34,7 @@
         "title": "Robbie Williams Surprise Releases New Album 'Britpop'",
         "url": "https://www.billboard.com/music/music-news/robbie-williams-new-album-britpop-surprise-release-1236155620/",
         "timestamp": "00:01",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.7,
           "engagement": 0.55,
@@ -103,7 +103,7 @@
         "title": "Doctor reveals why remote workers are struggling to sleep this winter — plus 3 simple fixes",
         "url": "https://www.tomsguide.com/wellness/sleep-problems/doctor-reveals-why-remote-workers-are-struggling-to-sleep-this-winter-plus-3-simple-fixes",
         "timestamp": "04:00",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.5,
           "engagement": 0.7999999999999999,
@@ -115,32 +115,32 @@
     ],
     "wildcard": [
       {
-        "title": "THE OZZY OSBOURNE PERFORMANCE THAT MADE CHARLES BRADLEY CRY: \"SO TOUCHING\"",
-        "url": "https://faroutmagazine.co.uk/ozzy-osbourne-performance-that-made-charles-bradley-cry/",
-        "timestamp": "2026-01-16T04:03:39.818Z",
+        "title": "CRYPTO PLUMBING, POLICY IMPROVED IN 2025, BUT PRICES ‘DID NOT COOPERATE’: BINANCE",
+        "url": "https://cointelegraph.com/news/crypto-2025-volatility-regulation-stablecoins-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "2026-01-16T05:29:47.260Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "THE OZZY OSBOURNE PERFORMANCE THAT MADE CHARLES BRADLEY CRY: \"SO TOUCHING\"",
-      "url": "https://faroutmagazine.co.uk/ozzy-osbourne-performance-that-made-charles-bradley-cry/",
-      "timestamp": "2026-01-16T04:03:39.818Z",
+      "title": "CRYPTO PLUMBING, POLICY IMPROVED IN 2025, BUT PRICES ‘DID NOT COOPERATE’: BINANCE",
+      "url": "https://cointelegraph.com/news/crypto-2025-volatility-regulation-stablecoins-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "2026-01-16T05:29:47.260Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     {
@@ -160,7 +160,7 @@
       "title": "Robbie Williams Surprise Releases New Album 'Britpop'",
       "url": "https://www.billboard.com/music/music-news/robbie-williams-new-album-britpop-surprise-release-1236155620/",
       "timestamp": "00:01",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.7,
         "engagement": 0.55,
@@ -186,7 +186,7 @@
       "title": "Doctor reveals why remote workers are struggling to sleep this winter — plus 3 simple fixes",
       "url": "https://www.tomsguide.com/wellness/sleep-problems/doctor-reveals-why-remote-workers-are-struggling-to-sleep-this-winter-plus-3-simple-fixes",
       "timestamp": "04:00",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.5,
         "engagement": 0.7999999999999999,
