@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-17T17:20:32.127Z",
+  "curatedAt": "2026-01-17T18:33:37.904Z",
   "totalAnalyzed": 66,
   "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "WHY WRITING OPEN-SOURCE CODE IS SUDDENLY AN EXISTENTIAL RISK, AND THE FIVE-PAGE BILL DESIGNED TO FIX IT",
-      "url": "https://cryptoslate.com/us-bill-writing-bitcoin-software-isnt-a-financial-crime-what-changes/",
-      "timestamp": "2026-01-17T17:20:29.111Z",
+      "title": "2016-ERA BITCOIN WHALE SUDDENLY SHIFTS 1,087 BTC IN ONCHAIN AWAKENING",
+      "url": "https://news.bitcoin.com/2016-era-bitcoin-whale-suddenly-shifts-1087-btc-in-onchain-awakening/",
+      "timestamp": "2026-01-17T18:33:34.953Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -34,7 +34,7 @@
         "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
         "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
         "timestamp": "17:12",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7999999999999999,
@@ -90,7 +90,7 @@
         "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
         "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
         "timestamp": "17:12",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7999999999999999,
@@ -102,9 +102,9 @@
     ],
     "wildcard": [
       {
-        "title": "WHY WRITING OPEN-SOURCE CODE IS SUDDENLY AN EXISTENTIAL RISK, AND THE FIVE-PAGE BILL DESIGNED TO FIX IT",
-        "url": "https://cryptoslate.com/us-bill-writing-bitcoin-software-isnt-a-financial-crime-what-changes/",
-        "timestamp": "2026-01-17T17:20:29.111Z",
+        "title": "2016-ERA BITCOIN WHALE SUDDENLY SHIFTS 1,087 BTC IN ONCHAIN AWAKENING",
+        "url": "https://news.bitcoin.com/2016-era-bitcoin-whale-suddenly-shifts-1087-btc-in-onchain-awakening/",
+        "timestamp": "2026-01-17T18:33:34.953Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -118,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "WHY WRITING OPEN-SOURCE CODE IS SUDDENLY AN EXISTENTIAL RISK, AND THE FIVE-PAGE BILL DESIGNED TO FIX IT",
-      "url": "https://cryptoslate.com/us-bill-writing-bitcoin-software-isnt-a-financial-crime-what-changes/",
-      "timestamp": "2026-01-17T17:20:29.111Z",
+      "title": "2016-ERA BITCOIN WHALE SUDDENLY SHIFTS 1,087 BTC IN ONCHAIN AWAKENING",
+      "url": "https://news.bitcoin.com/2016-era-bitcoin-whale-suddenly-shifts-1087-btc-in-onchain-awakening/",
+      "timestamp": "2026-01-17T18:33:34.953Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -147,7 +147,7 @@
       "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
       "timestamp": "17:12",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.7999999999999999,
