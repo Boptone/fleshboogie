@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-17T12:47:10.251Z",
+  "curatedAt": "2026-01-17T13:31:23.841Z",
   "totalAnalyzed": 66,
   "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "THE GREATEST BAND OF THE CENTURY, ACCORDING TO JOE ELLIOTT",
-      "url": "https://faroutmagazine.co.uk/the-greatest-band-of-the-century-according-to-joe-elliott/",
-      "timestamp": "2026-01-17T12:47:07.289Z",
+      "title": "THE RIFF THAT DAVE GROHL SAYS GAVE BIRTH TO METAL: “THE SWAMP FROM WHENCE METAL CRAWLED”",
+      "url": "https://faroutmagazine.co.uk/riff-that-dave-grohl-says-gave-birth-to-metal/",
+      "timestamp": "2026-01-17T13:31:20.829Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
@@ -102,32 +102,32 @@
     ],
     "wildcard": [
       {
-        "title": "THE GREATEST BAND OF THE CENTURY, ACCORDING TO JOE ELLIOTT",
-        "url": "https://faroutmagazine.co.uk/the-greatest-band-of-the-century-according-to-joe-elliott/",
-        "timestamp": "2026-01-17T12:47:07.289Z",
+        "title": "THE RIFF THAT DAVE GROHL SAYS GAVE BIRTH TO METAL: “THE SWAMP FROM WHENCE METAL CRAWLED”",
+        "url": "https://faroutmagazine.co.uk/riff-that-dave-grohl-says-gave-birth-to-metal/",
+        "timestamp": "2026-01-17T13:31:20.829Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "THE GREATEST BAND OF THE CENTURY, ACCORDING TO JOE ELLIOTT",
-      "url": "https://faroutmagazine.co.uk/the-greatest-band-of-the-century-according-to-joe-elliott/",
-      "timestamp": "2026-01-17T12:47:07.289Z",
+      "title": "THE RIFF THAT DAVE GROHL SAYS GAVE BIRTH TO METAL: “THE SWAMP FROM WHENCE METAL CRAWLED”",
+      "url": "https://faroutmagazine.co.uk/riff-that-dave-grohl-says-gave-birth-to-metal/",
+      "timestamp": "2026-01-17T13:31:20.829Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
     {
