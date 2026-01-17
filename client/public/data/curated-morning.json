@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-17T22:23:32.890Z",
+  "curatedAt": "2026-01-17T23:22:40.713Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "HOW TO PROMPT AI: PROMPTING AS A WORKFLOW, NOT A PARTY TRICK",
-      "url": "https://pub.towardsai.net/how-to-prompt-ai-prompting-as-a-workflow-not-a-party-trick-2e0b56322f7f?source=rss----98111c9905da---4",
-      "timestamp": "2026-01-17T22:23:29.951Z",
+      "title": "JAMIE-LYNN SIGLER KEPT HER MS DIAGNOSIS A SECRET FOR 25 YEARS FEARING SHE'D 'NEVER WORK AGAIN'",
+      "url": "https://variety.com/2026/tv/news/jamie-lynn-sigler-ms-secret-25-years-greys-anatomy-1236634077/",
+      "timestamp": "2026-01-17T23:22:37.726Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.7999999999999999,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.6699999999999999
       }
     },
     "deepDive": [
@@ -74,6 +74,19 @@
     ],
     "conversation": [
       {
+        "title": "JAMIE-LYNN SIGLER KEPT HER MS DIAGNOSIS A SECRET FOR 25 YEARS FEARING SHE'D 'NEVER WORK AGAIN'",
+        "url": "https://variety.com/2026/tv/news/jamie-lynn-sigler-ms-secret-25-years-greys-anatomy-1236634077/",
+        "timestamp": "2026-01-17T23:22:37.726Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.7999999999999999,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.6699999999999999
+        }
+      },
+      {
         "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
         "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
         "timestamp": "02:24",
@@ -85,49 +98,36 @@
           "discovery": 0.5,
           "composite": 0.5800000000000001
         }
-      },
-      {
-        "title": "What was the worst number one in 1969?",
-        "url": "https://faroutmagazine.co.uk/what-was-the-worst-number-one-in-1969/",
-        "timestamp": "21:00",
-        "source": "automated",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.8999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.54
-        }
       }
     ],
     "wildcard": [
       {
-        "title": "HOW TO PROMPT AI: PROMPTING AS A WORKFLOW, NOT A PARTY TRICK",
-        "url": "https://pub.towardsai.net/how-to-prompt-ai-prompting-as-a-workflow-not-a-party-trick-2e0b56322f7f?source=rss----98111c9905da---4",
-        "timestamp": "2026-01-17T22:23:29.951Z",
+        "title": "JAMIE-LYNN SIGLER KEPT HER MS DIAGNOSIS A SECRET FOR 25 YEARS FEARING SHE'D 'NEVER WORK AGAIN'",
+        "url": "https://variety.com/2026/tv/news/jamie-lynn-sigler-ms-secret-25-years-greys-anatomy-1236634077/",
+        "timestamp": "2026-01-17T23:22:37.726Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.7999999999999999,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.6699999999999999
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "HOW TO PROMPT AI: PROMPTING AS A WORKFLOW, NOT A PARTY TRICK",
-      "url": "https://pub.towardsai.net/how-to-prompt-ai-prompting-as-a-workflow-not-a-party-trick-2e0b56322f7f?source=rss----98111c9905da---4",
-      "timestamp": "2026-01-17T22:23:29.951Z",
+      "title": "JAMIE-LYNN SIGLER KEPT HER MS DIAGNOSIS A SECRET FOR 25 YEARS FEARING SHE'D 'NEVER WORK AGAIN'",
+      "url": "https://variety.com/2026/tv/news/jamie-lynn-sigler-ms-secret-25-years-greys-anatomy-1236634077/",
+      "timestamp": "2026-01-17T23:22:37.726Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.7999999999999999,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.6699999999999999
       }
     },
     {
@@ -167,19 +167,6 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.505
-      }
-    },
-    {
-      "title": "What was the worst number one in 1969?",
-      "url": "https://faroutmagazine.co.uk/what-was-the-worst-number-one-in-1969/",
-      "timestamp": "21:00",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.8999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.54
       }
     }
   ],

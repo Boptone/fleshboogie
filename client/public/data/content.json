@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "HOW TO PROMPT AI: PROMPTING AS A WORKFLOW, NOT A PARTY TRICK",
-    "url": "https://pub.towardsai.net/how-to-prompt-ai-prompting-as-a-workflow-not-a-party-trick-2e0b56322f7f?source=rss----98111c9905da---4",
+    "headline": "JAMIE-LYNN SIGLER KEPT HER MS DIAGNOSIS A SECRET FOR 25 YEARS FEARING SHE'D 'NEVER WORK AGAIN'",
+    "url": "https://variety.com/2026/tv/news/jamie-lynn-sigler-ms-secret-25-years-greys-anatomy-1236634077/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "The Motown songs Phil Collins said The Rolling Stones butchered: \"Pretty awful\"",
-      "url": "https://faroutmagazine.co.uk/motown-songs-phil-collins-said-the-rolling-stones-butchered/",
-      "timestamp": "22:00",
+      "title": "Who gets to inherit the stars? A space ethicist on what we're not talking about",
+      "url": "https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/",
+      "timestamp": "22:45",
       "pinned": false
     },
     {
-      "title": "How to watch Australian Open 2026: FREE live streams from anywhere, Day 1 order of play, preview for Grand Slam opener",
-      "url": "https://www.tomsguide.com/entertainment/sports/watch-australian-open-2026-tennis-free",
-      "timestamp": "22:00",
+      "title": "The Cribs share 'Gordon Raphael Sessions' EP of 'Selling A Vibe' recordings: \"It captures these songs in early and pure form\"",
+      "url": "https://www.nme.com/news/music/the-cribs-share-gordon-raphael-sessions-ep-of-selling-a-vibe-recordings-it-captures-these-songs-in-early-and-pure-form-3923827?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-cribs-share-gordon-raphael-sessions-ep-of-selling-a-vibe-recordings-it-captures-these-songs-in-early-and-pure-form",
+      "timestamp": "22:35",
       "pinned": false
     },
     {
-      "title": "How to Build a Self-Evaluating Agentic AI System with LlamaIndex and OpenAI Using Retrieval, Tool Use, and Automated Quality Checks",
-      "url": "https://www.marktechpost.com/2026/01/17/how-to-build-a-self-evaluating-agentic-ai-system-with-llamaindex-and-openai-using-retrieval-tool-use-and-automated-quality-checks/",
-      "timestamp": "21:56",
+      "title": "Cryptoquant: Bitcoin Demand Conditions Improve Slightly, Bear Market Still Intact",
+      "url": "https://news.bitcoin.com/cryptoquant-bitcoin-demand-conditions-improve-slightly-bear-market-still-intact/",
+      "timestamp": "22:30",
       "pinned": false
     },
     {
-      "title": "The plan for a gaming-themed Atari hotel in Las Vegas has reportedly been scrapped",
-      "url": "https://www.engadget.com/gaming/the-plan-for-a-gaming-themed-atari-hotel-in-las-vegas-has-reportedly-been-scrapped-214212269.html?src=rss",
-      "timestamp": "21:42",
+      "title": "The director Nicolas Cage would work with again in a heartbeat: \"One of our great geniuses\"",
+      "url": "https://faroutmagazine.co.uk/director-nicolas-cage-would-work-with-again-in-a-heartbeat/",
+      "timestamp": "22:30",
       "pinned": false
     },
     {
-      "title": "Jimmy Fallon Nominates 'Heated Rivalry's Hudson Williams To Host 'SNL' After 'Tonight Show' Audience \"Went Bonkers\"",
-      "url": "https://deadline.com/2026/01/jimmy-fallon-wants-heated-rivalry-hudson-williams-host-snl-1236686103/",
-      "timestamp": "21:38",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "22:23",
       "pinned": false
     }
   ],
@@ -104,6 +104,42 @@
     }
   ],
   "automated": [
+    {
+      "title": "Jamie-Lynn Sigler Kept Her MS Diagnosis a Secret for 25 Years Fearing She'd 'Never Work Again'",
+      "url": "https://variety.com/2026/tv/news/jamie-lynn-sigler-ms-secret-25-years-greys-anatomy-1236634077/",
+      "timestamp": "22:54",
+      "pubDate": "2026-01-17T22:54:02.000Z"
+    },
+    {
+      "title": "Who gets to inherit the stars? A space ethicist on what we're not talking about",
+      "url": "https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/",
+      "timestamp": "22:45",
+      "pubDate": "2026-01-17T22:45:09.000Z"
+    },
+    {
+      "title": "The Cribs share 'Gordon Raphael Sessions' EP of 'Selling A Vibe' recordings: \"It captures these songs in early and pure form\"",
+      "url": "https://www.nme.com/news/music/the-cribs-share-gordon-raphael-sessions-ep-of-selling-a-vibe-recordings-it-captures-these-songs-in-early-and-pure-form-3923827?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-cribs-share-gordon-raphael-sessions-ep-of-selling-a-vibe-recordings-it-captures-these-songs-in-early-and-pure-form",
+      "timestamp": "22:35",
+      "pubDate": "2026-01-17T22:35:01.000Z"
+    },
+    {
+      "title": "Cryptoquant: Bitcoin Demand Conditions Improve Slightly, Bear Market Still Intact",
+      "url": "https://news.bitcoin.com/cryptoquant-bitcoin-demand-conditions-improve-slightly-bear-market-still-intact/",
+      "timestamp": "22:30",
+      "pubDate": "2026-01-17T22:30:22.000Z"
+    },
+    {
+      "title": "The director Nicolas Cage would work with again in a heartbeat: \"One of our great geniuses\"",
+      "url": "https://faroutmagazine.co.uk/director-nicolas-cage-would-work-with-again-in-a-heartbeat/",
+      "timestamp": "22:30",
+      "pubDate": "2026-01-17T22:30:00.000Z"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "22:23",
+      "pubDate": "2026-01-17T22:23:23.000Z"
+    },
     {
       "title": "HOW TO PROMPT AI: PROMPTING AS A WORKFLOW, NOT A PARTY TRICK",
       "url": "https://pub.towardsai.net/how-to-prompt-ai-prompting-as-a-workflow-not-a-party-trick-2e0b56322f7f?source=rss----98111c9905da---4",
@@ -307,45 +343,19 @@
       "url": "https://faroutmagazine.co.uk/degrading-movies-margot-robbie-cant-stop-watching/",
       "timestamp": "19:45",
       "pubDate": "2026-01-17T19:45:00.000Z"
-    },
-    {
-      "title": "Stablecoin Market Opens 2026 at a New $310B Record",
-      "url": "https://news.bitcoin.com/stablecoin-market-opens-2026-at-a-new-310b-record/",
-      "timestamp": "19:32",
-      "pubDate": "2026-01-17T19:32:24.000Z"
-    },
-    {
-      "title": "Matt Damon Says Netflix Wants Movies to Restate the ‘Plot Three or Four Times in the Dialogue' Because Viewers are on 'Their Phones While They're Watching'",
-      "url": "https://variety.com/2026/film/news/matt-damon-netflix-movies-restate-plot-viewers-on-phones-1236633939/",
-      "timestamp": "19:30",
-      "pubDate": "2026-01-17T19:30:14.000Z"
-    },
-    {
-      "title": "The Led Zeppelin album Robert Plant said should have never been made",
-      "url": "https://faroutmagazine.co.uk/the-one-led-zeppelin-album-robert-plant-said-should-have-never-been-made/",
-      "timestamp": "19:30",
-      "pubDate": "2026-01-17T19:30:00.000Z"
-    },
-    {
-      "title": "Roger Waters Stands by Insensitive Ozzy Osbourne Comments in New Interview",
-      "url": "https://www.rollingstone.com/music/music-news/roger-waters-insensitive-ozzy-osbourne-comments-interview-1235501141/",
-      "timestamp": "19:16",
-      "pubDate": "2026-01-17T19:16:28.000Z"
-    },
-    {
-      "title": "The risqué role Nicole Kidman needed to fight for: \"It was a bit of a risk to cast me\"",
-      "url": "https://faroutmagazine.co.uk/risque-role-nicole-kidman-fight-for/",
-      "timestamp": "19:15",
-      "pubDate": "2026-01-17T19:15:00.000Z"
-    },
-    {
-      "title": "When and Where to Stream 'Love Island: All Stars' Season 3 in the U.S.",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-love-island-all-stars-season-3-in-us-online-free-2026-1236476729/",
-      "timestamp": "19:03",
-      "pubDate": "2026-01-17T19:03:25.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "The Cribs share 'Gordon Raphael Sessions' EP of 'Selling A Vibe' recordings: \"It captures these songs in early and pure form\"",
+      "url": "https://www.nme.com/news/music/the-cribs-share-gordon-raphael-sessions-ep-of-selling-a-vibe-recordings-it-captures-these-songs-in-early-and-pure-form-3923827?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-cribs-share-gordon-raphael-sessions-ep-of-selling-a-vibe-recordings-it-captures-these-songs-in-early-and-pure-form",
+      "timestamp": "22:35"
+    },
+    {
+      "title": "The director Nicolas Cage would work with again in a heartbeat: \"One of our great geniuses\"",
+      "url": "https://faroutmagazine.co.uk/director-nicolas-cage-would-work-with-again-in-a-heartbeat/",
+      "timestamp": "22:30"
+    },
     {
       "title": "The Motown songs Phil Collins said The Rolling Stones butchered: \"Pretty awful\"",
       "url": "https://faroutmagazine.co.uk/motown-songs-phil-collins-said-the-rolling-stones-butchered/",
@@ -355,11 +365,6 @@
       "title": "When did rock and roll become classic rock?",
       "url": "https://faroutmagazine.co.uk/what-marked-the-moment-rock-n-roll-became-classic-rock/",
       "timestamp": "21:30"
-    },
-    {
-      "title": "The band Joni Mitchell and Aimee Mann agreed were \"the American Beatles\"",
-      "url": "https://faroutmagazine.co.uk/the-band-joni-mitchell-and-aimee-mann-agreed-were-the-american-beatles/",
-      "timestamp": "21:10"
     },
     {
       "title": "Kenny Morris, Drummer for Siouxsie and the Banshees, Dies at&#160;68",
@@ -392,6 +397,11 @@
       "timestamp": "16:38"
     },
     {
+      "title": "Watch St. Vincent Join Cate Le Bon For \"Always The Same\" In New York",
+      "url": "https://stereogum.com/2485796/watch-st-vincent-join-cate-le-bon-for-always-the-same-in-new-york/news/",
+      "timestamp": "16:27"
+    },
+    {
       "title": "The Waterboys Will Not Be Deterred From Posting AI Slop",
       "url": "https://stereogum.com/2485781/the-waterboys-will-not-be-deterred-from-posting-ai-slop/news/",
       "timestamp": "14:03"
@@ -400,11 +410,6 @@
       "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
       "url": "https://www.nme.com/news/music/sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist-3923779?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist",
       "timestamp": "11:58"
-    },
-    {
-      "title": "'28 Years Later: The Bone Temple': what happened to Cillian Murphy’s Jim after '28 Days Later'?",
-      "url": "https://www.nme.com/news/film/28-years-later-the-bone-temple-what-happened-to-cillian-murphys-jim-after-28-days-later-3923787?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=28-years-later-the-bone-temple-what-happened-to-cillian-murphys-jim-after-28-days-later",
-      "timestamp": "11:26"
     },
     {
       "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
@@ -440,12 +445,7 @@
       "title": "David Boring Return to a World of Horrors",
       "url": "https://daily.bandcamp.com/features/david-boring-liminal-beings-and-their-echoes-feature",
       "timestamp": "19:03"
-    },
-    {
-      "title": "Sleaford Mods Still Have Plenty To Be Angry About",
-      "url": "https://www.spin.com/2026/01/sleaford-mods-still-have-plenty-to-be-angry-about/",
-      "timestamp": "15:30"
     }
   ],
-  "lastUpdated": "2026-01-17T22:23:29.951Z"
+  "lastUpdated": "2026-01-17T23:22:37.726Z"
 }
