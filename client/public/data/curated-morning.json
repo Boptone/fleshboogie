@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-17T07:22:43.235Z",
+  "curatedAt": "2026-01-17T08:31:12.743Z",
   "totalAnalyzed": 66,
-  "totalSelected": 6,
+  "totalSelected": 7,
   "newsletter": {
     "leadStory": {
-      "title": "NEW WORLD ORDER: CANADA SIDES WITH CHINA IN ECONOMIC PIVOT AWAY FROM THE US",
-      "url": "https://news.bitcoin.com/new-world-order-canada-sides-with-china-in-economic-pivot-away-from-the-us/",
-      "timestamp": "2026-01-17T07:22:40.268Z",
+      "title": "THIS SMART IKEA STORAGE SOLUTION CAN IMPROVE YOUR INDOOR AIR QUALITY AND HELP YOU SLEEP DEEPER — HERE’S HOW",
+      "url": "https://www.tomsguide.com/wellness/sleep-tech/this-smart-ikea-storage-solution-can-improve-your-indoor-air-quality-and-help-you-sleep-deeper-heres-how",
+      "timestamp": "2026-01-17T08:31:09.735Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.55,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.595
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
@@ -88,7 +88,7 @@
         "title": "I had no idea that my messy bedroom was contributing to my 3 am wake-ups — two sleep experts explain why, plus how to declutter for better rest",
         "url": "https://www.tomsguide.com/wellness/sleep/experts-explain-why-my-messy-bedroom-is-waking-me-up-at-3am",
         "timestamp": "07:00",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.4,
           "engagement": 0.7999999999999999,
@@ -113,47 +113,47 @@
         }
       },
       {
-        "title": "The 7 Best Songs From A$AP Rocky’s ‘Don’t Be Dumb’ Album",
-        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-best-songs-1235501094/",
-        "timestamp": "01:55",
-        "source": "automated",
+        "title": "What was the worst number one from 1990?",
+        "url": "https://faroutmagazine.co.uk/what-was-worst-number-one-from-1990/",
+        "timestamp": "08:00",
+        "source": "mainColumn",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
+          "impact": 0.5,
+          "engagement": 0.8999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.52
+          "composite": 0.54
         }
       }
     ],
     "wildcard": [
       {
-        "title": "NEW WORLD ORDER: CANADA SIDES WITH CHINA IN ECONOMIC PIVOT AWAY FROM THE US",
-        "url": "https://news.bitcoin.com/new-world-order-canada-sides-with-china-in-economic-pivot-away-from-the-us/",
-        "timestamp": "2026-01-17T07:22:40.268Z",
+        "title": "THIS SMART IKEA STORAGE SOLUTION CAN IMPROVE YOUR INDOOR AIR QUALITY AND HELP YOU SLEEP DEEPER — HERE’S HOW",
+        "url": "https://www.tomsguide.com/wellness/sleep-tech/this-smart-ikea-storage-solution-can-improve-your-indoor-air-quality-and-help-you-sleep-deeper-heres-how",
+        "timestamp": "2026-01-17T08:31:09.735Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.55,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.595
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "NEW WORLD ORDER: CANADA SIDES WITH CHINA IN ECONOMIC PIVOT AWAY FROM THE US",
-      "url": "https://news.bitcoin.com/new-world-order-canada-sides-with-china-in-economic-pivot-away-from-the-us/",
-      "timestamp": "2026-01-17T07:22:40.268Z",
+      "title": "THIS SMART IKEA STORAGE SOLUTION CAN IMPROVE YOUR INDOOR AIR QUALITY AND HELP YOU SLEEP DEEPER — HERE’S HOW",
+      "url": "https://www.tomsguide.com/wellness/sleep-tech/this-smart-ikea-storage-solution-can-improve-your-indoor-air-quality-and-help-you-sleep-deeper-heres-how",
+      "timestamp": "2026-01-17T08:31:09.735Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.55,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.595
+        "composite": 0.6100000000000001
       }
     },
     {
@@ -212,13 +212,26 @@
       "title": "I had no idea that my messy bedroom was contributing to my 3 am wake-ups — two sleep experts explain why, plus how to declutter for better rest",
       "url": "https://www.tomsguide.com/wellness/sleep/experts-explain-why-my-messy-bedroom-is-waking-me-up-at-3am",
       "timestamp": "07:00",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.4,
         "engagement": 0.7999999999999999,
         "timeliness": 0.2,
         "discovery": 0.5,
         "composite": 0.49000000000000005
+      }
+    },
+    {
+      "title": "What was the worst number one from 1990?",
+      "url": "https://faroutmagazine.co.uk/what-was-worst-number-one-from-1990/",
+      "timestamp": "08:00",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.8999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.54
       }
     }
   ],
