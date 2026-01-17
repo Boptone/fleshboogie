@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-17T20:26:19.496Z",
+  "curatedAt": "2026-01-17T21:21:31.096Z",
   "totalAnalyzed": 66,
-  "totalSelected": 4,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "BITCOIN’S NEXT MAJOR MOVE HINGES ON A $63 BILLION “FALLEN ANGEL” SIGNAL THAT MOST INVESTORS ARE COMPLETELY IGNORING",
-      "url": "https://cryptoslate.com/bitcoins-next-major-move-hinges-on-a-63-billion-fallen-angel-signal-that-most-investors-are-completely-ignoring/",
-      "timestamp": "2026-01-17T20:26:16.529Z",
+      "title": "GEORGE CLOONEY NAMES CINEMA'S ONLY \"PERFECT\" MOVIE: \"KILLS ME\"",
+      "url": "https://faroutmagazine.co.uk/george-clooney-names-cinemas-only-perfect-movie/",
+      "timestamp": "2026-01-17T21:21:28.113Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
@@ -31,19 +31,6 @@
         }
       },
       {
-        "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
-        "timestamp": "17:12",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7999999999999999,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.55
-        }
-      },
-      {
         "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
         "url": "https://www.nme.com/news/music/sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist-3923779?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist",
         "timestamp": "11:58",
@@ -54,6 +41,19 @@
           "timeliness": 0.2,
           "discovery": 0.3,
           "composite": 0.52
+        }
+      },
+      {
+        "title": "Morrissey Cancels Tomorrow's Atlanta Show, Gets Cut From New A$AP Rocky Album And Mocked On New Robbie Williams Album",
+        "url": "https://stereogum.com/2485770/morrissey-cancels-tomorrows-atlanta-show-gets-cut-from-new-aap-rocky-album-and-mocked-on-new-robbie-williams-album/news/",
+        "timestamp": "22:44",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.65,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.505
         }
       }
     ],
@@ -74,19 +74,6 @@
     ],
     "conversation": [
       {
-        "title": "BITCOIN’S NEXT MAJOR MOVE HINGES ON A $63 BILLION “FALLEN ANGEL” SIGNAL THAT MOST INVESTORS ARE COMPLETELY IGNORING",
-        "url": "https://cryptoslate.com/bitcoins-next-major-move-hinges-on-a-63-billion-fallen-angel-signal-that-most-investors-are-completely-ignoring/",
-        "timestamp": "2026-01-17T20:26:16.529Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6400000000000001
-        }
-      },
-      {
         "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
         "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
         "timestamp": "02:24",
@@ -98,36 +85,49 @@
           "discovery": 0.5,
           "composite": 0.5800000000000001
         }
+      },
+      {
+        "title": "What was the worst number one in 1969?",
+        "url": "https://faroutmagazine.co.uk/what-was-the-worst-number-one-in-1969/",
+        "timestamp": "21:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.8999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.54
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "BITCOIN’S NEXT MAJOR MOVE HINGES ON A $63 BILLION “FALLEN ANGEL” SIGNAL THAT MOST INVESTORS ARE COMPLETELY IGNORING",
-        "url": "https://cryptoslate.com/bitcoins-next-major-move-hinges-on-a-63-billion-fallen-angel-signal-that-most-investors-are-completely-ignoring/",
-        "timestamp": "2026-01-17T20:26:16.529Z",
+        "title": "GEORGE CLOONEY NAMES CINEMA'S ONLY \"PERFECT\" MOVIE: \"KILLS ME\"",
+        "url": "https://faroutmagazine.co.uk/george-clooney-names-cinemas-only-perfect-movie/",
+        "timestamp": "2026-01-17T21:21:28.113Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6400000000000001
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "BITCOIN’S NEXT MAJOR MOVE HINGES ON A $63 BILLION “FALLEN ANGEL” SIGNAL THAT MOST INVESTORS ARE COMPLETELY IGNORING",
-      "url": "https://cryptoslate.com/bitcoins-next-major-move-hinges-on-a-63-billion-fallen-angel-signal-that-most-investors-are-completely-ignoring/",
-      "timestamp": "2026-01-17T20:26:16.529Z",
+      "title": "GEORGE CLOONEY NAMES CINEMA'S ONLY \"PERFECT\" MOVIE: \"KILLS ME\"",
+      "url": "https://faroutmagazine.co.uk/george-clooney-names-cinemas-only-perfect-movie/",
+      "timestamp": "2026-01-17T21:21:28.113Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6400000000000001
+        "composite": 0.5800000000000001
       }
     },
     {
@@ -144,19 +144,6 @@
       }
     },
     {
-      "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
-      "timestamp": "17:12",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.7999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.55
-      }
-    },
-    {
       "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
       "url": "https://www.nme.com/news/music/sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist-3923779?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist",
       "timestamp": "11:58",
@@ -167,6 +154,32 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.52
+      }
+    },
+    {
+      "title": "Morrissey Cancels Tomorrow's Atlanta Show, Gets Cut From New A$AP Rocky Album And Mocked On New Robbie Williams Album",
+      "url": "https://stereogum.com/2485770/morrissey-cancels-tomorrows-atlanta-show-gets-cut-from-new-aap-rocky-album-and-mocked-on-new-robbie-williams-album/news/",
+      "timestamp": "22:44",
+      "source": "musicReleases",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.65,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.505
+      }
+    },
+    {
+      "title": "What was the worst number one in 1969?",
+      "url": "https://faroutmagazine.co.uk/what-was-the-worst-number-one-in-1969/",
+      "timestamp": "21:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.8999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.54
       }
     }
   ],
