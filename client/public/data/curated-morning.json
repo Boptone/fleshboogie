@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-17T04:35:15.626Z",
+  "curatedAt": "2026-01-17T05:24:16.078Z",
   "totalAnalyzed": 66,
   "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "ROCCO COMMISSO, CABLE TV MOGUL AND ACF FIORENTINA OWNER, DIES AT 76",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/rocco-commisso-dead-acf-fiorentina-owner-mediacom-ceo-1236477063/",
-      "timestamp": "2026-01-17T04:35:12.606Z",
+      "title": "THE ONE SONG THAT HELPED TIMOTHÉE CHALAMET DELIVER HIS BREAKTHROUGH PERFORMANCE",
+      "url": "https://faroutmagazine.co.uk/the-one-song-that-helped-timothee-chalamet-deliver-his-breakthrough-performance/",
+      "timestamp": "2026-01-17T05:24:13.085Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.6,
+        "impact": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.6200000000000001
       }
     },
     "deepDive": [
@@ -21,7 +21,7 @@
         "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
         "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
         "timestamp": "02:24",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.7,
           "engagement": 0.7,
@@ -62,7 +62,7 @@
         "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
         "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
         "timestamp": "02:24",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.7,
           "engagement": 0.7,
@@ -77,7 +77,7 @@
         "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
         "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
         "timestamp": "02:24",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.7,
           "engagement": 0.7,
@@ -102,39 +102,39 @@
     ],
     "wildcard": [
       {
-        "title": "ROCCO COMMISSO, CABLE TV MOGUL AND ACF FIORENTINA OWNER, DIES AT 76",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/rocco-commisso-dead-acf-fiorentina-owner-mediacom-ceo-1236477063/",
-        "timestamp": "2026-01-17T04:35:12.606Z",
+        "title": "THE ONE SONG THAT HELPED TIMOTHÉE CHALAMET DELIVER HIS BREAKTHROUGH PERFORMANCE",
+        "url": "https://faroutmagazine.co.uk/the-one-song-that-helped-timothee-chalamet-deliver-his-breakthrough-performance/",
+        "timestamp": "2026-01-17T05:24:13.085Z",
         "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.6,
+          "impact": 0.6,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.6200000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "ROCCO COMMISSO, CABLE TV MOGUL AND ACF FIORENTINA OWNER, DIES AT 76",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/rocco-commisso-dead-acf-fiorentina-owner-mediacom-ceo-1236477063/",
-      "timestamp": "2026-01-17T04:35:12.606Z",
+      "title": "THE ONE SONG THAT HELPED TIMOTHÉE CHALAMET DELIVER HIS BREAKTHROUGH PERFORMANCE",
+      "url": "https://faroutmagazine.co.uk/the-one-song-that-helped-timothee-chalamet-deliver-his-breakthrough-performance/",
+      "timestamp": "2026-01-17T05:24:13.085Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.6,
+        "impact": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.6200000000000001
       }
     },
     {
       "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
       "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
       "timestamp": "02:24",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.7,
         "engagement": 0.7,
