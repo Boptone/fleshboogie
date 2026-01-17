@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-17T03:25:52.027Z",
+  "curatedAt": "2026-01-17T04:35:15.626Z",
   "totalAnalyzed": 66,
   "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "HOW ACCURATE IS A 125 YEAR OLD RESISTANCE STANDARD?",
-      "url": "https://hackaday.com/2026/01/16/how-accurate-is-a-125-year-old-resistance-standard/",
-      "timestamp": "2026-01-17T03:25:49.017Z",
+      "title": "ROCCO COMMISSO, CABLE TV MOGUL AND ACF FIORENTINA OWNER, DIES AT 76",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/rocco-commisso-dead-acf-fiorentina-owner-mediacom-ceo-1236477063/",
+      "timestamp": "2026-01-17T04:35:12.606Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7999999999999999,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6699999999999999
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
@@ -34,7 +34,7 @@
         "title": "The 7 Best Songs From A$AP Rocky’s ‘Don’t Be Dumb’ Album",
         "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-best-songs-1235501094/",
         "timestamp": "01:55",
-        "source": "mainColumn",
+        "source": "automated",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -74,19 +74,6 @@
     ],
     "conversation": [
       {
-        "title": "HOW ACCURATE IS A 125 YEAR OLD RESISTANCE STANDARD?",
-        "url": "https://hackaday.com/2026/01/16/how-accurate-is-a-125-year-old-resistance-standard/",
-        "timestamp": "2026-01-17T03:25:49.017Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6699999999999999
-        }
-      },
-      {
         "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
         "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
         "timestamp": "02:24",
@@ -98,36 +85,49 @@
           "discovery": 0.5,
           "composite": 0.5800000000000001
         }
+      },
+      {
+        "title": "The 7 Best Songs From A$AP Rocky’s ‘Don’t Be Dumb’ Album",
+        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-best-songs-1235501094/",
+        "timestamp": "01:55",
+        "source": "automated",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.7,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.52
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "HOW ACCURATE IS A 125 YEAR OLD RESISTANCE STANDARD?",
-        "url": "https://hackaday.com/2026/01/16/how-accurate-is-a-125-year-old-resistance-standard/",
-        "timestamp": "2026-01-17T03:25:49.017Z",
+        "title": "ROCCO COMMISSO, CABLE TV MOGUL AND ACF FIORENTINA OWNER, DIES AT 76",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/rocco-commisso-dead-acf-fiorentina-owner-mediacom-ceo-1236477063/",
+        "timestamp": "2026-01-17T04:35:12.606Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.7999999999999999,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6699999999999999
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "HOW ACCURATE IS A 125 YEAR OLD RESISTANCE STANDARD?",
-      "url": "https://hackaday.com/2026/01/16/how-accurate-is-a-125-year-old-resistance-standard/",
-      "timestamp": "2026-01-17T03:25:49.017Z",
+      "title": "ROCCO COMMISSO, CABLE TV MOGUL AND ACF FIORENTINA OWNER, DIES AT 76",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/rocco-commisso-dead-acf-fiorentina-owner-mediacom-ceo-1236477063/",
+      "timestamp": "2026-01-17T04:35:12.606Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.7999999999999999,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6699999999999999
+        "composite": 0.6100000000000001
       }
     },
     {
@@ -147,7 +147,7 @@
       "title": "The 7 Best Songs From A$AP Rocky’s ‘Don’t Be Dumb’ Album",
       "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-best-songs-1235501094/",
       "timestamp": "01:55",
-      "source": "mainColumn",
+      "source": "automated",
       "scores": {
         "impact": 0.6,
         "engagement": 0.7,

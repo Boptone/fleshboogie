@@ -1,11 +1,23 @@
 {
   "splash": {
-    "headline": "HOW ACCURATE IS A 125 YEAR OLD RESISTANCE STANDARD?",
-    "url": "https://hackaday.com/2026/01/16/how-accurate-is-a-125-year-old-resistance-standard/",
+    "headline": "ROCCO COMMISSO, CABLE TV MOGUL AND ACF FIORENTINA OWNER, DIES AT 76",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/rocco-commisso-dead-acf-fiorentina-owner-mediacom-ceo-1236477063/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
+    {
+      "title": "The only thing Ace Frehley wanted to be remembered for: \"I brought happiness\"",
+      "url": "https://faroutmagazine.co.uk/the-only-thing-ace-frehley-wanted-to-be-remembered-for/",
+      "timestamp": "04:00",
+      "pinned": false
+    },
+    {
+      "title": "How Accurate is a 125 Year Old Resistance Standard?",
+      "url": "https://hackaday.com/2026/01/16/how-accurate-is-a-125-year-old-resistance-standard/",
+      "timestamp": "03:00",
+      "pinned": false
+    },
     {
       "title": "The role Patrick Swayze called a \"godsend\" for his career: \"It saved my ass\"",
       "url": "https://faroutmagazine.co.uk/role-patrick-swayze-called-godsend-career/",
@@ -22,18 +34,6 @@
       "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
       "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
       "timestamp": "02:24",
-      "pinned": false
-    },
-    {
-      "title": "Which albums did Frank Zappa produce?",
-      "url": "https://faroutmagazine.co.uk/what-albums-did-frank-zappa-produce/",
-      "timestamp": "02:00",
-      "pinned": false
-    },
-    {
-      "title": "The 7 Best Songs From A$AP Rocky’s ‘Don’t Be Dumb’ Album",
-      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-best-songs-1235501094/",
-      "timestamp": "01:55",
       "pinned": false
     }
   ],
@@ -104,6 +104,18 @@
     }
   ],
   "automated": [
+    {
+      "title": "Rocco Commisso, Cable TV Mogul and ACF Fiorentina Owner, Dies at 76",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/rocco-commisso-dead-acf-fiorentina-owner-mediacom-ceo-1236477063/",
+      "timestamp": "04:31",
+      "pubDate": "2026-01-17T04:31:54.000Z"
+    },
+    {
+      "title": "The only thing Ace Frehley wanted to be remembered for: \"I brought happiness\"",
+      "url": "https://faroutmagazine.co.uk/the-only-thing-ace-frehley-wanted-to-be-remembered-for/",
+      "timestamp": "04:00",
+      "pubDate": "2026-01-17T04:00:00.000Z"
+    },
     {
       "title": "How Accurate is a 125 Year Old Resistance Standard?",
       "url": "https://hackaday.com/2026/01/16/how-accurate-is-a-125-year-old-resistance-standard/",
@@ -291,12 +303,6 @@
       "pubDate": "2026-01-16T23:41:57.000Z"
     },
     {
-      "title": "Mediawan in Advanced Talks to Acquire Peter Chernin's North Road Company",
-      "url": "https://variety.com/2026/film/news/mediawan-to-acquire-peter-chernin-north-road-company-1236633381/",
-      "timestamp": "23:35",
-      "pubDate": "2026-01-16T23:35:25.000Z"
-    },
-    {
       "title": "Snoop Dogg Lands the Role He Was Born to Play in Eli Roth's 'Don’t Go in That House, Bi–h!'",
       "url": "https://www.billboard.com/culture/tv-film/snoop-dogg-dont-go-in-that-house-bitch-eli-roth-1236157054/",
       "timestamp": "23:33",
@@ -337,15 +343,14 @@
       "url": "https://deadline.com/2026/01/x-is-down-widespread-outage-elon-musk-1236685168/",
       "timestamp": "23:08",
       "pubDate": "2026-01-16T23:08:00.000Z"
-    },
-    {
-      "title": "OpenAI Is Starting To Test Ads On ChatGPT",
-      "url": "https://deadline.com/2026/01/openai-advertising-chatgpt-1236685560/",
-      "timestamp": "23:07",
-      "pubDate": "2026-01-16T23:07:36.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "The only thing Ace Frehley wanted to be remembered for: \"I brought happiness\"",
+      "url": "https://faroutmagazine.co.uk/the-only-thing-ace-frehley-wanted-to-be-remembered-for/",
+      "timestamp": "04:00"
+    },
     {
       "title": "The role Patrick Swayze called a \"godsend\" for his career: \"It saved my ass\"",
       "url": "https://faroutmagazine.co.uk/role-patrick-swayze-called-godsend-career/",
@@ -402,11 +407,6 @@
       "timestamp": "23:11"
     },
     {
-      "title": "The singer Slash called one of the greatest of his lifetime",
-      "url": "https://faroutmagazine.co.uk/the-singer-slash-called-one-of-the-greatest-of-his-lifetime/",
-      "timestamp": "23:00"
-    },
-    {
       "title": "Morrissey Cancels Tomorrow's Atlanta Show, Gets Cut From New A$AP Rocky Album And Mocked On New Robbie Williams Album",
       "url": "https://stereogum.com/2485770/morrissey-cancels-tomorrows-atlanta-show-gets-cut-from-new-aap-rocky-album-and-mocked-on-new-robbie-williams-album/news/",
       "timestamp": "22:44"
@@ -447,5 +447,5 @@
       "timestamp": "15:16"
     }
   ],
-  "lastUpdated": "2026-01-17T03:25:49.017Z"
+  "lastUpdated": "2026-01-17T04:35:12.606Z"
 }
