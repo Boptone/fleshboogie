@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-17T14:22:28.302Z",
+  "curatedAt": "2026-01-17T15:23:48.599Z",
   "totalAnalyzed": 66,
-  "totalSelected": 4,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "BEYOND CHATGPT: BUILDING A PRODUCTION-READY RAG SYSTEM FROM SCRATCH",
-      "url": "https://pub.towardsai.net/beyond-chatgpt-building-a-production-ready-rag-system-from-scratch-d5b498c00404?source=rss----98111c9905da---4",
-      "timestamp": "2026-01-17T14:22:25.286Z",
+      "title": "3 TECHNIQUES TO EFFECTIVELY UTILIZE AI AGENTS FOR CODING",
+      "url": "https://pub.towardsai.net/3-techniques-to-effectively-utilize-ai-agents-for-coding-8733b0633f09?source=rss----98111c9905da---4",
+      "timestamp": "2026-01-17T15:23:45.701Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
@@ -87,47 +87,47 @@
         }
       },
       {
-        "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
-        "url": "https://www.nme.com/news/music/sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist-3923779?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist",
-        "timestamp": "11:58",
+        "title": "What is the \"single most played piece of content in BBC Radio 1 history across all media\"?",
+        "url": "https://faroutmagazine.co.uk/most-played-content-in-bbc-radio-1-history/",
+        "timestamp": "14:42",
         "source": "automated",
         "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
+          "impact": 0.5,
+          "engagement": 0.8999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.52
+          "composite": 0.54
         }
       }
     ],
     "wildcard": [
       {
-        "title": "BEYOND CHATGPT: BUILDING A PRODUCTION-READY RAG SYSTEM FROM SCRATCH",
-        "url": "https://pub.towardsai.net/beyond-chatgpt-building-a-production-ready-rag-system-from-scratch-d5b498c00404?source=rss----98111c9905da---4",
-        "timestamp": "2026-01-17T14:22:25.286Z",
+        "title": "3 TECHNIQUES TO EFFECTIVELY UTILIZE AI AGENTS FOR CODING",
+        "url": "https://pub.towardsai.net/3-techniques-to-effectively-utilize-ai-agents-for-coding-8733b0633f09?source=rss----98111c9905da---4",
+        "timestamp": "2026-01-17T15:23:45.701Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "BEYOND CHATGPT: BUILDING A PRODUCTION-READY RAG SYSTEM FROM SCRATCH",
-      "url": "https://pub.towardsai.net/beyond-chatgpt-building-a-production-ready-rag-system-from-scratch-d5b498c00404?source=rss----98111c9905da---4",
-      "timestamp": "2026-01-17T14:22:25.286Z",
+      "title": "3 TECHNIQUES TO EFFECTIVELY UTILIZE AI AGENTS FOR CODING",
+      "url": "https://pub.towardsai.net/3-techniques-to-effectively-utilize-ai-agents-for-coding-8733b0633f09?source=rss----98111c9905da---4",
+      "timestamp": "2026-01-17T15:23:45.701Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     {
@@ -167,6 +167,19 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.52
+      }
+    },
+    {
+      "title": "What is the \"single most played piece of content in BBC Radio 1 history across all media\"?",
+      "url": "https://faroutmagazine.co.uk/most-played-content-in-bbc-radio-1-history/",
+      "timestamp": "14:42",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.8999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.54
       }
     }
   ],

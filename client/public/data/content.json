@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "BEYOND CHATGPT: BUILDING A PRODUCTION-READY RAG SYSTEM FROM SCRATCH",
-    "url": "https://pub.towardsai.net/beyond-chatgpt-building-a-production-ready-rag-system-from-scratch-d5b498c00404?source=rss----98111c9905da---4",
+    "headline": "3 TECHNIQUES TO EFFECTIVELY UTILIZE AI AGENTS FOR CODING",
+    "url": "https://pub.towardsai.net/3-techniques-to-effectively-utilize-ai-agents-for-coding-8733b0633f09?source=rss----98111c9905da---4",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Traders Eye $98K as Bitcoin Coils for a High-Stakes Move",
-      "url": "https://news.bitcoin.com/traders-eye-98k-as-bitcoin-coils-for-a-high-stakes-move/",
-      "timestamp": "14:00",
+      "title": "Bitcoin difficulty just retreated, but a more critical \"survival metric\" signals the mining sector is bleeding out",
+      "url": "https://cryptoslate.com/why-a-small-bitcoin-difficulty-drop-can-mean-big-miner-stress-in-2026/",
+      "timestamp": "15:00",
       "pinned": false
     },
     {
-      "title": "What Can Actually Be Done to Rein in ICE?",
-      "url": "https://www.rollingstone.com/politics/politics-features/ice-deportation-solutions-1235500814/",
-      "timestamp": "14:00",
+      "title": "Get Bored!",
+      "url": "https://hackaday.com/2026/01/17/get-bored/",
+      "timestamp": "15:00",
       "pinned": false
     },
     {
-      "title": "How to pair AirPods with any device",
-      "url": "https://www.engadget.com/audio/headphones/how-to-pair-airpods-with-any-device-140000234.html?src=rss",
-      "timestamp": "14:00",
+      "title": "Who was the 'Miss Shapiro' that Brian Eno sang about?",
+      "url": "https://faroutmagazine.co.uk/who-was-the-miss-shapiro-that-brian-eno-sang-about/",
+      "timestamp": "15:00",
       "pinned": false
     },
     {
-      "title": "Wait… All Those Studies May Have “Detected” Microplastics in the Human Body Because of a Severe Error",
-      "url": "https://futurism.com/science-energy/microplastics-studies-human-body-error",
-      "timestamp": "14:00",
+      "title": "The songwriter Linda Ronstadt called the best of the century",
+      "url": "https://faroutmagazine.co.uk/the-songwriter-linda-ronstadt-called-the-best-of-the-century/",
+      "timestamp": "14:57",
       "pinned": false
     },
     {
-      "title": "Tributes pour in for David Lynch one year after his passing",
-      "url": "https://faroutmagazine.co.uk/tributes-pour-in-for-david-lynch-one-year-after-his-passing/",
-      "timestamp": "13:31",
+      "title": "The hated band Slash was forced to audition for",
+      "url": "https://faroutmagazine.co.uk/hated-band-slash-was-forced-to-audition-for/",
+      "timestamp": "14:49",
       "pinned": false
     }
   ],
@@ -105,6 +105,84 @@
   ],
   "automated": [
     {
+      "title": "3 Techniques to Effectively Utilize AI Agents for Coding",
+      "url": "https://pub.towardsai.net/3-techniques-to-effectively-utilize-ai-agents-for-coding-8733b0633f09?source=rss----98111c9905da---4",
+      "timestamp": "15:02",
+      "pubDate": "2026-01-17T15:02:04.000Z"
+    },
+    {
+      "title": "Bitcoin difficulty just retreated, but a more critical \"survival metric\" signals the mining sector is bleeding out",
+      "url": "https://cryptoslate.com/why-a-small-bitcoin-difficulty-drop-can-mean-big-miner-stress-in-2026/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-17T15:00:14.000Z"
+    },
+    {
+      "title": "Get Bored!",
+      "url": "https://hackaday.com/2026/01/17/get-bored/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-17T15:00:01.000Z"
+    },
+    {
+      "title": "Who was the 'Miss Shapiro' that Brian Eno sang about?",
+      "url": "https://faroutmagazine.co.uk/who-was-the-miss-shapiro-that-brian-eno-sang-about/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-17T15:00:00.000Z"
+    },
+    {
+      "title": "The songwriter Linda Ronstadt called the best of the century",
+      "url": "https://faroutmagazine.co.uk/the-songwriter-linda-ronstadt-called-the-best-of-the-century/",
+      "timestamp": "14:57",
+      "pubDate": "2026-01-17T14:57:59.000Z"
+    },
+    {
+      "title": "The hated band Slash was forced to audition for",
+      "url": "https://faroutmagazine.co.uk/hated-band-slash-was-forced-to-audition-for/",
+      "timestamp": "14:49",
+      "pubDate": "2026-01-17T14:49:21.000Z"
+    },
+    {
+      "title": "Moon Hotel Now Taking Reservations",
+      "url": "https://futurism.com/space/moon-hotel-reservations",
+      "timestamp": "14:45",
+      "pubDate": "2026-01-17T14:45:00.000Z"
+    },
+    {
+      "title": "The \"sweetest\" song The Beach Boys ever wrote: \"I have to say I am proud of it\"",
+      "url": "https://faroutmagazine.co.uk/the-sweetest-song-the-beach-boys-ever-wrote/",
+      "timestamp": "14:44",
+      "pubDate": "2026-01-17T14:44:42.000Z"
+    },
+    {
+      "title": "What is the \"single most played piece of content in BBC Radio 1 history across all media\"?",
+      "url": "https://faroutmagazine.co.uk/most-played-content-in-bbc-radio-1-history/",
+      "timestamp": "14:42",
+      "pubDate": "2026-01-17T14:42:26.000Z"
+    },
+    {
+      "title": "What was the last-ever number one performed on ‘Top of the Pops’?",
+      "url": "https://faroutmagazine.co.uk/last-number-one-performed-on-top-of-the-pops/",
+      "timestamp": "14:41",
+      "pubDate": "2026-01-17T14:41:33.000Z"
+    },
+    {
+      "title": "'Seeds' Isn't Just a Documentary. It's Protest Art — and Poetry",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/seeds-documentary-review-1235498082/",
+      "timestamp": "14:30",
+      "pubDate": "2026-01-17T14:30:00.000Z"
+    },
+    {
+      "title": "The five most dangerous tourist destinations on the planet",
+      "url": "https://faroutmagazine.co.uk/the-five-most-dangerous-tourist-destinations-on-the-planet/",
+      "timestamp": "14:30",
+      "pubDate": "2026-01-17T14:30:00.000Z"
+    },
+    {
+      "title": "The Waterboys Will Not Be Deterred From Posting AI Slop",
+      "url": "https://stereogum.com/2485781/the-waterboys-will-not-be-deterred-from-posting-ai-slop/news/",
+      "timestamp": "14:03",
+      "pubDate": "2026-01-17T14:03:34.000Z"
+    },
+    {
       "title": "Beyond ChatGPT: Building a Production-Ready RAG System from Scratch",
       "url": "https://pub.towardsai.net/beyond-chatgpt-building-a-production-ready-rag-system-from-scratch-d5b498c00404?source=rss----98111c9905da---4",
       "timestamp": "14:02",
@@ -155,6 +233,12 @@
     {
       "title": "The purest rock band Joe Strummer ever heard: \"They beat it back into purity\"",
       "url": "https://faroutmagazine.co.uk/purest-rock-band-joe-strummer-ever-heard/",
+      "timestamp": "13:00",
+      "pubDate": "2026-01-17T13:00:00.000Z"
+    },
+    {
+      "title": "Why the Do Nothing Challenge Doesn’t Do Much for You",
+      "url": "https://nautil.us/why-the-do-nothing-challenge-doesnt-do-much-for-you-1262005/",
       "timestamp": "13:00",
       "pubDate": "2026-01-17T13:00:00.000Z"
     },
@@ -259,107 +343,28 @@
       "url": "https://futurism.com/space/astronaut-brains-displaced",
       "timestamp": "11:45",
       "pubDate": "2026-01-17T11:45:00.000Z"
-    },
-    {
-      "title": "Bitmine Backs MrBeast’s Beast Industries With $200 Million Investment",
-      "url": "https://news.bitcoin.com/bitmine-backs-mrbeasts-beast-industries-with-200-million-investment/",
-      "timestamp": "11:40",
-      "pubDate": "2026-01-17T11:40:46.000Z"
-    },
-    {
-      "title": "7 Best Mesh Wi-Fi Systems (2026), Tested in a Tech Reviewer's Home",
-      "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
-      "timestamp": "11:30",
-      "pubDate": "2026-01-17T11:30:00.000Z"
-    },
-    {
-      "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
-      "url": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/",
-      "timestamp": "11:30",
-      "pubDate": "2026-01-17T11:30:00.000Z"
-    },
-    {
-      "title": "Spot Bitcoin ETFs attract $1.42B in strongest week since early October",
-      "url": "https://cointelegraph.com/news/bitcoin-etf-inflows-surge-as-institutional-demand-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "11:27",
-      "pubDate": "2026-01-17T11:27:56.000Z"
-    },
-    {
-      "title": "'28 Years Later: The Bone Temple': what happened to Cillian Murphy’s Jim after '28 Days Later'?",
-      "url": "https://www.nme.com/news/film/28-years-later-the-bone-temple-what-happened-to-cillian-murphys-jim-after-28-days-later-3923787?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=28-years-later-the-bone-temple-what-happened-to-cillian-murphys-jim-after-28-days-later",
-      "timestamp": "11:26",
-      "pubDate": "2026-01-17T11:26:06.000Z"
-    },
-    {
-      "title": "Garmin smartwatches have 5 hidden sleep features — and they've transformed how fast I'm falling asleep and how energized I feel waking up",
-      "url": "https://www.tomsguide.com/wellness/sleep-tech/garmin-smartwatches-have-5-hidden-sleep-features-and-theyve-transformed-how-fast-im-falling-asleep-and-how-energized-i-feel-waking-up",
-      "timestamp": "11:15",
-      "pubDate": "2026-01-17T11:15:00.000Z"
-    },
-    {
-      "title": "Daniel Stern exits ABC pilot following prostitution case",
-      "url": "https://faroutmagazine.co.uk/daniel-stern-exits-abc-pilot-following-prostitution-case/",
-      "timestamp": "11:10",
-      "pubDate": "2026-01-17T11:10:30.000Z"
-    },
-    {
-      "title": "5 best Matt Damon and Ben Affleck movies, ranked",
-      "url": "https://www.tomsguide.com/entertainment/streaming/5-best-matt-damon-and-ben-affleck-movies-ranked",
-      "timestamp": "11:01",
-      "pubDate": "2026-01-17T11:01:00.000Z"
-    },
-    {
-      "title": "The TV show that taught Ana de Armas how to speak English: \"The best tutor\"",
-      "url": "https://faroutmagazine.co.uk/tv-show-taught-ana-de-armas-how-to-speak-english/",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-17T11:00:00.000Z"
-    },
-    {
-      "title": "Hot New App Makes Single People Check in Constantly in Case They Die Alone",
-      "url": "https://futurism.com/future-society/singles-dead-china-app",
-      "timestamp": "11:00",
-      "pubDate": "2026-01-17T11:00:00.000Z"
-    },
-    {
-      "title": "Why did Cat Stevens change his name to Yusuf?",
-      "url": "https://faroutmagazine.co.uk/why-did-cat-stevens-change-his-name-to-yusuf/",
-      "timestamp": "10:59",
-      "pubDate": "2026-01-17T10:59:32.000Z"
-    },
-    {
-      "title": "Et Tu, South Africa?",
-      "url": "https://hyperallergic.com/et-tu-south-africa/",
-      "timestamp": "10:59",
-      "pubDate": "2026-01-17T10:59:00.000Z"
-    },
-    {
-      "title": "AI is giving people professional superpowers\": Claude's product lead explains the future of AI in exclusive Tom's Guide interview",
-      "url": "https://www.tomsguide.com/ai/ai-is-giving-people-professional-superpowers-claudes-product-lead-explains-the-future-of-ai-and-the-importance-of-prioritizing-safety",
-      "timestamp": "10:45",
-      "pubDate": "2026-01-17T10:45:00.000Z"
-    },
-    {
-      "title": "'White Lotus' adds Steve Coogan to season four line-up",
-      "url": "https://faroutmagazine.co.uk/white-lotus-adds-steve-coogan-to-season-four-line-up/",
-      "timestamp": "10:41",
-      "pubDate": "2026-01-17T10:41:52.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "Tributes pour in for David Lynch one year after his passing",
-      "url": "https://faroutmagazine.co.uk/tributes-pour-in-for-david-lynch-one-year-after-his-passing/",
-      "timestamp": "13:31"
+      "title": "Who was the 'Miss Shapiro' that Brian Eno sang about?",
+      "url": "https://faroutmagazine.co.uk/who-was-the-miss-shapiro-that-brian-eno-sang-about/",
+      "timestamp": "15:00"
     },
     {
-      "title": "The greatest comedy ever made, according to Richard Linklater: \"Hasn't aged a day\"",
-      "url": "https://faroutmagazine.co.uk/the-greatest-comedy-ever-made-according-to-richard-linklater/",
-      "timestamp": "13:30"
+      "title": "The songwriter Linda Ronstadt called the best of the century",
+      "url": "https://faroutmagazine.co.uk/the-songwriter-linda-ronstadt-called-the-best-of-the-century/",
+      "timestamp": "14:57"
     },
     {
-      "title": "The riff that Dave Grohl says gave birth to metal: “The swamp from whence metal crawled”",
-      "url": "https://faroutmagazine.co.uk/riff-that-dave-grohl-says-gave-birth-to-metal/",
-      "timestamp": "13:27"
+      "title": "The hated band Slash was forced to audition for",
+      "url": "https://faroutmagazine.co.uk/hated-band-slash-was-forced-to-audition-for/",
+      "timestamp": "14:49"
+    },
+    {
+      "title": "The Waterboys Will Not Be Deterred From Posting AI Slop",
+      "url": "https://stereogum.com/2485781/the-waterboys-will-not-be-deterred-from-posting-ai-slop/news/",
+      "timestamp": "14:03"
     },
     {
       "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
@@ -440,12 +445,7 @@
       "title": "Sleaford Mods Still Have Plenty To Be Angry About",
       "url": "https://www.spin.com/2026/01/sleaford-mods-still-have-plenty-to-be-angry-about/",
       "timestamp": "15:30"
-    },
-    {
-      "title": "Essential Releases, January 16, 2026",
-      "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
-      "timestamp": "15:16"
     }
   ],
-  "lastUpdated": "2026-01-17T14:22:25.286Z"
+  "lastUpdated": "2026-01-17T15:23:45.701Z"
 }
