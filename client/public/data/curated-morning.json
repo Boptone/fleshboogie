@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-17T15:23:48.599Z",
+  "curatedAt": "2026-01-17T16:27:59.159Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "3 TECHNIQUES TO EFFECTIVELY UTILIZE AI AGENTS FOR CODING",
-      "url": "https://pub.towardsai.net/3-techniques-to-effectively-utilize-ai-agents-for-coding-8733b0633f09?source=rss----98111c9905da---4",
-      "timestamp": "2026-01-17T15:23:45.701Z",
+      "title": "THE ONE MOVIE KEVIN BACON INSTANTLY REGRETTED MAKING: \"ANOTHER THAT DIDN'T WORK\"",
+      "url": "https://faroutmagazine.co.uk/movie-kevin-bacon-instantly-regretted-making/",
+      "timestamp": "2026-01-17T16:27:56.207Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
     "deepDive": [
@@ -34,7 +34,7 @@
         "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
         "url": "https://www.nme.com/news/music/sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist-3923779?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist",
         "timestamp": "11:58",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.6,
           "engagement": 0.7,
@@ -102,32 +102,32 @@
     ],
     "wildcard": [
       {
-        "title": "3 TECHNIQUES TO EFFECTIVELY UTILIZE AI AGENTS FOR CODING",
-        "url": "https://pub.towardsai.net/3-techniques-to-effectively-utilize-ai-agents-for-coding-8733b0633f09?source=rss----98111c9905da---4",
-        "timestamp": "2026-01-17T15:23:45.701Z",
+        "title": "THE ONE MOVIE KEVIN BACON INSTANTLY REGRETTED MAKING: \"ANOTHER THAT DIDN'T WORK\"",
+        "url": "https://faroutmagazine.co.uk/movie-kevin-bacon-instantly-regretted-making/",
+        "timestamp": "2026-01-17T16:27:56.207Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.6,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6100000000000001
+          "composite": 0.5800000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "3 TECHNIQUES TO EFFECTIVELY UTILIZE AI AGENTS FOR CODING",
-      "url": "https://pub.towardsai.net/3-techniques-to-effectively-utilize-ai-agents-for-coding-8733b0633f09?source=rss----98111c9905da---4",
-      "timestamp": "2026-01-17T15:23:45.701Z",
+      "title": "THE ONE MOVIE KEVIN BACON INSTANTLY REGRETTED MAKING: \"ANOTHER THAT DIDN'T WORK\"",
+      "url": "https://faroutmagazine.co.uk/movie-kevin-bacon-instantly-regretted-making/",
+      "timestamp": "2026-01-17T16:27:56.207Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6100000000000001
+        "composite": 0.5800000000000001
       }
     },
     {
@@ -147,7 +147,7 @@
       "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
       "url": "https://www.nme.com/news/music/sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist-3923779?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist",
       "timestamp": "11:58",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.6,
         "engagement": 0.7,
