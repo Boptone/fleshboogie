@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "THIS SMART IKEA STORAGE SOLUTION CAN IMPROVE YOUR INDOOR AIR QUALITY AND HELP YOU SLEEP DEEPER — HERE’S HOW",
-    "url": "https://www.tomsguide.com/wellness/sleep-tech/this-smart-ikea-storage-solution-can-improve-your-indoor-air-quality-and-help-you-sleep-deeper-heres-how",
+    "headline": "YES, TOMTOM STILL EXISTS — I DROVE 300 MILES TO SEE IF IT COULD BEAT GOOGLE MAPS",
+    "url": "https://www.tomsguide.com/phones/yes-tomtom-still-exists-i-drove-300-miles-to-see-if-it-could-beat-google-maps",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "How to use every iPhone camera mode to take better photos",
-      "url": "https://www.tomsguide.com/phones/iphones/how-to-use-every-iphone-camera-mode-to-take-better-photos",
-      "timestamp": "08:01",
+      "title": "In praise of Stellan Skarsgård and his Oscar-worthy performance in ‘Sentimental Value’",
+      "url": "https://faroutmagazine.co.uk/in-praise-of-stellan-skarsgard-sentimental-value/",
+      "timestamp": "09:00",
       "pinned": false
     },
     {
-      "title": "What was the worst number one from 1990?",
-      "url": "https://faroutmagazine.co.uk/what-was-worst-number-one-from-1990/",
-      "timestamp": "08:00",
+      "title": "The eMac: Using Apple's Forgotten Educational Mac in 2025",
+      "url": "https://hackaday.com/2026/01/17/the-emac-using-apples-forgotten-educational-mac-in-2025/",
+      "timestamp": "09:00",
       "pinned": false
     },
     {
-      "title": "I can't believe I missed this hidden setting on my Dyson cordless vacuum — and you probably have too",
-      "url": "https://www.tomsguide.com/home/home-appliances/i-cant-believe-i-missed-this-hidden-setting-on-my-dyson-cordless-vacuum-and-you-probably-have-too",
-      "timestamp": "07:45",
+      "title": "I finally gave AI a real try — here's what I like and what I really can’t stand after a week",
+      "url": "https://www.tomsguide.com/ai/i-finally-gave-ai-a-real-try-heres-what-i-like-and-what-i-really-cant-stand-after-a-week",
+      "timestamp": "08:45",
       "pinned": false
     },
     {
-      "title": "Forget 'new year, new me' — these 5 'old school' muscle-building moves sculpt you in all the right places",
-      "url": "https://www.tomsguide.com/wellness/workouts/forget-new-year-new-me-these-5-old-school-muscle-building-moves-sculpt-you-in-all-the-right-places",
-      "timestamp": "07:30",
+      "title": "COVID March 2020-Style Event Potentially Brewing for Bitcoin: Luke Gromen",
+      "url": "https://news.bitcoin.com/covid-march-2020-style-event-potentially-brewing-for-bitcoin-luke-gromen/",
+      "timestamp": "08:40",
       "pinned": false
     },
     {
-      "title": "New World Order: Canada Sides With China in Economic Pivot Away From the US",
-      "url": "https://news.bitcoin.com/new-world-order-canada-sides-with-china-in-economic-pivot-away-from-the-us/",
-      "timestamp": "07:05",
+      "title": "This smart IKEA storage solution can improve your indoor air quality and help you sleep deeper — here’s how",
+      "url": "https://www.tomsguide.com/wellness/sleep-tech/this-smart-ikea-storage-solution-can-improve-your-indoor-air-quality-and-help-you-sleep-deeper-heres-how",
+      "timestamp": "08:30",
       "pinned": false
     }
   ],
@@ -104,6 +104,36 @@
     }
   ],
   "automated": [
+    {
+      "title": "Yes, TomTom still exists — I drove 300 miles to see if it could beat Google Maps",
+      "url": "https://www.tomsguide.com/phones/yes-tomtom-still-exists-i-drove-300-miles-to-see-if-it-could-beat-google-maps",
+      "timestamp": "09:15",
+      "pubDate": "2026-01-17T09:15:00.000Z"
+    },
+    {
+      "title": "In praise of Stellan Skarsgård and his Oscar-worthy performance in ‘Sentimental Value’",
+      "url": "https://faroutmagazine.co.uk/in-praise-of-stellan-skarsgard-sentimental-value/",
+      "timestamp": "09:00",
+      "pubDate": "2026-01-17T09:00:00.000Z"
+    },
+    {
+      "title": "The eMac: Using Apple's Forgotten Educational Mac in 2025",
+      "url": "https://hackaday.com/2026/01/17/the-emac-using-apples-forgotten-educational-mac-in-2025/",
+      "timestamp": "09:00",
+      "pubDate": "2026-01-17T09:00:00.000Z"
+    },
+    {
+      "title": "I finally gave AI a real try — here's what I like and what I really can’t stand after a week",
+      "url": "https://www.tomsguide.com/ai/i-finally-gave-ai-a-real-try-heres-what-i-like-and-what-i-really-cant-stand-after-a-week",
+      "timestamp": "08:45",
+      "pubDate": "2026-01-17T08:45:00.000Z"
+    },
+    {
+      "title": "COVID March 2020-Style Event Potentially Brewing for Bitcoin: Luke Gromen",
+      "url": "https://news.bitcoin.com/covid-march-2020-style-event-potentially-brewing-for-bitcoin-luke-gromen/",
+      "timestamp": "08:40",
+      "pubDate": "2026-01-17T08:40:57.000Z"
+    },
     {
       "title": "This smart IKEA storage solution can improve your indoor air quality and help you sleep deeper — here’s how",
       "url": "https://www.tomsguide.com/wellness/sleep-tech/this-smart-ikea-storage-solution-can-improve-your-indoor-air-quality-and-help-you-sleep-deeper-heres-how",
@@ -313,36 +343,6 @@
       "url": "https://faroutmagazine.co.uk/what-albums-did-frank-zappa-produce/",
       "timestamp": "02:00",
       "pubDate": "2026-01-17T02:00:00.000Z"
-    },
-    {
-      "title": "The 7 Best Songs From A$AP Rocky’s ‘Don’t Be Dumb’ Album",
-      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-best-songs-1235501094/",
-      "timestamp": "01:55",
-      "pubDate": "2026-01-17T01:55:30.000Z"
-    },
-    {
-      "title": "Ashton Kutcher Admits There Are Echoes of Ex-Wife Demi Moore's 'The Substance' in His New Show 'The Beauty' &#124; Video",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/ashton-kutcher-compares-the-beauty-demi-moore-the-substance/",
-      "timestamp": "01:54",
-      "pubDate": "2026-01-17T01:54:42.000Z"
-    },
-    {
-      "title": "'The Exorcist' Reboot Sets March 2027 Release With Stars Scarlett Johansson, Jacobi Jupe",
-      "url": "https://www.thewrap.com/creative-content/movies/exorcist-sets-march-2027-release/",
-      "timestamp": "01:46",
-      "pubDate": "2026-01-17T01:46:15.000Z"
-    },
-    {
-      "title": "Stablecoins Could Drain Trillions From Bank Deposits: Bank of America Flags $6T Risk That Could Redefine Lending",
-      "url": "https://news.bitcoin.com/stablecoins-could-drain-trillions-from-bank-deposits-bank-of-america-flags-6t-risk-that-could-redefine-lending/",
-      "timestamp": "01:40",
-      "pubDate": "2026-01-17T01:40:14.000Z"
-    },
-    {
-      "title": "Jason Momoa Gives 'Minecraft' Sequel Update: \"Very Soon\"",
-      "url": "https://deadline.com/2026/01/jason-momoa-minecraft-sequel-update-1236685775/",
-      "timestamp": "01:20",
-      "pubDate": "2026-01-17T01:20:41.000Z"
     }
   ],
   "musicReleases": [
@@ -447,5 +447,5 @@
       "timestamp": "15:16"
     }
   ],
-  "lastUpdated": "2026-01-17T08:31:09.735Z"
+  "lastUpdated": "2026-01-17T09:24:47.569Z"
 }
