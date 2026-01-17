@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "THE RIFF THAT DAVE GROHL SAYS GAVE BIRTH TO METAL: “THE SWAMP FROM WHENCE METAL CRAWLED”",
-    "url": "https://faroutmagazine.co.uk/riff-that-dave-grohl-says-gave-birth-to-metal/",
+    "headline": "BEYOND CHATGPT: BUILDING A PRODUCTION-READY RAG SYSTEM FROM SCRATCH",
+    "url": "https://pub.towardsai.net/beyond-chatgpt-building-a-production-ready-rag-system-from-scratch-d5b498c00404?source=rss----98111c9905da---4",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "The purest rock band Joe Strummer ever heard: \"They beat it back into purity\"",
-      "url": "https://faroutmagazine.co.uk/purest-rock-band-joe-strummer-ever-heard/",
-      "timestamp": "13:00",
+      "title": "Traders Eye $98K as Bitcoin Coils for a High-Stakes Move",
+      "url": "https://news.bitcoin.com/traders-eye-98k-as-bitcoin-coils-for-a-high-stakes-move/",
+      "timestamp": "14:00",
       "pinned": false
     },
     {
-      "title": "Why the Do Nothing Challenge Doesn’t Do Much for You",
-      "url": "https://nautil.us/why-the-do-nothing-challenge-doesnt-do-much-for-you-1262005/",
-      "timestamp": "13:00",
+      "title": "What Can Actually Be Done to Rein in ICE?",
+      "url": "https://www.rollingstone.com/politics/politics-features/ice-deportation-solutions-1235500814/",
+      "timestamp": "14:00",
       "pinned": false
     },
     {
-      "title": "ESP/LTD Presents New Signature Guitars at NAMM 2026 – Including the Gojira JD-1",
-      "url": "https://www.gearnews.com/esp-ltd-namm-2026-gojira-guitar/",
-      "timestamp": "12:51",
+      "title": "How to pair AirPods with any device",
+      "url": "https://www.engadget.com/audio/headphones/how-to-pair-airpods-with-any-device-140000234.html?src=rss",
+      "timestamp": "14:00",
       "pinned": false
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "12:51",
+      "title": "Wait… All Those Studies May Have “Detected” Microplastics in the Human Body Because of a Severe Error",
+      "url": "https://futurism.com/science-energy/microplastics-studies-human-body-error",
+      "timestamp": "14:00",
       "pinned": false
     },
     {
-      "title": "Morrissey cut from new A$AP Rocky album",
-      "url": "https://faroutmagazine.co.uk/morrissey-cut-from-new-aap-rocky-album/",
-      "timestamp": "12:41",
+      "title": "Tributes pour in for David Lynch one year after his passing",
+      "url": "https://faroutmagazine.co.uk/tributes-pour-in-for-david-lynch-one-year-after-his-passing/",
+      "timestamp": "13:31",
       "pinned": false
     }
   ],
@@ -105,6 +105,48 @@
   ],
   "automated": [
     {
+      "title": "Beyond ChatGPT: Building a Production-Ready RAG System from Scratch",
+      "url": "https://pub.towardsai.net/beyond-chatgpt-building-a-production-ready-rag-system-from-scratch-d5b498c00404?source=rss----98111c9905da---4",
+      "timestamp": "14:02",
+      "pubDate": "2026-01-17T14:02:27.000Z"
+    },
+    {
+      "title": "Traders Eye $98K as Bitcoin Coils for a High-Stakes Move",
+      "url": "https://news.bitcoin.com/traders-eye-98k-as-bitcoin-coils-for-a-high-stakes-move/",
+      "timestamp": "14:00",
+      "pubDate": "2026-01-17T14:00:21.000Z"
+    },
+    {
+      "title": "What Can Actually Be Done to Rein in ICE?",
+      "url": "https://www.rollingstone.com/politics/politics-features/ice-deportation-solutions-1235500814/",
+      "timestamp": "14:00",
+      "pubDate": "2026-01-17T14:00:00.000Z"
+    },
+    {
+      "title": "How to pair AirPods with any device",
+      "url": "https://www.engadget.com/audio/headphones/how-to-pair-airpods-with-any-device-140000234.html?src=rss",
+      "timestamp": "14:00",
+      "pubDate": "2026-01-17T14:00:00.000Z"
+    },
+    {
+      "title": "Wait… All Those Studies May Have “Detected” Microplastics in the Human Body Because of a Severe Error",
+      "url": "https://futurism.com/science-energy/microplastics-studies-human-body-error",
+      "timestamp": "14:00",
+      "pubDate": "2026-01-17T14:00:00.000Z"
+    },
+    {
+      "title": "Tributes pour in for David Lynch one year after his passing",
+      "url": "https://faroutmagazine.co.uk/tributes-pour-in-for-david-lynch-one-year-after-his-passing/",
+      "timestamp": "13:31",
+      "pubDate": "2026-01-17T13:31:21.000Z"
+    },
+    {
+      "title": "The greatest comedy ever made, according to Richard Linklater: \"Hasn't aged a day\"",
+      "url": "https://faroutmagazine.co.uk/the-greatest-comedy-ever-made-according-to-richard-linklater/",
+      "timestamp": "13:30",
+      "pubDate": "2026-01-17T13:30:00.000Z"
+    },
+    {
       "title": "The riff that Dave Grohl says gave birth to metal: “The swamp from whence metal crawled”",
       "url": "https://faroutmagazine.co.uk/riff-that-dave-grohl-says-gave-birth-to-metal/",
       "timestamp": "13:27",
@@ -113,12 +155,6 @@
     {
       "title": "The purest rock band Joe Strummer ever heard: \"They beat it back into purity\"",
       "url": "https://faroutmagazine.co.uk/purest-rock-band-joe-strummer-ever-heard/",
-      "timestamp": "13:00",
-      "pubDate": "2026-01-17T13:00:00.000Z"
-    },
-    {
-      "title": "Why the Do Nothing Challenge Doesn’t Do Much for You",
-      "url": "https://nautil.us/why-the-do-nothing-challenge-doesnt-do-much-for-you-1262005/",
       "timestamp": "13:00",
       "pubDate": "2026-01-17T13:00:00.000Z"
     },
@@ -307,59 +343,23 @@
       "url": "https://faroutmagazine.co.uk/white-lotus-adds-steve-coogan-to-season-four-line-up/",
       "timestamp": "10:41",
       "pubDate": "2026-01-17T10:41:52.000Z"
-    },
-    {
-      "title": "The Best Mattress for Back Pain: 7 Top Options We Tested (2025)",
-      "url": "https://www.wired.com/gallery/the-best-mattresses-for-back-pain/",
-      "timestamp": "10:36",
-      "pubDate": "2026-01-17T10:36:00.000Z"
-    },
-    {
-      "title": "The classic Stevie Nicks song Lindsey Buckingham destroyed before rebuilding: \"He tore it apart\"",
-      "url": "https://faroutmagazine.co.uk/stevie-nicks-song-lindsey-buckingham-tore-apart/",
-      "timestamp": "10:34",
-      "pubDate": "2026-01-17T10:34:22.000Z"
-    },
-    {
-      "title": "'Sourdough is the hottest accessory of 2026' says Vogue — and you only need this one product to start baking like a pro",
-      "url": "https://www.tomsguide.com/home/kitchen-dining/sourdough-is-the-hottest-accessory-of-2026-says-vogue-and-you-only-need-this-one-product-to-start-baking-like-a-pro",
-      "timestamp": "10:30",
-      "pubDate": "2026-01-17T10:30:00.000Z"
-    },
-    {
-      "title": "Morrissey dropped from A$AP Rocky's new album",
-      "url": "https://www.nme.com/news/music/morrissey-dropped-from-aap-rockys-new-album-3923750?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morrissey-dropped-from-aap-rockys-new-album",
-      "timestamp": "10:17",
-      "pubDate": "2026-01-17T10:17:37.000Z"
-    },
-    {
-      "title": "I've been using Macs for years — here are 3 power user tweaks that changed everything",
-      "url": "https://www.tomsguide.com/computing/macos/ive-been-using-macs-for-years-here-are-3-power-user-tweaks-that-changed-everything",
-      "timestamp": "10:15",
-      "pubDate": "2026-01-17T10:15:00.000Z"
-    },
-    {
-      "title": "‘I’m an 83-year-old personal trainer, and staying active remains non-negotiable for me. Here’s how I stay fit and motivated’",
-      "url": "https://www.tomsguide.com/wellness/workouts/im-an-83-year-old-personal-trainer-and-staying-active-remains-non-negotiable-for-me-heres-how-i-stay-fit-and-motivated",
-      "timestamp": "10:05",
-      "pubDate": "2026-01-17T10:05:00.000Z"
     }
   ],
   "musicReleases": [
     {
+      "title": "Tributes pour in for David Lynch one year after his passing",
+      "url": "https://faroutmagazine.co.uk/tributes-pour-in-for-david-lynch-one-year-after-his-passing/",
+      "timestamp": "13:31"
+    },
+    {
+      "title": "The greatest comedy ever made, according to Richard Linklater: \"Hasn't aged a day\"",
+      "url": "https://faroutmagazine.co.uk/the-greatest-comedy-ever-made-according-to-richard-linklater/",
+      "timestamp": "13:30"
+    },
+    {
       "title": "The riff that Dave Grohl says gave birth to metal: “The swamp from whence metal crawled”",
       "url": "https://faroutmagazine.co.uk/riff-that-dave-grohl-says-gave-birth-to-metal/",
       "timestamp": "13:27"
-    },
-    {
-      "title": "The purest rock band Joe Strummer ever heard: \"They beat it back into purity\"",
-      "url": "https://faroutmagazine.co.uk/purest-rock-band-joe-strummer-ever-heard/",
-      "timestamp": "13:00"
-    },
-    {
-      "title": "Morrissey cut from new A$AP Rocky album",
-      "url": "https://faroutmagazine.co.uk/morrissey-cut-from-new-aap-rocky-album/",
-      "timestamp": "12:41"
     },
     {
       "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
@@ -447,5 +447,5 @@
       "timestamp": "15:16"
     }
   ],
-  "lastUpdated": "2026-01-17T13:31:20.829Z"
+  "lastUpdated": "2026-01-17T14:22:25.286Z"
 }
