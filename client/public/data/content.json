@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "THE ONE MOVIE KEVIN BACON INSTANTLY REGRETTED MAKING: \"ANOTHER THAT DIDN'T WORK\"",
-    "url": "https://faroutmagazine.co.uk/movie-kevin-bacon-instantly-regretted-making/",
+    "headline": "WHY WRITING OPEN-SOURCE CODE IS SUDDENLY AN EXISTENTIAL RISK, AND THE FIVE-PAGE BILL DESIGNED TO FIX IT",
+    "url": "https://cryptoslate.com/us-bill-writing-bitcoin-software-isnt-a-financial-crime-what-changes/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Scientists Now Studying AI as a Novel Biological Organism",
-      "url": "https://futurism.com/artificial-intelligence/ai-novel-biological-organism",
-      "timestamp": "16:15",
+      "title": "The one and only movie John Wayne banned John Ford from directing: \"This was my dream\"",
+      "url": "https://faroutmagazine.co.uk/movie-john-wayne-banned-john-ford-from-directing/",
+      "timestamp": "17:15",
       "pinned": false
     },
     {
-      "title": "'28 Years Later: The Bone Temple' Sinks to $15 Million Opening On Sluggish MLK Weekend",
-      "url": "https://www.thewrap.com/industry-news/business/28-years-later-bone-temple-saturday-box-office/",
-      "timestamp": "16:08",
+      "title": "The one Eagles track Glenn Frey couldn't stand making: “I hate this song!\"",
+      "url": "https://faroutmagazine.co.uk/the-one-eagles-song-glenn-frey-couldnt-stand-making/",
+      "timestamp": "17:12",
       "pinned": false
     },
     {
-      "title": "I Hallucinated 50,000 Perfect Training Examples (And So Should You)",
-      "url": "https://pub.towardsai.net/i-hallucinated-50-000-perfect-training-examples-and-so-should-you-7ad702396bfa?source=rss----98111c9905da---4",
-      "timestamp": "16:02",
+      "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+      "timestamp": "17:12",
       "pinned": false
     },
     {
-      "title": "The guitarist John Fogerty was always trying to emulate: \"I dearly love to this day\"",
-      "url": "https://faroutmagazine.co.uk/guitarist-john-fogerty-trying-to-emulate/",
-      "timestamp": "16:00",
+      "title": "The one album Jeff Lynne thought he would never enjoy",
+      "url": "https://faroutmagazine.co.uk/the-one-album-jeff-lynne-thought-he-would-never-enjoy/",
+      "timestamp": "17:12",
       "pinned": false
     },
     {
-      "title": "Oshen built the first ocean robot to collect data in a Category 5 hurricane",
-      "url": "https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/",
-      "timestamp": "16:00",
+      "title": "Netflix top 10 movies — here’s the 3 worth watching right now (Jan. 17-18)",
+      "url": "https://www.tomsguide.com/entertainment/netflix/netflix-top-10-movies-heres-the-3-worth-watching-right-now-jan-17-18",
+      "timestamp": "17:06",
       "pinned": false
     }
   ],
@@ -104,6 +104,108 @@
     }
   ],
   "automated": [
+    {
+      "title": "Why writing open-source code is suddenly an existential risk, and the five-page bill designed to fix it",
+      "url": "https://cryptoslate.com/us-bill-writing-bitcoin-software-isnt-a-financial-crime-what-changes/",
+      "timestamp": "17:15",
+      "pubDate": "2026-01-17T17:15:07.000Z"
+    },
+    {
+      "title": "The one and only movie John Wayne banned John Ford from directing: \"This was my dream\"",
+      "url": "https://faroutmagazine.co.uk/movie-john-wayne-banned-john-ford-from-directing/",
+      "timestamp": "17:15",
+      "pubDate": "2026-01-17T17:15:00.000Z"
+    },
+    {
+      "title": "The one Eagles track Glenn Frey couldn't stand making: “I hate this song!\"",
+      "url": "https://faroutmagazine.co.uk/the-one-eagles-song-glenn-frey-couldnt-stand-making/",
+      "timestamp": "17:12",
+      "pubDate": "2026-01-17T17:12:50.000Z"
+    },
+    {
+      "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+      "timestamp": "17:12",
+      "pubDate": "2026-01-17T17:12:49.000Z"
+    },
+    {
+      "title": "The one album Jeff Lynne thought he would never enjoy",
+      "url": "https://faroutmagazine.co.uk/the-one-album-jeff-lynne-thought-he-would-never-enjoy/",
+      "timestamp": "17:12",
+      "pubDate": "2026-01-17T17:12:12.000Z"
+    },
+    {
+      "title": "Netflix top 10 movies — here’s the 3 worth watching right now (Jan. 17-18)",
+      "url": "https://www.tomsguide.com/entertainment/netflix/netflix-top-10-movies-heres-the-3-worth-watching-right-now-jan-17-18",
+      "timestamp": "17:06",
+      "pubDate": "2026-01-17T17:06:55.000Z"
+    },
+    {
+      "title": "'Saturday Night Live': How to Watch the TV Variety Show Online for&#160;Free",
+      "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-online-free-9546472/",
+      "timestamp": "17:03",
+      "pubDate": "2026-01-17T17:03:26.000Z"
+    },
+    {
+      "title": "The one singer Ozzy Osbourne never got along with: \"One of the greats\"",
+      "url": "https://faroutmagazine.co.uk/the-one-singer-ozzy-osbourne-never-got-along-with/",
+      "timestamp": "17:02",
+      "pubDate": "2026-01-17T17:02:22.000Z"
+    },
+    {
+      "title": "The one song Bruce Springsteen couldn't stand listening to",
+      "url": "https://faroutmagazine.co.uk/the-one-song-bruce-springsteen-couldnt-stand-listening-to/",
+      "timestamp": "17:01",
+      "pubDate": "2026-01-17T17:01:38.000Z"
+    },
+    {
+      "title": "3 Best Movies to Watch on HBO Max This Weekend",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/best-movies-on-hbo-max-this-weekend-jan-16-18/",
+      "timestamp": "17:00",
+      "pubDate": "2026-01-17T17:00:00.000Z"
+    },
+    {
+      "title": "Tube Amps: Finally Obsolete in 2026?",
+      "url": "https://www.gearnews.com/tube-amps-finally-obsolete-in-2026/",
+      "timestamp": "17:00",
+      "pubDate": "2026-01-17T17:00:00.000Z"
+    },
+    {
+      "title": "Scientists Preparing to Simulate Human Brain on Supercomputer",
+      "url": "https://futurism.com/health-medicine/simulate-human-brain-supercomputer",
+      "timestamp": "17:00",
+      "pubDate": "2026-01-17T17:00:00.000Z"
+    },
+    {
+      "title": "The worst actor Al Pacino ever worked with: \"I should have said that to her\"",
+      "url": "https://faroutmagazine.co.uk/the-worst-actor-al-pacino-ever-worked-with/",
+      "timestamp": "16:45",
+      "pubDate": "2026-01-17T16:45:00.000Z"
+    },
+    {
+      "title": "Morrissey cancels another show – this time in Atlanta due to “artist illness”",
+      "url": "https://www.nme.com/news/music/morrissey-cancels-another-show-this-time-in-atlanta-due-to-artist-illness-3923803?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morrissey-cancels-another-show-this-time-in-atlanta-due-to-artist-illness",
+      "timestamp": "16:39",
+      "pubDate": "2026-01-17T16:39:33.000Z"
+    },
+    {
+      "title": "Roger Waters Has No Regrets About Ozzy Osbourne Comments",
+      "url": "https://ultimateclassicrock.com/roger-waters-ozzy-osbourne-no-regrets/",
+      "timestamp": "16:38",
+      "pubDate": "2026-01-17T16:38:00.000Z"
+    },
+    {
+      "title": "Bitcoin’s Hashrate Slips Below 1 Zettahash After Months at Record Power",
+      "url": "https://news.bitcoin.com/bitcoins-hashrate-slips-below-1-zettahash-after-months-at-record-power/",
+      "timestamp": "16:30",
+      "pubDate": "2026-01-17T16:30:13.000Z"
+    },
+    {
+      "title": "The only Beatles song that didn't deserve to get to number one",
+      "url": "https://faroutmagazine.co.uk/only-beatles-song-didnt-deserve-number-one/",
+      "timestamp": "16:30",
+      "pubDate": "2026-01-17T16:30:00.000Z"
+    },
     {
       "title": "The one movie Kevin Bacon instantly regretted making: \"Another that didn't work\"",
       "url": "https://faroutmagazine.co.uk/movie-kevin-bacon-instantly-regretted-making/",
@@ -189,6 +291,12 @@
       "pubDate": "2026-01-17T15:00:00.000Z"
     },
     {
+      "title": "Spaceflight Prematurely Ages Astronauts",
+      "url": "https://nautil.us/spaceflight-prematurely-ages-astronauts-1262010/",
+      "timestamp": "15:00",
+      "pubDate": "2026-01-17T15:00:00.000Z"
+    },
+    {
       "title": "The songwriter Linda Ronstadt called the best of the century",
       "url": "https://faroutmagazine.co.uk/the-songwriter-linda-ronstadt-called-the-best-of-the-century/",
       "timestamp": "14:57",
@@ -235,131 +343,38 @@
       "url": "https://faroutmagazine.co.uk/the-five-most-dangerous-tourist-destinations-on-the-planet/",
       "timestamp": "14:30",
       "pubDate": "2026-01-17T14:30:00.000Z"
-    },
-    {
-      "title": "Beyond ChatGPT: Building a Production-Ready RAG System from Scratch",
-      "url": "https://pub.towardsai.net/beyond-chatgpt-building-a-production-ready-rag-system-from-scratch-d5b498c00404?source=rss----98111c9905da---4",
-      "timestamp": "14:02",
-      "pubDate": "2026-01-17T14:02:27.000Z"
-    },
-    {
-      "title": "Traders Eye $98K as Bitcoin Coils for a High-Stakes Move",
-      "url": "https://news.bitcoin.com/traders-eye-98k-as-bitcoin-coils-for-a-high-stakes-move/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-17T14:00:21.000Z"
-    },
-    {
-      "title": "What Can Actually Be Done to Rein in ICE?",
-      "url": "https://www.rollingstone.com/politics/politics-features/ice-deportation-solutions-1235500814/",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-17T14:00:00.000Z"
-    },
-    {
-      "title": "How to pair AirPods with any device",
-      "url": "https://www.engadget.com/audio/headphones/how-to-pair-airpods-with-any-device-140000234.html?src=rss",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-17T14:00:00.000Z"
-    },
-    {
-      "title": "Wait… All Those Studies May Have “Detected” Microplastics in the Human Body Because of a Severe Error",
-      "url": "https://futurism.com/science-energy/microplastics-studies-human-body-error",
-      "timestamp": "14:00",
-      "pubDate": "2026-01-17T14:00:00.000Z"
-    },
-    {
-      "title": "Tributes pour in for David Lynch one year after his passing",
-      "url": "https://faroutmagazine.co.uk/tributes-pour-in-for-david-lynch-one-year-after-his-passing/",
-      "timestamp": "13:31",
-      "pubDate": "2026-01-17T13:31:21.000Z"
-    },
-    {
-      "title": "The greatest comedy ever made, according to Richard Linklater: \"Hasn't aged a day\"",
-      "url": "https://faroutmagazine.co.uk/the-greatest-comedy-ever-made-according-to-richard-linklater/",
-      "timestamp": "13:30",
-      "pubDate": "2026-01-17T13:30:00.000Z"
-    },
-    {
-      "title": "The riff that Dave Grohl says gave birth to metal: “The swamp from whence metal crawled”",
-      "url": "https://faroutmagazine.co.uk/riff-that-dave-grohl-says-gave-birth-to-metal/",
-      "timestamp": "13:27",
-      "pubDate": "2026-01-17T13:27:01.000Z"
-    },
-    {
-      "title": "The purest rock band Joe Strummer ever heard: \"They beat it back into purity\"",
-      "url": "https://faroutmagazine.co.uk/purest-rock-band-joe-strummer-ever-heard/",
-      "timestamp": "13:00",
-      "pubDate": "2026-01-17T13:00:00.000Z"
-    },
-    {
-      "title": "ESP/LTD Presents New Signature Guitars at NAMM 2026 – Including the Gojira JD-1",
-      "url": "https://www.gearnews.com/esp-ltd-namm-2026-gojira-guitar/",
-      "timestamp": "12:51",
-      "pubDate": "2026-01-17T12:51:45.000Z"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "12:51",
-      "pubDate": "2026-01-17T12:51:15.000Z"
-    },
-    {
-      "title": "Morrissey cut from new A$AP Rocky album",
-      "url": "https://faroutmagazine.co.uk/morrissey-cut-from-new-aap-rocky-album/",
-      "timestamp": "12:41",
-      "pubDate": "2026-01-17T12:41:46.000Z"
-    },
-    {
-      "title": "The greatest band of the century, according to Joe Elliott",
-      "url": "https://faroutmagazine.co.uk/the-greatest-band-of-the-century-according-to-joe-elliott/",
-      "timestamp": "12:31",
-      "pubDate": "2026-01-17T12:31:34.000Z"
-    },
-    {
-      "title": "Best External Hard Drive (2026): SSD to Store Data, Video & More",
-      "url": "https://www.wired.com/story/best-portable-external-storage-drives/",
-      "timestamp": "12:30",
-      "pubDate": "2026-01-17T12:30:00.000Z"
-    },
-    {
-      "title": "Robots Have a Small Problem: They Completely Suck",
-      "url": "https://futurism.com/future-society/robots-suck",
-      "timestamp": "12:30",
-      "pubDate": "2026-01-17T12:30:00.000Z"
-    },
-    {
-      "title": "I've played 700 hours of Animal Crossing New Horizons — here's my verdict on the Switch 2 edition",
-      "url": "https://www.tomsguide.com/gaming/nintendo/ive-played-700-hours-of-animal-crossing-new-horizons-heres-my-verdict-on-the-switch-2-edition",
-      "timestamp": "12:15",
-      "pubDate": "2026-01-17T12:15:00.000Z"
-    },
-    {
-      "title": "Build Your Own Local AI That Searches 200+ Apps at Once",
-      "url": "https://pub.towardsai.net/build-your-own-local-ai-that-searches-200-apps-at-once-002b8e86c035?source=rss----98111c9905da---4",
-      "timestamp": "12:02",
-      "pubDate": "2026-01-17T12:02:00.000Z"
-    },
-    {
-      "title": "Arnis Brings the World to Minecraft: Bedrock Edition",
-      "url": "https://hackaday.com/2026/01/17/arnis-brings-the-world-to-minecraft-bedrock-edition/",
-      "timestamp": "12:00",
-      "pubDate": "2026-01-17T12:00:32.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "The guitarist John Fogerty was always trying to emulate: \"I dearly love to this day\"",
-      "url": "https://faroutmagazine.co.uk/guitarist-john-fogerty-trying-to-emulate/",
-      "timestamp": "16:00"
+      "title": "The one Eagles track Glenn Frey couldn't stand making: “I hate this song!\"",
+      "url": "https://faroutmagazine.co.uk/the-one-eagles-song-glenn-frey-couldnt-stand-making/",
+      "timestamp": "17:12"
     },
     {
-      "title": "Snoop Dogg to star in Eli Roth’s ‘Don’t Go in That House, Bitch!’",
-      "url": "https://faroutmagazine.co.uk/snoop-dogg-to-star-in-eli-roths-dont-go-in-that-house-bitch/",
-      "timestamp": "15:59"
+      "title": "The one album Jeff Lynne thought he would never enjoy",
+      "url": "https://faroutmagazine.co.uk/the-one-album-jeff-lynne-thought-he-would-never-enjoy/",
+      "timestamp": "17:12"
     },
     {
-      "title": "The 'Reservoir Dogs' role Dennis Hopper turned down: \"I wanted to do it\"",
-      "url": "https://faroutmagazine.co.uk/reservoir-dogs-role-dennis-hopper-turned-down/",
-      "timestamp": "15:30"
+      "title": "'Saturday Night Live': How to Watch the TV Variety Show Online for&#160;Free",
+      "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-online-free-9546472/",
+      "timestamp": "17:03"
+    },
+    {
+      "title": "The one singer Ozzy Osbourne never got along with: \"One of the greats\"",
+      "url": "https://faroutmagazine.co.uk/the-one-singer-ozzy-osbourne-never-got-along-with/",
+      "timestamp": "17:02"
+    },
+    {
+      "title": "Morrissey cancels another show – this time in Atlanta due to “artist illness”",
+      "url": "https://www.nme.com/news/music/morrissey-cancels-another-show-this-time-in-atlanta-due-to-artist-illness-3923803?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morrissey-cancels-another-show-this-time-in-atlanta-due-to-artist-illness",
+      "timestamp": "16:39"
+    },
+    {
+      "title": "Roger Waters Has No Regrets About Ozzy Osbourne Comments",
+      "url": "https://ultimateclassicrock.com/roger-waters-ozzy-osbourne-no-regrets/",
+      "timestamp": "16:38"
     },
     {
       "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
@@ -370,11 +385,6 @@
       "title": "'28 Years Later: The Bone Temple': what happened to Cillian Murphy’s Jim after '28 Days Later'?",
       "url": "https://www.nme.com/news/film/28-years-later-the-bone-temple-what-happened-to-cillian-murphys-jim-after-28-days-later-3923787?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=28-years-later-the-bone-temple-what-happened-to-cillian-murphys-jim-after-28-days-later",
       "timestamp": "11:26"
-    },
-    {
-      "title": "Morrissey dropped from A$AP Rocky's new album",
-      "url": "https://www.nme.com/news/music/morrissey-dropped-from-aap-rockys-new-album-3923750?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morrissey-dropped-from-aap-rockys-new-album",
-      "timestamp": "10:17"
     },
     {
       "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
@@ -395,16 +405,6 @@
       "title": "Dolly Parton's 25 Best Songs: Critics'&#160;Picks",
       "url": "https://www.billboard.com/lists/best-dolly-parton-songs/",
       "timestamp": "00:58"
-    },
-    {
-      "title": "ENHYPEN's 'THE SIN : VANISH': Every&#160;Song Ranked",
-      "url": "https://www.billboard.com/lists/enhypen-the-sin-vanish-album-review-best-songs-ranked/",
-      "timestamp": "00:11"
-    },
-    {
-      "title": "Inside A$AP Rocky’s ‘Don't Be Dumb’ Album Release Party",
-      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-release-party-1235500976/",
-      "timestamp": "23:11"
     },
     {
       "title": "Morrissey Cancels Tomorrow's Atlanta Show, Gets Cut From New A$AP Rocky Album And Mocked On New Robbie Williams Album",
@@ -447,5 +447,5 @@
       "timestamp": "15:16"
     }
   ],
-  "lastUpdated": "2026-01-17T16:27:56.207Z"
+  "lastUpdated": "2026-01-17T17:20:29.111Z"
 }

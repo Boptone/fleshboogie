@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-17T16:27:59.159Z",
+  "curatedAt": "2026-01-17T17:20:32.127Z",
   "totalAnalyzed": 66,
-  "totalSelected": 5,
+  "totalSelected": 4,
   "newsletter": {
     "leadStory": {
-      "title": "THE ONE MOVIE KEVIN BACON INSTANTLY REGRETTED MAKING: \"ANOTHER THAT DIDN'T WORK\"",
-      "url": "https://faroutmagazine.co.uk/movie-kevin-bacon-instantly-regretted-making/",
-      "timestamp": "2026-01-17T16:27:56.207Z",
+      "title": "WHY WRITING OPEN-SOURCE CODE IS SUDDENLY AN EXISTENTIAL RISK, AND THE FIVE-PAGE BILL DESIGNED TO FIX IT",
+      "url": "https://cryptoslate.com/us-bill-writing-bitcoin-software-isnt-a-financial-crime-what-changes/",
+      "timestamp": "2026-01-17T17:20:29.111Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     "deepDive": [
@@ -31,22 +31,22 @@
         }
       },
       {
-        "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
-        "url": "https://www.nme.com/news/music/sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist-3923779?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist",
-        "timestamp": "11:58",
-        "source": "musicReleases",
+        "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+        "timestamp": "17:12",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.6,
-          "engagement": 0.7,
+          "engagement": 0.7999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.52
+          "composite": 0.55
         }
       },
       {
-        "title": "The 7 Best Songs From A$AP Rocky’s ‘Don’t Be Dumb’ Album",
-        "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-best-songs-1235501094/",
-        "timestamp": "01:55",
+        "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
+        "url": "https://www.nme.com/news/music/sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist-3923779?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist",
+        "timestamp": "11:58",
         "source": "musicReleases",
         "scores": {
           "impact": 0.6,
@@ -87,47 +87,47 @@
         }
       },
       {
-        "title": "What is the \"single most played piece of content in BBC Radio 1 history across all media\"?",
-        "url": "https://faroutmagazine.co.uk/most-played-content-in-bbc-radio-1-history/",
-        "timestamp": "14:42",
-        "source": "automated",
+        "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+        "timestamp": "17:12",
+        "source": "mainColumn",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.8999999999999999,
+          "impact": 0.6,
+          "engagement": 0.7999999999999999,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.54
+          "composite": 0.55
         }
       }
     ],
     "wildcard": [
       {
-        "title": "THE ONE MOVIE KEVIN BACON INSTANTLY REGRETTED MAKING: \"ANOTHER THAT DIDN'T WORK\"",
-        "url": "https://faroutmagazine.co.uk/movie-kevin-bacon-instantly-regretted-making/",
-        "timestamp": "2026-01-17T16:27:56.207Z",
+        "title": "WHY WRITING OPEN-SOURCE CODE IS SUDDENLY AN EXISTENTIAL RISK, AND THE FIVE-PAGE BILL DESIGNED TO FIX IT",
+        "url": "https://cryptoslate.com/us-bill-writing-bitcoin-software-isnt-a-financial-crime-what-changes/",
+        "timestamp": "2026-01-17T17:20:29.111Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
-          "engagement": 0.5,
+          "engagement": 0.6,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.5800000000000001
+          "composite": 0.6100000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "THE ONE MOVIE KEVIN BACON INSTANTLY REGRETTED MAKING: \"ANOTHER THAT DIDN'T WORK\"",
-      "url": "https://faroutmagazine.co.uk/movie-kevin-bacon-instantly-regretted-making/",
-      "timestamp": "2026-01-17T16:27:56.207Z",
+      "title": "WHY WRITING OPEN-SOURCE CODE IS SUDDENLY AN EXISTENTIAL RISK, AND THE FIVE-PAGE BILL DESIGNED TO FIX IT",
+      "url": "https://cryptoslate.com/us-bill-writing-bitcoin-software-isnt-a-financial-crime-what-changes/",
+      "timestamp": "2026-01-17T17:20:29.111Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
-        "engagement": 0.5,
+        "engagement": 0.6,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.5800000000000001
+        "composite": 0.6100000000000001
       }
     },
     {
@@ -144,6 +144,19 @@
       }
     },
     {
+      "title": "Australian Open 2026 Livestream: How to Watch the Grand Slam Tennis Tournament Online Without Cable for Free",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-australian-open-2026-tennis-online-free-1235780453/",
+      "timestamp": "17:12",
+      "source": "mainColumn",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.7999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.55
+      }
+    },
+    {
       "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
       "url": "https://www.nme.com/news/music/sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist-3923779?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist",
       "timestamp": "11:58",
@@ -154,32 +167,6 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.52
-      }
-    },
-    {
-      "title": "The 7 Best Songs From A$AP Rocky’s ‘Don’t Be Dumb’ Album",
-      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-best-songs-1235501094/",
-      "timestamp": "01:55",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.52
-      }
-    },
-    {
-      "title": "What is the \"single most played piece of content in BBC Radio 1 history across all media\"?",
-      "url": "https://faroutmagazine.co.uk/most-played-content-in-bbc-radio-1-history/",
-      "timestamp": "14:42",
-      "source": "automated",
-      "scores": {
-        "impact": 0.5,
-        "engagement": 0.8999999999999999,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.54
       }
     }
   ],
