@@ -1,27 +1,40 @@
 {
-  "curatedAt": "2026-01-17T09:24:50.522Z",
+  "curatedAt": "2026-01-17T10:25:05.369Z",
   "totalAnalyzed": 66,
   "totalSelected": 6,
   "newsletter": {
     "leadStory": {
-      "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
-      "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
-      "timestamp": "02:24",
-      "source": "automated",
+      "title": "MORRISSEY DROPPED FROM A$AP ROCKY'S NEW ALBUM",
+      "url": "https://www.nme.com/news/music/morrissey-dropped-from-aap-rockys-new-album-3923750?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morrissey-dropped-from-aap-rockys-new-album",
+      "timestamp": "2026-01-17T10:25:02.434Z",
+      "source": "splash",
       "scores": {
-        "impact": 0.7,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.5,
-        "composite": 0.5800000000000001
+        "impact": 0.6,
+        "engagement": 0.55,
+        "timeliness": 1,
+        "discovery": 0.3,
+        "composite": 0.635
       }
     },
     "deepDive": [
       {
+        "title": "MORRISSEY DROPPED FROM A$AP ROCKY'S NEW ALBUM",
+        "url": "https://www.nme.com/news/music/morrissey-dropped-from-aap-rockys-new-album-3923750?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morrissey-dropped-from-aap-rockys-new-album",
+        "timestamp": "2026-01-17T10:25:02.434Z",
+        "source": "splash",
+        "scores": {
+          "impact": 0.6,
+          "engagement": 0.55,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.635
+        }
+      },
+      {
         "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
         "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
         "timestamp": "02:24",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.7,
           "engagement": 0.7,
@@ -42,19 +55,6 @@
           "discovery": 0.3,
           "composite": 0.52
         }
-      },
-      {
-        "title": "iOS 26 Preview: 7 features to explore in your iPhone’s newest app",
-        "url": "https://www.tomsguide.com/phones/iphones/ios-26-preview-7-features-to-explore-in-your-iphones-newest-app",
-        "timestamp": "06:01",
-        "source": "automated",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.65,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.505
-        }
       }
     ],
     "discovery": [
@@ -62,7 +62,7 @@
         "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
         "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
         "timestamp": "02:24",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.7,
           "engagement": 0.7,
@@ -103,7 +103,7 @@
         "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
         "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
         "timestamp": "02:24",
-        "source": "automated",
+        "source": "musicReleases",
         "scores": {
           "impact": 0.7,
           "engagement": 0.7,
@@ -128,26 +128,39 @@
     ],
     "wildcard": [
       {
-        "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
-        "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
-        "timestamp": "02:24",
-        "source": "automated",
+        "title": "MORRISSEY DROPPED FROM A$AP ROCKY'S NEW ALBUM",
+        "url": "https://www.nme.com/news/music/morrissey-dropped-from-aap-rockys-new-album-3923750?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morrissey-dropped-from-aap-rockys-new-album",
+        "timestamp": "2026-01-17T10:25:02.434Z",
+        "source": "splash",
         "scores": {
-          "impact": 0.7,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.5,
-          "composite": 0.5800000000000001
+          "impact": 0.6,
+          "engagement": 0.55,
+          "timeliness": 1,
+          "discovery": 0.3,
+          "composite": 0.635
         }
       }
     ]
   },
   "stories": [
     {
+      "title": "MORRISSEY DROPPED FROM A$AP ROCKY'S NEW ALBUM",
+      "url": "https://www.nme.com/news/music/morrissey-dropped-from-aap-rockys-new-album-3923750?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morrissey-dropped-from-aap-rockys-new-album",
+      "timestamp": "2026-01-17T10:25:02.434Z",
+      "source": "splash",
+      "scores": {
+        "impact": 0.6,
+        "engagement": 0.55,
+        "timeliness": 1,
+        "discovery": 0.3,
+        "composite": 0.635
+      }
+    },
+    {
       "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
       "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
       "timestamp": "02:24",
-      "source": "automated",
+      "source": "musicReleases",
       "scores": {
         "impact": 0.7,
         "engagement": 0.7,
@@ -167,19 +180,6 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.52
-      }
-    },
-    {
-      "title": "iOS 26 Preview: 7 features to explore in your iPhone’s newest app",
-      "url": "https://www.tomsguide.com/phones/iphones/ios-26-preview-7-features-to-explore-in-your-iphones-newest-app",
-      "timestamp": "06:01",
-      "source": "automated",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.65,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.505
       }
     },
     {

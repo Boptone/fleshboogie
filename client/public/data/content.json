@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "YES, TOMTOM STILL EXISTS — I DROVE 300 MILES TO SEE IF IT COULD BEAT GOOGLE MAPS",
-    "url": "https://www.tomsguide.com/phones/yes-tomtom-still-exists-i-drove-300-miles-to-see-if-it-could-beat-google-maps",
+    "headline": "MORRISSEY DROPPED FROM A$AP ROCKY'S NEW ALBUM",
+    "url": "https://www.nme.com/news/music/morrissey-dropped-from-aap-rockys-new-album-3923750?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morrissey-dropped-from-aap-rockys-new-album",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "In praise of Stellan Skarsgård and his Oscar-worthy performance in ‘Sentimental Value’",
-      "url": "https://faroutmagazine.co.uk/in-praise-of-stellan-skarsgard-sentimental-value/",
-      "timestamp": "09:00",
+      "title": "I've been using Macs for years — here are 3 power user tweaks that changed everything",
+      "url": "https://www.tomsguide.com/computing/macos/ive-been-using-macs-for-years-here-are-3-power-user-tweaks-that-changed-everything",
+      "timestamp": "10:15",
       "pinned": false
     },
     {
-      "title": "The eMac: Using Apple's Forgotten Educational Mac in 2025",
-      "url": "https://hackaday.com/2026/01/17/the-emac-using-apples-forgotten-educational-mac-in-2025/",
-      "timestamp": "09:00",
+      "title": "‘I’m an 83-year-old personal trainer, and staying active remains non-negotiable for me. Here’s how I stay fit and motivated’",
+      "url": "https://www.tomsguide.com/wellness/workouts/im-an-83-year-old-personal-trainer-and-staying-active-remains-non-negotiable-for-me-heres-how-i-stay-fit-and-motivated",
+      "timestamp": "10:05",
       "pinned": false
     },
     {
-      "title": "I finally gave AI a real try — here's what I like and what I really can’t stand after a week",
-      "url": "https://www.tomsguide.com/ai/i-finally-gave-ai-a-real-try-heres-what-i-like-and-what-i-really-cant-stand-after-a-week",
-      "timestamp": "08:45",
+      "title": "'The Night Manager' Producer Is Finally Free To Dish On Season 2’s Big Secret About The \"Deliciously Evil\" Hugh Laurie",
+      "url": "https://deadline.com/2026/01/the-night-manager-richard-roper-hugh-laurie-stephen-garrett-1236685106/",
+      "timestamp": "10:00",
       "pinned": false
     },
     {
-      "title": "COVID March 2020-Style Event Potentially Brewing for Bitcoin: Luke Gromen",
-      "url": "https://news.bitcoin.com/covid-march-2020-style-event-potentially-brewing-for-bitcoin-luke-gromen/",
-      "timestamp": "08:40",
+      "title": "The 16 Best EVs Coming in 2026",
+      "url": "https://www.wired.com/story/the-16-best-evs-coming-in-2026/",
+      "timestamp": "10:00",
       "pinned": false
     },
     {
-      "title": "This smart IKEA storage solution can improve your indoor air quality and help you sleep deeper — here’s how",
-      "url": "https://www.tomsguide.com/wellness/sleep-tech/this-smart-ikea-storage-solution-can-improve-your-indoor-air-quality-and-help-you-sleep-deeper-heres-how",
-      "timestamp": "08:30",
+      "title": "Why Your LLM Should Be Guessing: Breaking the Sequential Curse",
+      "url": "https://pub.towardsai.net/why-your-llm-should-be-guessing-breaking-the-sequential-curse-50496633f8ff?source=rss----98111c9905da---4",
+      "timestamp": "09:52",
       "pinned": false
     }
   ],
@@ -104,6 +104,42 @@
     }
   ],
   "automated": [
+    {
+      "title": "Morrissey dropped from A$AP Rocky's new album",
+      "url": "https://www.nme.com/news/music/morrissey-dropped-from-aap-rockys-new-album-3923750?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morrissey-dropped-from-aap-rockys-new-album",
+      "timestamp": "10:17",
+      "pubDate": "2026-01-17T10:17:37.000Z"
+    },
+    {
+      "title": "I've been using Macs for years — here are 3 power user tweaks that changed everything",
+      "url": "https://www.tomsguide.com/computing/macos/ive-been-using-macs-for-years-here-are-3-power-user-tweaks-that-changed-everything",
+      "timestamp": "10:15",
+      "pubDate": "2026-01-17T10:15:00.000Z"
+    },
+    {
+      "title": "‘I’m an 83-year-old personal trainer, and staying active remains non-negotiable for me. Here’s how I stay fit and motivated’",
+      "url": "https://www.tomsguide.com/wellness/workouts/im-an-83-year-old-personal-trainer-and-staying-active-remains-non-negotiable-for-me-heres-how-i-stay-fit-and-motivated",
+      "timestamp": "10:05",
+      "pubDate": "2026-01-17T10:05:00.000Z"
+    },
+    {
+      "title": "'The Night Manager' Producer Is Finally Free To Dish On Season 2’s Big Secret About The \"Deliciously Evil\" Hugh Laurie",
+      "url": "https://deadline.com/2026/01/the-night-manager-richard-roper-hugh-laurie-stephen-garrett-1236685106/",
+      "timestamp": "10:00",
+      "pubDate": "2026-01-17T10:00:00.000Z"
+    },
+    {
+      "title": "The 16 Best EVs Coming in 2026",
+      "url": "https://www.wired.com/story/the-16-best-evs-coming-in-2026/",
+      "timestamp": "10:00",
+      "pubDate": "2026-01-17T10:00:00.000Z"
+    },
+    {
+      "title": "Why Your LLM Should Be Guessing: Breaking the Sequential Curse",
+      "url": "https://pub.towardsai.net/why-your-llm-should-be-guessing-breaking-the-sequential-curse-50496633f8ff?source=rss----98111c9905da---4",
+      "timestamp": "09:52",
+      "pubDate": "2026-01-17T09:52:03.000Z"
+    },
     {
       "title": "Yes, TomTom still exists — I drove 300 miles to see if it could beat Google Maps",
       "url": "https://www.tomsguide.com/phones/yes-tomtom-still-exists-i-drove-300-miles-to-see-if-it-could-beat-google-maps",
@@ -307,45 +343,14 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "timestamp": "04:31",
       "pubDate": "2026-01-17T04:31:26.000Z"
-    },
-    {
-      "title": "The only thing Ace Frehley wanted to be remembered for: \"I brought happiness\"",
-      "url": "https://faroutmagazine.co.uk/the-only-thing-ace-frehley-wanted-to-be-remembered-for/",
-      "timestamp": "04:00",
-      "pubDate": "2026-01-17T04:00:00.000Z"
-    },
-    {
-      "title": "How Accurate is a 125 Year Old Resistance Standard?",
-      "url": "https://hackaday.com/2026/01/16/how-accurate-is-a-125-year-old-resistance-standard/",
-      "timestamp": "03:00",
-      "pubDate": "2026-01-17T03:00:39.000Z"
-    },
-    {
-      "title": "The role Patrick Swayze called a \"godsend\" for his career: \"It saved my ass\"",
-      "url": "https://faroutmagazine.co.uk/role-patrick-swayze-called-godsend-career/",
-      "timestamp": "03:00",
-      "pubDate": "2026-01-17T03:00:00.000Z"
-    },
-    {
-      "title": "Two-thirds of adults want to 'hibernate like a bear' in winter — how 'hygge' is key to sleeping better and staying cozy without turning the heat up",
-      "url": "https://www.tomsguide.com/wellness/sleep/hygge-bedroom-for-better-sleep",
-      "timestamp": "03:00",
-      "pubDate": "2026-01-17T03:00:00.000Z"
-    },
-    {
-      "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
-      "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
-      "timestamp": "02:24",
-      "pubDate": "2026-01-17T02:24:16.000Z"
-    },
-    {
-      "title": "Which albums did Frank Zappa produce?",
-      "url": "https://faroutmagazine.co.uk/what-albums-did-frank-zappa-produce/",
-      "timestamp": "02:00",
-      "pubDate": "2026-01-17T02:00:00.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "Morrissey dropped from A$AP Rocky's new album",
+      "url": "https://www.nme.com/news/music/morrissey-dropped-from-aap-rockys-new-album-3923750?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morrissey-dropped-from-aap-rockys-new-album",
+      "timestamp": "10:17"
+    },
     {
       "title": "What was the worst number one from 1990?",
       "url": "https://faroutmagazine.co.uk/what-was-worst-number-one-from-1990/",
@@ -397,11 +402,6 @@
       "timestamp": "00:00"
     },
     {
-      "title": "Globle answer today – here’s the answer and hints for January 17",
-      "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globle-hint-answer-today",
-      "timestamp": "00:00"
-    },
-    {
       "title": "Inside A$AP Rocky’s ‘Don't Be Dumb’ Album Release Party",
       "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-release-party-1235500976/",
       "timestamp": "23:11"
@@ -447,5 +447,5 @@
       "timestamp": "15:16"
     }
   ],
-  "lastUpdated": "2026-01-17T09:24:47.569Z"
+  "lastUpdated": "2026-01-17T10:25:02.434Z"
 }
