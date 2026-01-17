@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "'THE EXORCIST' REBOOT SETS MARCH 2027 RELEASE WITH STARS SCARLETT JOHANSSON, JACOBI JUPE",
-    "url": "https://www.thewrap.com/creative-content/movies/exorcist-sets-march-2027-release/",
+    "headline": "HOW ACCURATE IS A 125 YEAR OLD RESISTANCE STANDARD?",
+    "url": "https://hackaday.com/2026/01/16/how-accurate-is-a-125-year-old-resistance-standard/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Stablecoins Could Drain Trillions From Bank Deposits: Bank of America Flags $6T Risk That Could Redefine Lending",
-      "url": "https://news.bitcoin.com/stablecoins-could-drain-trillions-from-bank-deposits-bank-of-america-flags-6t-risk-that-could-redefine-lending/",
-      "timestamp": "01:40",
+      "title": "The role Patrick Swayze called a \"godsend\" for his career: \"It saved my ass\"",
+      "url": "https://faroutmagazine.co.uk/role-patrick-swayze-called-godsend-career/",
+      "timestamp": "03:00",
       "pinned": false
     },
     {
-      "title": "Jason Momoa Gives 'Minecraft' Sequel Update: \"Very Soon\"",
-      "url": "https://deadline.com/2026/01/jason-momoa-minecraft-sequel-update-1236685775/",
-      "timestamp": "01:20",
+      "title": "Two-thirds of adults want to 'hibernate like a bear' in winter — how 'hygge' is key to sleeping better and staying cozy without turning the heat up",
+      "url": "https://www.tomsguide.com/wellness/sleep/hygge-bedroom-for-better-sleep",
+      "timestamp": "03:00",
       "pinned": false
     },
     {
-      "title": "Mike Flanagan's 'The Exorcist' Movie Starring Scarlett Johansson Back On Schedule For 2027",
-      "url": "https://deadline.com/2026/01/the-exorcist-release-date-mike-flanagan-movie-1236685766/",
-      "timestamp": "01:19",
+      "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
+      "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
+      "timestamp": "02:24",
       "pinned": false
     },
     {
-      "title": "Mike Flanagan's 'The Exorcist' Gets Spring 2027 Release Date; Scarlett Johansson and 'Hamnet' Breakout Jacobi Jupe to Star",
-      "url": "https://variety.com/2026/film/news/mike-flanagan-exorcist-release-date-1236633686/",
-      "timestamp": "01:15",
+      "title": "Which albums did Frank Zappa produce?",
+      "url": "https://faroutmagazine.co.uk/what-albums-did-frank-zappa-produce/",
+      "timestamp": "02:00",
       "pinned": false
     },
     {
-      "title": "Apollonia Says Prince ‘Would Be Appalled’ by Estate Effort to Control Her Name",
-      "url": "https://www.rollingstone.com/music/music-news/apollonia-prince-purple-rain-estate-trademark-war-1235500926/",
-      "timestamp": "01:00",
+      "title": "The 7 Best Songs From A$AP Rocky’s ‘Don’t Be Dumb’ Album",
+      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-best-songs-1235501094/",
+      "timestamp": "01:55",
       "pinned": false
     }
   ],
@@ -105,6 +105,48 @@
   ],
   "automated": [
     {
+      "title": "How Accurate is a 125 Year Old Resistance Standard?",
+      "url": "https://hackaday.com/2026/01/16/how-accurate-is-a-125-year-old-resistance-standard/",
+      "timestamp": "03:00",
+      "pubDate": "2026-01-17T03:00:39.000Z"
+    },
+    {
+      "title": "The role Patrick Swayze called a \"godsend\" for his career: \"It saved my ass\"",
+      "url": "https://faroutmagazine.co.uk/role-patrick-swayze-called-godsend-career/",
+      "timestamp": "03:00",
+      "pubDate": "2026-01-17T03:00:00.000Z"
+    },
+    {
+      "title": "Two-thirds of adults want to 'hibernate like a bear' in winter — how 'hygge' is key to sleeping better and staying cozy without turning the heat up",
+      "url": "https://www.tomsguide.com/wellness/sleep/hygge-bedroom-for-better-sleep",
+      "timestamp": "03:00",
+      "pubDate": "2026-01-17T03:00:00.000Z"
+    },
+    {
+      "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
+      "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
+      "timestamp": "02:24",
+      "pubDate": "2026-01-17T02:24:16.000Z"
+    },
+    {
+      "title": "Which albums did Frank Zappa produce?",
+      "url": "https://faroutmagazine.co.uk/what-albums-did-frank-zappa-produce/",
+      "timestamp": "02:00",
+      "pubDate": "2026-01-17T02:00:00.000Z"
+    },
+    {
+      "title": "The 7 Best Songs From A$AP Rocky’s ‘Don’t Be Dumb’ Album",
+      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-best-songs-1235501094/",
+      "timestamp": "01:55",
+      "pubDate": "2026-01-17T01:55:30.000Z"
+    },
+    {
+      "title": "Ashton Kutcher Admits There Are Echoes of Ex-Wife Demi Moore's 'The Substance' in His New Show 'The Beauty' &#124; Video",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/ashton-kutcher-compares-the-beauty-demi-moore-the-substance/",
+      "timestamp": "01:54",
+      "pubDate": "2026-01-17T01:54:42.000Z"
+    },
+    {
       "title": "'The Exorcist' Reboot Sets March 2027 Release With Stars Scarlett Johansson, Jacobi Jupe",
       "url": "https://www.thewrap.com/creative-content/movies/exorcist-sets-march-2027-release/",
       "timestamp": "01:46",
@@ -169,6 +211,12 @@
       "url": "https://news.bitcoin.com/the-october-flush-is-over-grayscale-says-deleveraging-no-longer-pressuring-crypto-valuations/",
       "timestamp": "00:40",
       "pubDate": "2026-01-17T00:40:19.000Z"
+    },
+    {
+      "title": "The Most-Anticipated Films of 2026",
+      "url": "https://variety.com/lists/most-anticipated-movies-2026-odyssey-spider-man-toy-story/",
+      "timestamp": "00:30",
+      "pubDate": "2026-01-17T00:30:00.000Z"
     },
     {
       "title": "French Production Company Mediawan in Talks to Acquire Peter Chernin’s North Road",
@@ -295,57 +343,29 @@
       "url": "https://deadline.com/2026/01/openai-advertising-chatgpt-1236685560/",
       "timestamp": "23:07",
       "pubDate": "2026-01-16T23:07:36.000Z"
-    },
-    {
-      "title": "The singer Slash called one of the greatest of his lifetime",
-      "url": "https://faroutmagazine.co.uk/the-singer-slash-called-one-of-the-greatest-of-his-lifetime/",
-      "timestamp": "23:00",
-      "pubDate": "2026-01-16T23:00:00.000Z"
-    },
-    {
-      "title": "The 3 Best Movies to Watch on Netflix This Weekend",
-      "url": "https://www.thewrap.com/creative-content/what-to-watch/3-best-movies-to-watch-on-netflix-this-weekend-jan-16-18/",
-      "timestamp": "23:00",
-      "pubDate": "2026-01-16T23:00:00.000Z"
-    },
-    {
-      "title": "The Sony PlayStation Portal could get a Pro edition with a major display upgrade",
-      "url": "https://www.tomsguide.com/gaming/playstation/the-sony-playstation-portal-could-get-a-pro-edition-with-a-major-display-upgrade",
-      "timestamp": "22:50",
-      "pubDate": "2026-01-16T22:50:55.000Z"
-    },
-    {
-      "title": "'28 Years Later' Recap: What to Remember Before 'The Bone Temple'",
-      "url": "https://www.thewrap.com/creative-content/movies/28-years-later-recap-before-bone-temple/",
-      "timestamp": "22:50",
-      "pubDate": "2026-01-16T22:50:23.000Z"
-    },
-    {
-      "title": "Gracie Abrams Gushes Over Paul Mescal & 'Hamnet' in Rare Comment on Boyfriend: 'I Love Him&#160;Surprise'",
-      "url": "https://www.billboard.com/music/music-news/gracie-abrams-boyfriend-paul-mescal-rare-comment-1236156974/",
-      "timestamp": "22:49",
-      "pubDate": "2026-01-16T22:49:18.000Z"
-    },
-    {
-      "title": "Francois Arnaud, Dakota Fanning and Andra Day Heat Up Armani Beauty Party in Los Angeles",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/francois-arnaud-dakota-fanning-andra-day-armani-beauty-1236476761/",
-      "timestamp": "22:43",
-      "pubDate": "2026-01-16T22:43:49.000Z"
-    },
-    {
-      "title": "Five Art and Museum Events for MLK Day in NYC",
-      "url": "https://hyperallergic.com/five-art-and-museum-events-for-mlk-day-in-nyc/",
-      "timestamp": "22:37",
-      "pubDate": "2026-01-16T22:37:12.000Z"
-    },
-    {
-      "title": "elysia channex studio: Raising the Bar for Recording Technology",
-      "url": "https://www.gearnews.com/elysia-channex-studio/",
-      "timestamp": "22:33",
-      "pubDate": "2026-01-16T22:33:54.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "The role Patrick Swayze called a \"godsend\" for his career: \"It saved my ass\"",
+      "url": "https://faroutmagazine.co.uk/role-patrick-swayze-called-godsend-career/",
+      "timestamp": "03:00"
+    },
+    {
+      "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
+      "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
+      "timestamp": "02:24"
+    },
+    {
+      "title": "Which albums did Frank Zappa produce?",
+      "url": "https://faroutmagazine.co.uk/what-albums-did-frank-zappa-produce/",
+      "timestamp": "02:00"
+    },
+    {
+      "title": "The 7 Best Songs From A$AP Rocky’s ‘Don’t Be Dumb’ Album",
+      "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-best-songs-1235501094/",
+      "timestamp": "01:55"
+    },
     {
       "title": "Apollonia Says Prince ‘Would Be Appalled’ by Estate Effort to Control Her Name",
       "url": "https://www.rollingstone.com/music/music-news/apollonia-prince-purple-rain-estate-trademark-war-1235500926/",
@@ -377,11 +397,6 @@
       "timestamp": "00:00"
     },
     {
-      "title": "Snoop Dogg Lands the Role He Was Born to Play in Eli Roth's 'Don’t Go in That House, Bi–h!'",
-      "url": "https://www.billboard.com/culture/tv-film/snoop-dogg-dont-go-in-that-house-bitch-eli-roth-1236157054/",
-      "timestamp": "23:33"
-    },
-    {
       "title": "Inside A$AP Rocky’s ‘Don't Be Dumb’ Album Release Party",
       "url": "https://www.rollingstone.com/music/music-news/asap-rocky-dont-be-dumb-album-release-party-1235500976/",
       "timestamp": "23:11"
@@ -392,24 +407,14 @@
       "timestamp": "23:00"
     },
     {
-      "title": "Fordlândia: The nightmare of Henry Ford’s colonialist Amazonian utopia",
-      "url": "https://faroutmagazine.co.uk/fordlandia-the-nightmare-of-henry-fords-colonialist-amazonian-utopia/",
-      "timestamp": "22:30"
-    },
-    {
-      "title": "Yellowcard Go Back in Time With Good Charlotte for 'Bedroom Posters'",
-      "url": "https://www.rollingstone.com/music/music-news/yellowcard-good-charlotte-bedroom-posters-1235500517/",
-      "timestamp": "22:03"
+      "title": "Morrissey Cancels Tomorrow's Atlanta Show, Gets Cut From New A$AP Rocky Album And Mocked On New Robbie Williams Album",
+      "url": "https://stereogum.com/2485770/morrissey-cancels-tomorrows-atlanta-show-gets-cut-from-new-aap-rocky-album-and-mocked-on-new-robbie-williams-album/news/",
+      "timestamp": "22:44"
     },
     {
       "title": "Mitski’s “Where’s My Phone?” brings us back to Puberty 2",
       "url": "https://www.thefader.com/2026/01/16/mitski-wheres-my-phone-album-announcement",
       "timestamp": "21:14"
-    },
-    {
-      "title": "The band that Geddy Lee said was \"bigger than life\"",
-      "url": "https://faroutmagazine.co.uk/the-band-that-geddy-lee-said-was-bigger-than-life/",
-      "timestamp": "21:00"
     },
     {
       "title": "25 Propositions about the New Romanticism",
@@ -440,12 +445,7 @@
       "title": "Essential Releases, January 16, 2026",
       "url": "https://daily.bandcamp.com/essential-releases/essential-releases-january-16-2026",
       "timestamp": "15:16"
-    },
-    {
-      "title": "Emily Scott Robinson, “Appalachia”",
-      "url": "https://daily.bandcamp.com/album-of-the-day/emily-scott-robinson-appalachia-review",
-      "timestamp": "15:16"
     }
   ],
-  "lastUpdated": "2026-01-17T01:54:48.498Z"
+  "lastUpdated": "2026-01-17T03:25:49.017Z"
 }
