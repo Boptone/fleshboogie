@@ -1,12 +1,12 @@
 {
-  "curatedAt": "2026-01-18T04:08:06.003Z",
+  "curatedAt": "2026-01-18T05:27:27.253Z",
   "totalAnalyzed": 66,
   "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "THE RAPPERS PAUL SIMON SAID HE FELT WERE A KINDRED SPIRIT: \"IT’S HARD TO FIND\"",
-      "url": "https://faroutmagazine.co.uk/the-rappers-paul-simon-said-he-felt-were-a-kindred-spirit/",
-      "timestamp": "2026-01-18T04:08:03.093Z",
+      "title": "'SNL' SPOOFS 'STRANGER THINGS' AS FINN WOLFHARD JOKES HE'S READY FOR \"ADULT FILMS\" & CO-STARS MAKE SURPRISE APPEARANCE",
+      "url": "https://deadline.com/2026/01/finn-wolfhard-snl-stranger-things-spoof-stars-surprise-1236686168/",
+      "timestamp": "2026-01-18T05:27:24.251Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -44,16 +44,16 @@
         }
       },
       {
-        "title": "Roger Waters Stands by Insensitive Ozzy Osbourne Comments in New Interview",
-        "url": "https://www.rollingstone.com/music/music-news/roger-waters-insensitive-ozzy-osbourne-comments-interview-1235501141/",
-        "timestamp": "19:16",
-        "source": "musicReleases",
+        "title": "I’ve worn a Garmin watch for 10 years and this hidden feature is something I use every day",
+        "url": "https://www.tomsguide.com/wellness/smartwatches/ive-worn-a-garmin-watch-for-10-years-and-this-hidden-feature-is-something-i-use-every-day",
+        "timestamp": "05:15",
+        "source": "mainColumn",
         "scores": {
           "impact": 0.55,
-          "engagement": 0.55,
+          "engagement": 0.65,
           "timeliness": 0.2,
           "discovery": 0.3,
-          "composite": 0.45500000000000007
+          "composite": 0.4850000000000001
         }
       }
     ],
@@ -102,9 +102,9 @@
     ],
     "wildcard": [
       {
-        "title": "THE RAPPERS PAUL SIMON SAID HE FELT WERE A KINDRED SPIRIT: \"IT’S HARD TO FIND\"",
-        "url": "https://faroutmagazine.co.uk/the-rappers-paul-simon-said-he-felt-were-a-kindred-spirit/",
-        "timestamp": "2026-01-18T04:08:03.093Z",
+        "title": "'SNL' SPOOFS 'STRANGER THINGS' AS FINN WOLFHARD JOKES HE'S READY FOR \"ADULT FILMS\" & CO-STARS MAKE SURPRISE APPEARANCE",
+        "url": "https://deadline.com/2026/01/finn-wolfhard-snl-stranger-things-spoof-stars-surprise-1236686168/",
+        "timestamp": "2026-01-18T05:27:24.251Z",
         "source": "splash",
         "scores": {
           "impact": 0.5,
@@ -118,9 +118,9 @@
   },
   "stories": [
     {
-      "title": "THE RAPPERS PAUL SIMON SAID HE FELT WERE A KINDRED SPIRIT: \"IT’S HARD TO FIND\"",
-      "url": "https://faroutmagazine.co.uk/the-rappers-paul-simon-said-he-felt-were-a-kindred-spirit/",
-      "timestamp": "2026-01-18T04:08:03.093Z",
+      "title": "'SNL' SPOOFS 'STRANGER THINGS' AS FINN WOLFHARD JOKES HE'S READY FOR \"ADULT FILMS\" & CO-STARS MAKE SURPRISE APPEARANCE",
+      "url": "https://deadline.com/2026/01/finn-wolfhard-snl-stranger-things-spoof-stars-surprise-1236686168/",
+      "timestamp": "2026-01-18T05:27:24.251Z",
       "source": "splash",
       "scores": {
         "impact": 0.5,
@@ -157,16 +157,16 @@
       }
     },
     {
-      "title": "Roger Waters Stands by Insensitive Ozzy Osbourne Comments in New Interview",
-      "url": "https://www.rollingstone.com/music/music-news/roger-waters-insensitive-ozzy-osbourne-comments-interview-1235501141/",
-      "timestamp": "19:16",
-      "source": "musicReleases",
+      "title": "I’ve worn a Garmin watch for 10 years and this hidden feature is something I use every day",
+      "url": "https://www.tomsguide.com/wellness/smartwatches/ive-worn-a-garmin-watch-for-10-years-and-this-hidden-feature-is-something-i-use-every-day",
+      "timestamp": "05:15",
+      "source": "mainColumn",
       "scores": {
         "impact": 0.55,
-        "engagement": 0.55,
+        "engagement": 0.65,
         "timeliness": 0.2,
         "discovery": 0.3,
-        "composite": 0.45500000000000007
+        "composite": 0.4850000000000001
       }
     },
     {
