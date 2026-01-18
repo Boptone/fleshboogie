@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "THE ALBUM BOB DYLAN WANTED TO CARRY ON THROUGHOUT THE AGES: \"IT’S MORE OF A CALLING\"",
-    "url": "https://faroutmagazine.co.uk/album-bob-dylan-wanted-to-carry-on-throughout-the-ages/",
+    "headline": "THE RAPPERS PAUL SIMON SAID HE FELT WERE A KINDRED SPIRIT: \"IT’S HARD TO FIND\"",
+    "url": "https://faroutmagazine.co.uk/the-rappers-paul-simon-said-he-felt-were-a-kindred-spirit/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Robert Kiyosaki Predicts $107 Silver on Monday as Market Faces Sudden Supply Shock",
-      "url": "https://news.bitcoin.com/robert-kiyosaki-predicts-107-silver-on-monday-as-market-faces-sudden-supply-shock/",
-      "timestamp": "01:30",
+      "title": "Daily Crypto Banking Is Coming: Old Glory Targets Full Integration Inside a Chartered US Bank",
+      "url": "https://news.bitcoin.com/daily-crypto-banking-is-coming-old-glory-targets-full-integration-inside-a-chartered-us-bank/",
+      "timestamp": "03:30",
       "pinned": false
     },
     {
-      "title": "Why Silicon Valley is really talking about fleeing California (it's not the 5%)",
-      "url": "https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/",
-      "timestamp": "01:17",
+      "title": "Melissa Leo Says Winning An Oscar \"Has Not Been Good For Me Or My Career\"",
+      "url": "https://deadline.com/2026/01/melissa-leo-oscar-win-career-the-fighter-david-o-russell-1236686158/",
+      "timestamp": "03:07",
       "pinned": false
     },
     {
-      "title": "Adapt or die: Solana Labs CEO opposes Buterin’s approach to blockchain longevity",
-      "url": "https://cointelegraph.com/news/solana-ceo-says-solana-must-adapt-or-die?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "01:15",
+      "title": "The filmmaker Angelina Jolie tried to overrule on set: \"Well, I am the director\"",
+      "url": "https://faroutmagazine.co.uk/filmmaker-angelina-jolie-tried-overrule/",
+      "timestamp": "03:00",
       "pinned": false
     },
     {
-      "title": "The \"perfect\" role Scarlett Johansson banned from playing: \"I really, really wanted that\"",
-      "url": "https://faroutmagazine.co.uk/perfect-role-scarlett-johansson-banned-playing/",
-      "timestamp": "01:00",
+      "title": "The Shelly 2.5 Smart Relay Design Flaw Killing Capacitors",
+      "url": "https://hackaday.com/2026/01/17/the-shelly-2-5-smart-relay-design-flaw-killing-capacitors/",
+      "timestamp": "03:00",
       "pinned": false
     },
     {
-      "title": "Ben Affleck Recalls \"Vomiting Between Takes\" During 'Armageddon' Farewell Scene With Bruce Willis: \"Probably Made The Scene Better\"",
-      "url": "https://deadline.com/2026/01/ben-affleck-armageddon-farewell-scene-vomiting-bruce-willis-1236686141/",
-      "timestamp": "00:56",
+      "title": "XRP Sets Stage for Demand Shock as Ripple and UC Berkeley Expand Real-World Use Cases",
+      "url": "https://news.bitcoin.com/xrp-sets-stage-for-demand-shock-as-ripple-and-uc-berkeley-expand-real-world-use-cases/",
+      "timestamp": "02:30",
       "pinned": false
     }
   ],
@@ -104,6 +104,48 @@
     }
   ],
   "automated": [
+    {
+      "title": "The rappers Paul Simon said he felt were a kindred spirit: \"It’s hard to find\"",
+      "url": "https://faroutmagazine.co.uk/the-rappers-paul-simon-said-he-felt-were-a-kindred-spirit/",
+      "timestamp": "04:00",
+      "pubDate": "2026-01-18T04:00:00.000Z"
+    },
+    {
+      "title": "Daily Crypto Banking Is Coming: Old Glory Targets Full Integration Inside a Chartered US Bank",
+      "url": "https://news.bitcoin.com/daily-crypto-banking-is-coming-old-glory-targets-full-integration-inside-a-chartered-us-bank/",
+      "timestamp": "03:30",
+      "pubDate": "2026-01-18T03:30:40.000Z"
+    },
+    {
+      "title": "Melissa Leo Says Winning An Oscar \"Has Not Been Good For Me Or My Career\"",
+      "url": "https://deadline.com/2026/01/melissa-leo-oscar-win-career-the-fighter-david-o-russell-1236686158/",
+      "timestamp": "03:07",
+      "pubDate": "2026-01-18T03:07:21.000Z"
+    },
+    {
+      "title": "The filmmaker Angelina Jolie tried to overrule on set: \"Well, I am the director\"",
+      "url": "https://faroutmagazine.co.uk/filmmaker-angelina-jolie-tried-overrule/",
+      "timestamp": "03:00",
+      "pubDate": "2026-01-18T03:00:00.000Z"
+    },
+    {
+      "title": "The Shelly 2.5 Smart Relay Design Flaw Killing Capacitors",
+      "url": "https://hackaday.com/2026/01/17/the-shelly-2-5-smart-relay-design-flaw-killing-capacitors/",
+      "timestamp": "03:00",
+      "pubDate": "2026-01-18T03:00:00.000Z"
+    },
+    {
+      "title": "XRP Sets Stage for Demand Shock as Ripple and UC Berkeley Expand Real-World Use Cases",
+      "url": "https://news.bitcoin.com/xrp-sets-stage-for-demand-shock-as-ripple-and-uc-berkeley-expand-real-world-use-cases/",
+      "timestamp": "02:30",
+      "pubDate": "2026-01-18T02:30:37.000Z"
+    },
+    {
+      "title": "Why Iron Maiden Fans Need to Go See 'The Bone Temple' Right Now",
+      "url": "https://ultimateclassicrock.com/iron-maiden-28-years-later-bone-temple/",
+      "timestamp": "02:03",
+      "pubDate": "2026-01-18T02:03:03.000Z"
+    },
     {
       "title": "The album Bob Dylan wanted to carry on throughout the ages: \"It’s more of a calling\"",
       "url": "https://faroutmagazine.co.uk/album-bob-dylan-wanted-to-carry-on-throughout-the-ages/",
@@ -301,51 +343,19 @@
       "url": "https://faroutmagazine.co.uk/who-was-the-first-black-performer-at-the-grand-old-opry/",
       "timestamp": "21:04",
       "pubDate": "2026-01-17T21:04:51.000Z"
-    },
-    {
-      "title": "Aubrey Plaza reveals her ultimate career goal: \"I'm manifesting it, because I bleed for movies\"",
-      "url": "https://faroutmagazine.co.uk/aubrey-plaza-reveals-her-ultimate-career-goal/",
-      "timestamp": "21:04",
-      "pubDate": "2026-01-17T21:04:03.000Z"
-    },
-    {
-      "title": "The Journey of Finding the Right Press Brake",
-      "url": "https://hackaday.com/2026/01/17/the-journey-of-finding-the-right-press-brake/",
-      "timestamp": "21:00",
-      "pubDate": "2026-01-17T21:00:52.000Z"
-    },
-    {
-      "title": "What was the worst number one in 1969?",
-      "url": "https://faroutmagazine.co.uk/what-was-the-worst-number-one-in-1969/",
-      "timestamp": "21:00",
-      "pubDate": "2026-01-17T21:00:00.000Z"
-    },
-    {
-      "title": "Damon and Affleck say Netflix has writers constantly reiterate the plot",
-      "url": "https://www.joblo.com/matt-damon-ben-affleck-netflix-movies/",
-      "timestamp": "20:59",
-      "pubDate": "2026-01-17T20:59:12.000Z"
-    },
-    {
-      "title": "The one guitarist so good it made Keith Richards sick: \"The master of the Telecaster\"",
-      "url": "https://faroutmagazine.co.uk/the-one-guitarist-so-good-it-made-keith-richards-sick/",
-      "timestamp": "20:58",
-      "pubDate": "2026-01-17T20:58:19.000Z"
-    },
-    {
-      "title": "The single coolest singer that Axl Rose ever met: \"We’re in fucking deep trouble\"",
-      "url": "https://faroutmagazine.co.uk/the-single-coolest-singer-that-axl-rose-ever-met/",
-      "timestamp": "20:54",
-      "pubDate": "2026-01-17T20:54:12.000Z"
-    },
-    {
-      "title": "The one band Steven Tyler said ruined themselves: \"They just pissed it all away\"",
-      "url": "https://faroutmagazine.co.uk/the-one-band-steven-tyler-said-ruined-themselves/",
-      "timestamp": "20:53",
-      "pubDate": "2026-01-17T20:53:21.000Z"
     }
   ],
   "musicReleases": [
+    {
+      "title": "The rappers Paul Simon said he felt were a kindred spirit: \"It’s hard to find\"",
+      "url": "https://faroutmagazine.co.uk/the-rappers-paul-simon-said-he-felt-were-a-kindred-spirit/",
+      "timestamp": "04:00"
+    },
+    {
+      "title": "Why Iron Maiden Fans Need to Go See 'The Bone Temple' Right Now",
+      "url": "https://ultimateclassicrock.com/iron-maiden-28-years-later-bone-temple/",
+      "timestamp": "02:03"
+    },
     {
       "title": "The album Bob Dylan wanted to carry on throughout the ages: \"It’s more of a calling\"",
       "url": "https://faroutmagazine.co.uk/album-bob-dylan-wanted-to-carry-on-throughout-the-ages/",
@@ -369,11 +379,6 @@
     {
       "title": "Globle answer today – here’s the answer and hints for January 18",
       "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globle-hint-answer-today",
-      "timestamp": "00:00"
-    },
-    {
-      "title": "The CSN song Graham Nash said no one could ever dislike: \"We knew it\"",
-      "url": "https://faroutmagazine.co.uk/csn-song-graham-nash-said-no-one-could-dislike/",
       "timestamp": "00:00"
     },
     {
@@ -437,15 +442,10 @@
       "timestamp": "19:36"
     },
     {
-      "title": "16 Classic American Meals That Could Be Making a Comeback",
-      "url": "https://ultimateclassicrock.com/1970s-dinner-table-classics/",
-      "timestamp": "19:11"
-    },
-    {
       "title": "David Boring Return to a World of Horrors",
       "url": "https://daily.bandcamp.com/features/david-boring-liminal-beings-and-their-echoes-feature",
       "timestamp": "19:03"
     }
   ],
-  "lastUpdated": "2026-01-18T02:07:30.601Z"
+  "lastUpdated": "2026-01-18T04:08:03.093Z"
 }
