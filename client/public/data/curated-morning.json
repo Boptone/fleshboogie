@@ -1,19 +1,19 @@
 {
-  "curatedAt": "2026-01-17T23:22:40.713Z",
+  "curatedAt": "2026-01-18T02:07:33.613Z",
   "totalAnalyzed": 66,
-  "totalSelected": 4,
+  "totalSelected": 5,
   "newsletter": {
     "leadStory": {
-      "title": "JAMIE-LYNN SIGLER KEPT HER MS DIAGNOSIS A SECRET FOR 25 YEARS FEARING SHE'D 'NEVER WORK AGAIN'",
-      "url": "https://variety.com/2026/tv/news/jamie-lynn-sigler-ms-secret-25-years-greys-anatomy-1236634077/",
-      "timestamp": "2026-01-17T23:22:37.726Z",
+      "title": "THE ALBUM BOB DYLAN WANTED TO CARRY ON THROUGHOUT THE AGES: \"IT’S MORE OF A CALLING\"",
+      "url": "https://faroutmagazine.co.uk/album-bob-dylan-wanted-to-carry-on-throughout-the-ages/",
+      "timestamp": "2026-01-18T02:07:30.601Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.7999999999999999,
+        "impact": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6699999999999999
+        "composite": 0.6200000000000001
       }
     },
     "deepDive": [
@@ -31,19 +31,6 @@
         }
       },
       {
-        "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
-        "url": "https://www.nme.com/news/music/sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist-3923779?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist",
-        "timestamp": "11:58",
-        "source": "musicReleases",
-        "scores": {
-          "impact": 0.6,
-          "engagement": 0.7,
-          "timeliness": 0.2,
-          "discovery": 0.3,
-          "composite": 0.52
-        }
-      },
-      {
         "title": "Morrissey Cancels Tomorrow's Atlanta Show, Gets Cut From New A$AP Rocky Album And Mocked On New Robbie Williams Album",
         "url": "https://stereogum.com/2485770/morrissey-cancels-tomorrows-atlanta-show-gets-cut-from-new-aap-rocky-album-and-mocked-on-new-robbie-williams-album/news/",
         "timestamp": "22:44",
@@ -54,6 +41,19 @@
           "timeliness": 0.2,
           "discovery": 0.3,
           "composite": 0.505
+        }
+      },
+      {
+        "title": "Roger Waters Stands by Insensitive Ozzy Osbourne Comments in New Interview",
+        "url": "https://www.rollingstone.com/music/music-news/roger-waters-insensitive-ozzy-osbourne-comments-interview-1235501141/",
+        "timestamp": "19:16",
+        "source": "musicReleases",
+        "scores": {
+          "impact": 0.55,
+          "engagement": 0.55,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.45500000000000007
         }
       }
     ],
@@ -74,19 +74,6 @@
     ],
     "conversation": [
       {
-        "title": "JAMIE-LYNN SIGLER KEPT HER MS DIAGNOSIS A SECRET FOR 25 YEARS FEARING SHE'D 'NEVER WORK AGAIN'",
-        "url": "https://variety.com/2026/tv/news/jamie-lynn-sigler-ms-secret-25-years-greys-anatomy-1236634077/",
-        "timestamp": "2026-01-17T23:22:37.726Z",
-        "source": "splash",
-        "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
-          "timeliness": 1,
-          "discovery": 0.3,
-          "composite": 0.6699999999999999
-        }
-      },
-      {
         "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
         "url": "https://www.billboard.com/culture/product-recommendations/how-to-share-music-online-streaming-services-distrokid-1236157163/",
         "timestamp": "02:24",
@@ -98,36 +85,49 @@
           "discovery": 0.5,
           "composite": 0.5800000000000001
         }
+      },
+      {
+        "title": "What was the worst number one in 1969?",
+        "url": "https://faroutmagazine.co.uk/what-was-the-worst-number-one-in-1969/",
+        "timestamp": "21:00",
+        "source": "automated",
+        "scores": {
+          "impact": 0.5,
+          "engagement": 0.8999999999999999,
+          "timeliness": 0.2,
+          "discovery": 0.3,
+          "composite": 0.54
+        }
       }
     ],
     "wildcard": [
       {
-        "title": "JAMIE-LYNN SIGLER KEPT HER MS DIAGNOSIS A SECRET FOR 25 YEARS FEARING SHE'D 'NEVER WORK AGAIN'",
-        "url": "https://variety.com/2026/tv/news/jamie-lynn-sigler-ms-secret-25-years-greys-anatomy-1236634077/",
-        "timestamp": "2026-01-17T23:22:37.726Z",
+        "title": "THE ALBUM BOB DYLAN WANTED TO CARRY ON THROUGHOUT THE AGES: \"IT’S MORE OF A CALLING\"",
+        "url": "https://faroutmagazine.co.uk/album-bob-dylan-wanted-to-carry-on-throughout-the-ages/",
+        "timestamp": "2026-01-18T02:07:30.601Z",
         "source": "splash",
         "scores": {
-          "impact": 0.5,
-          "engagement": 0.7999999999999999,
+          "impact": 0.6,
+          "engagement": 0.5,
           "timeliness": 1,
           "discovery": 0.3,
-          "composite": 0.6699999999999999
+          "composite": 0.6200000000000001
         }
       }
     ]
   },
   "stories": [
     {
-      "title": "JAMIE-LYNN SIGLER KEPT HER MS DIAGNOSIS A SECRET FOR 25 YEARS FEARING SHE'D 'NEVER WORK AGAIN'",
-      "url": "https://variety.com/2026/tv/news/jamie-lynn-sigler-ms-secret-25-years-greys-anatomy-1236634077/",
-      "timestamp": "2026-01-17T23:22:37.726Z",
+      "title": "THE ALBUM BOB DYLAN WANTED TO CARRY ON THROUGHOUT THE AGES: \"IT’S MORE OF A CALLING\"",
+      "url": "https://faroutmagazine.co.uk/album-bob-dylan-wanted-to-carry-on-throughout-the-ages/",
+      "timestamp": "2026-01-18T02:07:30.601Z",
       "source": "splash",
       "scores": {
-        "impact": 0.5,
-        "engagement": 0.7999999999999999,
+        "impact": 0.6,
+        "engagement": 0.5,
         "timeliness": 1,
         "discovery": 0.3,
-        "composite": 0.6699999999999999
+        "composite": 0.6200000000000001
       }
     },
     {
@@ -144,19 +144,6 @@
       }
     },
     {
-      "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
-      "url": "https://www.nme.com/news/music/sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist-3923779?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist",
-      "timestamp": "11:58",
-      "source": "musicReleases",
-      "scores": {
-        "impact": 0.6,
-        "engagement": 0.7,
-        "timeliness": 0.2,
-        "discovery": 0.3,
-        "composite": 0.52
-      }
-    },
-    {
       "title": "Morrissey Cancels Tomorrow's Atlanta Show, Gets Cut From New A$AP Rocky Album And Mocked On New Robbie Williams Album",
       "url": "https://stereogum.com/2485770/morrissey-cancels-tomorrows-atlanta-show-gets-cut-from-new-aap-rocky-album-and-mocked-on-new-robbie-williams-album/news/",
       "timestamp": "22:44",
@@ -167,6 +154,32 @@
         "timeliness": 0.2,
         "discovery": 0.3,
         "composite": 0.505
+      }
+    },
+    {
+      "title": "Roger Waters Stands by Insensitive Ozzy Osbourne Comments in New Interview",
+      "url": "https://www.rollingstone.com/music/music-news/roger-waters-insensitive-ozzy-osbourne-comments-interview-1235501141/",
+      "timestamp": "19:16",
+      "source": "musicReleases",
+      "scores": {
+        "impact": 0.55,
+        "engagement": 0.55,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.45500000000000007
+      }
+    },
+    {
+      "title": "What was the worst number one in 1969?",
+      "url": "https://faroutmagazine.co.uk/what-was-the-worst-number-one-in-1969/",
+      "timestamp": "21:00",
+      "source": "automated",
+      "scores": {
+        "impact": 0.5,
+        "engagement": 0.8999999999999999,
+        "timeliness": 0.2,
+        "discovery": 0.3,
+        "composite": 0.54
       }
     }
   ],

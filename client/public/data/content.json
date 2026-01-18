@@ -1,39 +1,39 @@
 {
   "splash": {
-    "headline": "JAMIE-LYNN SIGLER KEPT HER MS DIAGNOSIS A SECRET FOR 25 YEARS FEARING SHE'D 'NEVER WORK AGAIN'",
-    "url": "https://variety.com/2026/tv/news/jamie-lynn-sigler-ms-secret-25-years-greys-anatomy-1236634077/",
+    "headline": "THE ALBUM BOB DYLAN WANTED TO CARRY ON THROUGHOUT THE AGES: \"IT’S MORE OF A CALLING\"",
+    "url": "https://faroutmagazine.co.uk/album-bob-dylan-wanted-to-carry-on-throughout-the-ages/",
     "image": "",
     "pinned": false
   },
   "mainColumn": [
     {
-      "title": "Who gets to inherit the stars? A space ethicist on what we're not talking about",
-      "url": "https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/",
-      "timestamp": "22:45",
+      "title": "Robert Kiyosaki Predicts $107 Silver on Monday as Market Faces Sudden Supply Shock",
+      "url": "https://news.bitcoin.com/robert-kiyosaki-predicts-107-silver-on-monday-as-market-faces-sudden-supply-shock/",
+      "timestamp": "01:30",
       "pinned": false
     },
     {
-      "title": "The Cribs share 'Gordon Raphael Sessions' EP of 'Selling A Vibe' recordings: \"It captures these songs in early and pure form\"",
-      "url": "https://www.nme.com/news/music/the-cribs-share-gordon-raphael-sessions-ep-of-selling-a-vibe-recordings-it-captures-these-songs-in-early-and-pure-form-3923827?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-cribs-share-gordon-raphael-sessions-ep-of-selling-a-vibe-recordings-it-captures-these-songs-in-early-and-pure-form",
-      "timestamp": "22:35",
+      "title": "Why Silicon Valley is really talking about fleeing California (it's not the 5%)",
+      "url": "https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/",
+      "timestamp": "01:17",
       "pinned": false
     },
     {
-      "title": "Cryptoquant: Bitcoin Demand Conditions Improve Slightly, Bear Market Still Intact",
-      "url": "https://news.bitcoin.com/cryptoquant-bitcoin-demand-conditions-improve-slightly-bear-market-still-intact/",
-      "timestamp": "22:30",
+      "title": "Adapt or die: Solana Labs CEO opposes Buterin’s approach to blockchain longevity",
+      "url": "https://cointelegraph.com/news/solana-ceo-says-solana-must-adapt-or-die?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "01:15",
       "pinned": false
     },
     {
-      "title": "The director Nicolas Cage would work with again in a heartbeat: \"One of our great geniuses\"",
-      "url": "https://faroutmagazine.co.uk/director-nicolas-cage-would-work-with-again-in-a-heartbeat/",
-      "timestamp": "22:30",
+      "title": "The \"perfect\" role Scarlett Johansson banned from playing: \"I really, really wanted that\"",
+      "url": "https://faroutmagazine.co.uk/perfect-role-scarlett-johansson-banned-playing/",
+      "timestamp": "01:00",
       "pinned": false
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "timestamp": "22:23",
+      "title": "Ben Affleck Recalls \"Vomiting Between Takes\" During 'Armageddon' Farewell Scene With Bruce Willis: \"Probably Made The Scene Better\"",
+      "url": "https://deadline.com/2026/01/ben-affleck-armageddon-farewell-scene-vomiting-bruce-willis-1236686141/",
+      "timestamp": "00:56",
       "pinned": false
     }
   ],
@@ -104,6 +104,102 @@
     }
   ],
   "automated": [
+    {
+      "title": "The album Bob Dylan wanted to carry on throughout the ages: \"It’s more of a calling\"",
+      "url": "https://faroutmagazine.co.uk/album-bob-dylan-wanted-to-carry-on-throughout-the-ages/",
+      "timestamp": "02:00",
+      "pubDate": "2026-01-18T02:00:00.000Z"
+    },
+    {
+      "title": "Robert Kiyosaki Predicts $107 Silver on Monday as Market Faces Sudden Supply Shock",
+      "url": "https://news.bitcoin.com/robert-kiyosaki-predicts-107-silver-on-monday-as-market-faces-sudden-supply-shock/",
+      "timestamp": "01:30",
+      "pubDate": "2026-01-18T01:30:26.000Z"
+    },
+    {
+      "title": "Why Silicon Valley is really talking about fleeing California (it's not the 5%)",
+      "url": "https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/",
+      "timestamp": "01:17",
+      "pubDate": "2026-01-18T01:17:11.000Z"
+    },
+    {
+      "title": "Adapt or die: Solana Labs CEO opposes Buterin’s approach to blockchain longevity",
+      "url": "https://cointelegraph.com/news/solana-ceo-says-solana-must-adapt-or-die?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "timestamp": "01:15",
+      "pubDate": "2026-01-18T01:15:48.000Z"
+    },
+    {
+      "title": "The \"perfect\" role Scarlett Johansson banned from playing: \"I really, really wanted that\"",
+      "url": "https://faroutmagazine.co.uk/perfect-role-scarlett-johansson-banned-playing/",
+      "timestamp": "01:00",
+      "pubDate": "2026-01-18T01:00:00.000Z"
+    },
+    {
+      "title": "Ben Affleck Recalls \"Vomiting Between Takes\" During 'Armageddon' Farewell Scene With Bruce Willis: \"Probably Made The Scene Better\"",
+      "url": "https://deadline.com/2026/01/ben-affleck-armageddon-farewell-scene-vomiting-bruce-willis-1236686141/",
+      "timestamp": "00:56",
+      "pubDate": "2026-01-18T00:56:27.000Z"
+    },
+    {
+      "title": "Tony Dokoupil Teased for Asking Steelworkers to Trade Jobs: 'Not as Easy as It Looks' &#124; Video",
+      "url": "https://www.thewrap.com/media-platforms/tv/tony-dokoupil-cbs-anchor-ask-steelworkers-trade-jobs-video/",
+      "timestamp": "00:43",
+      "pubDate": "2026-01-18T00:43:28.000Z"
+    },
+    {
+      "title": "Is Bitcoin About to Go Parabolic? Bitwise Sees ETF Demand Draining Supply",
+      "url": "https://news.bitcoin.com/is-bitcoin-about-to-go-parabolic-bitwise-sees-etf-demand-draining-supply/",
+      "timestamp": "00:30",
+      "pubDate": "2026-01-18T00:30:27.000Z"
+    },
+    {
+      "title": "13 Ways I Use AI to Build AI Every Day",
+      "url": "https://pub.towardsai.net/13-ways-i-use-ai-to-build-ai-every-day-76d08c9abe6b?source=rss----98111c9905da---4",
+      "timestamp": "00:03",
+      "pubDate": "2026-01-18T00:03:04.000Z"
+    },
+    {
+      "title": "Today's Wordle answer and hints for #1674 on January 18",
+      "url": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=heres-the-wordle-answer-for-today",
+      "timestamp": "00:01",
+      "pubDate": "2026-01-18T00:01:34.000Z"
+    },
+    {
+      "title": "The Cutest Weather Forecast on E-Ink and ESP32",
+      "url": "https://hackaday.com/2026/01/17/the-cutest-weather-forecast-on-e-ink-and-esp32/",
+      "timestamp": "00:00",
+      "pubDate": "2026-01-18T00:00:59.000Z"
+    },
+    {
+      "title": "'Connections' answers and hints for today, January 18",
+      "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=connections-answers-hints-groups-today",
+      "timestamp": "00:00",
+      "pubDate": "2026-01-18T00:00:27.000Z"
+    },
+    {
+      "title": "Globle answer today – here’s the answer and hints for January 18",
+      "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globle-hint-answer-today",
+      "timestamp": "00:00",
+      "pubDate": "2026-01-18T00:00:17.000Z"
+    },
+    {
+      "title": "Framed answer today – here’s the solution for January 18",
+      "url": "https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=framed-answer-today",
+      "timestamp": "00:00",
+      "pubDate": "2026-01-18T00:00:09.000Z"
+    },
+    {
+      "title": "The CSN song Graham Nash said no one could ever dislike: \"We knew it\"",
+      "url": "https://faroutmagazine.co.uk/csn-song-graham-nash-said-no-one-could-dislike/",
+      "timestamp": "00:00",
+      "pubDate": "2026-01-18T00:00:00.000Z"
+    },
+    {
+      "title": "Platinum’s Supply Squeeze Deepens as Structural Deficits Persist",
+      "url": "https://news.bitcoin.com/platinums-supply-squeeze-deepens-as-structural-deficits-persist/",
+      "timestamp": "23:30",
+      "pubDate": "2026-01-17T23:30:04.000Z"
+    },
     {
       "title": "Jamie-Lynn Sigler Kept Her MS Diagnosis a Secret for 25 Years Fearing She'd 'Never Work Again'",
       "url": "https://variety.com/2026/tv/news/jamie-lynn-sigler-ms-secret-25-years-greys-anatomy-1236634077/",
@@ -225,7 +321,7 @@
       "pubDate": "2026-01-17T21:00:00.000Z"
     },
     {
-      "title": "Damon and Affleck say streaming has changed how people watch movies",
+      "title": "Damon and Affleck say Netflix has writers constantly reiterate the plot",
       "url": "https://www.joblo.com/matt-damon-ben-affleck-netflix-movies/",
       "timestamp": "20:59",
       "pubDate": "2026-01-17T20:59:12.000Z"
@@ -247,124 +343,38 @@
       "url": "https://faroutmagazine.co.uk/the-one-band-steven-tyler-said-ruined-themselves/",
       "timestamp": "20:53",
       "pubDate": "2026-01-17T20:53:21.000Z"
-    },
-    {
-      "title": "The guitar solo David Gilmour said made no sense: \"It’s mind-boggling\"",
-      "url": "https://faroutmagazine.co.uk/the-one-guitar-solo-david-gilmour-said-made-no-sense/",
-      "timestamp": "20:52",
-      "pubDate": "2026-01-17T20:52:08.000Z"
-    },
-    {
-      "title": "Kenny Morris, Drummer for Siouxsie and the Banshees, Dies at&#160;68",
-      "url": "https://www.billboard.com/music/music-news/kenny-morris-death-siouxsie-and-the-banshees-drummer-dies-1236157293/",
-      "timestamp": "20:51",
-      "pubDate": "2026-01-17T20:51:29.000Z"
-    },
-    {
-      "title": "The song Stevie Nicks said only one person could play right",
-      "url": "https://faroutmagazine.co.uk/the-song-stevie-nicks-said-only-one-person-could-play-right/",
-      "timestamp": "20:50",
-      "pubDate": "2026-01-17T20:50:15.000Z"
-    },
-    {
-      "title": "The one director Roger Ebert hated the most: \"Professional suicide\"",
-      "url": "https://faroutmagazine.co.uk/one-director-roger-ebert-hated-most/",
-      "timestamp": "20:45",
-      "pubDate": "2026-01-17T20:45:00.000Z"
-    },
-    {
-      "title": "The one song Keith Richards never got tired of hearing: \"There was a wisdom in it\"",
-      "url": "https://faroutmagazine.co.uk/the-one-song-keith-richards-never-got-tired-of-hearing/",
-      "timestamp": "20:30",
-      "pubDate": "2026-01-17T20:30:00.000Z"
-    },
-    {
-      "title": "Bitcoin’s next major move hinges on a $63 billion “fallen angel” signal that most investors are completely ignoring",
-      "url": "https://cryptoslate.com/bitcoins-next-major-move-hinges-on-a-63-billion-fallen-angel-signal-that-most-investors-are-completely-ignoring/",
-      "timestamp": "20:15",
-      "pubDate": "2026-01-17T20:15:58.000Z"
-    },
-    {
-      "title": "The two classic movies Bill Hader hates with a passion: \"People want to fully destroy me\"",
-      "url": "https://faroutmagazine.co.uk/two-classic-movies-bill-hader-hates-passion/",
-      "timestamp": "20:15",
-      "pubDate": "2026-01-17T20:15:00.000Z"
-    },
-    {
-      "title": "The world's best road trip song, according to AC/DC's Brian Johnson",
-      "url": "https://faroutmagazine.co.uk/the-worlds-best-road-trip-song-according-to-ac-dcs-brian-johnson/",
-      "timestamp": "20:14",
-      "pubDate": "2026-01-17T20:14:14.000Z"
-    },
-    {
-      "title": "Matt Damon Says Netflix Wants Plots Reiterated “Three or Four Times in the Dialogue” for Phone-Distracted Viewers",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/matt-damon-netflix-plots-reiterated-distracted-viewers-1236477116/",
-      "timestamp": "20:09",
-      "pubDate": "2026-01-17T20:09:20.000Z"
-    },
-    {
-      "title": "Subscribe to Our Craft Newsletter, Top of the Line: This Week, Giddyup 'Ponies'",
-      "url": "https://www.indiewire.com/features/craft/top-of-the-line-newsletter-week-7-ponies-1235173609/",
-      "timestamp": "20:08",
-      "pubDate": "2026-01-17T20:08:20.000Z"
-    },
-    {
-      "title": "How Claude Code Just Changed Developer Work in 2026",
-      "url": "https://pub.towardsai.net/how-claude-code-just-changed-developer-work-in-2026-7ddafe6690f2?source=rss----98111c9905da---4",
-      "timestamp": "20:01",
-      "pubDate": "2026-01-17T20:01:59.000Z"
-    },
-    {
-      "title": "The one Rush album Geddy Lee couldn't stand singing: \"The worst two weeks of my life\"",
-      "url": "https://faroutmagazine.co.uk/the-one-rush-album-geddy-lee-couldnt-stand-singing/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-17T20:00:00.000Z"
-    },
-    {
-      "title": "'Ponies' Ending Explained: Will There Be a Season 2?",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/ponies-ending-explained-will-there-be-season-2/",
-      "timestamp": "20:00",
-      "pubDate": "2026-01-17T20:00:00.000Z"
-    },
-    {
-      "title": "Steve Coogan joins cast of fourth season of 'The White Lotus'",
-      "url": "https://www.nme.com/news/tv/steve-coogan-joins-cast-of-fourth-season-of-the-white-lotus-3923819?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=steve-coogan-joins-cast-of-fourth-season-of-the-white-lotus",
-      "timestamp": "19:58",
-      "pubDate": "2026-01-17T19:58:13.000Z"
-    },
-    {
-      "title": "Morrissey cancels another show due to \"artist illness\"",
-      "url": "https://faroutmagazine.co.uk/morrissey-cancels-another-show-due-to-artist-illness/",
-      "timestamp": "19:51",
-      "pubDate": "2026-01-17T19:51:43.000Z"
-    },
-    {
-      "title": "The \"degrading\" movies Margot Robbie can't stop watching: \"Parts of it make my blood boil\"",
-      "url": "https://faroutmagazine.co.uk/degrading-movies-margot-robbie-cant-stop-watching/",
-      "timestamp": "19:45",
-      "pubDate": "2026-01-17T19:45:00.000Z"
     }
   ],
   "musicReleases": [
     {
-      "title": "The Cribs share 'Gordon Raphael Sessions' EP of 'Selling A Vibe' recordings: \"It captures these songs in early and pure form\"",
-      "url": "https://www.nme.com/news/music/the-cribs-share-gordon-raphael-sessions-ep-of-selling-a-vibe-recordings-it-captures-these-songs-in-early-and-pure-form-3923827?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-cribs-share-gordon-raphael-sessions-ep-of-selling-a-vibe-recordings-it-captures-these-songs-in-early-and-pure-form",
-      "timestamp": "22:35"
+      "title": "The album Bob Dylan wanted to carry on throughout the ages: \"It’s more of a calling\"",
+      "url": "https://faroutmagazine.co.uk/album-bob-dylan-wanted-to-carry-on-throughout-the-ages/",
+      "timestamp": "02:00"
     },
     {
-      "title": "The director Nicolas Cage would work with again in a heartbeat: \"One of our great geniuses\"",
-      "url": "https://faroutmagazine.co.uk/director-nicolas-cage-would-work-with-again-in-a-heartbeat/",
-      "timestamp": "22:30"
+      "title": "The \"perfect\" role Scarlett Johansson banned from playing: \"I really, really wanted that\"",
+      "url": "https://faroutmagazine.co.uk/perfect-role-scarlett-johansson-banned-playing/",
+      "timestamp": "01:00"
     },
     {
-      "title": "The Motown songs Phil Collins said The Rolling Stones butchered: \"Pretty awful\"",
-      "url": "https://faroutmagazine.co.uk/motown-songs-phil-collins-said-the-rolling-stones-butchered/",
-      "timestamp": "22:00"
+      "title": "Today's Wordle answer and hints for #1674 on January 18",
+      "url": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=heres-the-wordle-answer-for-today",
+      "timestamp": "00:01"
     },
     {
-      "title": "When did rock and roll become classic rock?",
-      "url": "https://faroutmagazine.co.uk/what-marked-the-moment-rock-n-roll-became-classic-rock/",
-      "timestamp": "21:30"
+      "title": "'Connections' answers and hints for today, January 18",
+      "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=connections-answers-hints-groups-today",
+      "timestamp": "00:00"
+    },
+    {
+      "title": "Globle answer today – here’s the answer and hints for January 18",
+      "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globle-hint-answer-today",
+      "timestamp": "00:00"
+    },
+    {
+      "title": "The CSN song Graham Nash said no one could ever dislike: \"We knew it\"",
+      "url": "https://faroutmagazine.co.uk/csn-song-graham-nash-said-no-one-could-dislike/",
+      "timestamp": "00:00"
     },
     {
       "title": "Kenny Morris, Drummer for Siouxsie and the Banshees, Dies at&#160;68",
@@ -387,11 +397,6 @@
       "timestamp": "17:03"
     },
     {
-      "title": "Morrissey cancels another show – this time in Atlanta due to “artist illness”",
-      "url": "https://www.nme.com/news/music/morrissey-cancels-another-show-this-time-in-atlanta-due-to-artist-illness-3923803?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morrissey-cancels-another-show-this-time-in-atlanta-due-to-artist-illness",
-      "timestamp": "16:39"
-    },
-    {
       "title": "Roger Waters Has No Regrets About Ozzy Osbourne Comments",
       "url": "https://ultimateclassicrock.com/roger-waters-ozzy-osbourne-no-regrets/",
       "timestamp": "16:38"
@@ -405,11 +410,6 @@
       "title": "The Waterboys Will Not Be Deterred From Posting AI Slop",
       "url": "https://stereogum.com/2485781/the-waterboys-will-not-be-deterred-from-posting-ai-slop/news/",
       "timestamp": "14:03"
-    },
-    {
-      "title": "Sienna Rose – new singer with nearly 3million Spotify listeners – believed to be fake AI artist",
-      "url": "https://www.nme.com/news/music/sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist-3923779?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sienna-rose-new-singer-with-nearly-3million-spotify-listeners-believed-to-be-fake-ai-artist",
-      "timestamp": "11:58"
     },
     {
       "title": "How to Share Your Music on Apple Music and Spotify as an Independent&#160;Artist",
@@ -447,5 +447,5 @@
       "timestamp": "19:03"
     }
   ],
-  "lastUpdated": "2026-01-17T23:22:37.726Z"
+  "lastUpdated": "2026-01-18T02:07:30.601Z"
 }
